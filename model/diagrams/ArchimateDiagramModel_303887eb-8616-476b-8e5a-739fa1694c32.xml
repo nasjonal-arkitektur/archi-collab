@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regelverk"
+    id="303887eb-8616-476b-8e5a-739fa1694c32">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="8087c908-63a1-440c-bf64-e06d844ffa66"
+      textAlignment="1"
+      content="GDPR&#xD;&#xA;Personopplysningsloven&#xD;&#xA;eIDAS&#xD;&#xA;Forvaltningloven&#xD;&#xA;Arkivloven&#xD;&#xA;&#xD;&#xA;Primærbruk/sekundærbruk&#xD;&#xA;&#xD;&#xA;">
+    <bounds
+        x="300"
+        y="108"
+        width="185"
+        height="283"/>
+  </children>
+</archimate:ArchimateDiagramModel>
