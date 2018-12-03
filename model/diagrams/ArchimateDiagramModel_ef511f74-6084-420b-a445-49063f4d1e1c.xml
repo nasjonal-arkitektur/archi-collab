@@ -7,8 +7,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="9709e93f-4a18-4b9a-82b3-706b82d52dad">
     <bounds
-        x="538"
-        y="528"
+        x="406"
+        y="276"
         width="364"
         height="101"/>
     <archimateElement
@@ -19,8 +19,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="891abb1f-0c62-4ce5-8981-ccbbb5c430ad">
     <bounds
-        x="384"
-        y="384"
+        x="252"
+        y="132"
         width="515"
         height="109"/>
     <children
@@ -87,8 +87,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="f5960959-8388-4872-bd45-38ab35d8ef9e">
     <bounds
-        x="972"
-        y="732"
+        x="876"
+        y="468"
         width="517"
         height="142"/>
     <children
@@ -156,8 +156,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="dd98a73b-71ab-421c-a9ad-a308c3909656">
     <bounds
-        x="84"
-        y="732"
+        x="-6"
+        y="470"
         width="828"
         height="142"/>
     <archimateElement
@@ -178,8 +178,8 @@
           href="TriggeringRelationship_00e135c2-891f-4522-a235-aedabc401d99.xml#00e135c2-891f-4522-a235-aedabc401d99"/>
     </sourceConnections>
     <bounds
-        x="738"
-        y="563"
+        x="606"
+        y="311"
         width="120"
         height="55"/>
     <archimateElement
@@ -200,8 +200,8 @@
           href="TriggeringRelationship_211cafda-0146-4b55-8b92-ce19c9d3b120.xml#211cafda-0146-4b55-8b92-ce19c9d3b120"/>
     </sourceConnections>
     <bounds
-        x="582"
-        y="563"
+        x="450"
+        y="311"
         width="120"
         height="55"/>
     <archimateElement
@@ -222,8 +222,8 @@
           href="FlowRelationship_ec60f847-0ba2-4b8f-809e-e24db760bb12.xml#ec60f847-0ba2-4b8f-809e-e24db760bb12"/>
     </sourceConnections>
     <bounds
-        x="444"
-        y="777"
+        x="348"
+        y="513"
         width="120"
         height="55"/>
     <archimateElement
@@ -243,8 +243,8 @@
           href="TriggeringRelationship_0e872542-bed7-4589-80ae-c805a5cce20e.xml#0e872542-bed7-4589-80ae-c805a5cce20e"/>
     </sourceConnections>
     <bounds
-        x="108"
-        y="777"
+        x="12"
+        y="513"
         width="120"
         height="55"/>
     <archimateElement
@@ -265,8 +265,8 @@
           href="FlowRelationship_2eefcaea-d1df-4fa0-a260-a5d8262f53b2.xml#2eefcaea-d1df-4fa0-a260-a5d8262f53b2"/>
     </sourceConnections>
     <bounds
-        x="276"
-        y="777"
+        x="180"
+        y="513"
         width="120"
         height="55"/>
     <archimateElement
@@ -287,8 +287,8 @@
           href="FlowRelationship_0832b494-8840-468d-9067-bc9f92e4bb47.xml#0832b494-8840-468d-9067-bc9f92e4bb47"/>
     </sourceConnections>
     <bounds
-        x="612"
-        y="777"
+        x="516"
+        y="513"
         width="120"
         height="55"/>
     <archimateElement
@@ -309,8 +309,8 @@
           href="FlowRelationship_fb37902b-d413-40cd-b8e5-d278018cc10f.xml#fb37902b-d413-40cd-b8e5-d278018cc10f"/>
     </sourceConnections>
     <bounds
-        x="779"
-        y="777"
+        x="683"
+        y="513"
         width="120"
         height="55"/>
     <archimateElement
