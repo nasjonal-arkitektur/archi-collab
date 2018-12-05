@@ -14,4 +14,15 @@
         width="185"
         height="283"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="fcbca7a6-009d-434a-81eb-d4b0368a610d"
+      textAlignment="1"
+      content="Rammeverk for autentisering og uavviselighet --> Identifikasjon og sporbarhet (fysiske personer)&#xD;&#xA;&#xD;&#xA;">
+    <bounds
+        x="696"
+        y="128"
+        width="278"
+        height="161"/>
+  </children>
 </archimate:ArchimateDiagramModel>
