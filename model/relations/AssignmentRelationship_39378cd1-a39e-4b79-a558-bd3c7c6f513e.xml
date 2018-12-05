@@ -1,0 +1,12 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="styrer"
+    id="39378cd1-a39e-4b79-a558-bd3c7c6f513e">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_f305802c-e7dc-4423-bf86-2e0e9b9f3aa9.xml#f305802c-e7dc-4423-bf86-2e0e9b9f3aa9"/>
+  <target
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_e5090dd2-9518-4cec-bca8-12ab1bfda276.xml#e5090dd2-9518-4cec-bca8-12ab1bfda276"/>
+</archimate:AssignmentRelationship>

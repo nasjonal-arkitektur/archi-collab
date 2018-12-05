@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="brukes av"
+    id="0100dcc1-9eb8-49c5-85d6-e4b8c5044f04">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_e46c2ddc-d833-43bc-aa7c-684c24b7afff.xml#e46c2ddc-d833-43bc-aa7c-684c24b7afff"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_9a50a7f9-369e-41bf-8cec-bd102c2f8b46.xml#9a50a7f9-369e-41bf-8cec-bd102c2f8b46"/>
+</archimate:ServingRelationship>

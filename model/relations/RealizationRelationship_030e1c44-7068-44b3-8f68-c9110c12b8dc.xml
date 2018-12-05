@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="følger opp"
+    id="030e1c44-7068-44b3-8f68-c9110c12b8dc">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_f10644cb-29da-490b-9b9a-8a8a80920f65.xml#f10644cb-29da-490b-9b9a-8a8a80920f65"/>
+  <target
+      xsi:type="archimate:Constraint"
+      href="Constraint_ff3fec3c-8f26-4c36-9d83-9b9dbc059e1c.xml#ff3fec3c-8f26-4c36-9d83-9b9dbc059e1c"/>
+</archimate:RealizationRelationship>

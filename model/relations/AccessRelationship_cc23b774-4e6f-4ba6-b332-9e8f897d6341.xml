@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="lagrer"
+    id="cc23b774-4e6f-4ba6-b332-9e8f897d6341"
+    accessType="3">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_10d5db15-e161-4ce6-8079-24b3f7356c9d.xml#10d5db15-e161-4ce6-8079-24b3f7356c9d"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_15997d07-6bda-40c8-aeac-62c57bb3f6d7.xml#15997d07-6bda-40c8-aeac-62c57bb3f6d7"/>
+</archimate:AccessRelationship>

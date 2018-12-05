@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="instruksjon"
+    id="1de54cac-a25d-4297-a517-4744d37c578f">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_f10644cb-29da-490b-9b9a-8a8a80920f65.xml#f10644cb-29da-490b-9b9a-8a8a80920f65"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_c68a3cfd-5e47-4e0e-8b40-66979b459cf0.xml#c68a3cfd-5e47-4e0e-8b40-66979b459cf0"/>
+</archimate:FlowRelationship>

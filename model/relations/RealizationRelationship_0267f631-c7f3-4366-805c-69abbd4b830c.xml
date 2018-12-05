@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="utledes av"
+    id="0267f631-c7f3-4366-805c-69abbd4b830c">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_5f0337c3-455c-4ceb-96bd-0c19f9f09c74.xml#5f0337c3-455c-4ceb-96bd-0c19f9f09c74"/>
+  <target
+      xsi:type="archimate:Outcome"
+      href="Outcome_eaa2ad47-d471-4dd5-afbc-098ec24136fa.xml#eaa2ad47-d471-4dd5-afbc-098ec24136fa"/>
+</archimate:RealizationRelationship>

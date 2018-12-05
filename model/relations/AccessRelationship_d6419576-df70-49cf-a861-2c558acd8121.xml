@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="prosesserer"
+    id="d6419576-df70-49cf-a861-2c558acd8121"
+    accessType="3">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_e46c2ddc-d833-43bc-aa7c-684c24b7afff.xml#e46c2ddc-d833-43bc-aa7c-684c24b7afff"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_c5eac89f-ceec-4fdb-a509-8e0deee48044.xml#c5eac89f-ceec-4fdb-a509-8e0deee48044"/>
+</archimate:AccessRelationship>
