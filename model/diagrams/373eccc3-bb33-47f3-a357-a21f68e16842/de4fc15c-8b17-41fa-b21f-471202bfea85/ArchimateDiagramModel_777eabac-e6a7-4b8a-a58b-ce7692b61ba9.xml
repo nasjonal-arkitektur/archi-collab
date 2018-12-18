@@ -6,7 +6,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="c132decb-7e5e-4693-a00d-2426f036bbfd"
-      name="Gi tilbakemelding på data">
+      name="Gi tilbakemelding på data"
+      documentation="Deling av data med formål om å gi tilbakemelding på f.eks. kvalitet. Tilbakemeldinger vil være metadata relatert til bruk og ikke endringer i selve datasettet.">
     <bounds
         x="409"
         y="900"
@@ -97,7 +98,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="87fd2ead-c2c3-4cc6-a7b3-a5ee0590de6c"
-      name="Oppdatere data">
+      name="Oppdatere data"
+      documentation="Deling av data med formål om å oppdatere autoritativ datakilde fra en aktør som ikke er eier eller forvalter av dataene. Oppdatere data kan være å opprette (legge til nye data), endre eksisterende data, eller å slette data.">
     <bounds
         x="408"
         y="612"
@@ -187,7 +189,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="e6863627-1df1-4464-8e67-aa4a4e0d904e"
       name="Deling av data med melding"
-      targetConnections="73abb723-4487-4c98-968a-6cf62da1f7b7">
+      targetConnections="73abb723-4487-4c98-968a-6cf62da1f7b7"
+      documentation="Deling av data initiert av avsender. Det vil normalt være behov og/eller forventning om oppfølging fra avsender. Avsender må ha visshet om at mottaker kan motta og behandle meldingen/informasjonen som sendes.">
     <bounds
         x="410"
         y="36"
@@ -491,8 +494,8 @@
       id="dedd7174-74c4-4e27-bc3c-21b0a202e30b"
       name="Tillit">
     <bounds
-        x="312"
-        y="1044"
+        x="1188"
+        y="95"
         width="670"
         height="193"/>
     <children
