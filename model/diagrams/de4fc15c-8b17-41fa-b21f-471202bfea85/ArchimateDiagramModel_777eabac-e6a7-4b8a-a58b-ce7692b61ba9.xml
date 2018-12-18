@@ -319,8 +319,8 @@
           href="AssignmentRelationship_1502d882-0f60-4c77-af5e-eac46b44b028.xml#1502d882-0f60-4c77-af5e-eac46b44b028"/>
     </sourceConnections>
     <bounds
-        x="222"
-        y="408"
+        x="221"
+        y="402"
         width="132"
         height="55"/>
     <archimateElement
@@ -590,8 +590,8 @@
         source="0b3132f9-8f85-4e00-bd61-e2b08c7bea0d"
         target="e6863627-1df1-4464-8e67-aa4a4e0d904e"/>
     <bounds
-        x="120"
-        y="180"
+        x="216"
+        y="192"
         width="168"
         height="96"/>
   </children>
