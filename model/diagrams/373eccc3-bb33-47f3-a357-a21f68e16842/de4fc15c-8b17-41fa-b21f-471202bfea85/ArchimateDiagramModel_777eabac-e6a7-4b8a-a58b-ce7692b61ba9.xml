@@ -6,7 +6,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="c132decb-7e5e-4693-a00d-2426f036bbfd"
-      name="Gi tilbakemelding på data">
+      name="Gi tilbakemelding på data"
+      documentation="Deling av data med formål om å gi tilbakemelding på f.eks. kvalitet. Tilbakemeldinger vil være metadata relatert til bruk og ikke endringer i selve datasettet.">
     <bounds
         x="409"
         y="900"
@@ -15,7 +16,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="0dfc9787-ebe6-439e-b937-60a8656a0672"
-        targetConnections="a28f2bb8-2c7f-49ae-8858-29a318229192">
+        targetConnections="2b2de416-a5e1-4b86-8883-153a0b22f3ef d4f0eb12-93a3-4291-918b-903d0bd5001e">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="b67bc7e8-4daf-41ef-a762-93b8aab87e00"
@@ -97,7 +98,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="87fd2ead-c2c3-4cc6-a7b3-a5ee0590de6c"
-      name="Oppdatere data">
+      name="Oppdatere data"
+      documentation="Deling av data med formål om å oppdatere autoritativ datakilde fra en aktør som ikke er eier eller forvalter av dataene. Oppdatere data kan være å opprette (legge til nye data), endre eksisterende data, eller å slette data.">
     <bounds
         x="408"
         y="612"
@@ -187,7 +189,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="e6863627-1df1-4464-8e67-aa4a4e0d904e"
       name="Deling av data med melding"
-      targetConnections="73abb723-4487-4c98-968a-6cf62da1f7b7">
+      targetConnections="73abb723-4487-4c98-968a-6cf62da1f7b7"
+      documentation="Deling av data initiert av avsender. Det vil normalt være behov og/eller forventning om oppfølging fra avsender. Avsender må ha visshet om at mottaker kan motta og behandle meldingen/informasjonen som sendes.">
     <bounds
         x="410"
         y="36"
@@ -420,18 +423,9 @@
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_74f9a80b-6b73-444c-9f69-468b6f5a6c6f.xml#74f9a80b-6b73-444c-9f69-468b6f5a6c6f"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="a28f2bb8-2c7f-49ae-8858-29a318229192"
-        source="14a222ab-1bd9-4153-b3a7-4a9ec9c090dd"
-        target="0dfc9787-ebe6-439e-b937-60a8656a0672">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_e85cb92a-4e54-4d3a-b90e-73b546cc26ef.xml#e85cb92a-4e54-4d3a-b90e-73b546cc26ef"/>
-    </sourceConnections>
     <bounds
-        x="228"
-        y="804"
+        x="227"
+        y="720"
         width="120"
         height="55"/>
     <archimateElement
@@ -489,11 +483,11 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="dedd7174-74c4-4e27-bc3c-21b0a202e30b"
-      name="Tillit">
+      name="Funksjoner tilknyttet tillit">
     <bounds
-        x="312"
-        y="1044"
-        width="670"
+        x="1020"
+        y="36"
+        width="624"
         height="193"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -594,5 +588,47 @@
         y="192"
         width="168"
         height="96"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="363af6c1-8bd8-4519-8bea-00cfda7640d4">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="2b2de416-a5e1-4b86-8883-153a0b22f3ef"
+        source="363af6c1-8bd8-4519-8bea-00cfda7640d4"
+        target="0dfc9787-ebe6-439e-b937-60a8656a0672">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_75d42715-2975-442c-bbd8-2d1ba49bb1ac.xml#75d42715-2975-442c-bbd8-2d1ba49bb1ac"/>
+    </sourceConnections>
+    <bounds
+        x="227"
+        y="900"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_ba734a82-6ccd-4627-9717-baef9900ae13.xml#ba734a82-6ccd-4627-9717-baef9900ae13"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="582d5543-5c0c-46e1-89ce-79d6c8627e6d">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="d4f0eb12-93a3-4291-918b-903d0bd5001e"
+        source="582d5543-5c0c-46e1-89ce-79d6c8627e6d"
+        target="0dfc9787-ebe6-439e-b937-60a8656a0672">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_c3aefb7a-0f43-4ac2-a2a5-207db8cad790.xml#c3aefb7a-0f43-4ac2-a2a5-207db8cad790"/>
+    </sourceConnections>
+    <bounds
+        x="227"
+        y="972"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_b96228d9-abd3-4638-a566-7f0b54daa805.xml#b96228d9-abd3-4638-a566-7f0b54daa805"/>
   </children>
 </archimate:ArchimateDiagramModel>
