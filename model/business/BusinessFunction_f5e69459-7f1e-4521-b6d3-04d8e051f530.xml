@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Addressering"
-    id="f5e69459-7f1e-4521-b6d3-04d8e051f530"/>
+    id="f5e69459-7f1e-4521-b6d3-04d8e051f530"
+    documentation="Adressering av meldinger&#xD;&#xA;Oppslag av endepunktsadresser"/>
