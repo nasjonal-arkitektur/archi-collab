@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Testtjeneste"
+    id="8772eccc-e66f-4dcf-b255-2a9220a1b2e4"
+    documentation="Shares the functionality of verifying that several solutions can interoperate at one or more layers of the interoperability stack, while conforming to one or more specifications. This type of testing is executed by operating SUTs (System Under Test) and capturing their exchanges. The logistics of interoperability testing is usually more costly (time, coordination, interoperability), and interoperability testing is no substitute for a conformance test suite. Experience shows that interoperability testing is more successful and less costly when conformance of implementations has been tested first."/>

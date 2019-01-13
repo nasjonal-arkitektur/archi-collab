@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Mottaker"
-    id="b96228d9-abd3-4638-a566-7f0b54daa805"/>
+    id="b96228d9-abd3-4638-a566-7f0b54daa805"
+    documentation="Aktør som mottar melding"/>

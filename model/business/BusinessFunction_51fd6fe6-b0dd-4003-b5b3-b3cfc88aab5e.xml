@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kapabilitet"
+    id="51fd6fe6-b0dd-4003-b5b3-b3cfc88aab5e"
+    documentation="Mottakers kapabiliteter, hvilke meldinger kan en aktør motta og behandle.&#xD;&#xA;&#xD;&#xA;Hvilke tjenester og informasjon har en tilbyder."/>
