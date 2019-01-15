@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3.3 Oppdrag"
+    id="81faf15c-57a7-4b33-882e-ee53198a35ce">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="abd4d823-2f54-4e68-975c-7c5da35c93c4">
+    <bounds
+        x="108"
+        y="72"
+        width="130"
+        height="60"/>
+    <archimateElement
+        xsi:type="archimate:Deliverable"
+        href="Deliverable_44bdf1f2-a7ff-4d51-8574-bc3b3ab11399.xml#44bdf1f2-a7ff-4d51-8574-bc3b3ab11399"/>
+  </children>
+</archimate:ArchimateDiagramModel>
