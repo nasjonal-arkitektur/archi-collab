@@ -111,8 +111,8 @@
       textAlignment="1"
       content="Erik, 13/1-2019: &#xD;&#xA;Bruk Business Function, ikke Business role!?">
     <bounds
-        x="132"
-        y="312"
+        x="120"
+        y="432"
         width="185"
         height="80"/>
   </children>
@@ -121,7 +121,7 @@
       id="5e5eb893-1840-4191-bd1d-ceb36ef746f5">
     <bounds
         x="84"
-        y="444"
+        y="300"
         width="130"
         height="60"/>
     <archimateElement
