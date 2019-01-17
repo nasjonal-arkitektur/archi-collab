@@ -8,8 +8,8 @@
       id="87d3b5ae-cf63-4306-a08f-61e598b8daf9"
       name="Jørgen">
     <bounds
-        x="1524"
-        y="528"
+        x="1312"
+        y="571"
         width="217"
         height="334"/>
   </children>
@@ -319,8 +319,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="6095f87b-ff3c-47c5-a4c6-0a21598f589e">
     <bounds
-        x="1572"
-        y="576"
+        x="1360"
+        y="619"
         width="120"
         height="55"/>
     <archimateElement
@@ -331,8 +331,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="0f786d9d-e847-4822-a942-137a450b87fb">
     <bounds
-        x="1572"
-        y="668"
+        x="1360"
+        y="711"
         width="120"
         height="55"/>
     <archimateElement
@@ -343,8 +343,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="9146b335-6d76-4c72-955e-5ca62143d9d4">
     <bounds
-        x="1572"
-        y="756"
+        x="1360"
+        y="799"
         width="120"
         height="55"/>
     <archimateElement
