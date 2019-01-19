@@ -9,8 +9,8 @@
       name="Tverrgående funksjoner og tjenester"
       targetConnections="0d0d2082-4e89-464a-b1d4-374f4f2d4e11">
     <bounds
-        x="438"
-        y="226"
+        x="432"
+        y="228"
         width="624"
         height="325"/>
     <children
@@ -292,17 +292,5 @@
     <archimateElement
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_173d980d-3717-4e7d-9b1f-6c846a460fad.xml#173d980d-3717-4e7d-9b1f-6c846a460fad"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="a6eba13b-4012-4574-a6ab-270fec265358">
-    <bounds
-        x="720"
-        y="1008"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessService"
-        href="BusinessService_ca2ec236-d351-4cd7-a9ea-66ea32b1bede.xml#ca2ec236-d351-4cd7-a9ea-66ea32b1bede"/>
   </children>
 </archimate:ArchimateDiagramModel>

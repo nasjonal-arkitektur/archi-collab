@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tilgjengelighet"
-    id="c44fd87f-f51c-4974-ae0a-39f609f3dfed"/>
+    id="c44fd87f-f51c-4974-ae0a-39f609f3dfed"
+    documentation="Egenskap, ikke kapabilitet"/>
