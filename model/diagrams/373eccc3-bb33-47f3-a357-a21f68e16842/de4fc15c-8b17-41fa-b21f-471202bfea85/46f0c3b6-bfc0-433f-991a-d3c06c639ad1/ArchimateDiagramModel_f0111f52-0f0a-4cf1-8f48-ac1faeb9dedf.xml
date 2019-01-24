@@ -16,21 +16,33 @@
           href="ServingRelationship_725fa0d7-95c4-4563-a003-cfe0a7352e9b.xml#725fa0d7-95c4-4563-a003-cfe0a7352e9b"/>
     </sourceConnections>
     <bounds
-        x="336"
+        x="216"
         y="258"
-        width="184"
+        width="304"
         height="97"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="f5877560-df85-4652-bcb4-32aff8e58a93">
       <bounds
-          x="36"
+          x="156"
           y="36"
           width="120"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessProcess"
           href="BusinessProcess_3f3a311c-fed0-466a-8c4e-9ec85476dfdf.xml#3f3a311c-fed0-466a-8c4e-9ec85476dfdf"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="7a94de76-f057-4d41-8c49-392d77d3eb2c">
+      <bounds
+          x="24"
+          y="36"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_076fd0e3-cf8a-478c-bb0a-97cc83c0d494.xml#076fd0e3-cf8a-478c-bb0a-97cc83c0d494"/>
     </children>
     <archimateElement
         xsi:type="archimate:BusinessService"
