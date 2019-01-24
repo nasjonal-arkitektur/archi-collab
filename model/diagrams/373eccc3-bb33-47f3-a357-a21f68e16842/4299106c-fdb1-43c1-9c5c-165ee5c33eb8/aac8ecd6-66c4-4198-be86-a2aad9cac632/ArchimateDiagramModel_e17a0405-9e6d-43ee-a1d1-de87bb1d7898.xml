@@ -231,7 +231,7 @@
     <bounds
         x="12"
         width="169"
-        height="577"/>
+        height="757"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="1219bdb7-ef9f-4649-a906-a77a45861bca">
@@ -267,6 +267,54 @@
       <archimateElement
           xsi:type="archimate:BusinessRole"
           href="BusinessRole_f090eb7a-9f0c-44c9-9f0e-736d245610e0.xml#f090eb7a-9f0c-44c9-9f0e-736d245610e0"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="774bce1d-7a74-4a7a-b504-978ef9349b2b">
+      <bounds
+          x="24"
+          y="276"
+          width="130"
+          height="60"/>
+      <archimateElement
+          xsi:type="archimate:BusinessRole"
+          href="BusinessRole_9af22550-1798-42b2-8b97-4f68d2ca2660.xml#9af22550-1798-42b2-8b97-4f68d2ca2660"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="8f108936-8b19-4f89-8185-e2d2b7fa4755">
+      <bounds
+          x="24"
+          y="348"
+          width="130"
+          height="60"/>
+      <archimateElement
+          xsi:type="archimate:BusinessRole"
+          href="BusinessRole_12f302a9-9e67-4f66-8424-ebc499d050fe.xml#12f302a9-9e67-4f66-8424-ebc499d050fe"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="8d911f57-0452-4a1d-a34f-d975d38c6db8">
+      <bounds
+          x="24"
+          y="420"
+          width="130"
+          height="60"/>
+      <archimateElement
+          xsi:type="archimate:BusinessRole"
+          href="BusinessRole_4f1be894-9303-49f1-969c-9da2bd94301f.xml#4f1be894-9303-49f1-969c-9da2bd94301f"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="bb250575-e80f-4016-8395-a2d1ad8051a4">
+      <bounds
+          x="24"
+          y="492"
+          width="130"
+          height="60"/>
+      <archimateElement
+          xsi:type="archimate:BusinessRole"
+          href="BusinessRole_5a886121-d599-4431-8173-e87b7299c312.xml#5a886121-d599-4431-8173-e87b7299c312"/>
     </children>
   </children>
 </archimate:ArchimateDiagramModel>
