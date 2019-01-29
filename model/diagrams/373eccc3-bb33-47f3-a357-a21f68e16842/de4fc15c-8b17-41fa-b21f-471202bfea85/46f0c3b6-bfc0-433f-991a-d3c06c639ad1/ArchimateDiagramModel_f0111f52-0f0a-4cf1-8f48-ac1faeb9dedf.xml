@@ -145,7 +145,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="9c81afea-18fc-4c24-be78-648e1dd5f565"
-        targetConnections="d250da56-7936-4b07-8d1b-d21436746d54 6b4add15-719b-43b7-9e86-6b68e2f53203 bf896a6f-92d0-456d-8351-fd18df24f4b8 58020b41-d620-4e65-8d6f-c52ca886e1e4">
+        targetConnections="d250da56-7936-4b07-8d1b-d21436746d54 6b4add15-719b-43b7-9e86-6b68e2f53203 bf896a6f-92d0-456d-8351-fd18df24f4b8 58020b41-d620-4e65-8d6f-c52ca886e1e4 da512e69-86fd-4b40-ad2a-8b74de9d05f4">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="63d9f0bd-8660-48ce-a7ec-2f155b5cfe95"
@@ -398,7 +398,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="1f1f843d-3b2d-4f79-a5ca-70065f84712e">
+      id="1f1f843d-3b2d-4f79-a5ca-70065f84712e"
+      targetConnections="5167870d-bc4c-49ea-9fa0-a8023b8e47bf">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="481ebc10-af03-48be-ac9e-da696f9dd348"
@@ -416,5 +417,35 @@
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_3d810700-593c-4c4e-ac72-15c32b66d607.xml#3d810700-593c-4c4e-ac72-15c32b66d607"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="7d970f47-840e-4380-bac4-424028644b90"
+      textAlignment="1"
+      content="Endre navn og sikre at forretningsbegrepene  ikke er implementasjonsnære.&#xD;&#xA;">
+    <sourceConnections
+        id="da512e69-86fd-4b40-ad2a-8b74de9d05f4"
+        source="7d970f47-840e-4380-bac4-424028644b90"
+        target="9c81afea-18fc-4c24-be78-648e1dd5f565"/>
+    <bounds
+        x="696"
+        y="612"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="58600a37-83f5-4475-9ce0-60e47fdbf28c"
+      textAlignment="1"
+      content="Ta ut aktør/erierskap fra figurene og flytte det til andre views&#xD;&#xA;">
+    <sourceConnections
+        id="5167870d-bc4c-49ea-9fa0-a8023b8e47bf"
+        source="58600a37-83f5-4475-9ce0-60e47fdbf28c"
+        target="1f1f843d-3b2d-4f79-a5ca-70065f84712e"/>
+    <bounds
+        x="-168"
+        y="48"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>
