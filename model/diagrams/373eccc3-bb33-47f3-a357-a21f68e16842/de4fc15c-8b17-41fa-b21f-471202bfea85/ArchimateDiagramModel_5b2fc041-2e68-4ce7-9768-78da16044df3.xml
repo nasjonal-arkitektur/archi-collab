@@ -531,7 +531,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="beb2b194-44e9-4205-a25f-5a312c8759bf"
-        targetConnections="1582ea9d-3c92-47f9-a2c9-94fea292e77b">
+        targetConnections="1582ea9d-3c92-47f9-a2c9-94fea292e77b c36734a4-1768-473f-879a-14190eb2c0b7">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="44987683-6885-4cb2-9e54-bbe14c898982"
@@ -616,6 +616,10 @@
             xsi:type="archimate:AggregationRelationship"
             href="AggregationRelationship_6e7b56be-fdaa-41eb-b944-bea17592bf50.xml#6e7b56be-fdaa-41eb-b944-bea17592bf50"/>
       </sourceConnections>
+      <sourceConnections
+          id="aad99396-fc5c-4fcb-9e6e-f89a9bf161b9"
+          source="2a36a954-18c6-4ad7-8d02-72668164b87d"
+          target="e7e9205f-65d3-4830-8ff0-31b340919ea7"/>
       <bounds
           x="48"
           y="84"
@@ -697,7 +701,7 @@
     </sourceConnections>
     <bounds
         x="42"
-        y="748"
+        y="804"
         width="132"
         height="55"/>
     <archimateElement
@@ -726,8 +730,8 @@
           href="AssociationRelationship_f7dab50b-f112-438e-83d7-1b217d5203ce.xml#f7dab50b-f112-438e-83d7-1b217d5203ce"/>
     </sourceConnections>
     <bounds
-        x="834"
-        y="602"
+        x="853"
+        y="684"
         width="132"
         height="55"/>
     <archimateElement
@@ -830,13 +834,13 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="a388c609-ec2f-4b53-847b-0155ae6031b2"
-      name="Funksjoner tilknyttet tillit"
+      name="Tverrgående kapabiliteter"
       targetConnections="93924106-c809-4194-aec1-261c3dcdc2c8">
     <bounds
-        x="1020"
-        y="36"
+        x="984"
+        y="72"
         width="624"
-        height="325"/>
+        height="493"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="c7e7dcb1-6527-4f31-adeb-06af5c53d4f6">
@@ -921,6 +925,18 @@
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_4a65e090-faff-4e5a-a074-34882647a0cb.xml#4a65e090-faff-4e5a-a074-34882647a0cb"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="b4e045e3-8017-46ad-b191-eb8ce4427705">
+      <bounds
+          x="232"
+          y="341"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_5b5067a5-cd81-467d-b0b6-00cb4a562831.xml#5b5067a5-cd81-467d-b0b6-00cb4a562831"/>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -989,18 +1005,6 @@
         href="BusinessFunction_f5e69459-7f1e-4521-b6d3-04d8e051f530.xml#f5e69459-7f1e-4521-b6d3-04d8e051f530"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="46533046-db41-4ccf-8c62-155e9eb23516">
-    <bounds
-        x="1320"
-        y="276"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessFunction"
-        href="BusinessFunction_51fd6fe6-b0dd-4003-b5b3-b3cfc88aab5e.xml#51fd6fe6-b0dd-4003-b5b3-b3cfc88aab5e"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelNote"
       id="16bb8ad0-cbf5-4285-8dd6-d46ca534fb78"
       textAlignment="1"
@@ -1010,20 +1014,36 @@
         source="16bb8ad0-cbf5-4285-8dd6-d46ca534fb78"
         target="a388c609-ec2f-4b53-847b-0155ae6031b2"/>
     <bounds
-        x="1500"
-        y="520"
+        x="1488"
+        y="612"
         width="185"
         height="80"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="dc036bb5-669f-4b18-b8b0-6636bf4a12cf"
+      id="5adfaa1e-8ed0-426b-9d7e-c4114b1b6c67"
       textAlignment="1"
-      content="Knytning fra rolle til kapabilitet? &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+      content="Endre publisere til Tilgjengeliggjøre&#xD;&#xA;Tilrettelgge en annen kapabilitet under tilgjengliggjøre&#xD;&#xA;">
+    <sourceConnections
+        id="c36734a4-1768-473f-879a-14190eb2c0b7"
+        source="5adfaa1e-8ed0-426b-9d7e-c4114b1b6c67"
+        target="beb2b194-44e9-4205-a25f-5a312c8759bf"/>
     <bounds
-        x="1358"
-        y="723"
+        x="807"
+        y="552"
         width="185"
         height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="e7e9205f-65d3-4830-8ff0-31b340919ea7"
+      targetConnections="aad99396-fc5c-4fcb-9e6e-f89a9bf161b9"
+      textAlignment="1"
+      content="Vurdere innhente data, ikke det samme som å motta data">
+    <bounds
+        x="42"
+        y="576"
+        width="199"
+        height="97"/>
   </children>
 </archimate:ArchimateDiagramModel>
