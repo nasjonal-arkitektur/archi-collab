@@ -80,7 +80,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="fdadd99a-9034-4db9-8a0d-ba84d79cb293"
-      targetConnections="df8ff388-c976-444c-af64-e6a8265756cb">
+      targetConnections="df8ff388-c976-444c-af64-e6a8265756cb 4b25604b-7119-4387-9879-06bff057410e">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="5f7c002c-2ea0-4335-876b-90918ef5508a"
@@ -156,7 +156,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="740a2e9a-4585-40eb-97ea-bcfe3a268eed"
-        targetConnections="146d7887-8823-4df9-8f31-41c75a8e2536 84a516ad-2eed-4219-b994-6043a88472ce 60dd5b96-16ed-477a-92bb-986735ccaffb">
+        targetConnections="146d7887-8823-4df9-8f31-41c75a8e2536 84a516ad-2eed-4219-b994-6043a88472ce 60dd5b96-16ed-477a-92bb-986735ccaffb ab173c54-d16d-48ff-b909-5299fe12f8bf">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="f072841e-047f-4ef4-be3f-c00a901df5ff"
@@ -427,5 +427,35 @@
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_70ce3c2e-9798-46c0-b05e-f169f16c7e4e.xml#70ce3c2e-9798-46c0-b05e-f169f16c7e4e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="748c7cc9-b75f-4d1d-981e-de52e63d626a"
+      textAlignment="1"
+      content="Bruke noe annet enn Maskinporten i dette atrbeidet. Gjøre det produktuavhengig&#xD;&#xA;">
+    <sourceConnections
+        id="ab173c54-d16d-48ff-b909-5299fe12f8bf"
+        source="748c7cc9-b75f-4d1d-981e-de52e63d626a"
+        target="740a2e9a-4585-40eb-97ea-bcfe3a268eed"/>
+    <bounds
+        x="83"
+        y="779"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="cd584921-8c2b-48f7-9571-030fe012d2c2"
+      textAlignment="1"
+      content="Bytte plass på trinn 2 o 3&#xD;&#xA;">
+    <sourceConnections
+        id="4b25604b-7119-4387-9879-06bff057410e"
+        source="cd584921-8c2b-48f7-9571-030fe012d2c2"
+        target="fdadd99a-9034-4db9-8a0d-ba84d79cb293"/>
+    <bounds
+        x="588"
+        y="748"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>

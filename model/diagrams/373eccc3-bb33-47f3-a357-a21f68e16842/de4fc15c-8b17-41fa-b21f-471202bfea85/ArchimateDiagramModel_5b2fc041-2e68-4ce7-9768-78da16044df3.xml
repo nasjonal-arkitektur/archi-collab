@@ -853,13 +853,37 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="b4e045e3-8017-46ad-b191-eb8ce4427705">
       <bounds
-          x="232"
-          y="341"
+          x="97"
+          y="312"
           width="120"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_5b5067a5-cd81-467d-b0b6-00cb4a562831.xml#5b5067a5-cd81-467d-b0b6-00cb4a562831"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="5599c20b-057b-43f5-923d-dfe585394581">
+      <bounds
+          x="337"
+          y="323"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_542f588f-54fa-4ada-8d85-618bc4ab1396.xml#542f588f-54fa-4ada-8d85-618bc4ab1396"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="196b3bdc-65b1-4403-ad3e-50638fd77a88">
+      <bounds
+          x="480"
+          y="323"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_a649a710-7b7b-4940-a67c-b39d4e8dabae.xml#a649a710-7b7b-4940-a67c-b39d4e8dabae"/>
     </children>
   </children>
   <children
@@ -969,5 +993,16 @@
         y="576"
         width="199"
         height="97"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="aa0145d7-f0fc-4de1-911b-3980ac4523cf"
+      textAlignment="1"
+      content="HVem innehar/trenger kapabilitetene">
+    <bounds
+        x="1180"
+        y="630"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>

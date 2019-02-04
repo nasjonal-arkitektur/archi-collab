@@ -95,7 +95,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="3a5ad401-36a2-4257-92b9-cfa160fa04c4"
-        targetConnections="2687d8a6-7c99-46f0-b2f3-236d456e6e23 a4fdb3dd-9bf6-4c7a-bfab-335503f30881">
+        targetConnections="2687d8a6-7c99-46f0-b2f3-236d456e6e23 a4fdb3dd-9bf6-4c7a-bfab-335503f30881 ac674232-91d2-4488-aa00-95b2c601eccf">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="17c8a1f7-92fe-4171-95fd-208e7d55479d"
@@ -514,7 +514,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="045b6a3f-8460-44c7-8e2b-1e273ca0f5a8"
-      targetConnections="da29c453-2c66-4620-b176-c538ac256b15">
+      targetConnections="da29c453-2c66-4620-b176-c538ac256b15 bdfcc9a1-f51a-4962-8fb9-a663ae307609">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="cebb5001-ad1f-435d-8cbc-132ad264c183"
@@ -605,7 +605,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="dd456678-665a-46e2-92a0-713e1262b9ef"
-      targetConnections="4618bcde-d803-477d-8fff-fa851af04266">
+      targetConnections="4618bcde-d803-477d-8fff-fa851af04266 f46a6662-28e1-4126-8e78-1cc2d43cf700">
     <bounds
         x="336"
         y="-145"
@@ -614,5 +614,50 @@
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_deed11bc-1b32-4978-9154-ea4b23e046b0.xml#deed11bc-1b32-4978-9154-ea4b23e046b0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="dba70616-5b92-4201-9315-e24051fe1377"
+      textAlignment="1"
+      content="tas ut, forventer at den allerede er der&#xD;&#xA;">
+    <sourceConnections
+        id="ac674232-91d2-4488-aa00-95b2c601eccf"
+        source="dba70616-5b92-4201-9315-e24051fe1377"
+        target="3a5ad401-36a2-4257-92b9-cfa160fa04c4"/>
+    <bounds
+        x="180"
+        y="312"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="d81bf965-59a4-49ef-9d68-a4d20a4617a6"
+      textAlignment="1"
+      content="Endre til &quot;med grov tilgangsstyring&quot;&#xD;&#xA;">
+    <sourceConnections
+        id="f46a6662-28e1-4126-8e78-1cc2d43cf700"
+        source="d81bf965-59a4-49ef-9d68-a4d20a4617a6"
+        target="dd456678-665a-46e2-92a0-713e1262b9ef"/>
+    <bounds
+        x="131"
+        y="-216"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="c77ec548-9cc7-4555-991a-ec7a15af9a86"
+      textAlignment="1"
+      content="Flere veier til registerering av API-brukere? Ikke bare Maskinporten&#xD;&#xA;">
+    <sourceConnections
+        id="bdfcc9a1-f51a-4962-8fb9-a663ae307609"
+        source="c77ec548-9cc7-4555-991a-ec7a15af9a86"
+        target="045b6a3f-8460-44c7-8e2b-1e273ca0f5a8"/>
+    <bounds
+        x="984"
+        y="-149"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>

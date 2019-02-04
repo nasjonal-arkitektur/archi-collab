@@ -158,6 +158,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="11e04355-861e-44ef-a857-60c85ef7ef43"
+        targetConnections="6edcfdcd-6758-4727-90ea-1c0c30d08943"
         source="91c40512-0d24-49ab-87d8-c8d86a9a5206"
         target="b4b70180-42a0-4137-8dc6-40c243515b50">
       <archimateRelationship
@@ -260,5 +261,20 @@
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_70ce3c2e-9798-46c0-b05e-f169f16c7e4e.xml#70ce3c2e-9798-46c0-b05e-f169f16c7e4e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="bc826158-c08c-4dd2-b095-07e8048d3b09"
+      textAlignment="1"
+      content="Legge til grensesnitt, GUI og API&#xD;&#xA;Se om vo kan trekke dette ut av figurene&#xD;&#xA;">
+    <sourceConnections
+        id="6edcfdcd-6758-4727-90ea-1c0c30d08943"
+        source="bc826158-c08c-4dd2-b095-07e8048d3b09"
+        target="11e04355-861e-44ef-a857-60c85ef7ef43"/>
+    <bounds
+        x="648"
+        y="216"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>
