@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Hent data fra en tjeneste"
+    name="Hent data fra en tjeneste_gammel"
     id="f0111f52-0f0a-4cf1-8f48-ac1faeb9dedf">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
