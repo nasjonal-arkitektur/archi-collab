@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Scope prefix"
-    id="ee5e67d6-d819-42a5-901b-4a094aa6c305"/>
+    name="Bruksvilkår"
+    id="ee5e67d6-d819-42a5-901b-4a094aa6c305"
+    documentation="Tekniske og merkantile vilkår&#xD;&#xA;"/>
