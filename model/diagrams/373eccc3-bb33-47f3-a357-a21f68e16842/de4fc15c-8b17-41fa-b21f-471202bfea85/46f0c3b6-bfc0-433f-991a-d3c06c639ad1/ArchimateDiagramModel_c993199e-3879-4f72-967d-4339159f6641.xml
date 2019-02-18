@@ -112,8 +112,8 @@
           href="ServingRelationship_17df711c-0eae-4677-a9e3-d31a1a86c036.xml#17df711c-0eae-4677-a9e3-d31a1a86c036"/>
     </sourceConnections>
     <bounds
-        x="474"
-        y="180"
+        x="468"
+        y="168"
         width="120"
         height="55"/>
     <archimateElement
@@ -127,7 +127,7 @@
     <bounds
         x="345"
         y="264"
-        width="337"
+        width="460"
         height="133"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -156,7 +156,7 @@
         id="ce47ca36-d14d-4487-940a-bf1768c4d70e"
         targetConnections="70be4418-1091-470d-9333-45606a128a83">
       <bounds
-          x="192"
+          x="276"
           y="48"
           width="120"
           height="55"/>
