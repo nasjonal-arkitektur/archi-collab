@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kodelistebeskrivelse (DCAT-AP-NO)"
+    id="11946042-bcd2-480a-a27c-e3b59a416078"
+    documentation="Kodelister betraktes som datasett. Kodelistebeskrivelser betraktes som datasettbeskrivelser, og DCAT-AP-NO gjelder også for kodelistebeskrivelser. &#xD;&#xA;&#xD;&#xA;DCAT-AP-NO: Anbefalt forvaltningsstandard i Referansekatalogen. https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/referansekatalogen/beskrivelse-av-datasett-og-datakataloger"/>

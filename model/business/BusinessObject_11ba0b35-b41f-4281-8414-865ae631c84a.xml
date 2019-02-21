@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="dqv-ap-no"
+    id="11ba0b35-b41f-4281-8414-865ae631c84a"
+    documentation="norske utvidelser av W3C/DQV (Data Quality Vocabulary).&#xD;&#xA;&#xD;&#xA;Se ellers spesifikasjon for beskrivels av kvalitet på datasett: https://doc.difi.no/data/kvalitet-pa-datasett/&#xD;&#xA;&#xD;&#xA;Status per 2019-01-01: Planlagt etablert ila. 2019H1. "/>
