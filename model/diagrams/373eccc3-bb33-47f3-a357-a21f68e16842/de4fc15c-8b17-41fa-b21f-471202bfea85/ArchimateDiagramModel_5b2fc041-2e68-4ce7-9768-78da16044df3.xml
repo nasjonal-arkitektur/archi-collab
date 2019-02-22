@@ -10,10 +10,10 @@
       name="Gi tilbakemelding på data"
       documentation="Deling av data med formål om å gi tilbakemelding på f.eks. kvalitet. Tilbakemeldinger vil være metadata relatert til bruk og ikke endringer i selve datasettet.">
     <bounds
-        x="1033"
+        x="965"
         y="455"
         width="468"
-        height="266"/>
+        height="422"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="e8b75c31-194b-4342-aaca-9014f0ed5a0c"
@@ -31,7 +31,7 @@
           x="36"
           y="60"
           width="168"
-          height="156"/>
+          height="289"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="51f290e6-ff6c-4649-a3c4-8910506379ab"
@@ -66,7 +66,7 @@
           x="264"
           y="60"
           width="157"
-          height="156"/>
+          height="289"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="7ee14456-97cb-4f22-84a4-27166d14ef16"
@@ -91,9 +91,9 @@
       name="Hendelsesdrevet deling av data"
       documentation="Deling av data initiert av en tilstandsendring i dataene som deles. Databruker leser eller abonnerer på hendelseslister og dette trigger eventuell videre oppfølging. Databruker må vurderer om endringen skal følges opp og lese data på forespørsel.">
     <bounds
-        x="263"
+        x="264"
         y="912"
-        width="510"
+        width="481"
         height="397"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -109,9 +109,9 @@
             href="AggregationRelationship_4364c419-326c-4061-95d9-b48b460ea12b.xml#4364c419-326c-4061-95d9-b48b460ea12b"/>
       </sourceConnections>
       <bounds
-          x="264"
+          x="252"
           y="48"
-          width="217"
+          width="205"
           height="313"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -221,8 +221,8 @@
       <bounds
           x="36"
           y="48"
-          width="192"
-          height="202"/>
+          width="181"
+          height="313"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="15d24fa6-4c4f-410b-88cd-e193b083f88e"
@@ -248,7 +248,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="e9dead7c-c358-43db-ae24-d23db22dcb0f"
-          targetConnections="cbdf420a-73cf-40a7-8d7e-10649c965444 b335b52f-06e4-426b-be1d-37c10fa63f5c">
+          targetConnections="b335b52f-06e4-426b-be1d-37c10fa63f5c cbdf420a-73cf-40a7-8d7e-10649c965444">
         <bounds
             x="24"
             y="36"
@@ -269,10 +269,10 @@
       name="Oppdatere data"
       documentation="Deling av data med formål om å oppdatere autoritativ datakilde fra en aktør som ikke er eier eller forvalter av dataene. Oppdatere data kan være å opprette (legge til nye data), endre eksisterende data, eller å slette data.">
     <bounds
-        x="1033"
+        x="965"
         y="48"
         width="468"
-        height="289"/>
+        height="337"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="46f62a28-bc3d-452b-b76f-62d674dc164c"
@@ -290,7 +290,7 @@
           x="36"
           y="48"
           width="180"
-          height="193"/>
+          height="241"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="c74414a1-a79c-4cce-a1f4-b9965c44169b"
@@ -325,7 +325,7 @@
           x="264"
           y="48"
           width="157"
-          height="193"/>
+          height="241"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="2194976b-3920-4650-b5e0-1bd861f3b158"
@@ -352,7 +352,7 @@
     <bounds
         x="264"
         y="36"
-        width="507"
+        width="481"
         height="349"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -370,14 +370,14 @@
       <bounds
           x="36"
           y="48"
-          width="193"
-          height="192"/>
+          width="181"
+          height="253"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="7fd51f96-5d12-4bc8-9ee3-116d7f8a9044"
           targetConnections="322e2e27-9a7a-490d-99df-855a1c4f332c">
         <bounds
-            x="24"
+            x="36"
             y="36"
             width="130"
             height="60"/>
@@ -403,7 +403,7 @@
             href="CompositionRelationship_53a897ab-dfd5-4c87-8718-0e55f510acf5.xml#53a897ab-dfd5-4c87-8718-0e55f510acf5"/>
       </sourceConnections>
       <bounds
-          x="288"
+          x="264"
           y="48"
           width="181"
           height="253"/>
@@ -433,7 +433,7 @@
     <bounds
         x="264"
         y="432"
-        width="507"
+        width="481"
         height="445"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -568,7 +568,7 @@
             href="AggregationRelationship_07f45ed8-bc65-445d-a692-a706922235a3.xml#07f45ed8-bc65-445d-a692-a706922235a3"/>
       </sourceConnections>
       <bounds
-          x="276"
+          x="264"
           y="48"
           width="190"
           height="361"/>
@@ -659,8 +659,8 @@
           href="AssociationRelationship_0fef6525-0652-484f-a397-14182f5a3482.xml#0fef6525-0652-484f-a397-14182f5a3482"/>
     </sourceConnections>
     <bounds
-        x="834"
-        y="744"
+        x="786"
+        y="756"
         width="132"
         height="55"/>
     <archimateElement
@@ -740,8 +740,8 @@
           href="AssociationRelationship_1682d986-d97a-4099-afa7-c5f5e59dd41c.xml#1682d986-d97a-4099-afa7-c5f5e59dd41c"/>
     </sourceConnections>
     <bounds
-        x="846"
-        y="401"
+        x="792"
+        y="398"
         width="120"
         height="55"/>
     <archimateElement
@@ -761,7 +761,7 @@
           href="AssociationRelationship_66ff0aab-aadb-43eb-84d1-788fbfcdea72.xml#66ff0aab-aadb-43eb-84d1-788fbfcdea72"/>
     </sourceConnections>
     <bounds
-        x="842"
+        x="792"
         y="101"
         width="120"
         height="55"/>
@@ -791,8 +791,8 @@
           href="AssociationRelationship_8450d4df-6195-4ccf-8ceb-d9e3669e10a2.xml#8450d4df-6195-4ccf-8ceb-d9e3669e10a2"/>
     </sourceConnections>
     <bounds
-        x="1608"
-        y="398"
+        x="1512"
+        y="395"
         width="133"
         height="61"/>
     <archimateElement
@@ -805,8 +805,8 @@
       textAlignment="1"
       content="Dette er et &quot;dataview&quot;&#xD;&#xA;Kan vurdere å lage et &quot;sikkerhetsview&quot;&#xD;&#xA;&quot;juridisk view&quot;&#xD;&#xA;">
     <bounds
-        x="1033"
-        y="924"
+        x="1032"
+        y="1020"
         width="185"
         height="80"/>
   </children>
