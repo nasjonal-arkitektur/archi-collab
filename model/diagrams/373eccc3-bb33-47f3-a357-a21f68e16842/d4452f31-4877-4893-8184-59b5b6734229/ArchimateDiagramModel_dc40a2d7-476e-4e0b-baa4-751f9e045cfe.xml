@@ -98,8 +98,8 @@
     <bounds
         x="288"
         y="528"
-        width="120"
-        height="55"/>
+        width="133"
+        height="61"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_48fa6173-fb60-420f-8b87-cd87ec374fe9.xml#48fa6173-fb60-420f-8b87-cd87ec374fe9"/>
@@ -205,8 +205,8 @@
     <bounds
         x="574"
         y="612"
-        width="120"
-        height="55"/>
+        width="135"
+        height="73"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_0a0829d7-0490-476b-a5cd-c777c01f1904.xml#0a0829d7-0490-476b-a5cd-c777c01f1904"/>
