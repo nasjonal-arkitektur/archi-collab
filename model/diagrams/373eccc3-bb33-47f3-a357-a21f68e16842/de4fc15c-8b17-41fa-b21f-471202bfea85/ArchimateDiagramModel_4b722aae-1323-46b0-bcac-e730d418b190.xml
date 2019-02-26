@@ -193,27 +193,4 @@
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_9fa622a6-945e-4e85-815f-d38a47a3459d.xml#9fa622a6-945e-4e85-815f-d38a47a3459d"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="0ff758ab-7035-4823-9678-b375f8d9f977">
-    <bounds
-        x="1512"
-        y="395"
-        width="133"
-        height="61"/>
-    <archimateElement
-        xsi:type="archimate:BusinessRole"
-        href="BusinessRole_e6829ffb-8193-4a0c-93ee-e73eb8408b6f.xml#e6829ffb-8193-4a0c-93ee-e73eb8408b6f"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="aa9b2cda-f75d-457a-92ee-c0077588dcad"
-      textAlignment="1"
-      content="Dette er et &quot;dataview&quot;&#xD;&#xA;Kan vurdere å lage et &quot;sikkerhetsview&quot;&#xD;&#xA;&quot;juridisk view&quot;&#xD;&#xA;">
-    <bounds
-        x="1032"
-        y="1020"
-        width="185"
-        height="80"/>
-  </children>
 </archimate:ArchimateDiagramModel>
