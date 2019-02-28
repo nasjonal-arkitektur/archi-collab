@@ -261,9 +261,9 @@
     </sourceConnections>
     <bounds
         x="498"
-        y="965"
-        width="120"
-        height="55"/>
+        y="960"
+        width="138"
+        height="84"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_92715adb-efa4-47a7-b2fc-4235e47a344b.xml#92715adb-efa4-47a7-b2fc-4235e47a344b"/>
