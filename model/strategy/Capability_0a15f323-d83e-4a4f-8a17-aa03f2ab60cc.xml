@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Felles dataoversikt"
     id="0a15f323-d83e-4a4f-8a17-aa03f2ab60cc"
-    documentation="Å ha en felles dataoversikt nasjonalt"/>
+    documentation="Å ha en felles dataoversikt nasjonalt">
+  <properties
+      key="difi:namespace"
+      value="jim"/>
+</archimate:Capability>

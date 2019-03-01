@@ -1,4 +1,8 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Alle [ns:Erik]"
-    id="91d6c075-f18c-430a-962b-aec149e31351"/>
+    name="Alle [ns:Erik] [ns:erik]"
+    id="91d6c075-f18c-430a-962b-aec149e31351">
+  <properties
+      key="difi:namespace"
+      value="erik"/>
+</archimate:BusinessRole>

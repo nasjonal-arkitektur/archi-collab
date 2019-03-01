@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Datapreparering"
-    id="10935d3b-3777-49fc-90fe-471f58c6581f"/>
+    id="10935d3b-3777-49fc-90fe-471f58c6581f">
+  <properties
+      key="difi:namespace"
+      value="RR"/>
+</archimate:Capability>

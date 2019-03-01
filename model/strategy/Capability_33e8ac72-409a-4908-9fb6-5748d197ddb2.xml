@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Frie metadata-vokabularer"
-    id="33e8ac72-409a-4908-9fb6-5748d197ddb2"/>
+    id="33e8ac72-409a-4908-9fb6-5748d197ddb2">
+  <properties
+      key="difi:namespace"
+      value="RR"/>
+</archimate:Capability>

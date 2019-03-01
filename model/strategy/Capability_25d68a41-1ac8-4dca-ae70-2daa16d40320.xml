@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vurdere behandlingsgrunnlag for hendelse"
-    id="25d68a41-1ac8-4dca-ae70-2daa16d40320"/>
+    id="25d68a41-1ac8-4dca-ae70-2daa16d40320">
+  <properties
+      key="difi:namespace"
+      value="erik"/>
+</archimate:Capability>

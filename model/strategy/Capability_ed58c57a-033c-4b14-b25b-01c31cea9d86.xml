@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kassasjon"
-    id="ed58c57a-033c-4b14-b25b-01c31cea9d86"/>
+    id="ed58c57a-033c-4b14-b25b-01c31cea9d86">
+  <properties
+      key="difi:namespace"
+      value="RR"/>
+</archimate:Capability>

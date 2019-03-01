@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Identifisere"
-    id="397ca08a-25d1-4ed3-bc4f-94d58c478bf7"/>
+    id="397ca08a-25d1-4ed3-bc4f-94d58c478bf7">
+  <properties
+      key="difi:namespace"
+      value="henrik"/>
+</archimate:Capability>

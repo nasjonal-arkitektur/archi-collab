@@ -1,7 +1,11 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" [ns:erik]"
     id="876d3191-cc53-4834-bac7-e1296ba9de05">
+  <properties
+      key="difi:namespace"
+      value="erik"/>
   <source
       xsi:type="archimate:Capability"
       href="Capability_33f9f679-918d-4522-9eb5-87f38b304e90.xml#33f9f679-918d-4522-9eb5-87f38b304e90"/>

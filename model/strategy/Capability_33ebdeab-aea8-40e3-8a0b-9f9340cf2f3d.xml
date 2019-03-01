@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kodeliste-oversikt"
     id="33ebdeab-aea8-40e3-8a0b-9f9340cf2f3d"
-    documentation="Å ha oversikt over kodelistene/kodeverkene sine"/>
+    documentation="Å ha oversikt over kodelistene/kodeverkene sine">
+  <properties
+      key="difi:namespace"
+      value="jim"/>
+</archimate:Capability>

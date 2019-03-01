@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Analysere fjerntliggende data"
-    id="dbf635f1-a2f6-4f43-8df8-af431d199cd1"/>
+    id="dbf635f1-a2f6-4f43-8df8-af431d199cd1">
+  <properties
+      key="difi:namespace"
+      value="erik"/>
+</archimate:Capability>

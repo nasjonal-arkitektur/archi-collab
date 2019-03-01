@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Lese data"
-    id="06325b61-d634-49d7-8df6-ca027a708405"/>
+    name="Lese data [ns:erik]"
+    id="06325b61-d634-49d7-8df6-ca027a708405">
+  <properties
+      key="difi:namespace"
+      value="erik"/>
+</archimate:Capability>

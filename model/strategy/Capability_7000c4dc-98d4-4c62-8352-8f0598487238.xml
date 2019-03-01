@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Konfidensialitet"
-    id="7000c4dc-98d4-4c62-8352-8f0598487238"/>
+    name="Konfidensialitet [ns:erik]"
+    id="7000c4dc-98d4-4c62-8352-8f0598487238">
+  <properties
+      key="difi:namespace"
+      value="erik"/>
+</archimate:Capability>

@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Samtykke"
-    id="3b7c16e7-a868-4ddc-b1f6-532a77f0e627"/>
+    id="3b7c16e7-a868-4ddc-b1f6-532a77f0e627">
+  <properties
+      key="difi:namespace"
+      value="henrik"/>
+</archimate:Capability>

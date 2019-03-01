@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sikker backup"
-    id="5e634052-1165-4538-bc85-111faccfbd07"/>
+    id="5e634052-1165-4538-bc85-111faccfbd07">
+  <properties
+      key="difi:namespace"
+      value="RR"/>
+</archimate:Capability>

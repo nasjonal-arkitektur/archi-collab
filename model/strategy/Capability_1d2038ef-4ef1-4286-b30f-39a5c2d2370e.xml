@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Analyse av data og dokumenter"
-    id="1d2038ef-4ef1-4286-b30f-39a5c2d2370e"/>
+    id="1d2038ef-4ef1-4286-b30f-39a5c2d2370e">
+  <properties
+      key="difi:namespace"
+      value="RR"/>
+</archimate:Capability>

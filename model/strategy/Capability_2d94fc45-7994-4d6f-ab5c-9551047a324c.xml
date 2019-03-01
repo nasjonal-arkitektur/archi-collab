@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Egen lagring"
     id="2d94fc45-7994-4d6f-ab5c-9551047a324c"
-    documentation="Dataavtale!"/>
+    documentation="Dataavtale!">
+  <properties
+      key="difi:namespace"
+      value="RR"/>
+</archimate:Capability>

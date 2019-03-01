@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Utføre transaksjon"
-    id="417e298b-d8e2-463e-988c-78f475699767"/>
+    name="Utføre transaksjon [ns:erik]"
+    id="417e298b-d8e2-463e-988c-78f475699767">
+  <properties
+      key="difi:namespace"
+      value="erik"/>
+</archimate:Capability>

@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Duplikat-prevensjon"
-    id="08529bc9-061a-4cad-93e2-047651cc0f88"/>
+    id="08529bc9-061a-4cad-93e2-047651cc0f88">
+  <properties
+      key="difi:namespace"
+      value="RR"/>
+</archimate:Capability>

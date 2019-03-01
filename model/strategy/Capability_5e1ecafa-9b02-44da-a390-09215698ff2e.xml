@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Duplikatrydding"
-    id="5e1ecafa-9b02-44da-a390-09215698ff2e"/>
+    id="5e1ecafa-9b02-44da-a390-09215698ff2e">
+  <properties
+      key="difi:namespace"
+      value="RR"/>
+</archimate:Capability>

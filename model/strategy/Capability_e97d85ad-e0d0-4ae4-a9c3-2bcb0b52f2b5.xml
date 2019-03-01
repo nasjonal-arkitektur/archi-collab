@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kanaltilpasset publisering"
-    id="e97d85ad-e0d0-4ae4-a9c3-2bcb0b52f2b5"/>
+    id="e97d85ad-e0d0-4ae4-a9c3-2bcb0b52f2b5">
+  <properties
+      key="difi:namespace"
+      value="RR"/>
+</archimate:Capability>

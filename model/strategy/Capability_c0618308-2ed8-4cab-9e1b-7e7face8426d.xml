@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="API-oversikt"
     id="c0618308-2ed8-4cab-9e1b-7e7face8426d"
-    documentation="Å ha oversikt over APIene sine"/>
+    documentation="Å ha oversikt over APIene sine">
+  <properties
+      key="difi:namespace"
+      value="jim"/>
+</archimate:Capability>

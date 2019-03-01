@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Strukturering"
-    id="43204338-8348-4be3-b5d6-7f4b662e913b"/>
+    id="43204338-8348-4be3-b5d6-7f4b662e913b">
+  <properties
+      key="difi:namespace"
+      value="RR"/>
+</archimate:Capability>

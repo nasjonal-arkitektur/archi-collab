@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Intern arkivering"
-    id="dd8c4ce5-f2d2-4b40-9d12-72ffbb4c145e"/>
+    id="dd8c4ce5-f2d2-4b40-9d12-72ffbb4c145e">
+  <properties
+      key="difi:namespace"
+      value="RR"/>
+</archimate:Capability>

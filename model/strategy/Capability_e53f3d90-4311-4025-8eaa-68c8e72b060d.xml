@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sikkerhets-klassifisering"
-    id="e53f3d90-4311-4025-8eaa-68c8e72b060d"/>
+    id="e53f3d90-4311-4025-8eaa-68c8e72b060d">
+  <properties
+      key="difi:namespace"
+      value="RR"/>
+</archimate:Capability>

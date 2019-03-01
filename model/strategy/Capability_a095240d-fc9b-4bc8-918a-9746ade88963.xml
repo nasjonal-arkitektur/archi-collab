@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Dokumentere begreper"
-    id="a095240d-fc9b-4bc8-918a-9746ade88963"/>
+    id="a095240d-fc9b-4bc8-918a-9746ade88963">
+  <properties
+      key="difi:namespace"
+      value="henrik"/>
+</archimate:Capability>

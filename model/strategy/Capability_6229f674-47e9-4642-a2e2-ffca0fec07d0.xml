@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Dokumentere APIer"
-    id="6229f674-47e9-4642-a2e2-ffca0fec07d0"/>
+    id="6229f674-47e9-4642-a2e2-ffca0fec07d0">
+  <properties
+      key="difi:namespace"
+      value="henrik"/>
+</archimate:Capability>

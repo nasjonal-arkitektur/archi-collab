@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Nasjonalt nivå - automatisk innhøsting av oversikter"
-    id="941eae72-b868-4631-8ef3-c9111a1ca54e"/>
+    name="Nasjonalt nivå - automatisk innhøsting av oversikter [ns:jim]"
+    id="941eae72-b868-4631-8ef3-c9111a1ca54e">
+  <properties
+      key="difi:namespace"
+      value="jim"/>
+</archimate:Grouping>

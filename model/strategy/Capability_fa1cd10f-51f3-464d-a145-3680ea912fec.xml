@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Få tilgang til API"
-    id="fa1cd10f-51f3-464d-a145-3680ea912fec"/>
+    id="fa1cd10f-51f3-464d-a145-3680ea912fec">
+  <properties
+      key="difi:namespace"
+      value="erik"/>
+</archimate:Capability>

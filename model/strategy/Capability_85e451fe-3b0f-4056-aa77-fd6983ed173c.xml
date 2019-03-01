@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Analyse av data"
-    id="85e451fe-3b0f-4056-aa77-fd6983ed173c"/>
+    id="85e451fe-3b0f-4056-aa77-fd6983ed173c">
+  <properties
+      key="difi:namespace"
+      value="erik"/>
+</archimate:Capability>

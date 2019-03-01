@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tilgangsstyring"
-    id="1cf1c7e4-cbac-4c19-bd24-6d4a707c00e1"/>
+    id="1cf1c7e4-cbac-4c19-bd24-6d4a707c00e1">
+  <properties
+      key="difi:namespace"
+      value="RR"/>
+</archimate:Capability>

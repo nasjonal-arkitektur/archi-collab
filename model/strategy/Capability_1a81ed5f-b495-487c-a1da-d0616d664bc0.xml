@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Få utført kortlevd transaksjon, med tilbakerulling"
-    id="1a81ed5f-b495-487c-a1da-d0616d664bc0"/>
+    name="Få utført kortlevd transaksjon, med tilbakerulling [ns:erik]"
+    id="1a81ed5f-b495-487c-a1da-d0616d664bc0">
+  <properties
+      key="difi:namespace"
+      value="erik"/>
+</archimate:Capability>

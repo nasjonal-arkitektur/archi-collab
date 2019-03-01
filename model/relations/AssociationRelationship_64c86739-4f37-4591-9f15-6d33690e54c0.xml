@@ -1,7 +1,11 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" [ns:erik]"
     id="64c86739-4f37-4591-9f15-6d33690e54c0">
+  <properties
+      key="difi:namespace"
+      value="erik"/>
   <source
       xsi:type="archimate:Capability"
       href="Capability_210acbf2-0d92-4ee1-833e-32801f26ca40.xml#210acbf2-0d92-4ee1-833e-32801f26ca40"/>

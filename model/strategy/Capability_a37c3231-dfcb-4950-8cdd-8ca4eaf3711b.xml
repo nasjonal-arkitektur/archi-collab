@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Merking med metadata"
-    id="a37c3231-dfcb-4950-8cdd-8ca4eaf3711b"/>
+    id="a37c3231-dfcb-4950-8cdd-8ca4eaf3711b">
+  <properties
+      key="difi:namespace"
+      value="RR"/>
+</archimate:Capability>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Hjemmelsoversikt"
     id="360b641d-4f26-48ea-a0a4-757ca9b2262b"
-    documentation="Å ha oversikt over hjemlene sine"/>
+    documentation="Å ha oversikt over hjemlene sine">
+  <properties
+      key="difi:namespace"
+      value="jim"/>
+</archimate:Capability>

@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Avviksvarsling"
-    id="6f4bb393-b862-412d-b096-ddad47332450"/>
+    id="6f4bb393-b862-412d-b096-ddad47332450">
+  <properties
+      key="difi:namespace"
+      value="RR"/>
+</archimate:Capability>

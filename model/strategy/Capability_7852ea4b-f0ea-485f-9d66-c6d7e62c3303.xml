@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Dokumentere datasett og dataoversikt"
     id="7852ea4b-f0ea-485f-9d66-c6d7e62c3303"
-    documentation="Å kunne dokumentere oversikt over og beskrivelser av datasett"/>
+    documentation="Å kunne dokumentere oversikt over og beskrivelser av datasett">
+  <properties
+      key="difi:namespace"
+      value="jim"/>
+</archimate:Capability>

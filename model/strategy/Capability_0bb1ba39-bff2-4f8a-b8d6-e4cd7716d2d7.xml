@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Støttefunksjoner for strukturering"
-    id="0bb1ba39-bff2-4f8a-b8d6-e4cd7716d2d7"/>
+    id="0bb1ba39-bff2-4f8a-b8d6-e4cd7716d2d7">
+  <properties
+      key="difi:namespace"
+      value="RR"/>
+</archimate:Capability>

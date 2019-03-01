@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Datamodellering"
-    id="42bc7042-2944-475e-a862-00c4c8ccbe06"/>
+    id="42bc7042-2944-475e-a862-00c4c8ccbe06">
+  <properties
+      key="difi:namespace"
+      value="RR"/>
+</archimate:Capability>

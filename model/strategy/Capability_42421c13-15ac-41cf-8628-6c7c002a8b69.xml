@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Minimere data"
-    id="42421c13-15ac-41cf-8628-6c7c002a8b69"/>
+    id="42421c13-15ac-41cf-8628-6c7c002a8b69">
+  <properties
+      key="difi:namespace"
+      value="henrik"/>
+</archimate:Capability>

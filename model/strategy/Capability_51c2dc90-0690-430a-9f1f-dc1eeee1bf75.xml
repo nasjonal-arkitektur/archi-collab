@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kjennskap til datakilder"
-    id="51c2dc90-0690-430a-9f1f-dc1eeee1bf75"/>
+    id="51c2dc90-0690-430a-9f1f-dc1eeee1bf75">
+  <properties
+      key="difi:namespace"
+      value="RR"/>
+</archimate:Capability>

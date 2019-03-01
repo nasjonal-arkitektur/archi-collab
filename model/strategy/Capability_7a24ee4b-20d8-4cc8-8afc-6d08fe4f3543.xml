@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Slå opp publiserte data"
-    id="7a24ee4b-20d8-4cc8-8afc-6d08fe4f3543"/>
+    id="7a24ee4b-20d8-4cc8-8afc-6d08fe4f3543">
+  <properties
+      key="difi:namespace"
+      value="erik"/>
+</archimate:Capability>

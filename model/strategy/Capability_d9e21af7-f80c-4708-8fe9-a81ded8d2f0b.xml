@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Automatisering av prosesser"
-    id="d9e21af7-f80c-4708-8fe9-a81ded8d2f0b"/>
+    id="d9e21af7-f80c-4708-8fe9-a81ded8d2f0b">
+  <properties
+      key="difi:namespace"
+      value="RR"/>
+</archimate:Capability>

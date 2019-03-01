@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tilgjengeliggjøre oversikt og beskrivelser av begreper"
     id="68d7106c-ce38-4b0a-b3a4-2d52a2283008"
-    documentation="Å kunne gjøre tilgjengelig oversikt over og beskrivelser av begreper"/>
+    documentation="Å kunne gjøre tilgjengelig oversikt over og beskrivelser av begreper">
+  <properties
+      key="difi:namespace"
+      value="jim"/>
+</archimate:Capability>

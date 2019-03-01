@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Oversikt over informasjons-behov"
-    id="33f9f679-918d-4522-9eb5-87f38b304e90"/>
+    name="Oversikt over informasjons-behov [ns:erik]"
+    id="33f9f679-918d-4522-9eb5-87f38b304e90">
+  <properties
+      key="difi:namespace"
+      value="erik"/>
+</archimate:Capability>

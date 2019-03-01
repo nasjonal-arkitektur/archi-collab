@@ -849,25 +849,23 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="8419d4d8-4b31-4b66-92fd-61f414d5dcdc"
-      targetConnections="c0b9c74a-4521-4dad-833c-eb927acb6a0c">
-    <bounds
-        x="595"
-        y="779"
-        width="130"
-        height="60"/>
-    <archimateElement
-        xsi:type="archimate:Capability"
-        href="Capability_ed62765f-417d-48f5-a2dc-a8c66ee85f87.xml#ed62765f-417d-48f5-a2dc-a8c66ee85f87"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="606c2e23-0846-4a5a-8940-a837a37352f1">
     <bounds
         x="595"
         y="852"
         width="130"
         height="60"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="8419d4d8-4b31-4b66-92fd-61f414d5dcdc"
+        targetConnections="c0b9c74a-4521-4dad-833c-eb927acb6a0c">
+      <bounds
+          width="130"
+          height="60"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_ed62765f-417d-48f5-a2dc-a8c66ee85f87.xml#ed62765f-417d-48f5-a2dc-a8c66ee85f87"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_7000c4dc-98d4-4c62-8352-8f0598487238.xml#7000c4dc-98d4-4c62-8352-8f0598487238"/>
@@ -1662,12 +1660,18 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="f56d1975-229b-4198-b2a7-515d3854611c"
+      name=" [ns:null]"
       textAlignment="1"
       content="Huskelapp:&#xD;&#xA;Det trengs kapabiliteter for å håndtere alt dette.&#xD;&#xA;">
     <sourceConnections
         id="105d12c3-f538-4dd8-b97f-2c67dc7cf952"
+        name=" [ns:erik]"
         source="f56d1975-229b-4198-b2a7-515d3854611c"
-        target="18a7c34d-66f7-44e5-a525-a86a1ae0fafc"/>
+        target="18a7c34d-66f7-44e5-a525-a86a1ae0fafc">
+      <properties
+          key="difi:namespace"
+          value="erik"/>
+    </sourceConnections>
     <bounds
         x="128"
         y="1062"

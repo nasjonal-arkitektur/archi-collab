@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Begrepsoversikt"
     id="09dd70fc-3f49-44fd-a42d-4c4f8e0f4dd2"
-    documentation="Å ha oversikt over begrepene sine"/>
+    documentation="Å ha oversikt over begrepene sine">
+  <properties
+      key="difi:namespace"
+      value="jim"/>
+</archimate:Capability>

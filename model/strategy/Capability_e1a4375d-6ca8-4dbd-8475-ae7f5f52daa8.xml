@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Mønstergjenkjenning"
-    id="e1a4375d-6ca8-4dbd-8475-ae7f5f52daa8"/>
+    id="e1a4375d-6ca8-4dbd-8475-ae7f5f52daa8">
+  <properties
+      key="difi:namespace"
+      value="RR"/>
+</archimate:Capability>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Felles kodeliste-oversikt"
     id="6a3965ff-d34c-496c-8fbf-86acc15d102e"
-    documentation="Å ha en felles kodelisteoversikt nasjonalt"/>
+    documentation="Å ha en felles kodelisteoversikt nasjonalt">
+  <properties
+      key="difi:namespace"
+      value="jim"/>
+</archimate:Capability>

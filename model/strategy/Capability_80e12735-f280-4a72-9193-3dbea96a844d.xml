@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Lagring hos tredjepart"
     id="80e12735-f280-4a72-9193-3dbea96a844d"
-    documentation="Sky, andre&#xA;Dataavtale!"/>
+    documentation="Sky, andre&#xA;Dataavtale!">
+  <properties
+      key="difi:namespace"
+      value="RR"/>
+</archimate:Capability>

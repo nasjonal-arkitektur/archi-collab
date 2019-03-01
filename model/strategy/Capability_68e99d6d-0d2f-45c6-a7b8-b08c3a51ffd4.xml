@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Utvikling"
-    id="68e99d6d-0d2f-45c6-a7b8-b08c3a51ffd4"/>
+    id="68e99d6d-0d2f-45c6-a7b8-b08c3a51ffd4">
+  <properties
+      key="difi:namespace"
+      value="henrik"/>
+</archimate:Capability>

@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Transformere data [ns:eira]"
-    id="f6af0e33-c8f9-402a-afc3-becd0e6ff497"/>
+    name="Transformere data [ns:eira] [ns:erik]"
+    id="f6af0e33-c8f9-402a-afc3-becd0e6ff497">
+  <properties
+      key="difi:namespace"
+      value="erik"/>
+</archimate:Capability>

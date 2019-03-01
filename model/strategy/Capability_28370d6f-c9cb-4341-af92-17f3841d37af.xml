@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Hendelseshåndtering"
-    id="28370d6f-c9cb-4341-af92-17f3841d37af"/>
+    name="Hendelses-håndtering"
+    id="28370d6f-c9cb-4341-af92-17f3841d37af">
+  <properties
+      key="difi:namespace"
+      value="henrik"/>
+</archimate:Capability>

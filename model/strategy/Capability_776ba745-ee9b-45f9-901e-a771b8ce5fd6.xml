@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ende til ende sikring av overføringer"
-    id="776ba745-ee9b-45f9-901e-a771b8ce5fd6"/>
+    id="776ba745-ee9b-45f9-901e-a771b8ce5fd6">
+  <properties
+      key="difi:namespace"
+      value="RR"/>
+</archimate:Capability>

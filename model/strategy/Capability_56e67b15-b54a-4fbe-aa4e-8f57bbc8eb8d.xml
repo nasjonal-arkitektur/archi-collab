@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Deponering til riksarkivet"
-    id="56e67b15-b54a-4fbe-aa4e-8f57bbc8eb8d"/>
+    id="56e67b15-b54a-4fbe-aa4e-8f57bbc8eb8d">
+  <properties
+      key="difi:namespace"
+      value="RR"/>
+</archimate:Capability>

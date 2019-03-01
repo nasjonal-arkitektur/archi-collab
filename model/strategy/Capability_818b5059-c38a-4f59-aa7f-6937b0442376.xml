@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sikring av data"
-    id="818b5059-c38a-4f59-aa7f-6937b0442376"/>
+    name="Sikring av data [ns:erik]"
+    id="818b5059-c38a-4f59-aa7f-6937b0442376">
+  <properties
+      key="difi:namespace"
+      value="erik"/>
+</archimate:Capability>

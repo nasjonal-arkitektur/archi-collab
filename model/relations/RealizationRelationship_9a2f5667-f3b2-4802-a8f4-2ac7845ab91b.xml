@@ -1,7 +1,11 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" [ns:erik]"
     id="9a2f5667-f3b2-4802-a8f4-2ac7845ab91b">
+  <properties
+      key="difi:namespace"
+      value="erik"/>
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_02122e30-2fd5-4364-b62f-d354bb912428.xml#02122e30-2fd5-4364-b62f-d354bb912428"/>

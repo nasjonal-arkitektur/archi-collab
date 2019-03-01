@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tilgjengeliggjøre infomod"
     id="80364ded-e241-40d9-9507-fdc224e912b9"
-    documentation="Å kunne tilgjengeliggjøre informasjonsmodeller, i maskinlesbare formater"/>
+    documentation="Å kunne tilgjengeliggjøre informasjonsmodeller, i maskinlesbare formater">
+  <properties
+      key="difi:namespace"
+      value="jim"/>
+</archimate:Capability>

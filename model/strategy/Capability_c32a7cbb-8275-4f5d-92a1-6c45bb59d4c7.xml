@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tilgjengeliggjøre oversikt og beskrivelser av infomodeller"
     id="c32a7cbb-8275-4f5d-92a1-6c45bb59d4c7"
-    documentation="Å kunne gjøre tilgjengelig oversikt over og beskrivelser av informasjonsmodeller"/>
+    documentation="Å kunne gjøre tilgjengelig oversikt over og beskrivelser av informasjonsmodeller">
+  <properties
+      key="difi:namespace"
+      value="jim"/>
+</archimate:Capability>

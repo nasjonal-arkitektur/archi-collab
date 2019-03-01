@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Felles hjemmelsoversikt"
     id="1c95c787-2027-47ae-b133-0fba4f4f803f"
-    documentation="Å ha en felles hjemmelsoversikt nasjonalt"/>
+    documentation="Å ha en felles hjemmelsoversikt nasjonalt">
+  <properties
+      key="difi:namespace"
+      value="jim"/>
+</archimate:Capability>

@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Innsikt i prosesstatus"
-    id="20509861-6d57-4d4d-8dab-a886fd03bdfc"/>
+    id="20509861-6d57-4d4d-8dab-a886fd03bdfc">
+  <properties
+      key="difi:namespace"
+      value="RR"/>
+</archimate:Capability>

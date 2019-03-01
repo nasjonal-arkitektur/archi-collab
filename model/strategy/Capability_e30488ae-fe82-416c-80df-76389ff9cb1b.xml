@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Publisere data"
-    id="e30488ae-fe82-416c-80df-76389ff9cb1b"/>
+    name="Publisere data [ns:henrik]"
+    id="e30488ae-fe82-416c-80df-76389ff9cb1b">
+  <properties
+      key="difi:namespace"
+      value="henrik"/>
+</archimate:Capability>

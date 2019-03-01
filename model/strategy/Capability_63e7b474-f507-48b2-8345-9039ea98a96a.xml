@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Særskilt infofangst"
     id="63e7b474-f507-48b2-8345-9039ea98a96a"
-    documentation="Typisk første gang&#xA;"/>
+    documentation="Typisk første gang&#xA;">
+  <properties
+      key="difi:namespace"
+      value="RR"/>
+</archimate:Capability>

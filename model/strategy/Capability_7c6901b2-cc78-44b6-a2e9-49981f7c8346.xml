@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Registrering"
-    id="7c6901b2-cc78-44b6-a2e9-49981f7c8346"/>
+    id="7c6901b2-cc78-44b6-a2e9-49981f7c8346">
+  <properties
+      key="difi:namespace"
+      value="RR"/>
+</archimate:Capability>

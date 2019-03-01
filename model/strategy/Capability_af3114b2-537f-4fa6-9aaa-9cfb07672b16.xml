@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Batch"
-    id="af3114b2-537f-4fa6-9aaa-9cfb07672b16"/>
+    name="Batch [ns:erik]"
+    id="af3114b2-537f-4fa6-9aaa-9cfb07672b16">
+  <properties
+      key="difi:namespace"
+      value="erik"/>
+</archimate:Capability>

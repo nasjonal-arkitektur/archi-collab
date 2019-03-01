@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tolkning av data"
-    id="22f5724e-2118-4739-871b-ff4d330d1736"/>
+    id="22f5724e-2118-4739-871b-ff4d330d1736">
+  <properties
+      key="difi:namespace"
+      value="erik"/>
+</archimate:Capability>

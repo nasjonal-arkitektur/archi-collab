@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Hente publiserte data"
-    id="435e1923-1d58-40d2-86bb-968abcdc1d1e"/>
+    id="435e1923-1d58-40d2-86bb-968abcdc1d1e">
+  <properties
+      key="difi:namespace"
+      value="erik"/>
+</archimate:Capability>

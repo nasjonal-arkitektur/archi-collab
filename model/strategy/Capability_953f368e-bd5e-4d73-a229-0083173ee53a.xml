@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Koble data"
-    id="953f368e-bd5e-4d73-a229-0083173ee53a"/>
+    id="953f368e-bd5e-4d73-a229-0083173ee53a">
+  <properties
+      key="difi:namespace"
+      value="henrik"/>
+</archimate:Capability>

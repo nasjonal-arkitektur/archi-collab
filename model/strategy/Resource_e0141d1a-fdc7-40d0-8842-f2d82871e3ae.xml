@@ -1,0 +1,5 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Blokkjeder"
+    id="e0141d1a-fdc7-40d0-8842-f2d82871e3ae"
+    documentation="«Blokkjeden» er en distribuert database som ivaretar&#xD;&#xA;en kontinuerlig økende mengde informasjon, kalt «blokker», som ikke kan revideres eller manipuleres.&#xD;&#xA;Teknologien kan eksempelvis gjøre det mulig med en&#xD;&#xA;direkte overførsel av verdier i et nettverk uten en&#xD;&#xA;tredjepart som for eksempel en bank."/>
