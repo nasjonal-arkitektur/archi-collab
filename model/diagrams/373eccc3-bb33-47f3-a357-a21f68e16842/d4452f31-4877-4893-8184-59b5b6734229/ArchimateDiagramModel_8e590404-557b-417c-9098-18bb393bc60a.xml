@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Oversikter og kataloger"
-    id="8e590404-557b-417c-9098-18bb393bc60a">
+    id="8e590404-557b-417c-9098-18bb393bc60a"
+    documentation="Oversikt over (virksomhetsinterne og felles) kataloger, og kopling til kapabiliteter (for å ha oversikter)">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="e62e81ab-62b2-4f47-a699-bed432db01a4"
