@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kapabiliteter - å ha oversikter"
     id="435ec560-bf18-4d38-9c4a-fa572e34cfba"
+    documentation="Oversikt over kapabiliteter for å ha oversikt"
     viewpoint="capability">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
