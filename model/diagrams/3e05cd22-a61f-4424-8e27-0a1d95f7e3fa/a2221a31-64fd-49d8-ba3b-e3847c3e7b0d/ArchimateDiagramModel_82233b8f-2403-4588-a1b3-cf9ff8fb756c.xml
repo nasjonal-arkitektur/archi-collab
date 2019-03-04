@@ -1179,7 +1179,6 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="9f1852ba-9944-446e-a800-f2161ae1fa0f"
-      name=" [ns:null]"
       textAlignment="1"
       content="Sette inn i en kontekst som forklarer bedre bildet.&#xD;&#xA;Hva er det en virksomhet trenger for å dele data?">
     <bounds

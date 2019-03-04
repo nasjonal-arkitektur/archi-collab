@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sende data til en kjent mottaker [ns:na1]"
+    name="Sende data til en kjent mottaker"
     id="811179cd-061b-4644-9f28-878a35d7f094">
   <properties
       key="difi:namespace"
