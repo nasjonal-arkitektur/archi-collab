@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Journalføring [ns:e-kladd]"
+    id="29d15127-3e61-4cd3-8095-a10756620259">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

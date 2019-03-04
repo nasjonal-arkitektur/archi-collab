@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sikring av informasjon [ns:e-kladd]"
+    id="fbe92f53-382e-49ce-9564-a6559f026396">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

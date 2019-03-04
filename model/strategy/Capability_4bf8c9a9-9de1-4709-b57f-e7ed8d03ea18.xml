@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kildereferering [ns:e-kladd]"
+    id="4bf8c9a9-9de1-4709-b57f-e7ed8d03ea18">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

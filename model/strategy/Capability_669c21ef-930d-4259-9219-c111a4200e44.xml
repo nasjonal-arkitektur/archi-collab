@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sanntidsoppdatering [ns:e-kladd]"
+    id="669c21ef-930d-4259-9219-c111a4200e44"
+    documentation="gjelder innhenting,. lagring, analyser, publisering">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

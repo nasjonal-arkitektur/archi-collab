@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Innsyn"
+    name="Innsyn [ns:na1]"
     id="6680e434-967e-4884-81a2-d2b1d03a8238">
   <properties
       key="difi:namespace"
-      value="henrik"/>
+      value="na1"/>
 </archimate:Capability>

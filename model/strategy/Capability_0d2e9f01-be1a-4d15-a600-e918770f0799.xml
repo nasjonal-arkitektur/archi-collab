@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Automatisering av prosesser [ns:e-kladd]"
+    id="0d2e9f01-be1a-4d15-a600-e918770f0799">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

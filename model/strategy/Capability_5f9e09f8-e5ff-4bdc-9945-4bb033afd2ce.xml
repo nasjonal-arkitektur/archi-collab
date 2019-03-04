@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="&quot;Juridisk&quot;"
+    name="&quot;Juridisk&quot; [ns:na1]"
     id="5f9e09f8-e5ff-4bdc-9945-4bb033afd2ce">
   <properties
       key="difi:namespace"
-      value="henrik"/>
+      value="na1"/>
 </archimate:Capability>

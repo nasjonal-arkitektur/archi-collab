@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lovpålagt sletting av sensitive data [ns:e-kladd]"
+    id="0b7e691f-bf90-47d9-b186-6b541de16794">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

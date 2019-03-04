@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oppbevaring av bevis [ns:e-kladd]"
+    id="4e8b05d7-2c9a-4522-bae3-77252dd8b951">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

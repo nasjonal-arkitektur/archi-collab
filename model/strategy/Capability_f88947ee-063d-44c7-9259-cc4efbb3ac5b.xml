@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avviksvarsling [ns:e-kladd]"
+    id="f88947ee-063d-44c7-9259-cc4efbb3ac5b">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

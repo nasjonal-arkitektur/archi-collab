@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kontrakthåndtering"
+    name="Kontrakthåndtering [ns:na1]"
     id="5b5067a5-cd81-467d-b0b6-00cb4a562831">
   <properties
       key="difi:namespace"
-      value="henrik"/>
+      value="na1"/>
 </archimate:Capability>

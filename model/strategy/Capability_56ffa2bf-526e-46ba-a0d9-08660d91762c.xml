@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Frie metadata-vokabularer [ns:e-kladd]"
+    id="56ffa2bf-526e-46ba-a0d9-08660d91762c">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

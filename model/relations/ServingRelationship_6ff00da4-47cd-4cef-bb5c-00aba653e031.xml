@@ -2,6 +2,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="6ff00da4-47cd-4cef-bb5c-00aba653e031">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
   <source
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_ee172e0f-f976-453b-a133-16c077db8c0b.xml#ee172e0f-f976-453b-a133-16c077db8c0b"/>

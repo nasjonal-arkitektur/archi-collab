@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Motta adresserte data"
+    name="Motta adresserte data [ns:na1]"
     id="b5e91436-f0fc-4906-bfee-a4b3846693a2">
   <properties
       key="difi:namespace"
-      value="erik"/>
+      value="na1"/>
 </archimate:Capability>

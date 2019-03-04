@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oppsplitting og sammenstilling [ns:e-kladd]"
+    id="8d971042-091c-4466-8871-f2bc11ddffab">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

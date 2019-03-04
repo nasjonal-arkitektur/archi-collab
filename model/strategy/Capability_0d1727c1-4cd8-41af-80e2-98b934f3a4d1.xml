@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Spore tilgang"
+    name="Spore tilgang [ns:na1]"
     id="0d1727c1-4cd8-41af-80e2-98b934f3a4d1">
   <properties
       key="difi:namespace"
-      value="henrik"/>
+      value="na1"/>
 </archimate:Capability>

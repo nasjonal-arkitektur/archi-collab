@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sikker backup [ns:e-kladd]"
+    id="c5c4445d-15ec-4100-a142-94e7e4cf2d99">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

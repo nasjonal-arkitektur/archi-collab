@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kjennskap til datakilder [ns:e-kladd]"
+    id="87964e07-f78c-47cc-96c0-539595c79f02">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

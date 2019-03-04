@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Utvikling"
+    name="Utvikling [ns:na1]"
     id="68e99d6d-0d2f-45c6-a7b8-b08c3a51ffd4">
   <properties
       key="difi:namespace"
-      value="henrik"/>
+      value="na1"/>
 </archimate:Capability>

@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Semantisk lenking [ns:e-kladd]"
+    id="86935246-01b3-4978-9d19-37291b3b7646">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

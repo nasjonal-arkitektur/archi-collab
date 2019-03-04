@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Konfigurasjons-styring [ns:e-kladd]"
+    id="8ba1d381-e918-4445-8f05-203bf387456f"
+    documentation="inkl. logging">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

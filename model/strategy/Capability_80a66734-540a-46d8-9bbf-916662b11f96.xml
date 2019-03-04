@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Livssyklusadministrasjon og sporing [ns:e-kladd]"
+    id="80a66734-540a-46d8-9bbf-916662b11f96"
+    documentation="Inkl. master data management, endringshåndtering, konfigurasjonsstyring">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

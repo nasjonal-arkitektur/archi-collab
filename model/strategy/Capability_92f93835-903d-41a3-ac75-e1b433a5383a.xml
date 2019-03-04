@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datapreparering [ns:e-kladd]"
+    id="92f93835-903d-41a3-ac75-e1b433a5383a">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

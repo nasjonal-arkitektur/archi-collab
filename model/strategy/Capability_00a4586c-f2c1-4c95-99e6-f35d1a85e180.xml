@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ende til ende sikring av overføringer [ns:e-kladd]"
+    id="00a4586c-f2c1-4c95-99e6-f35d1a85e180">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

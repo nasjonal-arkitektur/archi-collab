@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tilgangsstyring [ns:e-kladd]"
+    id="9be723b4-88ea-4446-8e6c-f6113a0914d2">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sending av data"
+    name="Sending av data [ns:na1]"
     id="e883e4c2-591e-4a35-bfb5-3a76d32166ce">
   <properties
       key="difi:namespace"
-      value="erik"/>
+      value="na1"/>
 </archimate:Capability>

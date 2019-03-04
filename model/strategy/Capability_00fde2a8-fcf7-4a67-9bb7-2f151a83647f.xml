@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Standardbasert lagring [ns:e-kladd]"
+    id="00fde2a8-fcf7-4a67-9bb7-2f151a83647f">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

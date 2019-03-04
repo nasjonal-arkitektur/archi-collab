@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eksperimentell infofangst [ns:e-kladd]"
+    id="c4799a1e-0e63-46d4-a88c-56f3304c894e">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

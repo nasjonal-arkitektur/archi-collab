@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Oppdatere masterdata"
+    name="Oppdatere masterdata [ns:na1]"
     id="62fb991a-1bee-48fa-aff1-87ad3d01784b">
   <properties
       key="difi:namespace"
-      value="henrik"/>
+      value="na1"/>
 </archimate:Capability>

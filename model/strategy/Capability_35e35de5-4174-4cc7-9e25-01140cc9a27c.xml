@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adaptiv saksbehandling [ns:e-kladd]"
+    id="35e35de5-4174-4cc7-9e25-01140cc9a27c">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

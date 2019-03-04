@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kontinuerlig revisjon [ns:e-kladd]"
+    id="05e94b73-6641-4c29-9f73-2d2736fccdbc">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

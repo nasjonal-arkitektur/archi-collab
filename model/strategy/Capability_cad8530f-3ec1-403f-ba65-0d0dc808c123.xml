@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Slå opp data gjennom et API"
+    name="Slå opp data gjennom et API [ns:na1]"
     id="cad8530f-3ec1-403f-ba65-0d0dc808c123">
   <properties
       key="difi:namespace"
-      value="erik"/>
+      value="na1"/>
 </archimate:Capability>

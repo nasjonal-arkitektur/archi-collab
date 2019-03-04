@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Definert produktansvar [ns:e-kladd]"
+    id="259431cd-9b07-4054-a2ce-d69d9023dea3">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

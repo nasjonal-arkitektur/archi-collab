@@ -1,10 +1,11 @@
 <archimate:SpecializationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" [ns:na1]"
     id="e9aa6257-e402-41cb-bda9-2b7f887a5597">
   <properties
       key="difi:namespace"
-      value="erik"/>
+      value="na1"/>
   <source
       xsi:type="archimate:Capability"
       href="Capability_549061d4-b1db-41ea-acb6-aa4357b11b52.xml#549061d4-b1db-41ea-acb6-aa4357b11b52"/>

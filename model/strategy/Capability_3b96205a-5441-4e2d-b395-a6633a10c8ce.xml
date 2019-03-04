@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lagring hos tredjepart [ns:e-kladd]"
+    id="3b96205a-5441-4e2d-b395-a6633a10c8ce"
+    documentation="Sky, andre&#xA;Dataavtale!">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

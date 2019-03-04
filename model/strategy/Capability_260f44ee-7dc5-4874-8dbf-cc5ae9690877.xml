@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Mottak av data"
+    name="Mottak av data [ns:na1]"
     id="260f44ee-7dc5-4874-8dbf-cc5ae9690877">
   <properties
       key="difi:namespace"
-      value="erik"/>
+      value="na1"/>
 </archimate:Capability>

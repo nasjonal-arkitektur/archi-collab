@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Delegering av rettigheter til databehandler (leverandør)"
+    name="Delegering av rettigheter til databehandler (leverandør) [ns:na1]"
     id="7348153c-efca-49c8-9618-d294acc73880">
   <properties
       key="difi:namespace"
-      value="erik"/>
+      value="na1"/>
 </archimate:Capability>

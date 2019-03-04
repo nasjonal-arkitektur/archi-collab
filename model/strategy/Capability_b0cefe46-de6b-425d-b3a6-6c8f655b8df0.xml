@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oversikt over persondata [ns:e-kladd]"
+    id="b0cefe46-de6b-425d-b3a6-6c8f655b8df0">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

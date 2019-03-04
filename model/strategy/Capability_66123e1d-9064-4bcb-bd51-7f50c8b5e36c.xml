@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Egen lagring [ns:e-kladd]"
+    id="66123e1d-9064-4bcb-bd51-7f50c8b5e36c"
+    documentation="Dataavtale!">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

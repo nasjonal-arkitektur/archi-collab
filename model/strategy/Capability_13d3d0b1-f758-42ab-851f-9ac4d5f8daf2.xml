@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datamodellering [ns:e-kladd]"
+    id="13d3d0b1-f758-42ab-851f-9ac4d5f8daf2">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

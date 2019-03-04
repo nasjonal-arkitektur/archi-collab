@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gjenbruk av informasjon og løsninger [ns:e-kladd]"
+    id="e9263a4d-bce9-40b3-889d-212743d3ef99">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

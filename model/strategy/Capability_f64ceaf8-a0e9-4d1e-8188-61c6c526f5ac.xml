@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sporing av kilder og endringer [ns:e-kladd]"
+    id="f64ceaf8-a0e9-4d1e-8188-61c6c526f5ac">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Samtykke"
+    name="Samtykke [ns:na1]"
     id="3b7c16e7-a868-4ddc-b1f6-532a77f0e627">
   <properties
       key="difi:namespace"
-      value="henrik"/>
+      value="na1"/>
 </archimate:Capability>

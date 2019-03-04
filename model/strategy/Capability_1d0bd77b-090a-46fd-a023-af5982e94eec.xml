@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pseudonymisering [ns:e-kladd]"
+    id="1d0bd77b-090a-46fd-a023-af5982e94eec">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

@@ -22,4 +22,7 @@
   <properties
       key="eira:actual_use"
       value="[ Currently used | Used planned | No ]"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
 </archimate:ApplicationService>

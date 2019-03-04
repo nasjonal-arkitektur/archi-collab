@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oversikt over innhentet informasjon [ns:e-kladd]"
+    id="721b2ef1-549d-46cc-b3a0-afa5d2ceada1">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

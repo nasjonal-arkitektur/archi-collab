@@ -22,4 +22,7 @@
   <properties
       key="eira:actual_use"
       value="[ Exposed for reuse as main service | Exposed for reuse as supporting[ Currently used | Used planned | No ] service | Reused ]"/>
+  <properties
+      key="difi:namespace"
+      value="eira"/>
 </archimate:ApplicationService>

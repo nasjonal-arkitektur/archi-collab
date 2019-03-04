@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sikring av tilgjengelighet"
-    id="94d2b8b9-6226-47bc-b509-714d42b5813e"/>
+    name="Sikring av tilgjengelighet [ns:na1]"
+    id="94d2b8b9-6226-47bc-b509-714d42b5813e">
+  <properties
+      key="difi:namespace"
+      value="na1"/>
+</archimate:Capability>

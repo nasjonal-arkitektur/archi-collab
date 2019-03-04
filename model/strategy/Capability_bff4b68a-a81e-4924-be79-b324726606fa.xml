@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Analysere lokale data"
+    name="Analysere lokale data [ns:na1]"
     id="bff4b68a-a81e-4924-be79-b324726606fa">
   <properties
       key="difi:namespace"
-      value="erik"/>
+      value="na1"/>
 </archimate:Capability>

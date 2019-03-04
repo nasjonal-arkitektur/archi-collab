@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Konvertere data"
+    name="Konvertere data [ns:na1]"
     id="2881dac0-26b2-4a69-a07a-5fcb23755f2a">
   <properties
       key="difi:namespace"
-      value="henrik"/>
+      value="na1"/>
 </archimate:Capability>

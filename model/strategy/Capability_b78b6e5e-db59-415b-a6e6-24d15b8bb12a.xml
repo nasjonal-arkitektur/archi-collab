@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deponering til riksarkivet [ns:e-kladd]"
+    id="b78b6e5e-db59-415b-a6e6-24d15b8bb12a">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

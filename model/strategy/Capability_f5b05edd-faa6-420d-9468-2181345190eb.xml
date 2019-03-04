@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forskriftsmessig sak&amp;arkiv [ns:e-kladd]"
+    id="f5b05edd-faa6-420d-9468-2181345190eb">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

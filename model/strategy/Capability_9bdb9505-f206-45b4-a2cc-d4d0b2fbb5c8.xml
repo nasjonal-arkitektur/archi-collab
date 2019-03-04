@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Definert eierskap til informasjon [ns:e-kladd]"
+    id="9bdb9505-f206-45b4-a2cc-d4d0b2fbb5c8">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

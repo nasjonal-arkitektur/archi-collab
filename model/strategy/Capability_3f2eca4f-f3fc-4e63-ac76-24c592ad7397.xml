@@ -1,9 +1,11 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="InfoMod-oversikt"
+    name="InfoMod-oversikt [ns:jim]"
     id="3f2eca4f-f3fc-4e63-ac76-24c592ad7397"
     documentation="Å ha oversikt over informasjonsmodellene sine">
   <properties
       key="difi:namespace"
       value="jim"/>
+  <properties
+      key="link-model"/>
 </archimate:Capability>

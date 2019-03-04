@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Periodisk infofangst [ns:e-kladd]"
+    id="ea771c15-0971-4ad8-90a1-3613d5b6835a">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>
