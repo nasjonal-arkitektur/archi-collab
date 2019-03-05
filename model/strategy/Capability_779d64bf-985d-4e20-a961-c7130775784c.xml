@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analyse av data og dokumenter [ns:e-kladd]"
+    id="779d64bf-985d-4e20-a961-c7130775784c">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

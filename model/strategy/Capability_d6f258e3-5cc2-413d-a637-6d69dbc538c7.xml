@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Løpende infofangst [ns:e-kladd]"
+    id="d6f258e3-5cc2-413d-a637-6d69dbc538c7"
+    documentation="Hendelsesbasert&#xA;Sanntid, transaksjonsstrømmer">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

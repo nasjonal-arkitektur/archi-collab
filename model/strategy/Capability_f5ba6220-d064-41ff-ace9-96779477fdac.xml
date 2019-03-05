@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arkivavgrensing [ns:e-kladd]"
+    id="f5ba6220-d064-41ff-ace9-96779477fdac">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

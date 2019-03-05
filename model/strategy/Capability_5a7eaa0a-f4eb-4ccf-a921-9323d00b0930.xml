@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Mottak av oppdatering"
-    id="5a7eaa0a-f4eb-4ccf-a921-9323d00b0930"/>
+    id="5a7eaa0a-f4eb-4ccf-a921-9323d00b0930">
+  <properties
+      key="difi:namespace"
+      value="na1"/>
+</archimate:Capability>

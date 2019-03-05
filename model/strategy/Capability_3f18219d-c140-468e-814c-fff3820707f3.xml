@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gjenfinning av informasjon [ns:e-kladd]"
+    id="3f18219d-c140-468e-814c-fff3820707f3"
+    documentation="Siste versjon vs. ønsket versjon">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

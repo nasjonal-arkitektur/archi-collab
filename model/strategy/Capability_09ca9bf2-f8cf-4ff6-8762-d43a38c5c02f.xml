@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innsikt i prosesstatus [ns:e-kladd]"
+    id="09ca9bf2-f8cf-4ff6-8762-d43a38c5c02f">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

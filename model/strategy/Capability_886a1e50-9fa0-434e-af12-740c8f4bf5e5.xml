@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sikkerhets-klassifisering [ns:e-kladd]"
+    id="886a1e50-9fa0-434e-af12-740c8f4bf5e5">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

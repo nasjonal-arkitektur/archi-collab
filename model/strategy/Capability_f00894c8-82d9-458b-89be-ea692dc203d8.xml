@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overføring av eksterne data [ns:e-kladd]"
+    id="f00894c8-82d9-458b-89be-ea692dc203d8"
+    documentation="kan være skybasert">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

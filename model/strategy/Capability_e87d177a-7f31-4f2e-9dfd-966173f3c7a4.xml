@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informasjonsfangst [ns:e-kladd]"
+    id="e87d177a-7f31-4f2e-9dfd-966173f3c7a4">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

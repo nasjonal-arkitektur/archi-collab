@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strukturering [ns:e-kladd]"
+    id="497eec8d-ef2d-41a7-ae4f-1a34a01dbb1c">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Historisk prosessanalyse [ns:e-kladd]"
+    id="b5fc2e8c-9a4c-4c5a-b4d1-622191b5ccaf">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prosesser for høring og godkjenning [ns:e-kladd]"
+    id="59d5280b-4880-47ce-a5cc-197e7b729e80">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

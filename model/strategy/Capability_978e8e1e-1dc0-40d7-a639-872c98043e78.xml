@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lagring av vilkårlige formater [ns:e-kladd]"
+    id="978e8e1e-1dc0-40d7-a639-872c98043e78">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

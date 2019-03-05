@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Særskilt infofangst [ns:e-kladd]"
+    id="9b26f89c-821b-42af-bc01-06dc8c0362a0"
+    documentation="Typisk første gang&#xA;">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

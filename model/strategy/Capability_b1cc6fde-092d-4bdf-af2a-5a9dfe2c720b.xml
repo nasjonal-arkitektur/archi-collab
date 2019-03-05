@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fleksibel rapport-generering [ns:e-kladd]"
+    id="b1cc6fde-092d-4bdf-af2a-5a9dfe2c720b">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

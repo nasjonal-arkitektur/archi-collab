@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Logging av brukeraksess [ns:e-kladd]"
+    id="4284ebfc-63d9-4741-8f39-bf9c3186947a">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

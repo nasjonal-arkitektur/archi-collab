@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Støttefunksjoner for strukturering [ns:e-kladd]"
+    id="25b7cb33-d0f8-414a-9a08-02d79b503dcc">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

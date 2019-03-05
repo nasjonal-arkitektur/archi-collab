@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rettighets-forvaltning [ns:e-kladd]"
+    id="f772cec8-98d4-4660-bda3-b1a4c49d0982">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

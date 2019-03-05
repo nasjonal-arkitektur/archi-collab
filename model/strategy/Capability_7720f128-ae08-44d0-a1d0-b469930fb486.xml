@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Identitets-forvaltning"
-    id="7720f128-ae08-44d0-a1d0-b469930fb486"/>
+    id="7720f128-ae08-44d0-a1d0-b469930fb486">
+  <properties
+      key="difi:namespace"
+      value="eirabased"/>
+</archimate:Capability>

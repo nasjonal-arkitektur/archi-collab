@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sikker lagring [ns:e-kladd]"
+    id="fab7de6e-4460-4092-83c1-b9219c6acbda">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

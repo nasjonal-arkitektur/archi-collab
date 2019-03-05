@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Etterlevelse av NOARK-standarden [ns:e-kladd]"
+    id="96e3a9a5-9285-438a-b8de-fa4c88a9793d">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Publisere data"
-    id="cf137b28-8e49-465f-b765-da6bf035787a"/>
+    id="cf137b28-8e49-465f-b765-da6bf035787a">
+  <properties
+      key="difi:namespace"
+      value="eirabased"/>
+</archimate:Capability>

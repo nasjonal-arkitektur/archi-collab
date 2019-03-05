@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avviksbasert infofangst [ns:e-kladd]"
+    id="499303c6-88cb-468f-888f-3c74c4d178ca">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

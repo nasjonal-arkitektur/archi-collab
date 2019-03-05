@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Merking med metadata [ns:e-kladd]"
+    id="5f227471-3a23-4a04-9b73-7de5892d9470">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

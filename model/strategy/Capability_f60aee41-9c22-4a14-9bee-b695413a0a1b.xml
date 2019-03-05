@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arbeidsflytstøtte [ns:e-kladd]"
+    id="f60aee41-9c22-4a14-9bee-b695413a0a1b">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>

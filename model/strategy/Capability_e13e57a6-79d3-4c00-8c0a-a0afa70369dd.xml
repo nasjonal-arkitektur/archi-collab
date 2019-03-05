@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kontrollerte metadata-vokabularer [ns:e-kladd]"
+    id="e13e57a6-79d3-4c00-8c0a-a0afa70369dd">
+  <properties
+      key="difi:namespace"
+      value="e-kladd"/>
+</archimate:Capability>
