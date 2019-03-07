@@ -1,6 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name=" [ns:eira]"
     id="6672834a-6899-4810-ba25-1564b0633b8f">
   <properties
       key="difi:namespace"

@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Evne til å dele data"
-    id="3806b1fd-0745-46d1-9498-0ca641c97726"/>
+    name="Evne til å dele data [ns:henrik]"
+    id="3806b1fd-0745-46d1-9498-0ca641c97726">
+  <properties
+      key="difi:namespace"
+      value="henrik"/>
+</archimate:Capability>

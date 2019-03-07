@@ -8,7 +8,7 @@
       xsi:type="archimate:DiagramModelGroup"
       id="9fc7c2a3-f00a-4a25-813b-8a86f3fc529c"
       name="Hendelsesdrevet deling av data"
-      documentation="Deling av data initiert av en tilstandsendring i dataene som deles. Databruker leser eller abonnerer på hendelseslister og dette trigger eventuell videre oppfølging. Databruker må vurderer om endringen skal følges opp og lese data på forespørsel.">
+      documentation="Deling av data initiert av en tilstandsendring i dataene som deles. Databruker leser eller abonnerer på hendelseslister og dette trigger eventuell videre oppfølging. Databruker må vurdere om endringen skal følges opp og lese data på forespørsel.">
     <bounds
         x="174"
         y="361"

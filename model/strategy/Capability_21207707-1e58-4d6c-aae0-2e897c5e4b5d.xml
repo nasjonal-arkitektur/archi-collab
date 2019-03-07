@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Identifisere virksomheter"
-    id="21207707-1e58-4d6c-aae0-2e897c5e4b5d"/>
+    name="Identifisere virksomheter [ns:henrik]"
+    id="21207707-1e58-4d6c-aae0-2e897c5e4b5d">
+  <properties
+      key="difi:namespace"
+      value="henrik"/>
+</archimate:Capability>
