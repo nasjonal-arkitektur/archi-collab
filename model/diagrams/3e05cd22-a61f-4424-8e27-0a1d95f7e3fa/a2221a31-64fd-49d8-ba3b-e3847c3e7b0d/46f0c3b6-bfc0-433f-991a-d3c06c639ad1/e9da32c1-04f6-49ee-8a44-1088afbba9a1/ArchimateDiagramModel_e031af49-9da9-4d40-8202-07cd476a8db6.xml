@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Etablere API i maskinporten app_lag"
+    name="Registrering av sikkert API app_lag"
     id="e031af49-9da9-4d40-8202-07cd476a8db6">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
