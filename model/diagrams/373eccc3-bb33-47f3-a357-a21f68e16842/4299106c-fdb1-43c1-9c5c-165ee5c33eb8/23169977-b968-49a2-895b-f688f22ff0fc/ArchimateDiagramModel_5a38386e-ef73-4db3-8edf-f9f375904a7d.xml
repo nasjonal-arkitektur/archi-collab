@@ -651,7 +651,7 @@
         x="192"
         y="421"
         width="181"
-        height="174"/>
+        height="192"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="ec1884f3-ea5f-4814-a327-e2c4f69fc547"
@@ -673,7 +673,7 @@
           x="24"
           y="108"
           width="130"
-          height="60"/>
+          height="72"/>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_1dc50c39-a4dc-4cfb-8169-630b56b1ce3d.xml#1dc50c39-a4dc-4cfb-8169-630b56b1ce3d"/>
