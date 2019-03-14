@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tilby data som en tjeneste app_lag"
+    name="Avgi forespurte data app_lag"
     id="4919a673-af9f-4697-a229-1cbef9034e2e">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
