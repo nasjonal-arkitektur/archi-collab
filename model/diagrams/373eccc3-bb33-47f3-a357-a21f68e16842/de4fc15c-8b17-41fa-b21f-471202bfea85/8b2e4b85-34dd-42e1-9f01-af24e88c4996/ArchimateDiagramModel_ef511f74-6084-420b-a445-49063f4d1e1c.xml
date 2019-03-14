@@ -178,6 +178,28 @@
         y="470"
         width="828"
         height="142"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="6ee66123-285c-4b13-a3d6-1e58f1404f44"
+        targetConnections="1a83fdc7-b298-4515-a6af-cf03aa0fb40b">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="1ca75160-d619-44e9-86c3-37516e59d3fc"
+          source="6ee66123-285c-4b13-a3d6-1e58f1404f44"
+          target="36d2b646-92c2-4f8f-849b-8b39aaea661a">
+        <archimateRelationship
+            xsi:type="archimate:FlowRelationship"
+            href="FlowRelationship_2eefcaea-d1df-4fa0-a260-a5d8262f53b2.xml#2eefcaea-d1df-4fa0-a260-a5d8262f53b2"/>
+      </sourceConnections>
+      <bounds
+          x="168"
+          y="48"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_304505a0-9fb7-421a-9958-30ed2dc40289.xml#304505a0-9fb7-421a-9958-30ed2dc40289"/>
+    </children>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_3e439057-36df-4288-9d77-30397d86d46c.xml#3e439057-36df-4288-9d77-30397d86d46c"/>
@@ -268,28 +290,6 @@
     <archimateElement
         xsi:type="archimate:BusinessEvent"
         href="BusinessEvent_158ec0ed-8d1d-40a3-a05b-4e0f7b838f42.xml#158ec0ed-8d1d-40a3-a05b-4e0f7b838f42"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="6ee66123-285c-4b13-a3d6-1e58f1404f44"
-      targetConnections="1a83fdc7-b298-4515-a6af-cf03aa0fb40b">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="1ca75160-d619-44e9-86c3-37516e59d3fc"
-        source="6ee66123-285c-4b13-a3d6-1e58f1404f44"
-        target="36d2b646-92c2-4f8f-849b-8b39aaea661a">
-      <archimateRelationship
-          xsi:type="archimate:FlowRelationship"
-          href="FlowRelationship_2eefcaea-d1df-4fa0-a260-a5d8262f53b2.xml#2eefcaea-d1df-4fa0-a260-a5d8262f53b2"/>
-    </sourceConnections>
-    <bounds
-        x="180"
-        y="513"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_304505a0-9fb7-421a-9958-30ed2dc40289.xml#304505a0-9fb7-421a-9958-30ed2dc40289"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
