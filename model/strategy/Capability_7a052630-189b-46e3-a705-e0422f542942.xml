@@ -5,4 +5,15 @@
   <properties
       key="difi:namespace"
       value="e-kladd"/>
+  <properties
+      key="difi:name_no"
+      value="Retningslinjer og definerte prosesser [ns:e-kladd]"/>
+  <properties
+      key="difi:name_en"
+      value="Retningslinjer og definerte prosesser [ns:e-kladd] (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
 </archimate:Capability>

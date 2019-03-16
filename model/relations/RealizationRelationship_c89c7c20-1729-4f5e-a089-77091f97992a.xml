@@ -3,6 +3,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="realiserer"
     id="c89c7c20-1729-4f5e-a089-77091f97992a">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="realiserer"/>
+  <properties
+      key="difi:name_en"
+      value="realiserer (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
   <source
       xsi:type="archimate:Grouping"
       href="Grouping_2eddb991-95a3-4627-bf28-bdd4f890b60a.xml#2eddb991-95a3-4627-bf28-bdd4f890b60a"/>

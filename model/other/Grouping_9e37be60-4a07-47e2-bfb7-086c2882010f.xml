@@ -1,4 +1,19 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Parkeringsplass"
-    id="9e37be60-4a07-47e2-bfb7-086c2882010f"/>
+    id="9e37be60-4a07-47e2-bfb7-086c2882010f">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Parkeringsplass"/>
+  <properties
+      key="difi:name_en"
+      value="Parkeringsplass (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Grouping>

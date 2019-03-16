@@ -1,4 +1,19 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integrasjonspunkt"
-    id="12f6cdf3-2841-4abf-8e64-1e62b065135b"/>
+    id="12f6cdf3-2841-4abf-8e64-1e62b065135b">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Integrasjonspunkt"/>
+  <properties
+      key="difi:name_en"
+      value="Integrasjonspunkt (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:ApplicationComponent>

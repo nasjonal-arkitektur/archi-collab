@@ -1,4 +1,19 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="#Prinsipper om masterdata"
-    id="8d3971fb-a9fb-439c-8108-c3f265468c01"/>
+    id="8d3971fb-a9fb-439c-8108-c3f265468c01">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="#Prinsipper om masterdata"/>
+  <properties
+      key="difi:name_en"
+      value="#Prinsipper om masterdata (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Principle>

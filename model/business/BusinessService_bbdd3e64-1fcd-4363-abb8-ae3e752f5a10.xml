@@ -1,4 +1,19 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bistand til statlige virksomheter og kommunesektoren, "
-    id="bbdd3e64-1fcd-4363-abb8-ae3e752f5a10"/>
+    id="bbdd3e64-1fcd-4363-abb8-ae3e752f5a10">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Bistand til statlige virksomheter og kommunesektoren, "/>
+  <properties
+      key="difi:name_en"
+      value="Bistand til statlige virksomheter og kommunesektoren,  (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessService>

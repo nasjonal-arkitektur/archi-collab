@@ -3,6 +3,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="tjener"
     id="b4c5cb60-31df-4b02-b289-ceaf6b07fff7">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="tjener"/>
+  <properties
+      key="difi:name_en"
+      value="tjener (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
   <source
       xsi:type="archimate:Grouping"
       href="Grouping_9a50a7f9-369e-41bf-8cec-bd102c2f8b46.xml#9a50a7f9-369e-41bf-8cec-bd102c2f8b46"/>

@@ -5,4 +5,15 @@
   <properties
       key="difi:namespace"
       value="henrik"/>
+  <properties
+      key="difi:name_no"
+      value="Grad av tillit [ns:henrik]"/>
+  <properties
+      key="difi:name_en"
+      value="Grad av tillit [ns:henrik] (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
 </archimate:BusinessObject>

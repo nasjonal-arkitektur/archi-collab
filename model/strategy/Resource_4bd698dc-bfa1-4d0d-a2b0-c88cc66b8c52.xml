@@ -1,4 +1,19 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kommunikasjons-materiell"
-    id="4bd698dc-bfa1-4d0d-a2b0-c88cc66b8c52"/>
+    id="4bd698dc-bfa1-4d0d-a2b0-c88cc66b8c52">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Kommunikasjons-materiell"/>
+  <properties
+      key="difi:name_en"
+      value="Kommunikasjons-materiell (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Resource>

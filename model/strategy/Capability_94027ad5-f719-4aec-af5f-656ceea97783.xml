@@ -2,4 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Orientert om den internasjonale utviklingen"
     id="94027ad5-f719-4aec-af5f-656ceea97783"
-    documentation="Orientert om den internasjonale utviklingen på disse områdene"/>
+    documentation="Orientert om den internasjonale utviklingen på disse områdene">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Orientert om den internasjonale utviklingen"/>
+  <properties
+      key="difi:name_en"
+      value="Orientert om den internasjonale utviklingen (no)"/>
+  <properties
+      key="difi:description_no"
+      value="Orientert om den internasjonale utviklingen på disse områdene"/>
+  <properties
+      key="difi:description_en"
+      value="Orientert om den internasjonale utviklingen på disse områdene (no)"/>
+</archimate:Capability>

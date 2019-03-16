@@ -1,4 +1,19 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Innbyggerautentisering"
-    id="a781838d-69ff-48f9-b77a-33daf81de90c"/>
+    id="a781838d-69ff-48f9-b77a-33daf81de90c">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Innbyggerautentisering"/>
+  <properties
+      key="difi:name_en"
+      value="Innbyggerautentisering (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessService>

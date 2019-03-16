@@ -1,4 +1,19 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Grov tilgangsstyring"
-    id="e8d51dd9-e43d-4c66-908f-0b9ceeb5a67f"/>
+    id="e8d51dd9-e43d-4c66-908f-0b9ceeb5a67f">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Grov tilgangsstyring"/>
+  <properties
+      key="difi:name_en"
+      value="Grov tilgangsstyring (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:ApplicationService>

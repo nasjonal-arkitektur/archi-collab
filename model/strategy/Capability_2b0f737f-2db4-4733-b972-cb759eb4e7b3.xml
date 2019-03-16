@@ -6,4 +6,16 @@
   <properties
       key="difi:namespace"
       value="RR"/>
+  <properties
+      key="difi:name_no"
+      value="Overføring av eksterne data [ns:RR]"/>
+  <properties
+      key="difi:name_en"
+      value="Overføring av eksterne data [ns:RR] (no)"/>
+  <properties
+      key="difi:description_no"
+      value="kan være skybasert"/>
+  <properties
+      key="difi:description_en"
+      value="kan være skybasert (no)"/>
 </archimate:Capability>

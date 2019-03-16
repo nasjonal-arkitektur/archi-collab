@@ -1,4 +1,19 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Fagsystem"
-    id="192db43f-4b39-4b0a-bd87-831c8c7aff79"/>
+    id="192db43f-4b39-4b0a-bd87-831c8c7aff79">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Fagsystem"/>
+  <properties
+      key="difi:name_en"
+      value="Fagsystem (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:ApplicationComponent>

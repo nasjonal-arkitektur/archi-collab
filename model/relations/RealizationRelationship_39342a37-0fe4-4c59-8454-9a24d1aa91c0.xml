@@ -3,6 +3,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="automatiserer"
     id="39342a37-0fe4-4c59-8454-9a24d1aa91c0">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="automatiserer"/>
+  <properties
+      key="difi:name_en"
+      value="automatiserer (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
   <source
       xsi:type="archimate:Grouping"
       href="Grouping_e46c2ddc-d833-43bc-aa7c-684c24b7afff.xml#e46c2ddc-d833-43bc-aa7c-684c24b7afff"/>

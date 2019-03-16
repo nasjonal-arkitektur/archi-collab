@@ -2,6 +2,19 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="a7e17ed7-3ce5-4cf3-a792-e9ebf89d8277">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value=" (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
   <source
       xsi:type="archimate:WorkPackage"
       href="WorkPackage_a524573f-1c7f-47b8-a104-471eda480c22.xml#a524573f-1c7f-47b8-a104-471eda480c22"/>

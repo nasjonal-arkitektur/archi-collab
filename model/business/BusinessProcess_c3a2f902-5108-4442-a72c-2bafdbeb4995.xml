@@ -1,4 +1,19 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="&quot;Tilpasse data&quot;"
-    id="c3a2f902-5108-4442-a72c-2bafdbeb4995"/>
+    id="c3a2f902-5108-4442-a72c-2bafdbeb4995">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="&quot;Tilpasse data&quot;"/>
+  <properties
+      key="difi:name_en"
+      value="&quot;Tilpasse data&quot; (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessProcess>

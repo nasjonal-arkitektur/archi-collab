@@ -1,4 +1,19 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Databehandler [ns:GDPR]"
-    id="9692a02f-1935-4517-8c6b-d3344ba8b721"/>
+    id="9692a02f-1935-4517-8c6b-d3344ba8b721">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Databehandler [ns:GDPR]"/>
+  <properties
+      key="difi:name_en"
+      value="Databehandler [ns:GDPR] (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessRole>

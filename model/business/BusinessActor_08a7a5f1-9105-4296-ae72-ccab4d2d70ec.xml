@@ -1,4 +1,19 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DFØ"
-    id="08a7a5f1-9105-4296-ae72-ccab4d2d70ec"/>
+    id="08a7a5f1-9105-4296-ae72-ccab4d2d70ec">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="DFØ"/>
+  <properties
+      key="difi:name_en"
+      value="DFØ (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessActor>

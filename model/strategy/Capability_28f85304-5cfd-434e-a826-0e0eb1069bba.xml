@@ -1,4 +1,19 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Dataoversikt"
-    id="28f85304-5cfd-434e-a826-0e0eb1069bba"/>
+    id="28f85304-5cfd-434e-a826-0e0eb1069bba">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Dataoversikt"/>
+  <properties
+      key="difi:name_en"
+      value="Dataoversikt (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Capability>

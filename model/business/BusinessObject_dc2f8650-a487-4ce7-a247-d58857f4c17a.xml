@@ -1,4 +1,19 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Avtale mellom tilbyder og felles representant"
-    id="dc2f8650-a487-4ce7-a247-d58857f4c17a"/>
+    id="dc2f8650-a487-4ce7-a247-d58857f4c17a">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Avtale mellom tilbyder og felles representant"/>
+  <properties
+      key="difi:name_en"
+      value="Avtale mellom tilbyder og felles representant (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessObject>

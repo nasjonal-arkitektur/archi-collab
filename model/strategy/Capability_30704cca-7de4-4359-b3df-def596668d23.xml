@@ -2,4 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Dokumentere kvalitet på datasett"
     id="30704cca-7de4-4359-b3df-def596668d23"
-    documentation="Å kunne dokumentere kvalitet på datasett"/>
+    documentation="Å kunne dokumentere kvalitet på datasett">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Dokumentere kvalitet på datasett"/>
+  <properties
+      key="difi:name_en"
+      value="Dokumentere kvalitet på datasett (no)"/>
+  <properties
+      key="difi:description_no"
+      value="Å kunne dokumentere kvalitet på datasett"/>
+  <properties
+      key="difi:description_en"
+      value="Å kunne dokumentere kvalitet på datasett (no)"/>
+</archimate:Capability>

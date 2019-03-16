@@ -2,6 +2,19 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="7ea8d967-1de7-4ac8-a66e-5b5355554e1d">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value=" (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_baf7d6bb-87c5-41ae-8aba-484fdc7c5067.xml#baf7d6bb-87c5-41ae-8aba-484fdc7c5067"/>

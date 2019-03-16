@@ -1,4 +1,19 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bruker-orientering"
-    id="eacd42e2-ac97-41b4-8a2a-f895cba0af2d"/>
+    id="eacd42e2-ac97-41b4-8a2a-f895cba0af2d">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Bruker-orientering"/>
+  <properties
+      key="difi:name_en"
+      value="Bruker-orientering (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Principle>

@@ -1,4 +1,19 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Difis roller i tilknytning til innovasjon"
-    id="a51d422f-35b7-4abe-8039-d4c90fa5b170"/>
+    id="a51d422f-35b7-4abe-8039-d4c90fa5b170">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Difis roller i tilknytning til innovasjon"/>
+  <properties
+      key="difi:name_en"
+      value="Difis roller i tilknytning til innovasjon (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Grouping>

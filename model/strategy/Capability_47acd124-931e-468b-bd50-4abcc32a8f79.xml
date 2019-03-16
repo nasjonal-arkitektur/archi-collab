@@ -1,4 +1,19 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Dele data"
-    id="47acd124-931e-468b-bd50-4abcc32a8f79"/>
+    id="47acd124-931e-468b-bd50-4abcc32a8f79">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Dele data"/>
+  <properties
+      key="difi:name_en"
+      value="Dele data (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Capability>

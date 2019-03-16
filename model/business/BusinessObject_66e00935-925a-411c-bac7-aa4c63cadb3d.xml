@@ -1,4 +1,19 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Autentisering og autorisasjonsdata"
-    id="66e00935-925a-411c-bac7-aa4c63cadb3d"/>
+    id="66e00935-925a-411c-bac7-aa4c63cadb3d">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Autentisering og autorisasjonsdata"/>
+  <properties
+      key="difi:name_en"
+      value="Autentisering og autorisasjonsdata (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessObject>

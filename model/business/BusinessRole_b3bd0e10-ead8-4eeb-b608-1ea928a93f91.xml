@@ -1,4 +1,19 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Mellomledd [ns:Erik] (copy)"
-    id="b3bd0e10-ead8-4eeb-b608-1ea928a93f91"/>
+    id="b3bd0e10-ead8-4eeb-b608-1ea928a93f91">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Mellomledd [ns:Erik] (copy)"/>
+  <properties
+      key="difi:name_en"
+      value="Mellomledd [ns:Erik] (copy) (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessRole>

@@ -1,4 +1,19 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Standarder"
-    id="ca2c364b-7531-4632-b6e9-42e4289c0b86"/>
+    id="ca2c364b-7531-4632-b6e9-42e4289c0b86">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Standarder"/>
+  <properties
+      key="difi:name_en"
+      value="Standarder (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Grouping>

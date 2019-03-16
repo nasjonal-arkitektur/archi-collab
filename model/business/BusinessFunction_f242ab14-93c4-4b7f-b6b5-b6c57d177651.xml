@@ -22,4 +22,19 @@
       key="eira:reusability"/>
   <properties
       key="eira:reuse_status"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="&lt;&lt;Business Capability>> Registre"/>
+  <properties
+      key="difi:name_en"
+      value="&lt;&lt;Business Capability>> Registre (no)"/>
+  <properties
+      key="difi:description_no"
+      value="A particular ability or capacity that an organisation may possess or exchange to achieve a specific purpose or outcome.&#xD;&#xA;Defining a business capability involves identifying and describing what needs to be done by the business in support of its overall mission. Business capabilities provide an abstraction of the business reality in a way that helps to simplify conversations between interested stakeholders.&#xD;&#xA;&#xD;&#xA;Based on TOGAF definition and description of business capability.&#xD;&#xA;https://www2.opengroup.org/ogsys/catalog/g161 &#xD;&#xA;&#xD;&#xA;Syn. Business Ability&#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Surveillance3 reporting and generation of data sets&#xD;&#xA;The reporting and generation of data sets business capability brought by Surveillance3 enables the reporting and analysis of data by the end users, through integration mechanisms to other applications. Surveillance3 aggregates the declaration data and additional data such as Binding Tariff Information (BTI) decisions and Surveillance definitions in order to produce consolidated reports about:&#xD;&#xA;1.&#x9;The BTI usage for the DG TAXUD BTI sector users and for Member State users and &#xD;&#xA;2.&#x9;Surveillance statistical data&#xD;&#xA;&#xD;&#xA;http://ec.europa.eu/taxation_customs/dds2/surv/surv_consultation.jsp?Lang=en &#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"
+      value="A particular ability or capacity that an organisation may possess or exchange to achieve a specific purpose or outcome.&#xD;&#xA;Defining a business capability involves identifying and describing what needs to be done by the business in support of its overall mission. Business capabilities provide an abstraction of the business reality in a way that helps to simplify conversations between interested stakeholders.&#xD;&#xA;&#xD;&#xA;Based on TOGAF definition and description of business capability.&#xD;&#xA;https://www2.opengroup.org/ogsys/catalog/g161 &#xD;&#xA;&#xD;&#xA;Syn. Business Ability&#xD;&#xA;&#xD;&#xA;The following implementation is an example on how this specific Architecture Building Block (ABB) can be instantiated as a Solution Building Block (SBB):&#xD;&#xA;&#xD;&#xA;Surveillance3 reporting and generation of data sets&#xD;&#xA;The reporting and generation of data sets business capability brought by Surveillance3 enables the reporting and analysis of data by the end users, through integration mechanisms to other applications. Surveillance3 aggregates the declaration data and additional data such as Binding Tariff Information (BTI) decisions and Surveillance definitions in order to produce consolidated reports about:&#xD;&#xA;1.&#x9;The BTI usage for the DG TAXUD BTI sector users and for Member State users and &#xD;&#xA;2.&#x9;Surveillance statistical data&#xD;&#xA;&#xD;&#xA;http://ec.europa.eu/taxation_customs/dds2/surv/surv_consultation.jsp?Lang=en &#xD;&#xA; (no)"/>
 </archimate:BusinessFunction>

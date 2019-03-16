@@ -1,4 +1,19 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DCAT-AP-NO"
-    id="bb72abc6-1000-416b-b383-74a5112fd7a2"/>
+    id="bb72abc6-1000-416b-b383-74a5112fd7a2">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="DCAT-AP-NO"/>
+  <properties
+      key="difi:name_en"
+      value="DCAT-AP-NO (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessObject>

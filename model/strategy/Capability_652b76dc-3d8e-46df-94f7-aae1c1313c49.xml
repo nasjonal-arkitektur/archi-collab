@@ -6,4 +6,16 @@
   <properties
       key="difi:namespace"
       value="jim"/>
+  <properties
+      key="difi:name_no"
+      value="Tilgjengeliggjøre oversikt over hjemler [ns:jim]"/>
+  <properties
+      key="difi:name_en"
+      value="Tilgjengeliggjøre oversikt over hjemler [ns:jim] (no)"/>
+  <properties
+      key="difi:description_no"
+      value="Å kunne gjøre tilgjengelig oversikt over hjemler"/>
+  <properties
+      key="difi:description_en"
+      value="Å kunne gjøre tilgjengelig oversikt over hjemler (no)"/>
 </archimate:Capability>

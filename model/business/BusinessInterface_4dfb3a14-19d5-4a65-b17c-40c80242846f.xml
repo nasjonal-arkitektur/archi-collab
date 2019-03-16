@@ -1,4 +1,19 @@
 <archimate:BusinessInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Forsendelsegrensesnitt"
-    id="4dfb3a14-19d5-4a65-b17c-40c80242846f"/>
+    id="4dfb3a14-19d5-4a65-b17c-40c80242846f">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Forsendelsegrensesnitt"/>
+  <properties
+      key="difi:name_en"
+      value="Forsendelsegrensesnitt (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessInterface>

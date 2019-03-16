@@ -1,4 +1,19 @@
 <archimate:Stakeholder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Samfunnet - innbyggere, virksomheteter"
-    id="e5090dd2-9518-4cec-bca8-12ab1bfda276"/>
+    id="e5090dd2-9518-4cec-bca8-12ab1bfda276">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Samfunnet - innbyggere, virksomheteter"/>
+  <properties
+      key="difi:name_en"
+      value="Samfunnet - innbyggere, virksomheteter (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Stakeholder>

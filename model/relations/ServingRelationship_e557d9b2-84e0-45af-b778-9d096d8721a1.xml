@@ -3,6 +3,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="serves"
     id="e557d9b2-84e0-45af-b778-9d096d8721a1">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="serves"/>
+  <properties
+      key="difi:name_en"
+      value="serves (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
   <source
       xsi:type="archimate:TechnologyService"
       href="TechnologyService_20549275-41a5-4c6d-bd90-a7ae26f19061.xml#20549275-41a5-4c6d-bd90-a7ae26f19061"/>

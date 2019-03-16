@@ -1,4 +1,19 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Digital infrastruktur"
-    id="f73308f2-7eb0-4b95-9070-6bca4f4aba79"/>
+    id="f73308f2-7eb0-4b95-9070-6bca4f4aba79">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Digital infrastruktur"/>
+  <properties
+      key="difi:name_en"
+      value="Digital infrastruktur (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Resource>

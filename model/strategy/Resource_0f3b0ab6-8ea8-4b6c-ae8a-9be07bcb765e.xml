@@ -1,4 +1,19 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Standard: CPSV-AP"
-    id="0f3b0ab6-8ea8-4b6c-ae8a-9be07bcb765e"/>
+    id="0f3b0ab6-8ea8-4b6c-ae8a-9be07bcb765e">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Standard: CPSV-AP"/>
+  <properties
+      key="difi:name_en"
+      value="Standard: CPSV-AP (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Resource>

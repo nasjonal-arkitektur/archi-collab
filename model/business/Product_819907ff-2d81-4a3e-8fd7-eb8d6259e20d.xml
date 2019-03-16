@@ -1,4 +1,19 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Hardware"
-    id="819907ff-2d81-4a3e-8fd7-eb8d6259e20d"/>
+    id="819907ff-2d81-4a3e-8fd7-eb8d6259e20d">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Hardware"/>
+  <properties
+      key="difi:name_en"
+      value="Hardware (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Product>

@@ -5,4 +5,15 @@
   <properties
       key="difi:namespace"
       value="RR"/>
+  <properties
+      key="difi:name_no"
+      value="Anonymisering [ns:RR]"/>
+  <properties
+      key="difi:name_en"
+      value="Anonymisering [ns:RR] (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
 </archimate:Capability>

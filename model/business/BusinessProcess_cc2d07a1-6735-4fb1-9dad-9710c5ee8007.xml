@@ -1,4 +1,19 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Prosesser"
-    id="cc2d07a1-6735-4fb1-9dad-9710c5ee8007"/>
+    id="cc2d07a1-6735-4fb1-9dad-9710c5ee8007">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Prosesser"/>
+  <properties
+      key="difi:name_en"
+      value="Prosesser (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessProcess>

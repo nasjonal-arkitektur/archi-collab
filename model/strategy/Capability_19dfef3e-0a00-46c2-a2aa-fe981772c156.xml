@@ -1,4 +1,19 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Strategiske evner (forretning&amp;IT)"
-    id="19dfef3e-0a00-46c2-a2aa-fe981772c156"/>
+    id="19dfef3e-0a00-46c2-a2aa-fe981772c156">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Strategiske evner (forretning&amp;IT)"/>
+  <properties
+      key="difi:name_en"
+      value="Strategiske evner (forretning&amp;IT) (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Capability>

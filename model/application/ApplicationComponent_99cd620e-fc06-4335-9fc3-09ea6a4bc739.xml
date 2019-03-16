@@ -1,4 +1,19 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Begrepskatalog"
-    id="99cd620e-fc06-4335-9fc3-09ea6a4bc739"/>
+    id="99cd620e-fc06-4335-9fc3-09ea6a4bc739">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Begrepskatalog"/>
+  <properties
+      key="difi:name_en"
+      value="Begrepskatalog (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:ApplicationComponent>

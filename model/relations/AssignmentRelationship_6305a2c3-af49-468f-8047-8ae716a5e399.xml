@@ -3,6 +3,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="gir adgang til"
     id="6305a2c3-af49-468f-8047-8ae716a5e399">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="gir adgang til"/>
+  <properties
+      key="difi:name_en"
+      value="gir adgang til (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
   <source
       xsi:type="archimate:ApplicationInterface"
       href="ApplicationInterface_8a9e506b-3665-4f79-9f9d-fb1c9ec4724c.xml#8a9e506b-3665-4f79-9f9d-fb1c9ec4724c"/>

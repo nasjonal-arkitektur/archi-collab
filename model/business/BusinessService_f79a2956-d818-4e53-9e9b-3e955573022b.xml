@@ -1,4 +1,19 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opplæringsstøtte på europakompetanse "
-    id="f79a2956-d818-4e53-9e9b-3e955573022b"/>
+    id="f79a2956-d818-4e53-9e9b-3e955573022b">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Opplæringsstøtte på europakompetanse "/>
+  <properties
+      key="difi:name_en"
+      value="Opplæringsstøtte på europakompetanse  (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessService>

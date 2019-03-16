@@ -2,4 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="API-forvalter [ns:API-katalogen]"
     id="da58f7c4-a46b-4686-af59-84f334627cd2"
-    documentation="a) en som tilbyr og forvalter et grensesnitt mot gitte datasett (tilsvarende databehandler).  F.eks. SKD datadeling (Skattemeldingsdata)&#xD;&#xA;b) en tredjepart som distribuerer dataene for dataeier. F.eks. Evry, Difis datahotell (hotell.difi.no)&#xD;&#xA;"/>
+    documentation="a) en som tilbyr og forvalter et grensesnitt mot gitte datasett (tilsvarende databehandler).  F.eks. SKD datadeling (Skattemeldingsdata)&#xD;&#xA;b) en tredjepart som distribuerer dataene for dataeier. F.eks. Evry, Difis datahotell (hotell.difi.no)&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="API-forvalter [ns:API-katalogen]"/>
+  <properties
+      key="difi:name_en"
+      value="API-forvalter [ns:API-katalogen] (no)"/>
+  <properties
+      key="difi:description_no"
+      value="a) en som tilbyr og forvalter et grensesnitt mot gitte datasett (tilsvarende databehandler).  F.eks. SKD datadeling (Skattemeldingsdata)&#xD;&#xA;b) en tredjepart som distribuerer dataene for dataeier. F.eks. Evry, Difis datahotell (hotell.difi.no)&#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"
+      value="a) en som tilbyr og forvalter et grensesnitt mot gitte datasett (tilsvarende databehandler).  F.eks. SKD datadeling (Skattemeldingsdata)&#xD;&#xA;b) en tredjepart som distribuerer dataene for dataeier. F.eks. Evry, Difis datahotell (hotell.difi.no)&#xD;&#xA; (no)"/>
+</archimate:BusinessRole>

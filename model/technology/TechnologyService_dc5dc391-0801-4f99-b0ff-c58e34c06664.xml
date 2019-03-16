@@ -1,4 +1,19 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Web Service Infrastructure"
-    id="dc5dc391-0801-4f99-b0ff-c58e34c06664"/>
+    id="dc5dc391-0801-4f99-b0ff-c58e34c06664">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Web Service Infrastructure"/>
+  <properties
+      key="difi:name_en"
+      value="Web Service Infrastructure (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:TechnologyService>

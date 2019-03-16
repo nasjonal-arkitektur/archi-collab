@@ -2,4 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Digitaliseringen i samfunnet gir gode vilkår for deltagelse, verdiskapning og innovasjon i offentlig sektor"
     id="247be37b-1753-49ca-86e6-ea212e542416"
-    documentation="Digitaliseringen i samfunnet gir gode vilkår for deltagelse, verdiskapning og innovasjon i offentlig sektor"/>
+    documentation="Digitaliseringen i samfunnet gir gode vilkår for deltagelse, verdiskapning og innovasjon i offentlig sektor">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Digitaliseringen i samfunnet gir gode vilkår for deltagelse, verdiskapning og innovasjon i offentlig sektor"/>
+  <properties
+      key="difi:name_en"
+      value="Digitaliseringen i samfunnet gir gode vilkår for deltagelse, verdiskapning og innovasjon i offentlig sektor (no)"/>
+  <properties
+      key="difi:description_no"
+      value="Digitaliseringen i samfunnet gir gode vilkår for deltagelse, verdiskapning og innovasjon i offentlig sektor"/>
+  <properties
+      key="difi:description_en"
+      value="Digitaliseringen i samfunnet gir gode vilkår for deltagelse, verdiskapning og innovasjon i offentlig sektor (no)"/>
+</archimate:Outcome>

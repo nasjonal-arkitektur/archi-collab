@@ -8,4 +8,16 @@
       value="jim"/>
   <properties
       key="link-model"/>
+  <properties
+      key="difi:name_no"
+      value="InfoMod-oversikt [ns:jim]"/>
+  <properties
+      key="difi:name_en"
+      value="InfoMod-oversikt [ns:jim] (no)"/>
+  <properties
+      key="difi:description_no"
+      value="Å ha oversikt over informasjonsmodellene sine"/>
+  <properties
+      key="difi:description_en"
+      value="Å ha oversikt over informasjonsmodellene sine (no)"/>
 </archimate:Capability>

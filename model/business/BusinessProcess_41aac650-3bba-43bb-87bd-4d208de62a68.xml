@@ -1,4 +1,19 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Registrere delegert tilgang"
-    id="41aac650-3bba-43bb-87bd-4d208de62a68"/>
+    id="41aac650-3bba-43bb-87bd-4d208de62a68">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Registrere delegert tilgang"/>
+  <properties
+      key="difi:name_en"
+      value="Registrere delegert tilgang (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessProcess>

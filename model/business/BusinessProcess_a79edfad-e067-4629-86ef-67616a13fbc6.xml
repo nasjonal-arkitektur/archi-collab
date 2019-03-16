@@ -1,4 +1,19 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Utfør tjenestekall"
-    id="a79edfad-e067-4629-86ef-67616a13fbc6"/>
+    id="a79edfad-e067-4629-86ef-67616a13fbc6">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Utfør tjenestekall"/>
+  <properties
+      key="difi:name_en"
+      value="Utfør tjenestekall (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,19 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Responstid"
+    id="06eb0355-fe10-4a20-939f-b3c10058cd17">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Responstid"/>
+  <properties
+      key="difi:name_en"
+      value="Responstid (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Constraint>

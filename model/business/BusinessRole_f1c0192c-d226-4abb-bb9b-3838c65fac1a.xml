@@ -1,4 +1,19 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Roller"
-    id="f1c0192c-d226-4abb-bb9b-3838c65fac1a"/>
+    id="f1c0192c-d226-4abb-bb9b-3838c65fac1a">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Roller"/>
+  <properties
+      key="difi:name_en"
+      value="Roller (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessRole>

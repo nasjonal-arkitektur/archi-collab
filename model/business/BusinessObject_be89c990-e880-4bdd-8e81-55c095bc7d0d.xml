@@ -1,4 +1,19 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Person"
-    id="be89c990-e880-4bdd-8e81-55c095bc7d0d"/>
+    id="be89c990-e880-4bdd-8e81-55c095bc7d0d">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Person"/>
+  <properties
+      key="difi:name_en"
+      value="Person (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessObject>

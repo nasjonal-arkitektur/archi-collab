@@ -2,4 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Forberede markedsplass for skytjenester"
     id="060a90b9-b624-423f-86da-e03855ba9fba"
-    documentation="forberede etablering av en innkjøpsordning/markedsplass for skytjenester"/>
+    documentation="forberede etablering av en innkjøpsordning/markedsplass for skytjenester">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Forberede markedsplass for skytjenester"/>
+  <properties
+      key="difi:name_en"
+      value="Forberede markedsplass for skytjenester (no)"/>
+  <properties
+      key="difi:description_no"
+      value="forberede etablering av en innkjøpsordning/markedsplass for skytjenester"/>
+  <properties
+      key="difi:description_en"
+      value="forberede etablering av en innkjøpsordning/markedsplass for skytjenester (no)"/>
+</archimate:WorkPackage>

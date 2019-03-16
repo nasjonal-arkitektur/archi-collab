@@ -2,4 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Master Data (eira:MasterData)"
     id="dd8b5ccd-a095-46fd-8087-263881ac7c1d"
-    documentation="eira:MasterData"/>
+    documentation="eira:MasterData">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Master Data (eira:MasterData)"/>
+  <properties
+      key="difi:name_en"
+      value="Master Data (eira:MasterData) (no)"/>
+  <properties
+      key="difi:description_no"
+      value="eira:MasterData"/>
+  <properties
+      key="difi:description_en"
+      value="eira:MasterData (no)"/>
+</archimate:DataObject>

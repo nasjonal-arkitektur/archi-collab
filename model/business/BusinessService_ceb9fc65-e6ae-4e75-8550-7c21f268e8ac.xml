@@ -1,4 +1,19 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Operasjonalisering av regjeringens digitaliseringsstrategi"
-    id="ceb9fc65-e6ae-4e75-8550-7c21f268e8ac"/>
+    id="ceb9fc65-e6ae-4e75-8550-7c21f268e8ac">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Operasjonalisering av regjeringens digitaliseringsstrategi"/>
+  <properties
+      key="difi:name_en"
+      value="Operasjonalisering av regjeringens digitaliseringsstrategi (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessService>

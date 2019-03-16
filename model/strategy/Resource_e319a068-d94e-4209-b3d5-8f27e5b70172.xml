@@ -1,4 +1,19 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Resource"
-    id="e319a068-d94e-4209-b3d5-8f27e5b70172"/>
+    id="e319a068-d94e-4209-b3d5-8f27e5b70172">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Resource"/>
+  <properties
+      key="difi:name_en"
+      value="Resource (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Resource>

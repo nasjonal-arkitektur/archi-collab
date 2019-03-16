@@ -1,4 +1,19 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Service Metadata"
-    id="b17324e0-594f-474b-b9c7-f849648005dd"/>
+    id="b17324e0-594f-474b-b9c7-f849648005dd">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Service Metadata"/>
+  <properties
+      key="difi:name_en"
+      value="Service Metadata (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Artifact>

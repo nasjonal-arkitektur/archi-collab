@@ -2,6 +2,19 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="9151dcb3-4954-4c8c-b914-c227bf18650f">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value=" (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
   <source
       xsi:type="archimate:BusinessEvent"
       href="BusinessEvent_b42ca6c2-1c89-413c-bc46-8d0f8db4a412.xml#b42ca6c2-1c89-413c-bc46-8d0f8db4a412"/>

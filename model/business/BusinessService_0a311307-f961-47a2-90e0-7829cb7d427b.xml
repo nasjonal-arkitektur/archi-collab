@@ -1,4 +1,19 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ID-provider"
-    id="0a311307-f961-47a2-90e0-7829cb7d427b"/>
+    id="0a311307-f961-47a2-90e0-7829cb7d427b">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="ID-provider"/>
+  <properties
+      key="difi:name_en"
+      value="ID-provider (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessService>

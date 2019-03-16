@@ -1,4 +1,19 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Behandlings-ansvarlig [ns:GDPR]"
-    id="1a4bafcf-0821-448d-9d16-79928f4b12b5"/>
+    id="1a4bafcf-0821-448d-9d16-79928f4b12b5">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Behandlings-ansvarlig [ns:GDPR]"/>
+  <properties
+      key="difi:name_en"
+      value="Behandlings-ansvarlig [ns:GDPR] (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessRole>

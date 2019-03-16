@@ -1,0 +1,19 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arkitektur-byggekloss (ABB)"
+    id="d8b03262-18cb-4a50-9599-b7e570781696">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Arkitektur-byggekloss (ABB)"/>
+  <properties
+      key="difi:name_en"
+      value="Arkitektur-byggekloss (ABB) (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Resource>

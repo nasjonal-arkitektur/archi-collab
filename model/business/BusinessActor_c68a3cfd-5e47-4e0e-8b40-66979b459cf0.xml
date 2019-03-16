@@ -1,4 +1,19 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Eiere og forvaltere"
-    id="c68a3cfd-5e47-4e0e-8b40-66979b459cf0"/>
+    id="c68a3cfd-5e47-4e0e-8b40-66979b459cf0">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Eiere og forvaltere"/>
+  <properties
+      key="difi:name_en"
+      value="Eiere og forvaltere (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessActor>

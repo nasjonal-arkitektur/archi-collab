@@ -1,4 +1,19 @@
 <archimate:Principle
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Standard: DCAT-AP-NO"
-    id="7a6b7a62-d781-4eac-97f1-9b140f30e3c4"/>
+    id="7a6b7a62-d781-4eac-97f1-9b140f30e3c4">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Standard: DCAT-AP-NO"/>
+  <properties
+      key="difi:name_en"
+      value="Standard: DCAT-AP-NO (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Principle>

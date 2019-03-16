@@ -1,0 +1,19 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solution Architecture Template (SAT)"
+    id="ae341b64-4173-46e9-8af4-c8068228200a">
+  <properties
+      key="difi:name_no"
+      value="Løsningsmønster (SAT)"/>
+  <properties
+      key="difi:name_en"
+      value="Solution Architecture Template (SAT)"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Resource>

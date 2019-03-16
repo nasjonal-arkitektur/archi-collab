@@ -1,4 +1,19 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tilby data som en tjeneste"
-    id="45d0c1a3-ae38-4814-aeb9-de5f9a992574"/>
+    id="45d0c1a3-ae38-4814-aeb9-de5f9a992574">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Tilby data som en tjeneste"/>
+  <properties
+      key="difi:name_en"
+      value="Tilby data som en tjeneste (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessProcess>

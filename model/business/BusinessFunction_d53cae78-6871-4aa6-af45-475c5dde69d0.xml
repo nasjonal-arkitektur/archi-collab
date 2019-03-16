@@ -1,4 +1,19 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tilby data som en tjeneste"
-    id="d53cae78-6871-4aa6-af45-475c5dde69d0"/>
+    id="d53cae78-6871-4aa6-af45-475c5dde69d0">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Tilby data som en tjeneste"/>
+  <properties
+      key="difi:name_en"
+      value="Tilby data som en tjeneste (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessFunction>

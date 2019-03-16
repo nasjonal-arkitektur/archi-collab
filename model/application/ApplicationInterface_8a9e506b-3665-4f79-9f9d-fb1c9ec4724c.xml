@@ -1,4 +1,19 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="API-er"
-    id="8a9e506b-3665-4f79-9f9d-fb1c9ec4724c"/>
+    id="8a9e506b-3665-4f79-9f9d-fb1c9ec4724c">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="API-er"/>
+  <properties
+      key="difi:name_en"
+      value="API-er (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:ApplicationInterface>

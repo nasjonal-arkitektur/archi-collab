@@ -1,4 +1,19 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Hovedmål for Difi i 2019 (copy)"
-    id="b26325bd-f321-411b-a396-11bba48d52a8"/>
+    id="b26325bd-f321-411b-a396-11bba48d52a8">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Hovedmål for Difi i 2019 (copy)"/>
+  <properties
+      key="difi:name_en"
+      value="Hovedmål for Difi i 2019 (copy) (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Grouping>

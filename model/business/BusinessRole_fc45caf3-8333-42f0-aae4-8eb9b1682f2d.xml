@@ -1,4 +1,19 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Representant"
-    id="fc45caf3-8333-42f0-aae4-8eb9b1682f2d"/>
+    id="fc45caf3-8333-42f0-aae4-8eb9b1682f2d">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Representant"/>
+  <properties
+      key="difi:name_en"
+      value="Representant (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessRole>

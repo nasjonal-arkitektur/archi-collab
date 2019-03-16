@@ -1,4 +1,19 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informasjons-modellkatalog (copy)"
-    id="4c909b17-03ae-4699-a32c-b5735a27e41b"/>
+    id="4c909b17-03ae-4699-a32c-b5735a27e41b">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Informasjons-modellkatalog (copy)"/>
+  <properties
+      key="difi:name_en"
+      value="Informasjons-modellkatalog (copy) (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:ApplicationComponent>

@@ -3,4 +3,18 @@
     name="Autentisere aktør"
     id="e8c5c13b-4a48-4e88-9270-21abb34ba050">
   <properties/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Autentisere aktør"/>
+  <properties
+      key="difi:name_en"
+      value="Autentisere aktør (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
 </archimate:BusinessFunction>

@@ -6,4 +6,16 @@
   <properties
       key="difi:namespace"
       value="e-kladd"/>
+  <properties
+      key="difi:name_no"
+      value="Oversikt og gjenfinning [ns:e-kladd]"/>
+  <properties
+      key="difi:name_en"
+      value="Oversikt og gjenfinning [ns:e-kladd] (no)"/>
+  <properties
+      key="difi:description_no"
+      value="Gjelder både egen data og oversikt og gjenfinning hos revidert virksomhet"/>
+  <properties
+      key="difi:description_en"
+      value="Gjelder både egen data og oversikt og gjenfinning hos revidert virksomhet (no)"/>
 </archimate:Capability>

@@ -6,4 +6,16 @@
   <properties
       key="difi:namespace"
       value="e-kladd"/>
+  <properties
+      key="difi:name_no"
+      value="Lagring hos tredjepart [ns:e-kladd]"/>
+  <properties
+      key="difi:name_en"
+      value="Lagring hos tredjepart [ns:e-kladd] (no)"/>
+  <properties
+      key="difi:description_no"
+      value="Sky, andre&#xA;Dataavtale!"/>
+  <properties
+      key="difi:description_en"
+      value="Sky, andre&#xA;Dataavtale! (no)"/>
 </archimate:Capability>

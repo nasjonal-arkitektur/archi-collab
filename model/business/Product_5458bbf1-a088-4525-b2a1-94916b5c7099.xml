@@ -1,4 +1,19 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tjenestekatalog"
-    id="5458bbf1-a088-4525-b2a1-94916b5c7099"/>
+    id="5458bbf1-a088-4525-b2a1-94916b5c7099">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Tjenestekatalog"/>
+  <properties
+      key="difi:name_en"
+      value="Tjenestekatalog (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Product>

@@ -1,4 +1,19 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Grouping"
-    id="aa05416e-93bd-4d70-9d30-83bcc5626b7f"/>
+    id="aa05416e-93bd-4d70-9d30-83bcc5626b7f">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Grouping"/>
+  <properties
+      key="difi:name_en"
+      value="Grouping (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Grouping>

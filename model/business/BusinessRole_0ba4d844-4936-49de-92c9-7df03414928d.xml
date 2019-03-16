@@ -1,4 +1,19 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Støttespiller"
-    id="0ba4d844-4936-49de-92c9-7df03414928d"/>
+    id="0ba4d844-4936-49de-92c9-7df03414928d">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Støttespiller"/>
+  <properties
+      key="difi:name_en"
+      value="Støttespiller (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessRole>

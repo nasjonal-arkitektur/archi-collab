@@ -1,4 +1,19 @@
 <archimate:Deliverable
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Overordnet løsmngslandskap"
-    id="5c7797a9-2982-4457-bf99-258e3339723f"/>
+    id="5c7797a9-2982-4457-bf99-258e3339723f">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Overordnet løsmngslandskap"/>
+  <properties
+      key="difi:name_en"
+      value="Overordnet løsmngslandskap (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Deliverable>

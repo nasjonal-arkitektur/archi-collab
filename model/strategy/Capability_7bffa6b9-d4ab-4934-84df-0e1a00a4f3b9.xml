@@ -6,4 +6,16 @@
   <properties
       key="difi:namespace"
       value="RR"/>
+  <properties
+      key="difi:name_no"
+      value="Løpende infofangst [ns:RR]"/>
+  <properties
+      key="difi:name_en"
+      value="Løpende infofangst [ns:RR] (no)"/>
+  <properties
+      key="difi:description_no"
+      value="Hendelsesbasert&#xA;Sanntid, transaksjonsstrømmer"/>
+  <properties
+      key="difi:description_en"
+      value="Hendelsesbasert&#xA;Sanntid, transaksjonsstrømmer (no)"/>
 </archimate:Capability>

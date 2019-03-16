@@ -1,4 +1,19 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Registrere Open API specification¨"
-    id="fc699973-2737-4319-ae75-9839ceb74181"/>
+    id="fc699973-2737-4319-ae75-9839ceb74181">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Registrere Open API specification¨"/>
+  <properties
+      key="difi:name_en"
+      value="Registrere Open API specification¨ (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:ApplicationService>

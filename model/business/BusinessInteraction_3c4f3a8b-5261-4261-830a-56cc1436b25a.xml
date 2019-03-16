@@ -1,4 +1,19 @@
 <archimate:BusinessInteraction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="5. Notifikasjon til identifisert part (trigger prosess på tidspunkt mottaker velger) "
-    id="3c4f3a8b-5261-4261-830a-56cc1436b25a"/>
+    id="3c4f3a8b-5261-4261-830a-56cc1436b25a">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="5. Notifikasjon til identifisert part (trigger prosess på tidspunkt mottaker velger) "/>
+  <properties
+      key="difi:name_en"
+      value="5. Notifikasjon til identifisert part (trigger prosess på tidspunkt mottaker velger)  (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessInteraction>

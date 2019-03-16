@@ -1,8 +1,19 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tilgjengeliggjøring av data"
+    name="Tilgjengelig-gjøring av data"
     id="b2629945-0e02-4008-8db4-d6cc7f8d34a3">
   <properties
       key="difi:namespace"
       value="na1"/>
+  <properties
+      key="difi:name_no"
+      value="Tilgjengelig-gjøring av data"/>
+  <properties
+      key="difi:name_en"
+      value="Tilgjengelig-gjøring av data (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
 </archimate:Capability>

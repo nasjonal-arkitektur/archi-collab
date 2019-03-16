@@ -3,6 +3,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="følger opp"
     id="030e1c44-7068-44b3-8f68-c9110c12b8dc">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="følger opp"/>
+  <properties
+      key="difi:name_en"
+      value="følger opp (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
   <source
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_f10644cb-29da-490b-9b9a-8a8a80920f65.xml#f10644cb-29da-490b-9b9a-8a8a80920f65"/>

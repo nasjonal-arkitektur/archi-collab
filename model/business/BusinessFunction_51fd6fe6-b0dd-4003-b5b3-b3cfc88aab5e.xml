@@ -1,4 +1,19 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="51fd6fe6-b0dd-4003-b5b3-b3cfc88aab5e"
-    documentation="Mottakers kapabiliteter, hvilke meldinger kan en aktør motta og behandle.&#xD;&#xA;&#xD;&#xA;Hvilke tjenester og informasjon har en tilbyder."/>
+    documentation="Mottakers kapabiliteter, hvilke meldinger kan en aktør motta og behandle.&#xD;&#xA;&#xD;&#xA;Hvilke tjenester og informasjon har en tilbyder.">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value=" (no)"/>
+  <properties
+      key="difi:description_no"
+      value="Mottakers kapabiliteter, hvilke meldinger kan en aktør motta og behandle.&#xD;&#xA;&#xD;&#xA;Hvilke tjenester og informasjon har en tilbyder."/>
+  <properties
+      key="difi:description_en"
+      value="Mottakers kapabiliteter, hvilke meldinger kan en aktør motta og behandle.&#xD;&#xA;&#xD;&#xA;Hvilke tjenester og informasjon har en tilbyder. (no)"/>
+</archimate:BusinessFunction>

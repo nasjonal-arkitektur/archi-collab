@@ -6,4 +6,16 @@
   <properties
       key="difi:namespace"
       value="jim"/>
+  <properties
+      key="difi:name_no"
+      value="Dokumentere hjemler og hjemmelsoversikt [ns:jim]"/>
+  <properties
+      key="difi:name_en"
+      value="Dokumentere hjemler og hjemmelsoversikt [ns:jim] (no)"/>
+  <properties
+      key="difi:description_no"
+      value="Å kunne dokumentere oversikt over og beskrivelser av hjemler"/>
+  <properties
+      key="difi:description_en"
+      value="Å kunne dokumentere oversikt over og beskrivelser av hjemler (no)"/>
 </archimate:Capability>

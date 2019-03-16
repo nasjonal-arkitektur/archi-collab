@@ -1,4 +1,19 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Registreringstjeneste for API-brukere"
-    id="fc953ff5-a48f-4d30-9d20-1aa603bf3dfc"/>
+    id="fc953ff5-a48f-4d30-9d20-1aa603bf3dfc">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Registreringstjeneste for API-brukere"/>
+  <properties
+      key="difi:name_en"
+      value="Registreringstjeneste for API-brukere (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessService>

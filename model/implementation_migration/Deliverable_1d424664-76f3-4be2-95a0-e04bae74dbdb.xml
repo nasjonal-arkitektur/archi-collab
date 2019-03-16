@@ -2,4 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Styringsdokument basert på KVU om datadeling"
     id="1d424664-76f3-4be2-95a0-e04bae74dbdb"
-    documentation="Difi skal utarbeide et sentralt styringsdokument basert på tiltak og&#xD;&#xA;anbefalinger i konseptvalgutredningen om deling av data. Difi skal&#xD;&#xA;sikre nødvendig forankring av styringsdokumentet.&#xD;&#xA;"/>
+    documentation="Difi skal utarbeide et sentralt styringsdokument basert på tiltak og&#xD;&#xA;anbefalinger i konseptvalgutredningen om deling av data. Difi skal&#xD;&#xA;sikre nødvendig forankring av styringsdokumentet.&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Styringsdokument basert på KVU om datadeling"/>
+  <properties
+      key="difi:name_en"
+      value="Styringsdokument basert på KVU om datadeling (no)"/>
+  <properties
+      key="difi:description_no"
+      value="Difi skal utarbeide et sentralt styringsdokument basert på tiltak og&#xD;&#xA;anbefalinger i konseptvalgutredningen om deling av data. Difi skal&#xD;&#xA;sikre nødvendig forankring av styringsdokumentet.&#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"
+      value="Difi skal utarbeide et sentralt styringsdokument basert på tiltak og&#xD;&#xA;anbefalinger i konseptvalgutredningen om deling av data. Difi skal&#xD;&#xA;sikre nødvendig forankring av styringsdokumentet.&#xD;&#xA; (no)"/>
+</archimate:Deliverable>

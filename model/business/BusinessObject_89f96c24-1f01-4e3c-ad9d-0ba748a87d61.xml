@@ -1,4 +1,19 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Organisasjon"
-    id="89f96c24-1f01-4e3c-ad9d-0ba748a87d61"/>
+    id="89f96c24-1f01-4e3c-ad9d-0ba748a87d61">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Organisasjon"/>
+  <properties
+      key="difi:name_en"
+      value="Organisasjon (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessObject>

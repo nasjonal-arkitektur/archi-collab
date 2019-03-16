@@ -1,4 +1,19 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Difi &quot;kunder&quot;"
-    id="953248ec-c2cc-4510-94be-f6085fe44734"/>
+    id="953248ec-c2cc-4510-94be-f6085fe44734">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Difi &quot;kunder&quot;"/>
+  <properties
+      key="difi:name_en"
+      value="Difi &quot;kunder&quot; (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Grouping>

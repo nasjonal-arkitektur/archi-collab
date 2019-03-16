@@ -5,4 +5,15 @@
   <properties
       key="difi:namespace"
       value="erik"/>
+  <properties
+      key="difi:name_no"
+      value="Få utført kortlevd transaksjon, med tilbakerulling [ns:erik]"/>
+  <properties
+      key="difi:name_en"
+      value="Få utført kortlevd transaksjon, med tilbakerulling [ns:erik] (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
 </archimate:Capability>

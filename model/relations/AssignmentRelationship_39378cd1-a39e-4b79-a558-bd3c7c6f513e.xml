@@ -3,6 +3,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="styrer"
     id="39378cd1-a39e-4b79-a558-bd3c7c6f513e">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="styrer"/>
+  <properties
+      key="difi:name_en"
+      value="styrer (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
   <source
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_f305802c-e7dc-4423-bf86-2e0e9b9f3aa9.xml#f305802c-e7dc-4423-bf86-2e0e9b9f3aa9"/>

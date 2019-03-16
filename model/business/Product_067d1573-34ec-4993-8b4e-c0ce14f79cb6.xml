@@ -1,4 +1,19 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tjeneste"
-    id="067d1573-34ec-4993-8b4e-c0ce14f79cb6"/>
+    id="067d1573-34ec-4993-8b4e-c0ce14f79cb6">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Tjeneste"/>
+  <properties
+      key="difi:name_en"
+      value="Tjeneste (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Product>

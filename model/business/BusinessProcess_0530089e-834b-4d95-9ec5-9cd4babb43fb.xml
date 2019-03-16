@@ -1,4 +1,19 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Hent teknisk endepunkt ved behov"
-    id="0530089e-834b-4d95-9ec5-9cd4babb43fb"/>
+    id="0530089e-834b-4d95-9ec5-9cd4babb43fb">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Hent teknisk endepunkt ved behov"/>
+  <properties
+      key="difi:name_en"
+      value="Hent teknisk endepunkt ved behov (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessProcess>

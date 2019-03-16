@@ -1,4 +1,19 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Object"
-    id="34fb13ed-07c3-46f3-b96c-ad009cfbd3c0"/>
+    id="34fb13ed-07c3-46f3-b96c-ad009cfbd3c0">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Data Object"/>
+  <properties
+      key="difi:name_en"
+      value="Data Object (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:DataObject>

@@ -1,4 +1,19 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kjernemodeller"
-    id="a2d90793-9dbf-42f0-b1f3-a7293fcce37e"/>
+    id="a2d90793-9dbf-42f0-b1f3-a7293fcce37e">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Kjernemodeller"/>
+  <properties
+      key="difi:name_en"
+      value="Kjernemodeller (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Grouping>

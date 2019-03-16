@@ -1,4 +1,19 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Felles infomod-oversikt"
-    id="9a92ece0-06d3-4be8-b532-fb9b1131f8b4"/>
+    id="9a92ece0-06d3-4be8-b532-fb9b1131f8b4">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Felles infomod-oversikt"/>
+  <properties
+      key="difi:name_en"
+      value="Felles infomod-oversikt (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Capability>

@@ -1,4 +1,19 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Adresse"
-    id="8adf1f78-dd2d-461f-a626-80043af5834e"/>
+    id="8adf1f78-dd2d-461f-a626-80043af5834e">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Adresse"/>
+  <properties
+      key="difi:name_en"
+      value="Adresse (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessObject>

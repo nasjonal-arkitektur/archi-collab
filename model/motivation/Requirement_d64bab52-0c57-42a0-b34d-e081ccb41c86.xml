@@ -5,4 +5,15 @@
   <properties
       key="difi:namespace"
       value="erik"/>
+  <properties
+      key="difi:name_no"
+      value="retten til retting, sletting, til å bli glemt, til begrensning av behandling, til dataportabilitet og til å protestere i forbindelse med behandling av personopplysninger for arkivformål i allmennhetens interesse, for formål knyttet til vitenskapelig eller historisk forskning eller for statistiske formål [ns:erik]"/>
+  <properties
+      key="difi:name_en"
+      value="retten til retting, sletting, til å bli glemt, til begrensning av behandling, til dataportabilitet og til å protestere i forbindelse med behandling av personopplysninger for arkivformål i allmennhetens interesse, for formål knyttet til vitenskapelig eller historisk forskning eller for statistiske formål [ns:erik] (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
 </archimate:Requirement>

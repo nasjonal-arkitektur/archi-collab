@@ -1,4 +1,19 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Virksomhets-autentisering"
-    id="41adf0f6-0a80-4301-b3e3-0a2ff24eaf6c"/>
+    id="41adf0f6-0a80-4301-b3e3-0a2ff24eaf6c">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Virksomhets-autentisering"/>
+  <properties
+      key="difi:name_en"
+      value="Virksomhets-autentisering (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessService>

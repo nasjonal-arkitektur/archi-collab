@@ -1,4 +1,19 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="API-tilbyder [ns:Erik]"
-    id="e1d37f58-c087-4914-b47f-4aedfa1c07e6"/>
+    id="e1d37f58-c087-4914-b47f-4aedfa1c07e6">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="API-tilbyder [ns:Erik]"/>
+  <properties
+      key="difi:name_en"
+      value="API-tilbyder [ns:Erik] (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessRole>

@@ -1,4 +1,19 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Addresseringstjeneste"
-    id="8a633720-1dbc-4b58-879b-f4d9e8a23d76"/>
+    id="8a633720-1dbc-4b58-879b-f4d9e8a23d76">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Addresseringstjeneste"/>
+  <properties
+      key="difi:name_en"
+      value="Addresseringstjeneste (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:ApplicationService>

@@ -1,4 +1,19 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Infrastruktur-tjenester"
-    id="6476325a-fe42-4919-85c5-107d1711082b"/>
+    id="6476325a-fe42-4919-85c5-107d1711082b">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Infrastruktur-tjenester"/>
+  <properties
+      key="difi:name_en"
+      value="Infrastruktur-tjenester (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:TechnologyService>

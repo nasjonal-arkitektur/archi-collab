@@ -6,4 +6,16 @@
   <properties
       key="difi:namespace"
       value="jim"/>
+  <properties
+      key="difi:name_no"
+      value="Tilgjengeliggjøre datasett [ns:jim]"/>
+  <properties
+      key="difi:name_en"
+      value="Tilgjengeliggjøre datasett [ns:jim] (no)"/>
+  <properties
+      key="difi:description_no"
+      value="Å kunne gjøre tilgjengelig selve datasett (dvs. ikke bare beskrivelse av datasett), i maskinlesbare formater"/>
+  <properties
+      key="difi:description_en"
+      value="Å kunne gjøre tilgjengelig selve datasett (dvs. ikke bare beskrivelse av datasett), i maskinlesbare formater (no)"/>
 </archimate:Capability>

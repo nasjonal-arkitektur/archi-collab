@@ -1,4 +1,19 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Få tilgang"
-    id="3845783a-4303-4fb7-bf91-6b97402271da"/>
+    id="3845783a-4303-4fb7-bf91-6b97402271da">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Få tilgang"/>
+  <properties
+      key="difi:name_en"
+      value="Få tilgang (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessService>

@@ -1,4 +1,19 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Referansemodeller, informasjon"
-    id="5d36f826-6d6b-4dd8-9a23-490110fa9e5c"/>
+    id="5d36f826-6d6b-4dd8-9a23-490110fa9e5c">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Referansemodeller, informasjon"/>
+  <properties
+      key="difi:name_en"
+      value="Referansemodeller, informasjon (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Grouping>

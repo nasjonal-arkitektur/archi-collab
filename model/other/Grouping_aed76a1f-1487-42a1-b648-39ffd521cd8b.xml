@@ -1,4 +1,19 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kontrollerte vokabularer"
-    id="aed76a1f-1487-42a1-b648-39ffd521cd8b"/>
+    id="aed76a1f-1487-42a1-b648-39ffd521cd8b">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Kontrollerte vokabularer"/>
+  <properties
+      key="difi:name_en"
+      value="Kontrollerte vokabularer (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Grouping>

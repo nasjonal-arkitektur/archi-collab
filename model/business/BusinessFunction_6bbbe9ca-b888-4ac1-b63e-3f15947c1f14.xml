@@ -1,4 +1,19 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Autorisere aktør"
-    id="6bbbe9ca-b888-4ac1-b63e-3f15947c1f14"/>
+    id="6bbbe9ca-b888-4ac1-b63e-3f15947c1f14">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Autorisere aktør"/>
+  <properties
+      key="difi:name_en"
+      value="Autorisere aktør (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessFunction>

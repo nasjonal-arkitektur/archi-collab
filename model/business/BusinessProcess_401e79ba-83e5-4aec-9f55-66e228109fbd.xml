@@ -2,4 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Registrere API"
     id="401e79ba-83e5-4aec-9f55-66e228109fbd"
-    documentation="Registere API i relevante tjenester, api-katalog, Maskinporten, Kapabilitetsoversikt&#xD;&#xA;"/>
+    documentation="Registere API i relevante tjenester, api-katalog, Maskinporten, Kapabilitetsoversikt&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Registrere API"/>
+  <properties
+      key="difi:name_en"
+      value="Registrere API (no)"/>
+  <properties
+      key="difi:description_no"
+      value="Registere API i relevante tjenester, api-katalog, Maskinporten, Kapabilitetsoversikt&#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"
+      value="Registere API i relevante tjenester, api-katalog, Maskinporten, Kapabilitetsoversikt&#xD;&#xA; (no)"/>
+</archimate:BusinessProcess>

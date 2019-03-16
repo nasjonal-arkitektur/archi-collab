@@ -1,4 +1,19 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opprette data"
-    id="ff5d20c0-64e8-4e62-8ac6-1311437bab7b"/>
+    id="ff5d20c0-64e8-4e62-8ac6-1311437bab7b">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Opprette data"/>
+  <properties
+      key="difi:name_en"
+      value="Opprette data (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessFunction>

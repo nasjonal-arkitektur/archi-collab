@@ -1,4 +1,19 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Slette data"
-    id="707c5291-ea93-42d1-ac31-d45d10034e03"/>
+    id="707c5291-ea93-42d1-ac31-d45d10034e03">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Slette data"/>
+  <properties
+      key="difi:name_en"
+      value="Slette data (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessFunction>

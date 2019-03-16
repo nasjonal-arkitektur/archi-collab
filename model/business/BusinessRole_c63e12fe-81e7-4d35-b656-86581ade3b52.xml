@@ -1,4 +1,19 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tjenesteeier [ns:Erik]"
-    id="c63e12fe-81e7-4d35-b656-86581ade3b52"/>
+    id="c63e12fe-81e7-4d35-b656-86581ade3b52">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Tjenesteeier [ns:Erik]"/>
+  <properties
+      key="difi:name_en"
+      value="Tjenesteeier [ns:Erik] (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessRole>

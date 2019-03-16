@@ -1,4 +1,19 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="API Felles datakatalog"
-    id="4013442d-be22-4c7c-99a1-2c511d73b07a"/>
+    id="4013442d-be22-4c7c-99a1-2c511d73b07a">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="API Felles datakatalog"/>
+  <properties
+      key="difi:name_en"
+      value="API Felles datakatalog (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:ApplicationInterface>

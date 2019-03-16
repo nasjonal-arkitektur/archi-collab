@@ -1,4 +1,19 @@
 <archimate:Outcome
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Mål og visjoner"
-    id="629c6937-45d8-41da-9050-0edfff3a4ec9"/>
+    id="629c6937-45d8-41da-9050-0edfff3a4ec9">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Mål og visjoner"/>
+  <properties
+      key="difi:name_en"
+      value="Mål og visjoner (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Outcome>

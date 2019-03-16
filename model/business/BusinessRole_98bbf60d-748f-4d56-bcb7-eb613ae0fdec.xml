@@ -1,4 +1,19 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sluttbruker [ns:Erik]"
-    id="98bbf60d-748f-4d56-bcb7-eb613ae0fdec"/>
+    id="98bbf60d-748f-4d56-bcb7-eb613ae0fdec">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Sluttbruker [ns:Erik]"/>
+  <properties
+      key="difi:name_en"
+      value="Sluttbruker [ns:Erik] (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessRole>

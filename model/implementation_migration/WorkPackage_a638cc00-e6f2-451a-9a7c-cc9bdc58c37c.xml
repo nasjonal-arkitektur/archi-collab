@@ -1,4 +1,19 @@
 <archimate:WorkPackage
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Prosjekter"
-    id="a638cc00-e6f2-451a-9a7c-cc9bdc58c37c"/>
+    id="a638cc00-e6f2-451a-9a7c-cc9bdc58c37c">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Prosjekter"/>
+  <properties
+      key="difi:name_en"
+      value="Prosjekter (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:WorkPackage>

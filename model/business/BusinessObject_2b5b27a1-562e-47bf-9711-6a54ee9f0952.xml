@@ -1,4 +1,19 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Arkitekturmønster"
-    id="2b5b27a1-562e-47bf-9711-6a54ee9f0952"/>
+    id="2b5b27a1-562e-47bf-9711-6a54ee9f0952">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Arkitekturmønster"/>
+  <properties
+      key="difi:name_en"
+      value="Arkitekturmønster (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessObject>

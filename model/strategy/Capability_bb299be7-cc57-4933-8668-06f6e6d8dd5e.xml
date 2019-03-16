@@ -2,4 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Innhøste dataoversikt (copy)"
     id="bb299be7-cc57-4933-8668-06f6e6d8dd5e"
-    documentation="Å kunne innhøste dataoversikt "/>
+    documentation="Å kunne innhøste dataoversikt ">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Innhøste dataoversikt (copy)"/>
+  <properties
+      key="difi:name_en"
+      value="Innhøste dataoversikt (copy) (no)"/>
+  <properties
+      key="difi:description_no"
+      value="Å kunne innhøste dataoversikt "/>
+  <properties
+      key="difi:description_en"
+      value="Å kunne innhøste dataoversikt  (no)"/>
+</archimate:Capability>

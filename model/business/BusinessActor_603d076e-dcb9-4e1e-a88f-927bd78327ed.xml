@@ -1,4 +1,19 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Politisk ledelse, premissgivere"
-    id="603d076e-dcb9-4e1e-a88f-927bd78327ed"/>
+    id="603d076e-dcb9-4e1e-a88f-927bd78327ed">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Politisk ledelse, premissgivere"/>
+  <properties
+      key="difi:name_en"
+      value="Politisk ledelse, premissgivere (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessActor>

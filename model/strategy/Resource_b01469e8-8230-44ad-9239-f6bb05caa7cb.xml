@@ -2,4 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="NFDs melding om offentlige anskaffelser"
     id="b01469e8-8230-44ad-9239-f6bb05caa7cb"
-    documentation="NFDs melding om effektivisering og profesjonalisering av offentlige anskaffelser"/>
+    documentation="NFDs melding om effektivisering og profesjonalisering av offentlige anskaffelser">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="NFDs melding om offentlige anskaffelser"/>
+  <properties
+      key="difi:name_en"
+      value="NFDs melding om offentlige anskaffelser (no)"/>
+  <properties
+      key="difi:description_no"
+      value="NFDs melding om effektivisering og profesjonalisering av offentlige anskaffelser"/>
+  <properties
+      key="difi:description_en"
+      value="NFDs melding om effektivisering og profesjonalisering av offentlige anskaffelser (no)"/>
+</archimate:Resource>

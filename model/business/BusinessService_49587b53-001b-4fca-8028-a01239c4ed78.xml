@@ -1,4 +1,19 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Adresseringstjeneste (runtime)"
-    id="49587b53-001b-4fca-8028-a01239c4ed78"/>
+    id="49587b53-001b-4fca-8028-a01239c4ed78">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Adresseringstjeneste (runtime)"/>
+  <properties
+      key="difi:name_en"
+      value="Adresseringstjeneste (runtime) (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessService>

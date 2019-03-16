@@ -1,0 +1,19 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kapabilitets-område"
+    id="796b98db-74c0-4364-8bd0-9d7cc990f19d">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Kapabilitets-område"/>
+  <properties
+      key="difi:name_en"
+      value="Kapabilitets-område (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Capability>

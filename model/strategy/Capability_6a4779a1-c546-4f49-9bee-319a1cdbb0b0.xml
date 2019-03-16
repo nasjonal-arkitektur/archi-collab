@@ -1,4 +1,19 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kodeliste-oversikt"
-    id="6a4779a1-c546-4f49-9bee-319a1cdbb0b0"/>
+    id="6a4779a1-c546-4f49-9bee-319a1cdbb0b0">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Kodeliste-oversikt"/>
+  <properties
+      key="difi:name_en"
+      value="Kodeliste-oversikt (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Capability>

@@ -6,4 +6,16 @@
   <properties
       key="difi:namespace"
       value="jim"/>
+  <properties
+      key="difi:name_no"
+      value="Begrepsoversikt [ns:jim]"/>
+  <properties
+      key="difi:name_en"
+      value="Begrepsoversikt [ns:jim] (no)"/>
+  <properties
+      key="difi:description_no"
+      value="Å ha oversikt over begrepene sine"/>
+  <properties
+      key="difi:description_en"
+      value="Å ha oversikt over begrepene sine (no)"/>
 </archimate:Capability>

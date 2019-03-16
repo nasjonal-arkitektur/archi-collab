@@ -1,4 +1,19 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Regestreringstjeneste for representasjonsforhold"
-    id="74e28024-323d-480f-bf9f-cef034c00896"/>
+    id="74e28024-323d-480f-bf9f-cef034c00896">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Regestreringstjeneste for representasjonsforhold"/>
+  <properties
+      key="difi:name_en"
+      value="Regestreringstjeneste for representasjonsforhold (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessService>

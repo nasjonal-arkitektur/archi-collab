@@ -1,4 +1,19 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Koreografitjeneste"
-    id="9607b20a-5c14-4b00-8120-9ce1ce37b62c"/>
+    id="9607b20a-5c14-4b00-8120-9ce1ce37b62c">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Koreografitjeneste"/>
+  <properties
+      key="difi:name_en"
+      value="Koreografitjeneste (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessService>

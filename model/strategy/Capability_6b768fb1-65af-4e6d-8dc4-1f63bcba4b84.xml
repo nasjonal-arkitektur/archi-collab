@@ -1,4 +1,19 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Capability"
-    id="6b768fb1-65af-4e6d-8dc4-1f63bcba4b84"/>
+    id="6b768fb1-65af-4e6d-8dc4-1f63bcba4b84">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Capability"/>
+  <properties
+      key="difi:name_en"
+      value="Capability (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Capability>

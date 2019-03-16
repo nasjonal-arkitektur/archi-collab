@@ -2,4 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ELI (European Legislation Identifier ontology)"
     id="64cc137a-c51f-45e3-923e-4c9a69747741"
-    documentation="https://publications.europa.eu/en/web/eu-vocabularies/model/-/resource/dataset/eli"/>
+    documentation="https://publications.europa.eu/en/web/eu-vocabularies/model/-/resource/dataset/eli">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="ELI (European Legislation Identifier ontology)"/>
+  <properties
+      key="difi:name_en"
+      value="ELI (European Legislation Identifier ontology) (no)"/>
+  <properties
+      key="difi:description_no"
+      value="https://publications.europa.eu/en/web/eu-vocabularies/model/-/resource/dataset/eli"/>
+  <properties
+      key="difi:description_en"
+      value="https://publications.europa.eu/en/web/eu-vocabularies/model/-/resource/dataset/eli (no)"/>
+</archimate:BusinessObject>

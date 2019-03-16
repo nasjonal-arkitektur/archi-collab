@@ -1,4 +1,19 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="API-endepunkt"
-    id="4fdfe31b-3dc5-46bf-9e22-1913ed6afd0c"/>
+    id="4fdfe31b-3dc5-46bf-9e22-1913ed6afd0c">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="API-endepunkt"/>
+  <properties
+      key="difi:name_en"
+      value="API-endepunkt (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessObject>

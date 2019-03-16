@@ -1,4 +1,19 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Dataforvalter/Dataansvarlig"
-    id="e6829ffb-8193-4a0c-93ee-e73eb8408b6f"/>
+    id="e6829ffb-8193-4a0c-93ee-e73eb8408b6f">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Dataforvalter/Dataansvarlig"/>
+  <properties
+      key="difi:name_en"
+      value="Dataforvalter/Dataansvarlig (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessRole>

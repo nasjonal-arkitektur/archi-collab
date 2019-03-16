@@ -3,6 +3,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="3522adf1-5b82-43c2-8cff-db85b29b6ea2"
     strength="setter">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"
+      value=" (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
   <source
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_f10644cb-29da-490b-9b9a-8a8a80920f65.xml#f10644cb-29da-490b-9b9a-8a8a80920f65"/>

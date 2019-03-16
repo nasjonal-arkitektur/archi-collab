@@ -1,4 +1,19 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Visjon og mål"
-    id="6c1f0930-0697-45ad-b1b7-422bf9e3b9fd"/>
+    id="6c1f0930-0697-45ad-b1b7-422bf9e3b9fd">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Visjon og mål"/>
+  <properties
+      key="difi:name_en"
+      value="Visjon og mål (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Grouping>

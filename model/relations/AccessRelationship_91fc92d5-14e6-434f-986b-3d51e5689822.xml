@@ -4,6 +4,20 @@
     name="behandler"
     id="91fc92d5-14e6-434f-986b-3d51e5689822"
     accessType="3">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="behandler"/>
+  <properties
+      key="difi:name_en"
+      value="behandler (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
   <source
       xsi:type="archimate:Grouping"
       href="Grouping_2a9b50c2-8131-4614-8987-02d3e65790c0.xml#2a9b50c2-8131-4614-8987-02d3e65790c0"/>

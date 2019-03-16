@@ -2,4 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bruksvilkår"
     id="ee5e67d6-d819-42a5-901b-4a094aa6c305"
-    documentation="Tekniske og merkantile vilkår&#xD;&#xA;"/>
+    documentation="Tekniske og merkantile vilkår&#xD;&#xA;">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Bruksvilkår"/>
+  <properties
+      key="difi:name_en"
+      value="Bruksvilkår (no)"/>
+  <properties
+      key="difi:description_no"
+      value="Tekniske og merkantile vilkår&#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"
+      value="Tekniske og merkantile vilkår&#xD;&#xA; (no)"/>
+</archimate:BusinessObject>

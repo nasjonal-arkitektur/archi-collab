@@ -1,4 +1,19 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Krypteringsnøkkel"
-    id="6373de70-6553-4444-8d64-7aa9c0295e08"/>
+    id="6373de70-6553-4444-8d64-7aa9c0295e08">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Krypteringsnøkkel"/>
+  <properties
+      key="difi:name_en"
+      value="Krypteringsnøkkel (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessObject>

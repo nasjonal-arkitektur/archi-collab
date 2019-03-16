@@ -1,4 +1,19 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Lese endring/hendelse"
-    id="f8114072-0451-4ac3-b3d4-467cb8742b90"/>
+    id="f8114072-0451-4ac3-b3d4-467cb8742b90">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Lese endring/hendelse"/>
+  <properties
+      key="difi:name_en"
+      value="Lese endring/hendelse (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessFunction>

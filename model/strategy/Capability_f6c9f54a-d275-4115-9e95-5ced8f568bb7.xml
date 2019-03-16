@@ -1,4 +1,19 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gjenbruk og viderebruk av data"
-    id="f6c9f54a-d275-4115-9e95-5ced8f568bb7"/>
+    id="f6c9f54a-d275-4115-9e95-5ced8f568bb7">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Gjenbruk og viderebruk av data"/>
+  <properties
+      key="difi:name_en"
+      value="Gjenbruk og viderebruk av data (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Capability>

@@ -1,4 +1,19 @@
 <archimate:TechnologyInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ttansport-protokoller"
-    id="d99ff23c-1406-4d25-a634-d277b6df7131"/>
+    id="d99ff23c-1406-4d25-a634-d277b6df7131">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Ttansport-protokoller"/>
+  <properties
+      key="difi:name_en"
+      value="Ttansport-protokoller (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:TechnologyInterface>

@@ -6,6 +6,17 @@
   <properties
       key="difi:namespace"
       value="jim"/>
+  <properties
+      key="difi:name_no"
+      value=" [ns:jim]"/>
+  <properties
+      key="difi:name_en"
+      value=" [ns:jim] (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
   <source
       xsi:type="archimate:Capability"
       href="Capability_ad111325-001c-4782-934d-84606a5b5110.xml#ad111325-001c-4782-934d-84606a5b5110"/>

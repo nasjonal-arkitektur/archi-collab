@@ -1,4 +1,19 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sertifikat-tjeneste"
-    id="33093638-cb8d-489e-ada7-9f2de612e33d"/>
+    id="33093638-cb8d-489e-ada7-9f2de612e33d">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Sertifikat-tjeneste"/>
+  <properties
+      key="difi:name_en"
+      value="Sertifikat-tjeneste (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessService>

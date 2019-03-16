@@ -1,0 +1,22 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Referansearkitektur"
+    id="884fddb7-0907-404d-98e6-63423bce101a">
+  <properties
+      key="difi:name_no"
+      value="Referansearkitektur"/>
+  <properties
+      key="difi:name_en"
+      value="Reference Architecture"/>
+  <properties
+      key="difi:display_name"
+      value="Referanse-arkitektur"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Resource>

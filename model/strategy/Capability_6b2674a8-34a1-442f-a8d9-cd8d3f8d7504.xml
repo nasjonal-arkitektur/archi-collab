@@ -1,4 +1,19 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Analysere fjerntliggende data (copy)"
-    id="6b2674a8-34a1-442f-a8d9-cd8d3f8d7504"/>
+    id="6b2674a8-34a1-442f-a8d9-cd8d3f8d7504">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Analysere fjerntliggende data (copy)"/>
+  <properties
+      key="difi:name_en"
+      value="Analysere fjerntliggende data (copy) (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Capability>

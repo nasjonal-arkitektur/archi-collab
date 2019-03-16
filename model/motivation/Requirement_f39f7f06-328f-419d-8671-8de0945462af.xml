@@ -1,4 +1,19 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Behov: Brukerforum for DCAT-AP-NO"
-    id="f39f7f06-328f-419d-8671-8de0945462af"/>
+    id="f39f7f06-328f-419d-8671-8de0945462af">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Behov: Brukerforum for DCAT-AP-NO"/>
+  <properties
+      key="difi:name_en"
+      value="Behov: Brukerforum for DCAT-AP-NO (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Requirement>

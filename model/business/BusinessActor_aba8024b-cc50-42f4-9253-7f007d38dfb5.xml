@@ -1,4 +1,19 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sluttbrukere (innbyggere, virksomheter)"
-    id="aba8024b-cc50-42f4-9253-7f007d38dfb5"/>
+    id="aba8024b-cc50-42f4-9253-7f007d38dfb5">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Sluttbrukere (innbyggere, virksomheter)"/>
+  <properties
+      key="difi:name_en"
+      value="Sluttbrukere (innbyggere, virksomheter) (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessActor>

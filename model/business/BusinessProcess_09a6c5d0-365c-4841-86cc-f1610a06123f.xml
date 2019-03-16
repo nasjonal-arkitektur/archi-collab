@@ -1,4 +1,19 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Få tilgang til API"
-    id="09a6c5d0-365c-4841-86cc-f1610a06123f"/>
+    id="09a6c5d0-365c-4841-86cc-f1610a06123f">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Få tilgang til API"/>
+  <properties
+      key="difi:name_en"
+      value="Få tilgang til API (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessProcess>

@@ -1,4 +1,19 @@
 <archimate:CommunicationNetwork
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kommuni-kasjon"
-    id="15467949-83dd-4c67-986b-e2b20093e4e8"/>
+    id="15467949-83dd-4c67-986b-e2b20093e4e8">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Kommuni-kasjon"/>
+  <properties
+      key="difi:name_en"
+      value="Kommuni-kasjon (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:CommunicationNetwork>

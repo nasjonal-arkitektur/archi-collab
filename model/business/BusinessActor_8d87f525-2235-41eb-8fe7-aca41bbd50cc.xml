@@ -1,4 +1,19 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="IoT-enhet"
-    id="8d87f525-2235-41eb-8fe7-aca41bbd50cc"/>
+    id="8d87f525-2235-41eb-8fe7-aca41bbd50cc">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="IoT-enhet"/>
+  <properties
+      key="difi:name_en"
+      value="IoT-enhet (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessActor>

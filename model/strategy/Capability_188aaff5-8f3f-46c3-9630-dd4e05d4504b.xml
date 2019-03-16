@@ -1,4 +1,19 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Publisere data med tilgangsstyring [ns:Erik] (copy)"
-    id="188aaff5-8f3f-46c3-9630-dd4e05d4504b"/>
+    id="188aaff5-8f3f-46c3-9630-dd4e05d4504b">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Publisere data med tilgangsstyring [ns:Erik] (copy)"/>
+  <properties
+      key="difi:name_en"
+      value="Publisere data med tilgangsstyring [ns:Erik] (copy) (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Capability>

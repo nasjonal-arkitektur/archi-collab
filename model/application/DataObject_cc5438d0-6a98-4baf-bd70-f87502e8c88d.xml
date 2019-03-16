@@ -2,4 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Matrikkel"
     id="cc5438d0-6a98-4baf-bd70-f87502e8c88d"
-    documentation="Se under https://www.regjeringen.no/no/tema/statlig-forvaltning/ikt-politikk/felleskomponenter/id2342598/"/>
+    documentation="Se under https://www.regjeringen.no/no/tema/statlig-forvaltning/ikt-politikk/felleskomponenter/id2342598/">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Matrikkel"/>
+  <properties
+      key="difi:name_en"
+      value="Matrikkel (no)"/>
+  <properties
+      key="difi:description_no"
+      value="Se under https://www.regjeringen.no/no/tema/statlig-forvaltning/ikt-politikk/felleskomponenter/id2342598/"/>
+  <properties
+      key="difi:description_en"
+      value="Se under https://www.regjeringen.no/no/tema/statlig-forvaltning/ikt-politikk/felleskomponenter/id2342598/ (no)"/>
+</archimate:DataObject>

@@ -1,4 +1,19 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kunnskapsformidling"
-    id="ec2df433-94ab-4894-9950-9d4843bb26c4"/>
+    id="ec2df433-94ab-4894-9950-9d4843bb26c4">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Kunnskapsformidling"/>
+  <properties
+      key="difi:name_en"
+      value="Kunnskapsformidling (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessService>

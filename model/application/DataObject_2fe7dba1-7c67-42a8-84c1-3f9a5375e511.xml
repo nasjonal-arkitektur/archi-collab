@@ -2,4 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Begrepsbeskrivelse"
     id="2fe7dba1-7c67-42a8-84c1-3f9a5375e511"
-    documentation="Beskrivelse av begreper som en spesialisering av Descriptive Metadata"/>
+    documentation="Beskrivelse av begreper som en spesialisering av Descriptive Metadata">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Begrepsbeskrivelse"/>
+  <properties
+      key="difi:name_en"
+      value="Begrepsbeskrivelse (no)"/>
+  <properties
+      key="difi:description_no"
+      value="Beskrivelse av begreper som en spesialisering av Descriptive Metadata"/>
+  <properties
+      key="difi:description_en"
+      value="Beskrivelse av begreper som en spesialisering av Descriptive Metadata (no)"/>
+</archimate:DataObject>

@@ -1,4 +1,19 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kapabilitets-oppslag"
-    id="01f5bd7a-7ec2-4e24-82df-41ed6dbd4a94"/>
+    id="01f5bd7a-7ec2-4e24-82df-41ed6dbd4a94">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Kapabilitets-oppslag"/>
+  <properties
+      key="difi:name_en"
+      value="Kapabilitets-oppslag (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessService>

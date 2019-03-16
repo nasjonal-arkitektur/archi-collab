@@ -6,4 +6,16 @@
   <properties
       key="difi:namespace"
       value="RR"/>
+  <properties
+      key="difi:name_no"
+      value="Sanntidsoppdatering [ns:RR]"/>
+  <properties
+      key="difi:name_en"
+      value="Sanntidsoppdatering [ns:RR] (no)"/>
+  <properties
+      key="difi:description_no"
+      value="gjelder innhenting,. lagring, analyser, publisering"/>
+  <properties
+      key="difi:description_en"
+      value="gjelder innhenting,. lagring, analyser, publisering (no)"/>
 </archimate:Capability>

@@ -1,4 +1,19 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Veileder: DCAT-AP-NO"
-    id="1f77ba25-1b2f-4da7-8aa1-efa05229abd3"/>
+    id="1f77ba25-1b2f-4da7-8aa1-efa05229abd3">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Veileder: DCAT-AP-NO"/>
+  <properties
+      key="difi:name_en"
+      value="Veileder: DCAT-AP-NO (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Resource>

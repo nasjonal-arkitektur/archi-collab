@@ -1,4 +1,19 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data analytics"
-    id="b7392a4b-b569-45ea-ad87-3bfb869f7483"/>
+    id="b7392a4b-b569-45ea-ad87-3bfb869f7483">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Data analytics"/>
+  <properties
+      key="difi:name_en"
+      value="Data analytics (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Capability>

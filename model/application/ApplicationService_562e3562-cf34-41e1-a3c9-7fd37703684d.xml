@@ -1,4 +1,19 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Virksomhets-autentisering"
-    id="562e3562-cf34-41e1-a3c9-7fd37703684d"/>
+    id="562e3562-cf34-41e1-a3c9-7fd37703684d">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Virksomhets-autentisering"/>
+  <properties
+      key="difi:name_en"
+      value="Virksomhets-autentisering (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:ApplicationService>

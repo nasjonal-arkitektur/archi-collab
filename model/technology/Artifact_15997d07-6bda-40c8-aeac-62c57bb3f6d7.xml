@@ -1,4 +1,19 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Fysiske data (masterdata og kopier)"
-    id="15997d07-6bda-40c8-aeac-62c57bb3f6d7"/>
+    id="15997d07-6bda-40c8-aeac-62c57bb3f6d7">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Fysiske data (masterdata og kopier)"/>
+  <properties
+      key="difi:name_en"
+      value="Fysiske data (masterdata og kopier) (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Artifact>

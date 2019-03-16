@@ -1,4 +1,19 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Konseptuelle data (informasjon)"
-    id="4c17ce6c-9611-45f9-a84f-f78d02237a74"/>
+    id="4c17ce6c-9611-45f9-a84f-f78d02237a74">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Konseptuelle data (informasjon)"/>
+  <properties
+      key="difi:name_en"
+      value="Konseptuelle data (informasjon) (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessObject>

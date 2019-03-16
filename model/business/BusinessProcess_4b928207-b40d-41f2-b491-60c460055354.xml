@@ -1,4 +1,19 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Motta melding"
-    id="4b928207-b40d-41f2-b491-60c460055354"/>
+    id="4b928207-b40d-41f2-b491-60c460055354">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Motta melding"/>
+  <properties
+      key="difi:name_en"
+      value="Motta melding (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessProcess>

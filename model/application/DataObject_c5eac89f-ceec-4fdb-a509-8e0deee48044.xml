@@ -1,4 +1,19 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Logiske data (datamodeller)"
-    id="c5eac89f-ceec-4fdb-a509-8e0deee48044"/>
+    id="c5eac89f-ceec-4fdb-a509-8e0deee48044">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Logiske data (datamodeller)"/>
+  <properties
+      key="difi:name_en"
+      value="Logiske data (datamodeller) (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:DataObject>

@@ -1,4 +1,19 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="API-katalogen"
-    id="38606b9d-5fdf-4dff-9839-5e1d03107b99"/>
+    id="38606b9d-5fdf-4dff-9839-5e1d03107b99">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="API-katalogen"/>
+  <properties
+      key="difi:name_en"
+      value="API-katalogen (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:ApplicationComponent>

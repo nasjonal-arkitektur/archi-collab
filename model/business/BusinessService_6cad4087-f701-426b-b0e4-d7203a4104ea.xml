@@ -1,4 +1,19 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Autorisasjonstjeneste"
-    id="6cad4087-f701-426b-b0e4-d7203a4104ea"/>
+    id="6cad4087-f701-426b-b0e4-d7203a4104ea">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Autorisasjonstjeneste"/>
+  <properties
+      key="difi:name_en"
+      value="Autorisasjonstjeneste (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessService>

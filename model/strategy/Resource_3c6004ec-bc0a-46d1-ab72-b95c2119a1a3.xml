@@ -1,4 +1,19 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Lenkede data"
-    id="3c6004ec-bc0a-46d1-ab72-b95c2119a1a3"/>
+    id="3c6004ec-bc0a-46d1-ab72-b95c2119a1a3">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Lenkede data"/>
+  <properties
+      key="difi:name_en"
+      value="Lenkede data (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Resource>

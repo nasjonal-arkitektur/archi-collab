@@ -1,4 +1,19 @@
 <archimate:BusinessInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Leveranse-modell"
-    id="05c9e985-e8d2-4ec6-8ea2-11af21059c0a"/>
+    id="05c9e985-e8d2-4ec6-8ea2-11af21059c0a">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Leveranse-modell"/>
+  <properties
+      key="difi:name_en"
+      value="Leveranse-modell (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessInterface>

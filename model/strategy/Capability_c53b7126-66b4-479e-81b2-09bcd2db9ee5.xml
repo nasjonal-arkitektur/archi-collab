@@ -6,4 +6,16 @@
   <properties
       key="difi:namespace"
       value="RR"/>
+  <properties
+      key="difi:name_no"
+      value="Livssyklusadministrasjon og sporing [ns:RR]"/>
+  <properties
+      key="difi:name_en"
+      value="Livssyklusadministrasjon og sporing [ns:RR] (no)"/>
+  <properties
+      key="difi:description_no"
+      value="Inkl. master data management, endringshåndtering, konfigurasjonsstyring"/>
+  <properties
+      key="difi:description_en"
+      value="Inkl. master data management, endringshåndtering, konfigurasjonsstyring (no)"/>
 </archimate:Capability>

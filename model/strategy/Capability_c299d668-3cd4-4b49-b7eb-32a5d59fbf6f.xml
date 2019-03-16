@@ -6,4 +6,16 @@
   <properties
       key="difi:namespace"
       value="jim"/>
+  <properties
+      key="difi:name_no"
+      value="Dataoversikt [ns:jim]"/>
+  <properties
+      key="difi:name_en"
+      value="Dataoversikt [ns:jim] (no)"/>
+  <properties
+      key="difi:description_no"
+      value="Å ha oversit over dataene sine"/>
+  <properties
+      key="difi:description_en"
+      value="Å ha oversit over dataene sine (no)"/>
 </archimate:Capability>

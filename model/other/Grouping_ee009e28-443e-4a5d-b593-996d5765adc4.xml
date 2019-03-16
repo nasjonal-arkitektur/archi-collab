@@ -1,0 +1,19 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&quot;Slå opp data gjennom et API&quot;"
+    id="ee009e28-443e-4a5d-b593-996d5765adc4">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="&quot;Slå opp data gjennom et API&quot;"/>
+  <properties
+      key="difi:name_en"
+      value="&quot;Slå opp data gjennom et API&quot; (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Grouping>

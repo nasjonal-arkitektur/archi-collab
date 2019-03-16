@@ -1,4 +1,19 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kommunikasjon og spredning"
-    id="6edb8838-f4da-437a-ae8f-6508682cd38a"/>
+    id="6edb8838-f4da-437a-ae8f-6508682cd38a">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Kommunikasjon og spredning"/>
+  <properties
+      key="difi:name_en"
+      value="Kommunikasjon og spredning (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Grouping>

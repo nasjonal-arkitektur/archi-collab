@@ -1,4 +1,19 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Produkteier"
-    id="62b566bd-4b7c-4948-9859-1c5f58fe661c"/>
+    id="62b566bd-4b7c-4948-9859-1c5f58fe661c">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Produkteier"/>
+  <properties
+      key="difi:name_en"
+      value="Produkteier (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessRole>

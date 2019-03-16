@@ -1,4 +1,19 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Melding"
-    id="9564ed75-5e4e-4114-bd65-04f2a2632a6b"/>
+    id="9564ed75-5e4e-4114-bd65-04f2a2632a6b">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Melding"/>
+  <properties
+      key="difi:name_en"
+      value="Melding (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessObject>

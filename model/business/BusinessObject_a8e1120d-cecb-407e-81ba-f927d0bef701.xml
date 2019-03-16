@@ -1,4 +1,19 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Autentiseringstoken"
-    id="a8e1120d-cecb-407e-81ba-f927d0bef701"/>
+    id="a8e1120d-cecb-407e-81ba-f927d0bef701">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Autentiseringstoken"/>
+  <properties
+      key="difi:name_en"
+      value="Autentiseringstoken (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessObject>

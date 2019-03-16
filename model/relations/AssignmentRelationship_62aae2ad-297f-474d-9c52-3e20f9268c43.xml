@@ -3,6 +3,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="leverer"
     id="62aae2ad-297f-474d-9c52-3e20f9268c43">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="leverer"/>
+  <properties
+      key="difi:name_en"
+      value="leverer (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
   <source
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_5014aab8-052e-4240-be95-3de97f481868.xml#5014aab8-052e-4240-be95-3de97f481868"/>

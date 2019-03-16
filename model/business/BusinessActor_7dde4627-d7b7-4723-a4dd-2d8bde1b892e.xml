@@ -1,4 +1,19 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Private virksomheter"
-    id="7dde4627-d7b7-4723-a4dd-2d8bde1b892e"/>
+    id="7dde4627-d7b7-4723-a4dd-2d8bde1b892e">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Private virksomheter"/>
+  <properties
+      key="difi:name_en"
+      value="Private virksomheter (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessActor>

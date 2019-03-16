@@ -1,4 +1,19 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Oganisasjonsnummer databruker"
-    id="5859b3c8-6686-4e70-8894-75fae40e2629"/>
+    id="5859b3c8-6686-4e70-8894-75fae40e2629">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Oganisasjonsnummer databruker"/>
+  <properties
+      key="difi:name_en"
+      value="Oganisasjonsnummer databruker (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:DataObject>

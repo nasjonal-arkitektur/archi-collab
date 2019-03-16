@@ -1,4 +1,19 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Styring og organisering"
-    id="381c29ac-8adb-4ddd-81ae-c561a1fbec5e"/>
+    id="381c29ac-8adb-4ddd-81ae-c561a1fbec5e">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Styring og organisering"/>
+  <properties
+      key="difi:name_en"
+      value="Styring og organisering (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Grouping>

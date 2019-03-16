@@ -1,4 +1,19 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Finansierings-ordninger"
-    id="698cbb3e-a52b-45fe-96b7-e6d7f2620a4a"/>
+    id="698cbb3e-a52b-45fe-96b7-e6d7f2620a4a">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Finansierings-ordninger"/>
+  <properties
+      key="difi:name_en"
+      value="Finansierings-ordninger (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessService>

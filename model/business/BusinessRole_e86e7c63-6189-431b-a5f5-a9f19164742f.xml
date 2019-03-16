@@ -1,4 +1,19 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kapabilitetseier [ns:Erik]"
-    id="e86e7c63-6189-431b-a5f5-a9f19164742f"/>
+    id="e86e7c63-6189-431b-a5f5-a9f19164742f">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Kapabilitetseier [ns:Erik]"/>
+  <properties
+      key="difi:name_en"
+      value="Kapabilitetseier [ns:Erik] (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessRole>

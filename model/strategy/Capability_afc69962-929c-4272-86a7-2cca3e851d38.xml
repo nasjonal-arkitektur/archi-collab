@@ -6,4 +6,16 @@
   <properties
       key="difi:namespace"
       value="RR"/>
+  <properties
+      key="difi:name_no"
+      value="Konfigurasjons-styring [ns:RR]"/>
+  <properties
+      key="difi:name_en"
+      value="Konfigurasjons-styring [ns:RR] (no)"/>
+  <properties
+      key="difi:description_no"
+      value="inkl. logging"/>
+  <properties
+      key="difi:description_en"
+      value="inkl. logging (no)"/>
 </archimate:Capability>

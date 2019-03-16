@@ -3,6 +3,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="operates"
     id="eb60ef46-df64-433d-bea0-c7a919b0c9ca">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="operates"/>
+  <properties
+      key="difi:name_en"
+      value="operates (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_e8442e55-80b0-431e-aebb-750892a2d717.xml#e8442e55-80b0-431e-aebb-750892a2d717"/>

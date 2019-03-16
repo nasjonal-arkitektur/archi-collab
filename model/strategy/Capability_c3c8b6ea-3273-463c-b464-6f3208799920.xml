@@ -6,4 +6,16 @@
   <properties
       key="difi:namespace"
       value="jim"/>
+  <properties
+      key="difi:name_no"
+      value="Felles InfoMod-oversikt [ns:jim]"/>
+  <properties
+      key="difi:name_en"
+      value="Felles InfoMod-oversikt [ns:jim] (no)"/>
+  <properties
+      key="difi:description_no"
+      value="Å ha en felles oversikt over informasjonsmodeller nasjonalt"/>
+  <properties
+      key="difi:description_en"
+      value="Å ha en felles oversikt over informasjonsmodeller nasjonalt (no)"/>
 </archimate:Capability>

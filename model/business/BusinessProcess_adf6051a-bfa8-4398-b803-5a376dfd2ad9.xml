@@ -1,4 +1,19 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inngå avtale med leverandør"
-    id="adf6051a-bfa8-4398-b803-5a376dfd2ad9"/>
+    id="adf6051a-bfa8-4398-b803-5a376dfd2ad9">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Inngå avtale med leverandør"/>
+  <properties
+      key="difi:name_en"
+      value="Inngå avtale med leverandør (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessProcess>

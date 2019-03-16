@@ -6,4 +6,16 @@
   <properties
       key="difi:namespace"
       value="e-kladd"/>
+  <properties
+      key="difi:name_no"
+      value="Særskilt infofangst [ns:e-kladd]"/>
+  <properties
+      key="difi:name_en"
+      value="Særskilt infofangst [ns:e-kladd] (no)"/>
+  <properties
+      key="difi:description_no"
+      value="Typisk første gang&#xA;"/>
+  <properties
+      key="difi:description_en"
+      value="Typisk første gang&#xA; (no)"/>
 </archimate:Capability>

@@ -1,4 +1,19 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Løsningskomponent"
-    id="981deb58-8ef6-4df8-ac5d-f7d438b7cf88"/>
+    id="981deb58-8ef6-4df8-ac5d-f7d438b7cf88">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Løsningskomponent"/>
+  <properties
+      key="difi:name_en"
+      value="Løsningskomponent (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Product>

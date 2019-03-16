@@ -1,4 +1,19 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Business Certificate Publisher "
-    id="9a5a0303-cd55-4abc-9de9-9d1951d650b0"/>
+    id="9a5a0303-cd55-4abc-9de9-9d1951d650b0">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Business Certificate Publisher "/>
+  <properties
+      key="difi:name_en"
+      value="Business Certificate Publisher  (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:ApplicationService>

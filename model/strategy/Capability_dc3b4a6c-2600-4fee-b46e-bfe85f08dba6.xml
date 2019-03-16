@@ -5,4 +5,15 @@
   <properties
       key="difi:namespace"
       value="erik"/>
+  <properties
+      key="difi:name_no"
+      value="Ta rede på  informasjonskilder [ns:erik]"/>
+  <properties
+      key="difi:name_en"
+      value="Ta rede på  informasjonskilder [ns:erik] (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
 </archimate:Capability>

@@ -1,4 +1,19 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Identitets-forvaltning"
-    id="7aa24aef-3d5f-4f4a-a5b9-3ec75097193d"/>
+    id="7aa24aef-3d5f-4f4a-a5b9-3ec75097193d">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Identitets-forvaltning"/>
+  <properties
+      key="difi:name_en"
+      value="Identitets-forvaltning (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Capability>

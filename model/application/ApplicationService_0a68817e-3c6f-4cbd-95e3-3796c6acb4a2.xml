@@ -1,4 +1,19 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Formidlingstjeneste"
-    id="0a68817e-3c6f-4cbd-95e3-3796c6acb4a2"/>
+    id="0a68817e-3c6f-4cbd-95e3-3796c6acb4a2">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Formidlingstjeneste"/>
+  <properties
+      key="difi:name_en"
+      value="Formidlingstjeneste (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:ApplicationService>

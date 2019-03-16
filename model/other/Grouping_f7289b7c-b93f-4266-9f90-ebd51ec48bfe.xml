@@ -1,4 +1,19 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="emelding"
-    id="f7289b7c-b93f-4266-9f90-ebd51ec48bfe"/>
+    id="f7289b7c-b93f-4266-9f90-ebd51ec48bfe">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="emelding"/>
+  <properties
+      key="difi:name_en"
+      value="emelding (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Grouping>

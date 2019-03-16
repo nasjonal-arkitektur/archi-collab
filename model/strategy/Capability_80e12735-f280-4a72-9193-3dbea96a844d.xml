@@ -6,4 +6,16 @@
   <properties
       key="difi:namespace"
       value="RR"/>
+  <properties
+      key="difi:name_no"
+      value="Lagring hos tredjepart [ns:RR]"/>
+  <properties
+      key="difi:name_en"
+      value="Lagring hos tredjepart [ns:RR] (no)"/>
+  <properties
+      key="difi:description_no"
+      value="Sky, andre&#xA;Dataavtale!"/>
+  <properties
+      key="difi:description_en"
+      value="Sky, andre&#xA;Dataavtale! (no)"/>
 </archimate:Capability>

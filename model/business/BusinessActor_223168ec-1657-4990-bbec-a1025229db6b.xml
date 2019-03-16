@@ -1,4 +1,19 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kommunal sektor"
-    id="223168ec-1657-4990-bbec-a1025229db6b"/>
+    id="223168ec-1657-4990-bbec-a1025229db6b">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Kommunal sektor"/>
+  <properties
+      key="difi:name_en"
+      value="Kommunal sektor (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessActor>

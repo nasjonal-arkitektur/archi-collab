@@ -1,4 +1,19 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Playground"
-    id="84bc6471-1946-41dc-9fa5-7a53213a6b66"/>
+    id="84bc6471-1946-41dc-9fa5-7a53213a6b66">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Playground"/>
+  <properties
+      key="difi:name_en"
+      value="Playground (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Grouping>

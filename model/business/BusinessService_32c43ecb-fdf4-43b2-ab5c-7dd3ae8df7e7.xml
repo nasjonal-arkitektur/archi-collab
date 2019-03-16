@@ -1,4 +1,19 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Støtteordninger"
-    id="32c43ecb-fdf4-43b2-ab5c-7dd3ae8df7e7"/>
+    id="32c43ecb-fdf4-43b2-ab5c-7dd3ae8df7e7">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Støtteordninger"/>
+  <properties
+      key="difi:name_en"
+      value="Støtteordninger (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessService>

@@ -1,4 +1,19 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="&quot;Les data&quot;"
-    id="1cad2a49-2159-4ca1-be7b-9a622695dda3"/>
+    id="1cad2a49-2159-4ca1-be7b-9a622695dda3">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="&quot;Les data&quot;"/>
+  <properties
+      key="difi:name_en"
+      value="&quot;Les data&quot; (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Capability>

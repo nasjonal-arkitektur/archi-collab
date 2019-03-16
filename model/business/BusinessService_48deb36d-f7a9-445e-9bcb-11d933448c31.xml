@@ -1,4 +1,19 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="eNotifikasjon"
-    id="48deb36d-f7a9-445e-9bcb-11d933448c31"/>
+    id="48deb36d-f7a9-445e-9bcb-11d933448c31">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="eNotifikasjon"/>
+  <properties
+      key="difi:name_en"
+      value="eNotifikasjon (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessService>

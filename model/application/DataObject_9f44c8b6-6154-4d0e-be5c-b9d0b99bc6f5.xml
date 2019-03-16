@@ -2,4 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Set Catalogue (eira:DataSetCatalogue)"
     id="9f44c8b6-6154-4d0e-be5c-b9d0b99bc6f5"
-    documentation="eira:DataSetCatalogue"/>
+    documentation="eira:DataSetCatalogue">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Data Set Catalogue (eira:DataSetCatalogue)"/>
+  <properties
+      key="difi:name_en"
+      value="Data Set Catalogue (eira:DataSetCatalogue) (no)"/>
+  <properties
+      key="difi:description_no"
+      value="eira:DataSetCatalogue"/>
+  <properties
+      key="difi:description_en"
+      value="eira:DataSetCatalogue (no)"/>
+</archimate:DataObject>

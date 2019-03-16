@@ -2,4 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opprett API"
     id="c7861e9a-cb29-4ce9-aea8-8fbf25faf089"
-    documentation="Etablere API for ressursen som skal tilbys"/>
+    documentation="Etablere API for ressursen som skal tilbys">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Opprett API"/>
+  <properties
+      key="difi:name_en"
+      value="Opprett API (no)"/>
+  <properties
+      key="difi:description_no"
+      value="Etablere API for ressursen som skal tilbys"/>
+  <properties
+      key="difi:description_en"
+      value="Etablere API for ressursen som skal tilbys (no)"/>
+</archimate:BusinessProcess>

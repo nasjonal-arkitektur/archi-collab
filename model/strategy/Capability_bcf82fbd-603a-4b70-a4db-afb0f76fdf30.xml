@@ -1,4 +1,19 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Motta adresserte data (copy)"
-    id="bcf82fbd-603a-4b70-a4db-afb0f76fdf30"/>
+    id="bcf82fbd-603a-4b70-a4db-afb0f76fdf30">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Motta adresserte data (copy)"/>
+  <properties
+      key="difi:name_en"
+      value="Motta adresserte data (copy) (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Capability>

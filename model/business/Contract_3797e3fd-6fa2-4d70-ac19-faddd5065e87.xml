@@ -1,4 +1,19 @@
 <archimate:Contract
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bruksavtale"
-    id="3797e3fd-6fa2-4d70-ac19-faddd5065e87"/>
+    id="3797e3fd-6fa2-4d70-ac19-faddd5065e87">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Bruksavtale"/>
+  <properties
+      key="difi:name_en"
+      value="Bruksavtale (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Contract>

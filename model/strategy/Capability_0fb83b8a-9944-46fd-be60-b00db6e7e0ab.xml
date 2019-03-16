@@ -1,4 +1,19 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ledelse"
-    id="0fb83b8a-9944-46fd-be60-b00db6e7e0ab"/>
+    id="0fb83b8a-9944-46fd-be60-b00db6e7e0ab">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Ledelse"/>
+  <properties
+      key="difi:name_en"
+      value="Ledelse (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Capability>

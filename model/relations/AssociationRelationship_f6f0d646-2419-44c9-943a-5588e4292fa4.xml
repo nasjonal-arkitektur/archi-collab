@@ -3,6 +3,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="business relation"
     id="f6f0d646-2419-44c9-943a-5588e4292fa4">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="business relation"/>
+  <properties
+      key="difi:name_en"
+      value="business relation (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_5ce2754c-fd5d-4630-9395-9638c18896f2.xml#5ce2754c-fd5d-4630-9395-9638c18896f2"/>

@@ -1,4 +1,19 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Altinn"
-    id="271da8b7-f935-4bf2-9b84-d848e98e6242"/>
+    id="271da8b7-f935-4bf2-9b84-d848e98e6242">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Altinn"/>
+  <properties
+      key="difi:name_en"
+      value="Altinn (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessActor>

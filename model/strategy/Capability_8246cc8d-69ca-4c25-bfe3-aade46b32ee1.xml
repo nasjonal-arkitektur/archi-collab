@@ -6,4 +6,16 @@
   <properties
       key="difi:namespace"
       value="na1"/>
+  <properties
+      key="difi:name_no"
+      value="&quot;Styring av datatyper&quot;"/>
+  <properties
+      key="difi:name_en"
+      value="&quot;Styring av datatyper&quot; (no)"/>
+  <properties
+      key="difi:description_no"
+      value="Styring av den informasjonen som flyter mellom partene."/>
+  <properties
+      key="difi:description_en"
+      value="Styring av den informasjonen som flyter mellom partene. (no)"/>
 </archimate:Capability>

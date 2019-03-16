@@ -1,4 +1,19 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ledelses- og kompetansetiltak"
-    id="ef717275-4588-4fdb-ad84-5a9cbf74f6ee"/>
+    id="ef717275-4588-4fdb-ad84-5a9cbf74f6ee">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Ledelses- og kompetansetiltak"/>
+  <properties
+      key="difi:name_en"
+      value="Ledelses- og kompetansetiltak (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessService>

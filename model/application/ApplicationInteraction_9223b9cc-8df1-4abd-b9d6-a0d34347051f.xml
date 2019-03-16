@@ -1,4 +1,19 @@
 <archimate:ApplicationInteraction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="eNotifikasjon"
-    id="9223b9cc-8df1-4abd-b9d6-a0d34347051f"/>
+    id="9223b9cc-8df1-4abd-b9d6-a0d34347051f">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="eNotifikasjon"/>
+  <properties
+      key="difi:name_en"
+      value="eNotifikasjon (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:ApplicationInteraction>

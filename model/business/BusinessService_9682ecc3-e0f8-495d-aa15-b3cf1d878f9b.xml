@@ -1,4 +1,19 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Angi grovkornet tilgang"
-    id="9682ecc3-e0f8-495d-aa15-b3cf1d878f9b"/>
+    id="9682ecc3-e0f8-495d-aa15-b3cf1d878f9b">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Angi grovkornet tilgang"/>
+  <properties
+      key="difi:name_en"
+      value="Angi grovkornet tilgang (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessService>

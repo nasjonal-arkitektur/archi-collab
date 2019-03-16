@@ -1,4 +1,19 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Semantic interoperablitty specification"
-    id="997aa37d-bf59-4e23-b80c-d0146ac73903"/>
+    id="997aa37d-bf59-4e23-b80c-d0146ac73903">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Semantic interoperablitty specification"/>
+  <properties
+      key="difi:name_en"
+      value="Semantic interoperablitty specification (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessObject>

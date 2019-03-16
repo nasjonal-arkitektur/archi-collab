@@ -1,4 +1,19 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Publisere data åpent [ns:Erik] (copy)"
-    id="7b4f7ffb-37f3-4ca1-9ba4-df134ca31e99"/>
+    id="7b4f7ffb-37f3-4ca1-9ba4-df134ca31e99">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Publisere data åpent [ns:Erik] (copy)"/>
+  <properties
+      key="difi:name_en"
+      value="Publisere data åpent [ns:Erik] (copy) (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:Capability>

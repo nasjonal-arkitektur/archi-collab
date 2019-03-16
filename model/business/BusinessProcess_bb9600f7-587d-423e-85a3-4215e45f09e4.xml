@@ -1,4 +1,19 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inngå avtale om tilgang til data"
-    id="bb9600f7-587d-423e-85a3-4215e45f09e4"/>
+    id="bb9600f7-587d-423e-85a3-4215e45f09e4">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Inngå avtale om tilgang til data"/>
+  <properties
+      key="difi:name_en"
+      value="Inngå avtale om tilgang til data (no)"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"
+      value=" (no)"/>
+</archimate:BusinessProcess>
