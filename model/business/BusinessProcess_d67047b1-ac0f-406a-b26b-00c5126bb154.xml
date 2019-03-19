@@ -1,6 +1,6 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tildele tilganger til API"
+    name="Registrere tilganger til API"
     id="d67047b1-ac0f-406a-b26b-00c5126bb154"
     documentation="Registrere hvilke databrukere som skal få tilgang&#xD;&#xA;Sette policy, og grov tilgangsstyring gjennom maskinporten.&#xD;&#xA;">
   <properties
