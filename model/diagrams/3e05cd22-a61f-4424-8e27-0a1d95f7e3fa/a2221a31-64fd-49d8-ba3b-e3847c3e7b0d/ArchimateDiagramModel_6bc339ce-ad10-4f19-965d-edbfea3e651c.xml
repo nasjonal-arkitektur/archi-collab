@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Oversikt referansearkitekturer (se også ver. 2)"
+    name="Oversikt referansearkitekturer datautveksling"
     id="6bc339ce-ad10-4f19-965d-edbfea3e651c"
     documentation="Aktør som sender en melding">
   <children
