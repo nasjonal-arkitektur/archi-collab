@@ -5,80 +5,6 @@
     id="15fe0450-f2d1-40d4-8fa1-e72a0a922003"
     documentation="Aktør som sender en melding">
   <children
-      xsi:type="archimate:DiagramModelGroup"
-      id="f1414349-3c86-4b66-92cb-93f14fdb37bc"
-      name="Tilbakemelding på data"
-      documentation="Deling av data med formål om å gi tilbakemelding på f.eks. kvalitet. Tilbakemeldinger vil være metadata relatert til bruk og ikke endringer i selve datasettet.">
-    <bounds
-        x="288"
-        y="276"
-        width="385"
-        height="146"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="71c06013-d15d-438a-807a-c69b6e682355"
-        targetConnections="80b14be6-ccc3-4eb0-b914-e13bb19ca4ee 6302e3f4-f749-42a2-aef1-97c3d7205a44">
-      <bounds
-          x="12"
-          y="36"
-          width="169"
-          height="85"/>
-      <archimateElement
-          xsi:type="archimate:Capability"
-          href="Capability_2f41c718-529b-47c8-802e-d56f6afb3e8f.xml#2f41c718-529b-47c8-802e-d56f6afb3e8f"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="2fe4100c-1732-4251-bdc7-2f4f2d1a40f9"
-        targetConnections="f04a2c80-b070-4bcc-bb55-c095163fd48f">
-      <bounds
-          x="204"
-          y="36"
-          width="169"
-          height="85"/>
-      <archimateElement
-          xsi:type="archimate:Capability"
-          href="Capability_efd757b9-3952-4f1b-af16-67cf72e6bf3d.xml#efd757b9-3952-4f1b-af16-67cf72e6bf3d"/>
-    </children>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelGroup"
-      id="a02f276a-2359-4b51-a86b-15374be28862"
-      name="Oppdatere data"
-      documentation="Deling av data med formål om å oppdatere autoritativ datakilde fra en aktør som ikke er eier eller forvalter av dataene. Oppdatere data kan være å opprette (legge til nye data), endre eksisterende data, eller å slette data.">
-    <bounds
-        x="288"
-        y="123"
-        width="385"
-        height="131"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="e7d7ad5f-6978-4c08-8a09-8113d6696b0f"
-        targetConnections="932f977d-43d2-46ec-ae9c-bade45742548">
-      <bounds
-          x="12"
-          y="36"
-          width="169"
-          height="73"/>
-      <archimateElement
-          xsi:type="archimate:Capability"
-          href="Capability_5e9c8bbc-d057-4811-ba22-6329ab9869c8.xml#5e9c8bbc-d057-4811-ba22-6329ab9869c8"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="6a5c99f4-9c7b-4d16-87b3-0f0fd6a5ae66"
-        targetConnections="8dbe708c-c07a-4581-aca2-14150c6f59e3">
-      <bounds
-          x="204"
-          y="36"
-          width="169"
-          height="73"/>
-      <archimateElement
-          xsi:type="archimate:Capability"
-          href="Capability_5a7eaa0a-f4eb-4ccf-a921-9323d00b0930.xml#5a7eaa0a-f4eb-4ccf-a921-9323d00b0930"/>
-    </children>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="8664d1c6-7003-4cd3-8460-64d21af8d535">
     <sourceConnections
@@ -170,6 +96,118 @@
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_e6829ffb-8193-4a0c-93ee-e73eb8408b6f.xml#e6829ffb-8193-4a0c-93ee-e73eb8408b6f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="7a7089ac-c077-4be1-9674-179e98eefcd8">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="77cf051a-2db8-427b-a509-b2f82d17e883"
+        source="7a7089ac-c077-4be1-9674-179e98eefcd8"
+        target="6a5c99f4-9c7b-4d16-87b3-0f0fd6a5ae66">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_b7bdcc37-fb65-46f3-b607-5770605608c0.xml#b7bdcc37-fb65-46f3-b607-5770605608c0"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="8f3e9daf-2d48-475f-8690-3a7f5e8d7d3c"
+        source="7a7089ac-c077-4be1-9674-179e98eefcd8"
+        target="e7d7ad5f-6978-4c08-8a09-8113d6696b0f">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_78374f2a-f9e4-4362-a90e-0b1a78239193.xml#78374f2a-f9e4-4362-a90e-0b1a78239193"/>
+    </sourceConnections>
+    <bounds
+        x="288"
+        y="120"
+        width="385"
+        height="132"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="6a5c99f4-9c7b-4d16-87b3-0f0fd6a5ae66"
+        targetConnections="8dbe708c-c07a-4581-aca2-14150c6f59e3 77cf051a-2db8-427b-a509-b2f82d17e883">
+      <bounds
+          x="204"
+          y="36"
+          width="169"
+          height="73"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_5a7eaa0a-f4eb-4ccf-a921-9323d00b0930.xml#5a7eaa0a-f4eb-4ccf-a921-9323d00b0930"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="e7d7ad5f-6978-4c08-8a09-8113d6696b0f"
+        targetConnections="932f977d-43d2-46ec-ae9c-bade45742548 8f3e9daf-2d48-475f-8690-3a7f5e8d7d3c">
+      <bounds
+          x="12"
+          y="36"
+          width="169"
+          height="73"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_5e9c8bbc-d057-4811-ba22-6329ab9869c8.xml#5e9c8bbc-d057-4811-ba22-6329ab9869c8"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_5d031c20-edba-4105-b17b-a00f966df687.xml#5d031c20-edba-4105-b17b-a00f966df687"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="663d9675-fec5-49ff-9596-6f3ac492769d">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="ba44b91a-2c26-46f0-af4b-c2dca978e8d3"
+        source="663d9675-fec5-49ff-9596-6f3ac492769d"
+        target="2fe4100c-1732-4251-bdc7-2f4f2d1a40f9">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_10eca863-1cdd-4002-9fec-83dac6897b75.xml#10eca863-1cdd-4002-9fec-83dac6897b75"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="1307bec1-8382-4ee7-9366-1d4fca9fd1e6"
+        source="663d9675-fec5-49ff-9596-6f3ac492769d"
+        target="71c06013-d15d-438a-807a-c69b6e682355">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_f24b05f9-cde5-4c9b-947c-5df60139e466.xml#f24b05f9-cde5-4c9b-947c-5df60139e466"/>
+    </sourceConnections>
+    <bounds
+        x="288"
+        y="276"
+        width="385"
+        height="132"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="2fe4100c-1732-4251-bdc7-2f4f2d1a40f9"
+        targetConnections="f04a2c80-b070-4bcc-bb55-c095163fd48f ba44b91a-2c26-46f0-af4b-c2dca978e8d3">
+      <bounds
+          x="204"
+          y="36"
+          width="169"
+          height="85"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_efd757b9-3952-4f1b-af16-67cf72e6bf3d.xml#efd757b9-3952-4f1b-af16-67cf72e6bf3d"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="71c06013-d15d-438a-807a-c69b6e682355"
+        targetConnections="80b14be6-ccc3-4eb0-b914-e13bb19ca4ee 6302e3f4-f749-42a2-aef1-97c3d7205a44 1307bec1-8382-4ee7-9366-1d4fca9fd1e6">
+      <bounds
+          x="12"
+          y="36"
+          width="169"
+          height="85"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_2f41c718-529b-47c8-802e-d56f6afb3e8f.xml#2f41c718-529b-47c8-802e-d56f6afb3e8f"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_a1033a4a-04df-49e5-9ad1-bf7d7248e62c.xml#a1033a4a-04df-49e5-9ad1-bf7d7248e62c"/>
   </children>
   <properties
       key="difi:current_language"
