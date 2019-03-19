@@ -342,4 +342,7 @@
         xsi:type="archimate:Resource"
         href="Resource_3004af5f-94d4-453d-af14-667cbfeeaf5c.xml#3004af5f-94d4-453d-af14-667cbfeeaf5c"/>
   </children>
+  <properties
+      key="difi:current_language"
+      value="no"/>
 </archimate:ArchimateDiagramModel>

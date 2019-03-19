@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Felles modelleringsprinsipper og -regler"/>
   <properties
-      key="difi:name_en"
-      value="Felles modelleringsprinsipper og -regler (no)"/>
-  <properties
       key="difi:description_no"
       value="https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/nasjonal-arkitektur/informasjonsforvaltning/felles-informasjonsmodeller-prinsipper-og-foringer"/>
   <properties
-      key="difi:description_en"
-      value="https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/nasjonal-arkitektur/informasjonsforvaltning/felles-informasjonsmodeller-prinsipper-og-foringer (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessObject>

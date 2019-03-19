@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gjenfinning av informasjon [ns:RR]"
+    name="Gjenfinning av informasjon"
     id="d9fa4004-2a6d-428b-bb07-bc905df34557"
     documentation="Siste versjon vs. ønsket versjon">
   <properties
@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Gjenfinning av informasjon [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Gjenfinning av informasjon [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"
       value="Siste versjon vs. ønsket versjon"/>
   <properties
-      key="difi:description_en"
-      value="Siste versjon vs. ønsket versjon (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

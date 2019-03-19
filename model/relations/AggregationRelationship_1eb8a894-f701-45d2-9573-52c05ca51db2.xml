@@ -1,0 +1,27 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="adresseres av"
+    id="1eb8a894-f701-45d2-9573-52c05ca51db2">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="adresseres av"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_5c768d6f-d8d2-453d-9d91-189059440d5c.xml#5c768d6f-d8d2-453d-9d91-189059440d5c"/>
+  <target
+      xsi:type="archimate:Resource"
+      href="Resource_884fddb7-0907-404d-98e6-63423bce101a.xml#884fddb7-0907-404d-98e6-63423bce101a"/>
+</archimate:AggregationRelationship>

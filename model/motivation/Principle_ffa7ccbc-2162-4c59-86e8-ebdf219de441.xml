@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Prinsipper for nformasjons-forvaltning"/>
   <properties
-      key="difi:name_en"
-      value="Prinsipper for nformasjons-forvaltning (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Principle>

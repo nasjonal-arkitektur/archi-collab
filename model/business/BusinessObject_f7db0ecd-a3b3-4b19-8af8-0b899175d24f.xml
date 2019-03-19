@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Semantic Interoperability Specification (eira:SemanticInteroperabilitySpecification)"/>
   <properties
-      key="difi:name_en"
-      value="Semantic Interoperability Specification (eira:SemanticInteroperabilitySpecification) (no)"/>
-  <properties
       key="difi:description_no"
       value="eira:SemanticInteroperabilitySpecification"/>
   <properties
-      key="difi:description_en"
-      value="eira:SemanticInteroperabilitySpecification (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessObject>

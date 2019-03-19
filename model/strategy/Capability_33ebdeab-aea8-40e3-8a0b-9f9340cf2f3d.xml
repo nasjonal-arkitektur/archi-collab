@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kodeliste-oversikt [ns:jim]"
+    name="Kodeliste-oversikt"
     id="33ebdeab-aea8-40e3-8a0b-9f9340cf2f3d"
     documentation="Å ha oversikt over kodelistene/kodeverkene sine">
   <properties
@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Kodeliste-oversikt [ns:jim]"/>
   <properties
-      key="difi:name_en"
-      value="Kodeliste-oversikt [ns:jim] (no)"/>
-  <properties
       key="difi:description_no"
       value="Å ha oversikt over kodelistene/kodeverkene sine"/>
   <properties
-      key="difi:description_en"
-      value="Å ha oversikt over kodelistene/kodeverkene sine (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

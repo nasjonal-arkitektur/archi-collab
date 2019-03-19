@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Be om tilgangstoken"/>
   <properties
-      key="difi:name_en"
-      value="Be om tilgangstoken (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessProcess>

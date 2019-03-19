@@ -8,13 +8,11 @@
   <properties
       key="difi:name_no"/>
   <properties
-      key="difi:name_en"
-      value=" (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
   <source
       xsi:type="archimate:Resource"
       href="Resource_d88768cd-1454-43c2-bcc5-8758ff5df2a5.xml#d88768cd-1454-43c2-bcc5-8758ff5df2a5"/>

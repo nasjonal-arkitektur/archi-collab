@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="API-oversikt [ns:jim]"
+    name="API-oversikt"
     id="c0618308-2ed8-4cab-9e1b-7e7face8426d"
     documentation="Å ha oversikt over APIene sine">
   <properties
@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="API-oversikt [ns:jim]"/>
   <properties
-      key="difi:name_en"
-      value="API-oversikt [ns:jim] (no)"/>
-  <properties
       key="difi:description_no"
       value="Å ha oversikt over APIene sine"/>
   <properties
-      key="difi:description_en"
-      value="Å ha oversikt over APIene sine (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

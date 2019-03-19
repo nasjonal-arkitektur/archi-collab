@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Videreutvikling av arbeidsgiverstøtten"/>
   <properties
-      key="difi:name_en"
-      value="Videreutvikling av arbeidsgiverstøtten (no)"/>
-  <properties
       key="difi:description_no"
       value="Arbeidsgiverstøtten skal videreutvikles"/>
   <properties
-      key="difi:description_en"
-      value="Arbeidsgiverstøtten skal videreutvikles (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:WorkPackage>

@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Hovedmål for Difi i 2019"/>
   <properties
-      key="difi:name_en"
-      value="Hovedmål for Difi i 2019 (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Grouping>

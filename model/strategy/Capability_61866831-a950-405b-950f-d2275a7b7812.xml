@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Prosesser for høring og godkjenning [ns:RR]"
+    name="Prosesser for høring og godkjenning"
     id="61866831-a950-405b-950f-d2275a7b7812">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Prosesser for høring og godkjenning [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Prosesser for høring og godkjenning [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

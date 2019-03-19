@@ -10,13 +10,11 @@
       key="difi:name_no"
       value="AS4"/>
   <properties
-      key="difi:name_en"
-      value="AS4 (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_12f6cdf3-2841-4abf-8e64-1e62b065135b.xml#12f6cdf3-2841-4abf-8e64-1e62b065135b"/>

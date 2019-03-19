@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Forvaltnings-regime for &quot;masterdata&quot;"/>
   <properties
-      key="difi:name_en"
-      value="Forvaltnings-regime for &quot;masterdata&quot; (no)"/>
-  <properties
       key="difi:description_no"
       value="Inkl. fellesbegreper"/>
   <properties
-      key="difi:description_en"
-      value="Inkl. fellesbegreper (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Katalogeier [ns:Erik]"
+    name="Katalogeier"
     id="09605df5-b3be-437d-88ac-ba9c67fb155f">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Katalogeier [ns:Erik]"/>
   <properties
-      key="difi:name_en"
-      value="Katalogeier [ns:Erik] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessRole>

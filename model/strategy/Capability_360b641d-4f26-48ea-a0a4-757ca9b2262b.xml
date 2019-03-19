@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Hjemmelsoversikt [ns:jim]"
+    name="Hjemmelsoversikt"
     id="360b641d-4f26-48ea-a0a4-757ca9b2262b"
     documentation="Å ha oversikt over hjemlene sine">
   <properties
@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Hjemmelsoversikt [ns:jim]"/>
   <properties
-      key="difi:name_en"
-      value="Hjemmelsoversikt [ns:jim] (no)"/>
-  <properties
       key="difi:description_no"
       value="Å ha oversikt over hjemlene sine"/>
   <properties
-      key="difi:description_en"
-      value="Å ha oversikt over hjemlene sine (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

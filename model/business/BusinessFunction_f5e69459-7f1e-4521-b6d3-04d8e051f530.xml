@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Addressering"/>
   <properties
-      key="difi:name_en"
-      value="Addressering (no)"/>
-  <properties
       key="difi:description_no"
       value="Adressering av meldinger&#xD;&#xA;Oppslag av endepunktsadresser"/>
   <properties
-      key="difi:description_en"
-      value="Adressering av meldinger&#xD;&#xA;Oppslag av endepunktsadresser (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessFunction>

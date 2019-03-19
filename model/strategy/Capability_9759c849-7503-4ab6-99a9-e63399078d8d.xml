@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Intern opplæring [ns:RR]"
+    name="Intern opplæring"
     id="9759c849-7503-4ab6-99a9-e63399078d8d">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Intern opplæring [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Intern opplæring [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

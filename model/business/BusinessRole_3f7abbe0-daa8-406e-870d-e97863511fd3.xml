@@ -1,19 +1,17 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Databehandler [ns:Erik]"
+    name="Databehandler [ns:erik]"
     id="3f7abbe0-daa8-406e-870d-e97863511fd3">
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="erik"/>
   <properties
       key="difi:name_no"
       value="Databehandler [ns:Erik]"/>
   <properties
-      key="difi:name_en"
-      value="Databehandler [ns:Erik] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessRole>

@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sikkerhets-klassifisering [ns:RR]"
+    name="Sikkerhets-klassifisering"
     id="e53f3d90-4311-4025-8eaa-68c8e72b060d">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Sikkerhets-klassifisering [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Sikkerhets-klassifisering [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

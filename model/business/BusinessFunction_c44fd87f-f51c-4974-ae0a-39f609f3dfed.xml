@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Tilgjengelighet"/>
   <properties
-      key="difi:name_en"
-      value="Tilgjengelighet (no)"/>
-  <properties
       key="difi:description_no"
       value="Egenskap, ikke kapabilitet"/>
   <properties
-      key="difi:description_en"
-      value="Egenskap, ikke kapabilitet (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessFunction>

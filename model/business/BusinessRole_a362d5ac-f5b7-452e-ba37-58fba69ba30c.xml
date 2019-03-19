@@ -1,0 +1,17 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dataprodusent [ns:erik]"
+    id="a362d5ac-f5b7-452e-ba37-58fba69ba30c">
+  <properties
+      key="difi:namespace"
+      value="erik"/>
+  <properties
+      key="difi:name_no"
+      value="Produsent [ns:erik]"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:BusinessRole>

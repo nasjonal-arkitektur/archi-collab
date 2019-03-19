@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Datapreparering [ns:RR]"
+    name="Datapreparering"
     id="10935d3b-3777-49fc-90fe-471f58c6581f">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Datapreparering [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Datapreparering [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

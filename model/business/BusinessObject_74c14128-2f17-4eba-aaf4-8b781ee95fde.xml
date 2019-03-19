@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Organisasjon"/>
   <properties
-      key="difi:name_en"
-      value="Organisasjon (no)"/>
-  <properties
       key="difi:description_no"
       value="Status per 2019-01-01: ikke etablert / under utarbeidelse (Brreg ansvarlig)"/>
   <properties
-      key="difi:description_en"
-      value="Status per 2019-01-01: ikke etablert / under utarbeidelse (Brreg ansvarlig) (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessObject>

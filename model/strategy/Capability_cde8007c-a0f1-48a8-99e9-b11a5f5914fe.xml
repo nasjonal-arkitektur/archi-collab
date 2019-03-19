@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sletting av irrelevant informasjon [ns:RR]"
+    name="Sletting av irrelevant informasjon"
     id="cde8007c-a0f1-48a8-99e9-b11a5f5914fe">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Sletting av irrelevant informasjon [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Sletting av irrelevant informasjon [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Nasjonal virksomhets-arkitektur"/>
   <properties
-      key="difi:name_en"
-      value="Nasjonal virksomhets-arkitektur (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

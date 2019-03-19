@@ -497,4 +497,7 @@
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_3207d6b7-860b-4966-8ed9-19d72bd8194f.xml#3207d6b7-860b-4966-8ed9-19d72bd8194f"/>
   </children>
+  <properties
+      key="difi:current_language"
+      value="no"/>
 </archimate:ArchimateDiagramModel>

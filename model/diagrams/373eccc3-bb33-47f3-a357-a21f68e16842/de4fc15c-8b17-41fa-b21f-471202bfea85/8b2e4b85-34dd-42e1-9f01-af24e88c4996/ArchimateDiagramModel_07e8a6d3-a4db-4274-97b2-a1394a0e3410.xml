@@ -344,4 +344,7 @@
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_adf6051a-bfa8-4398-b803-5a376dfd2ad9.xml#adf6051a-bfa8-4398-b803-5a376dfd2ad9"/>
   </children>
+  <properties
+      key="difi:current_language"
+      value="no"/>
 </archimate:ArchimateDiagramModel>

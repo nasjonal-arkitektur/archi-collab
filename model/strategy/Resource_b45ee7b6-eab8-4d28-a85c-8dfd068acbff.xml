@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="3D-printing"/>
   <properties
-      key="difi:name_en"
-      value="3D-printing (no)"/>
-  <properties
       key="difi:description_no"
       value="3D-printing er en teknologi som gjør det mulig å skape&#xD;&#xA;en tredimensjonal gjenstand ved hjelp av en printer som&#xD;&#xA;lagvis bygger gjenstanden. 3D-printing anvendes i dag&#xD;&#xA;innen produktutvikling og industridesign, arkitektur og&#xD;&#xA;annen modellbygging, ortopedi og tekniske hjelpemidler,&#xD;&#xA;og også til å produsere kompliserte gjenstander som&#xD;&#xA;flyturbiner."/>
   <properties
-      key="difi:description_en"
-      value="3D-printing er en teknologi som gjør det mulig å skape&#xD;&#xA;en tredimensjonal gjenstand ved hjelp av en printer som&#xD;&#xA;lagvis bygger gjenstanden. 3D-printing anvendes i dag&#xD;&#xA;innen produktutvikling og industridesign, arkitektur og&#xD;&#xA;annen modellbygging, ortopedi og tekniske hjelpemidler,&#xD;&#xA;og også til å produsere kompliserte gjenstander som&#xD;&#xA;flyturbiner. (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Resource>

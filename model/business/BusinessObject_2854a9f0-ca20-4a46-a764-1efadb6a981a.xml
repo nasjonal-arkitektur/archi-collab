@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="SKOS (W3C)"/>
   <properties
-      key="difi:name_en"
-      value="SKOS (W3C) (no)"/>
-  <properties
       key="difi:description_no"
       value="W3C SKOS: https://www.w3.org/2004/02/skos/"/>
   <properties
-      key="difi:description_en"
-      value="W3C SKOS: https://www.w3.org/2004/02/skos/ (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessObject>

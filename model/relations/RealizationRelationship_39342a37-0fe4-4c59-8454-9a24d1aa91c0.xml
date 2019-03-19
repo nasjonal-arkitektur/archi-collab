@@ -10,13 +10,11 @@
       key="difi:name_no"
       value="automatiserer"/>
   <properties
-      key="difi:name_en"
-      value="automatiserer (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
   <source
       xsi:type="archimate:Grouping"
       href="Grouping_e46c2ddc-d833-43bc-aa7c-684c24b7afff.xml#e46c2ddc-d833-43bc-aa7c-684c24b7afff"/>

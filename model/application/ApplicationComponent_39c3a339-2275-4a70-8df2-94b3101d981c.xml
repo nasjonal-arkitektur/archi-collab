@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Federal access management platform"/>
   <properties
-      key="difi:name_en"
-      value="Federal access management platform (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ApplicationComponent>

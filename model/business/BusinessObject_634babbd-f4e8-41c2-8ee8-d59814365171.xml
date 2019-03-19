@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Organisasjonsnummer"/>
   <properties
-      key="difi:name_en"
-      value="Organisasjonsnummer (no)"/>
-  <properties
       key="difi:description_no"
       value="Alle som blir registrert i Enhetsregisteret og Foretaksregisteret får tildelt et organisasjonsnummer.&#xD;&#xA;&#xD;&#xA;Organisasjonsnummeret identifiserer juridiske personer m.m. og er nøkkelen til opplysningene som er lagret om dem i Brønnøysundregistrene. &#xD;&#xA;&#xD;&#xA;https://www.brreg.no/om-oss-nn/oppgavene-vare/registera-vare/om-einingsregisteret/organisasjonsnummeret/"/>
   <properties
-      key="difi:description_en"
-      value="Alle som blir registrert i Enhetsregisteret og Foretaksregisteret får tildelt et organisasjonsnummer.&#xD;&#xA;&#xD;&#xA;Organisasjonsnummeret identifiserer juridiske personer m.m. og er nøkkelen til opplysningene som er lagret om dem i Brønnøysundregistrene. &#xD;&#xA;&#xD;&#xA;https://www.brreg.no/om-oss-nn/oppgavene-vare/registera-vare/om-einingsregisteret/organisasjonsnummeret/ (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessObject>

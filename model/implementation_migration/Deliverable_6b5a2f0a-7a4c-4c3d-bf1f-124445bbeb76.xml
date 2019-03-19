@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Samarbeidsavtaler"/>
   <properties
-      key="difi:name_en"
-      value="Samarbeidsavtaler (no)"/>
-  <properties
       key="difi:description_no"
       value="Difi skal styrke tilbudet om juridiske rådgivning på&#xD;&#xA;arbeidsgiverområdet gjennom samarbeidsavtaler med markedet&#xD;&#xA;eller andre offentlige virksomheter.&#xD;&#xA;"/>
   <properties
-      key="difi:description_en"
-      value="Difi skal styrke tilbudet om juridiske rådgivning på&#xD;&#xA;arbeidsgiverområdet gjennom samarbeidsavtaler med markedet&#xD;&#xA;eller andre offentlige virksomheter.&#xD;&#xA; (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Deliverable>

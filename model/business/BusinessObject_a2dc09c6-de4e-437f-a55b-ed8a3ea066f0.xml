@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Data Model (eira:DataModel)"/>
   <properties
-      key="difi:name_en"
-      value="Data Model (eira:DataModel) (no)"/>
-  <properties
       key="difi:description_no"
       value="eira:DataModel"/>
   <properties
-      key="difi:description_en"
-      value="eira:DataModel (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessObject>

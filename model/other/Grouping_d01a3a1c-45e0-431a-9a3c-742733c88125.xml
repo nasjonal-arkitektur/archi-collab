@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Hovedmål i prop 1S"/>
   <properties
-      key="difi:name_en"
-      value="Hovedmål i prop 1S (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Grouping>

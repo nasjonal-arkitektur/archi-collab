@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Brukerrettede tjenester"/>
   <properties
-      key="difi:name_en"
-      value="Brukerrettede tjenester (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Principle>

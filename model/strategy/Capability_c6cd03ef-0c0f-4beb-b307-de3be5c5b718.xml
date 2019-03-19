@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Få utført lang transaksjon, med kompensasjon [ns:erik]"
+    name="Få utført lang transaksjon, med kompensasjon"
     id="c6cd03ef-0c0f-4beb-b307-de3be5c5b718">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Få utført lang transaksjon, med kompensasjon [ns:erik]"/>
   <properties
-      key="difi:name_en"
-      value="Få utført lang transaksjon, med kompensasjon [ns:erik] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

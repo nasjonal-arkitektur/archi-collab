@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Data Set (eira:DataSet)"/>
   <properties
-      key="difi:name_en"
-      value="Data Set (eira:DataSet) (no)"/>
-  <properties
       key="difi:description_no"
       value="eira:DataSet"/>
   <properties
-      key="difi:description_en"
-      value="eira:DataSet (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:DataObject>

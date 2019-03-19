@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Skytjenester"/>
   <properties
-      key="difi:name_en"
-      value="Skytjenester (no)"/>
-  <properties
       key="difi:description_no"
       value="Skytjenester gir tilgang til delt datakraft via nettet fra&#xD;&#xA;store datasentre. Det gir mulighet til effektiv drift og&#xD;&#xA;distribusjon av programvare og kostnadseffektive&#xD;&#xA;tjenester. Mange bruker skytjenester som karttjenester,&#xD;&#xA;Gmail, OneDrive og Office 365, og i økende grad leveres&#xD;&#xA;annen programvare, som økonomisystemer, som&#xD;&#xA;skytjenester."/>
   <properties
-      key="difi:description_en"
-      value="Skytjenester gir tilgang til delt datakraft via nettet fra&#xD;&#xA;store datasentre. Det gir mulighet til effektiv drift og&#xD;&#xA;distribusjon av programvare og kostnadseffektive&#xD;&#xA;tjenester. Mange bruker skytjenester som karttjenester,&#xD;&#xA;Gmail, OneDrive og Office 365, og i økende grad leveres&#xD;&#xA;annen programvare, som økonomisystemer, som&#xD;&#xA;skytjenester. (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Resource>

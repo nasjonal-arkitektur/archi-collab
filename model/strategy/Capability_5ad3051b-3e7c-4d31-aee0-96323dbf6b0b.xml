@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Lagring av vilkårlige formater [ns:RR]"
+    name="Lagring av vilkårlige formater"
     id="5ad3051b-3e7c-4d31-aee0-96323dbf6b0b">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Lagring av vilkårlige formater [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Lagring av vilkårlige formater [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

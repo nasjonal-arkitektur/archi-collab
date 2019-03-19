@@ -8,13 +8,11 @@
   <properties
       key="difi:name_no"/>
   <properties
-      key="difi:name_en"
-      value=" (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
   <source
       xsi:type="archimate:TechnologyInterface"
       href="TechnologyInterface_d99ff23c-1406-4d25-a634-d277b6df7131.xml#d99ff23c-1406-4d25-a634-d277b6df7131"/>

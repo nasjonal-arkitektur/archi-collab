@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="API-eier [ns:Erik]"
+    name="API-eier"
     id="abbafe2a-f9b1-4abe-8bc6-0c16d2c7a052">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="API-eier [ns:Erik]"/>
   <properties
-      key="difi:name_en"
-      value="API-eier [ns:Erik] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessRole>

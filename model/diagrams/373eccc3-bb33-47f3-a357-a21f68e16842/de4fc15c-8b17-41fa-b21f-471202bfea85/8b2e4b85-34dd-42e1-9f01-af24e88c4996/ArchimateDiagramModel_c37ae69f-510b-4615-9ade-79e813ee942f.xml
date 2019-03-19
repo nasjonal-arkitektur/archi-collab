@@ -194,4 +194,7 @@
         width="222"
         height="169"/>
   </children>
+  <properties
+      key="difi:current_language"
+      value="no"/>
 </archimate:ArchimateDiagramModel>

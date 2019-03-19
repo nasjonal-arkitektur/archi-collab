@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Intern arkivering [ns:e-kladd]"
+    name="Intern arkivering"
     id="5e47285a-9830-430b-a331-63cac2092422">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Intern arkivering [ns:e-kladd]"/>
   <properties
-      key="difi:name_en"
-      value="Intern arkivering [ns:e-kladd] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

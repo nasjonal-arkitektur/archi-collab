@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Opprett API"/>
   <properties
-      key="difi:name_en"
-      value="Opprett API (no)"/>
-  <properties
       key="difi:description_no"
       value="Etablere API for ressursen som skal tilbys"/>
   <properties
-      key="difi:description_en"
-      value="Etablere API for ressursen som skal tilbys (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessProcess>

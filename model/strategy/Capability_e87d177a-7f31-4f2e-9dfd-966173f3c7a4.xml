@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Informasjonsfangst [ns:e-kladd]"
+    name="Informasjonsfangst"
     id="e87d177a-7f31-4f2e-9dfd-966173f3c7a4">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Informasjonsfangst [ns:e-kladd]"/>
   <properties
-      key="difi:name_en"
-      value="Informasjonsfangst [ns:e-kladd] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

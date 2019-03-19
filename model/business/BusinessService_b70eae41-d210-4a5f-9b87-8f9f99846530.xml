@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Service discovery tjeneste"/>
   <properties
-      key="difi:name_en"
-      value="Service discovery tjeneste (no)"/>
-  <properties
       key="difi:description_no"
       value="Shares the functionality of locating a machine-processable description of a service-related resource that may have been previously unknown and that meets certain functional criteria. It involves matching a set of functional and other criteria with a set of resource descriptions. The goal is to find an appropriate service-related resource."/>
   <properties
-      key="difi:description_en"
-      value="Shares the functionality of locating a machine-processable description of a service-related resource that may have been previously unknown and that meets certain functional criteria. It involves matching a set of functional and other criteria with a set of resource descriptions. The goal is to find an appropriate service-related resource. (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessService>

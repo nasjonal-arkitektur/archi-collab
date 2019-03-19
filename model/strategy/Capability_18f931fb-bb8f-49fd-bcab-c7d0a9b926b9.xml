@@ -1,19 +1,17 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Avidentifisering"
+    name="Avidentifisering [ns:eirabased]"
     id="18f931fb-bb8f-49fd-bcab-c7d0a9b926b9">
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="eirabased"/>
   <properties
       key="difi:name_no"
       value="Avidentifisering"/>
   <properties
-      key="difi:name_en"
-      value="Avidentifisering (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

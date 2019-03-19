@@ -1,6 +1,6 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Nasjonalt nivå - felles oversikter [ns:jim]"
+    name="Nasjonalt nivå - felles oversikter"
     id="35c96aa0-793f-4124-8976-ed3480750750">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Nasjonalt nivå - felles oversikter [ns:jim]"/>
   <properties
-      key="difi:name_en"
-      value="Nasjonalt nivå - felles oversikter [ns:jim] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Grouping>

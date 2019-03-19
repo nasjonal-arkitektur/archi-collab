@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Spesifikasjon for beskrivelser av informasjonsmodeller"/>
   <properties
-      key="difi:name_en"
-      value="Spesifikasjon for beskrivelser av informasjonsmodeller (no)"/>
-  <properties
       key="difi:description_no"
       value="Status per 2019-02-01: finnes ikke"/>
   <properties
-      key="difi:description_en"
-      value="Status per 2019-02-01: finnes ikke (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessObject>

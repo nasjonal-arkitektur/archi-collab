@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Oppsplitting og sammenstilling [ns:RR]"
+    name="Oppsplitting og sammenstilling"
     id="bf8e07b8-f0a4-4e84-9add-c45cf23d1dfb">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Oppsplitting og sammenstilling [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Oppsplitting og sammenstilling [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

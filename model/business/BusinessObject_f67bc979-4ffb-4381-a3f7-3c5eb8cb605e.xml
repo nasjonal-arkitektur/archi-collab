@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Standard for begrepskoordinering"/>
   <properties
-      key="difi:name_en"
-      value="Standard for begrepskoordinering (no)"/>
-  <properties
       key="difi:description_no"
       value="Forvaltningsstandard i Referansekatalogen: https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/standarder/standard-begrepskoordinering&#xD;&#xA;&#xD;&#xA;Status 2019-02-01: Under revisjon, planlagt ferdig innen utgang av 2019. "/>
   <properties
-      key="difi:description_en"
-      value="Forvaltningsstandard i Referansekatalogen: https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/standarder/standard-begrepskoordinering&#xD;&#xA;&#xD;&#xA;Status 2019-02-01: Under revisjon, planlagt ferdig innen utgang av 2019.  (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessObject>

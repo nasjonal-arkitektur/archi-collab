@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Grunnlag for drøfting av &quot;inkluderingsdugnaden&quot;"/>
   <properties
-      key="difi:name_en"
-      value="Grunnlag for drøfting av &quot;inkluderingsdugnaden&quot; (no)"/>
-  <properties
       key="difi:description_no"
       value="KMD vil drøfte med Difi et opplegg for arbeidet med&#xD;&#xA;inkluderingsdugnaden. Et skriftlig grunnlag for drøftingen skal&#xD;&#xA;utarbeides av Difi.&#xD;&#xA;"/>
   <properties
-      key="difi:description_en"
-      value="KMD vil drøfte med Difi et opplegg for arbeidet med&#xD;&#xA;inkluderingsdugnaden. Et skriftlig grunnlag for drøftingen skal&#xD;&#xA;utarbeides av Difi.&#xD;&#xA; (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Deliverable>

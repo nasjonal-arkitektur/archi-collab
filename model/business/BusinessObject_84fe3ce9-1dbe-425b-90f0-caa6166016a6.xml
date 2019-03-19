@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="URI-standarden"/>
   <properties
-      key="difi:name_en"
-      value="URI-standarden (no)"/>
-  <properties
       key="difi:description_no"
       value="https://www.difi.no/referansekatalogen/pekere-til-offentlige-ressurser-pa-nett"/>
   <properties
-      key="difi:description_en"
-      value="https://www.difi.no/referansekatalogen/pekere-til-offentlige-ressurser-pa-nett (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessObject>

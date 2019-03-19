@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Semantisk lenking [ns:RR]"
+    name="Semantisk lenking"
     id="d435d8c2-52e7-4b44-bee4-ad89d59f156b">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Semantisk lenking [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Semantisk lenking [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

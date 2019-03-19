@@ -5,17 +5,15 @@
     documentation="En aktør som tilbyr data til eksterne parter, enten på vegne av andre, som forvalter av data eller som dataansvarlig.">
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="henrik"/>
   <properties
       key="difi:name_no"
       value="Tilbyder av data"/>
   <properties
-      key="difi:name_en"
-      value="Tilbyder av data (no)"/>
-  <properties
       key="difi:description_no"
       value="En aktør som tilbyr data til eksterne parter, enten på vegne av andre, som forvalter av data eller som dataansvarlig."/>
   <properties
-      key="difi:description_en"
-      value="En aktør som tilbyr data til eksterne parter, enten på vegne av andre, som forvalter av data eller som dataansvarlig. (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessRole>

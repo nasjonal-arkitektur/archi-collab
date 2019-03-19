@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ta rede på  informasjonskilder [ns:erik]"
+    name="Ta rede på  informasjonskilder"
     id="dc3b4a6c-2600-4fee-b46e-bfe85f08dba6">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Ta rede på  informasjonskilder [ns:erik]"/>
   <properties
-      key="difi:name_en"
-      value="Ta rede på  informasjonskilder [ns:erik] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

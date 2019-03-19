@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Pseudonymisering [ns:RR]"
+    name="Pseudonymisering"
     id="efb71a20-9924-4a4d-9dba-721649184d93">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Pseudonymisering [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Pseudonymisering [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

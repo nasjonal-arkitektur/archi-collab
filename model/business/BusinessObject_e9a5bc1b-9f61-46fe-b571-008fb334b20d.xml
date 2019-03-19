@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Core Person Vocabulary (EU)"/>
   <properties
-      key="difi:name_en"
-      value="Core Person Vocabulary (EU) (no)"/>
-  <properties
       key="difi:description_no"
       value="https://joinup.ec.europa.eu/solution/core-person-vocabulary"/>
   <properties
-      key="difi:description_en"
-      value="https://joinup.ec.europa.eu/solution/core-person-vocabulary (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessObject>

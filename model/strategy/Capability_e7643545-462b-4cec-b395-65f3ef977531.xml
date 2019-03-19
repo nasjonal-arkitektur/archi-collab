@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Oversikt over persondata [ns:RR]"
+    name="Oversikt over persondata"
     id="e7643545-462b-4cec-b395-65f3ef977531">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Oversikt over persondata [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Oversikt over persondata [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

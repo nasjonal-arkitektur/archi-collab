@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Opprette tilbyder hos leverandør av tokentjeneste"/>
   <properties
-      key="difi:name_en"
-      value="Opprette tilbyder hos leverandør av tokentjeneste (no)"/>
-  <properties
       key="difi:description_no"
       value="Opprette bruker i maskinporten.&#xD;&#xA;Akseptere bruksvilkår.&#xD;&#xA;Merkantile forhold"/>
   <properties
-      key="difi:description_en"
-      value="Opprette bruker i maskinporten.&#xD;&#xA;Akseptere bruksvilkår.&#xD;&#xA;Merkantile forhold (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessProcess>

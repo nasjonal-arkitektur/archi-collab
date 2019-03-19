@@ -146,4 +146,7 @@
         xsi:type="archimate:BusinessService"
         href="BusinessService_02de12f4-d490-4b57-a5bd-5d9497518662.xml#02de12f4-d490-4b57-a5bd-5d9497518662"/>
   </children>
+  <properties
+      key="difi:current_language"
+      value="no"/>
 </archimate:ArchimateDiagramModel>

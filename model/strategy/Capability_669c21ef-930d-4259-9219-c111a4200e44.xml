@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sanntidsoppdatering [ns:e-kladd]"
+    name="Sanntidsoppdatering"
     id="669c21ef-930d-4259-9219-c111a4200e44"
     documentation="gjelder innhenting,. lagring, analyser, publisering">
   <properties
@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Sanntidsoppdatering [ns:e-kladd]"/>
   <properties
-      key="difi:name_en"
-      value="Sanntidsoppdatering [ns:e-kladd] (no)"/>
-  <properties
       key="difi:description_no"
       value="gjelder innhenting,. lagring, analyser, publisering"/>
   <properties
-      key="difi:description_en"
-      value="gjelder innhenting,. lagring, analyser, publisering (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

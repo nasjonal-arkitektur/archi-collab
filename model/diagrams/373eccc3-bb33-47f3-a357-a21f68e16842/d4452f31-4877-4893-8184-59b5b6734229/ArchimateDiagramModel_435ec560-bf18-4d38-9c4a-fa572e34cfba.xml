@@ -911,4 +911,7 @@
         xsi:type="archimate:Grouping"
         href="Grouping_941eae72-b868-4631-8ef3-c9111a1ca54e.xml#941eae72-b868-4631-8ef3-c9111a1ca54e"/>
   </children>
+  <properties
+      key="difi:current_language"
+      value="no"/>
 </archimate:ArchimateDiagramModel>

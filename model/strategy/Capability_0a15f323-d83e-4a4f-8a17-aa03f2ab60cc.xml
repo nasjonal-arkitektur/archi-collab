@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Felles dataoversikt [ns:jim]"
+    name="Felles dataoversikt"
     id="0a15f323-d83e-4a4f-8a17-aa03f2ab60cc"
     documentation="Å ha en felles dataoversikt nasjonalt">
   <properties
@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Felles dataoversikt [ns:jim]"/>
   <properties
-      key="difi:name_en"
-      value="Felles dataoversikt [ns:jim] (no)"/>
-  <properties
       key="difi:description_no"
       value="Å ha en felles dataoversikt nasjonalt"/>
   <properties
-      key="difi:description_en"
-      value="Å ha en felles dataoversikt nasjonalt (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

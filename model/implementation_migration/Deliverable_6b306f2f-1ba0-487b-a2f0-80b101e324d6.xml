@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Oversikt over felles løsninger "/>
   <properties
-      key="difi:name_en"
-      value="Oversikt over felles løsninger  (no)"/>
-  <properties
       key="difi:description_no"
       value="Difi skal ha en oversikt over felles løsninger og komponenter i forvaltningen, og vurdere merpotensialet knyttet til gjenbruk av disse. Oversikten over infrastruktur, forvaltningsmiljøer, finansieringsmodeller mv. skal utvikles over tid. Difi skal gi råd og anbefalinger til KMD med henblikk på endringer i bruk og innretning av eksisterende felles løsninger og komponenter, samt behovet for nye."/>
   <properties
-      key="difi:description_en"
-      value="Difi skal ha en oversikt over felles løsninger og komponenter i forvaltningen, og vurdere merpotensialet knyttet til gjenbruk av disse. Oversikten over infrastruktur, forvaltningsmiljøer, finansieringsmodeller mv. skal utvikles over tid. Difi skal gi råd og anbefalinger til KMD med henblikk på endringer i bruk og innretning av eksisterende felles løsninger og komponenter, samt behovet for nye. (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Deliverable>

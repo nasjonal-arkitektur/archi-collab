@@ -833,8 +833,8 @@
         id="e9c2ba54-5180-464d-ba67-4b05fb67282c"
         targetConnections="e3dba5d3-08b2-4192-b0f5-fba46e86bc1f">
       <bounds
-          x="265"
-          y="48"
+          x="409"
+          y="26"
           width="120"
           height="55"/>
       <archimateElement
@@ -846,8 +846,8 @@
         id="09c6ee68-bba0-44ce-b8f1-ab083dfa08e8"
         targetConnections="df7e0538-d56d-4043-83bf-a9cf62d4c8fb">
       <bounds
-          x="480"
-          y="43"
+          x="540"
+          y="24"
           width="130"
           height="60"/>
       <archimateElement
@@ -1422,4 +1422,7 @@
         xsi:type="archimate:Capability"
         href="Capability_cf166850-1e1f-4a69-9593-7929db1c4446.xml#cf166850-1e1f-4a69-9593-7929db1c4446"/>
   </children>
+  <properties
+      key="difi:current_language"
+      value="no"/>
 </archimate:ArchimateDiagramModel>

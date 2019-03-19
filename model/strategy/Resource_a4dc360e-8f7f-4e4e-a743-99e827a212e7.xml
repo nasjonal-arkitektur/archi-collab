@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Digitale plattformer"/>
   <properties
-      key="difi:name_en"
-      value="Digitale plattformer (no)"/>
-  <properties
       key="difi:description_no"
       value="Digitale plattformer gjør det mulig å skape nye&#xD;&#xA;forretningsmodeller ved å tilby infrastruktur som kobler&#xD;&#xA;kunder og leverandører. Eksempler på plattformer er&#xD;&#xA;Amazon, Apple, Alipay, Airbnb, Facebook, Uber, Spotify&#xD;&#xA;og Finn. Plattformer bygger nettverkseffekt ved å øke&#xD;&#xA;deltakelse og verdiskapning for sine brukere, og blir i&#xD;&#xA;økende grad datadrevet. Plattformer vil gi behov for&#xD;&#xA;regelverksutvikling knyttet til skatt, arbeidsforhold,&#xD;&#xA;konkurranse, sikkerhet og personvern."/>
   <properties
-      key="difi:description_en"
-      value="Digitale plattformer gjør det mulig å skape nye&#xD;&#xA;forretningsmodeller ved å tilby infrastruktur som kobler&#xD;&#xA;kunder og leverandører. Eksempler på plattformer er&#xD;&#xA;Amazon, Apple, Alipay, Airbnb, Facebook, Uber, Spotify&#xD;&#xA;og Finn. Plattformer bygger nettverkseffekt ved å øke&#xD;&#xA;deltakelse og verdiskapning for sine brukere, og blir i&#xD;&#xA;økende grad datadrevet. Plattformer vil gi behov for&#xD;&#xA;regelverksutvikling knyttet til skatt, arbeidsforhold,&#xD;&#xA;konkurranse, sikkerhet og personvern. (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Resource>

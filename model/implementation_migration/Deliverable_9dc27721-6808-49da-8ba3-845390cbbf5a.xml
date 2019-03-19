@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Oppsummering av erfaringer fra deltakelse i CEF Digital og ISA2"/>
   <properties
-      key="difi:name_en"
-      value="Oppsummering av erfaringer fra deltakelse i CEF Digital og ISA2 (no)"/>
-  <properties
       key="difi:description_no"
       value="Difi skal oppsummere erfaringene og effektene av Norges&#xD;&#xA;deltagelse i EU-programmene CEF Digital og ISA2.&#xD;&#xA;"/>
   <properties
-      key="difi:description_en"
-      value="Difi skal oppsummere erfaringene og effektene av Norges&#xD;&#xA;deltagelse i EU-programmene CEF Digital og ISA2.&#xD;&#xA; (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Deliverable>

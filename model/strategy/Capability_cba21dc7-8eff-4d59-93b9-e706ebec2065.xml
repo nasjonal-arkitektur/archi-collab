@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Informasjonsoppdagelse [ns:e-kladd]"
+    name="Informasjonsoppdagelse"
     id="cba21dc7-8eff-4d59-93b9-e706ebec2065">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Informasjonsoppdagelse [ns:e-kladd]"/>
   <properties
-      key="difi:name_en"
-      value="Informasjonsoppdagelse [ns:e-kladd] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

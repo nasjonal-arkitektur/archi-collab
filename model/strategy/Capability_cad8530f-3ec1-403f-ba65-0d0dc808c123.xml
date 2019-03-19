@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Slå opp data gjennom et API"
+    name="Slå opp data gjennom synkront API-kall"
     id="cad8530f-3ec1-403f-ba65-0d0dc808c123">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Slå opp data gjennom et API"/>
   <properties
-      key="difi:name_en"
-      value="Slå opp data gjennom et API (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

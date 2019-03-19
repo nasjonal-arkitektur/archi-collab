@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Tilgjengeliggjøring"/>
   <properties
-      key="difi:name_en"
-      value="Tilgjengeliggjøring (no)"/>
-  <properties
       key="difi:description_no"
       value="Status per 2019-01-01: Vi har ingen felles spesifikasjon for hvordan kodelistene (dvs. kodeverdiene) skal gjøres tilgjengelig maskinelt. "/>
   <properties
-      key="difi:description_en"
-      value="Status per 2019-01-01: Vi har ingen felles spesifikasjon for hvordan kodelistene (dvs. kodeverdiene) skal gjøres tilgjengelig maskinelt.  (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessObject>

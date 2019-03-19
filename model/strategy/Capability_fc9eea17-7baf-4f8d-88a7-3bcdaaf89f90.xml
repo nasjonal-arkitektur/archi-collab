@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Lagring [ns:RR]"
+    name="Lagring"
     id="fc9eea17-7baf-4f8d-88a7-3bcdaaf89f90">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Lagring [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Lagring [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

@@ -27,4 +27,7 @@
         xsi:type="archimate:Deliverable"
         href="Deliverable_0e81e1ee-3243-4233-a7a0-b502e709c206.xml#0e81e1ee-3243-4233-a7a0-b502e709c206"/>
   </children>
+  <properties
+      key="difi:current_language"
+      value="no"/>
 </archimate:ArchimateDiagramModel>

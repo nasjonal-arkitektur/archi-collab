@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Oppdatere data [ns:erik]"
+    name="Oppdatere data"
     id="2dcbc600-73b0-4956-bd15-1c29bf2df1bc">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Oppdatere data [ns:erik]"/>
   <properties
-      key="difi:name_en"
-      value="Oppdatere data [ns:erik] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

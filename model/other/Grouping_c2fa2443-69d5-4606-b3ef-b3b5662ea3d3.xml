@@ -1,6 +1,6 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Virksomhetsnivå - oversikter [ns:jim]"
+    name="Virksomhetsnivå - oversikter"
     id="c2fa2443-69d5-4606-b3ef-b3b5662ea3d3">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Virksomhetsnivå - oversikter [ns:jim]"/>
   <properties
-      key="difi:name_en"
-      value="Virksomhetsnivå - oversikter [ns:jim] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Grouping>

@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Egen virksomhets-arkitektur"/>
   <properties
-      key="difi:name_en"
-      value="Egen virksomhets-arkitektur (no)"/>
-  <properties
       key="difi:description_no"
       value="Offentlig sektor skal være bærekraftig, effektiv og sette brukeren i sentrum.. Den enkelte virksomheten har ansvar for å oppnå dette målet ved å drive kontinuerlig forbedring og innovasjon knyttet til organisering, tjenester, produkter, arbeidsprosesser og kommunikasjonsformer"/>
   <properties
-      key="difi:description_en"
-      value="Offentlig sektor skal være bærekraftig, effektiv og sette brukeren i sentrum.. Den enkelte virksomheten har ansvar for å oppnå dette målet ved å drive kontinuerlig forbedring og innovasjon knyttet til organisering, tjenester, produkter, arbeidsprosesser og kommunikasjonsformer (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

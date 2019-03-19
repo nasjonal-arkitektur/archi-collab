@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Digital tvilling"/>
   <properties
-      key="difi:name_en"
-      value="Digital tvilling (no)"/>
-  <properties
       key="difi:description_no"
       value="Digital tvilling er en digital representasjon av et fysisk&#xD;&#xA;objekt. Det kan for eksempel være en visuell fremstilling&#xD;&#xA;av et bygg eller en motor ved hjelp av&#xD;&#xA;konstruksjonstegninger, historikk om vedlikehold og&#xD;&#xA;sensorer. En digital representasjon av en organisasjon&#xD;&#xA;kan brukes for å kunne forutse effekter av&#xD;&#xA;organisatoriske endringer og identifisere&#xD;&#xA;prosessendringer."/>
   <properties
-      key="difi:description_en"
-      value="Digital tvilling er en digital representasjon av et fysisk&#xD;&#xA;objekt. Det kan for eksempel være en visuell fremstilling&#xD;&#xA;av et bygg eller en motor ved hjelp av&#xD;&#xA;konstruksjonstegninger, historikk om vedlikehold og&#xD;&#xA;sensorer. En digital representasjon av en organisasjon&#xD;&#xA;kan brukes for å kunne forutse effekter av&#xD;&#xA;organisatoriske endringer og identifisere&#xD;&#xA;prosessendringer. (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Resource>

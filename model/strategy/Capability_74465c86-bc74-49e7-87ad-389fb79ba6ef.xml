@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Lagring av store datamengder [ns:e-kladd]"
+    name="Lagring av store datamengder"
     id="74465c86-bc74-49e7-87ad-389fb79ba6ef">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Lagring av store datamengder [ns:e-kladd]"/>
   <properties
-      key="difi:name_en"
-      value="Lagring av store datamengder [ns:e-kladd] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

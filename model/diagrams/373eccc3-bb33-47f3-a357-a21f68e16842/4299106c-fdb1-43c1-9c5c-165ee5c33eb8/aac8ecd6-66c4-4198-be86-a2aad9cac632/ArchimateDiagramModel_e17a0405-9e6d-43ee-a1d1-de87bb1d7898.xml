@@ -317,4 +317,7 @@
           href="BusinessRole_5a886121-d599-4431-8173-e87b7299c312.xml#5a886121-d599-4431-8173-e87b7299c312"/>
     </children>
   </children>
+  <properties
+      key="difi:current_language"
+      value="no"/>
 </archimate:ArchimateDiagramModel>

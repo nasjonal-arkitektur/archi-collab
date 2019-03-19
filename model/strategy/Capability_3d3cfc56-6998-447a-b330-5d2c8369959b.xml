@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sikring av informasjon [ns:RR]"
+    name="Sikring av informasjon [ns:eirabased]"
     id="3d3cfc56-6998-447a-b330-5d2c8369959b">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Sikring av informasjon [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Sikring av informasjon [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

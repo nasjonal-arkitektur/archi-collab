@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Reference Data (eira:ReferenceData)"/>
   <properties
-      key="difi:name_en"
-      value="Reference Data (eira:ReferenceData) (no)"/>
-  <properties
       key="difi:description_no"
       value="eira:ReferenceData"/>
   <properties
-      key="difi:description_en"
-      value="eira:ReferenceData (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:DataObject>

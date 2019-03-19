@@ -138,4 +138,7 @@
         xsi:type="archimate:Capability"
         href="Capability_e1b6a8cb-a1ff-4af8-9fab-772532d34dfc.xml#e1b6a8cb-a1ff-4af8-9fab-772532d34dfc"/>
   </children>
+  <properties
+      key="difi:current_language"
+      value="no"/>
 </archimate:ArchimateDiagramModel>

@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Kodeliste"/>
   <properties
-      key="difi:name_en"
-      value="Kodeliste (no)"/>
-  <properties
       key="difi:description_no"
       value="Kodelister/kodeverk"/>
   <properties
-      key="difi:description_en"
-      value="Kodelister/kodeverk (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:DataObject>

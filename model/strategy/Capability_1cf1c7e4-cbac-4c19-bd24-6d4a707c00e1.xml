@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tilgangsstyring [ns:RR]"
+    name="Tilgangsstyring"
     id="1cf1c7e4-cbac-4c19-bd24-6d4a707c00e1">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Tilgangsstyring [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Tilgangsstyring [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

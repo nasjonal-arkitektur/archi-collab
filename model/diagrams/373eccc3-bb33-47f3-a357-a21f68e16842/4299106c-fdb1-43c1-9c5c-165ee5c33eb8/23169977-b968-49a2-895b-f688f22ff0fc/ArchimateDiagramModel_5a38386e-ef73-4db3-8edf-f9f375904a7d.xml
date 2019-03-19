@@ -1712,4 +1712,7 @@
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_828506da-1a71-40a1-95e6-b84d600ee4eb.xml#828506da-1a71-40a1-95e6-b84d600ee4eb"/>
   </children>
+  <properties
+      key="difi:current_language"
+      value="no"/>
 </archimate:ArchimateDiagramModel>

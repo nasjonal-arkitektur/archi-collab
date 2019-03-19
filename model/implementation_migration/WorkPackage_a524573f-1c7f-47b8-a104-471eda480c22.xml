@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Bistå KMD i arbeidet med stortingsmelding om innovasjon"/>
   <properties
-      key="difi:name_en"
-      value="Bistå KMD i arbeidet med stortingsmelding om innovasjon (no)"/>
-  <properties
       key="difi:description_no"
       value="Bistå KMD i arbeidet med stortingsmelding om innovasjon i offentlig sektor"/>
   <properties
-      key="difi:description_en"
-      value="Bistå KMD i arbeidet med stortingsmelding om innovasjon i offentlig sektor (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:WorkPackage>

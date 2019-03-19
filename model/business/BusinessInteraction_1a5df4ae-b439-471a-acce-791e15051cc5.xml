@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Inngå avtale om tilgang til data"/>
   <properties
-      key="difi:name_en"
-      value="Inngå avtale om tilgang til data (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessInteraction>

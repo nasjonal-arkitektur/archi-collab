@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Løpende infofangst [ns:e-kladd]"
+    name="Løpende infofangst"
     id="d6f258e3-5cc2-413d-a637-6d69dbc538c7"
     documentation="Hendelsesbasert&#xA;Sanntid, transaksjonsstrømmer">
   <properties
@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Løpende infofangst [ns:e-kladd]"/>
   <properties
-      key="difi:name_en"
-      value="Løpende infofangst [ns:e-kladd] (no)"/>
-  <properties
       key="difi:description_no"
       value="Hendelsesbasert&#xA;Sanntid, transaksjonsstrømmer"/>
   <properties
-      key="difi:description_en"
-      value="Hendelsesbasert&#xA;Sanntid, transaksjonsstrømmer (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

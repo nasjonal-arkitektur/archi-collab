@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Oversikt referansearkitekturer"
+    name="Oversikt referansearkitekturer (se også ver. 2)"
     id="6bc339ce-ad10-4f19-965d-edbfea3e651c"
     documentation="Aktør som sender en melding">
   <children
@@ -10,8 +10,8 @@
       name="Tilbakemelding på data"
       documentation="Deling av data med formål om å gi tilbakemelding på f.eks. kvalitet. Tilbakemeldinger vil være metadata relatert til bruk og ikke endringer i selve datasettet.">
     <bounds
-        x="780"
-        y="192"
+        x="888"
+        y="201"
         width="385"
         height="146"/>
     <children
@@ -84,8 +84,8 @@
       name="Oppdatere data"
       documentation="Deling av data med formål om å oppdatere autoritativ datakilde fra en aktør som ikke er eier eller forvalter av dataene. Oppdatere data kan være å opprette (legge til nye data), endre eksisterende data, eller å slette data.">
     <bounds
-        x="780"
-        y="39"
+        x="888"
+        y="48"
         width="385"
         height="131"/>
     <children
@@ -322,8 +322,8 @@
           href="AssociationRelationship_66ff0aab-aadb-43eb-84d1-788fbfcdea72.xml#66ff0aab-aadb-43eb-84d1-788fbfcdea72"/>
     </sourceConnections>
     <bounds
-        x="618"
-        y="70"
+        x="737"
+        y="60"
         width="120"
         height="55"/>
     <archimateElement
@@ -352,12 +352,15 @@
           href="AssociationRelationship_5a525c05-7e29-4928-9664-f6fdc6b4d82c.xml#5a525c05-7e29-4928-9664-f6fdc6b4d82c"/>
     </sourceConnections>
     <bounds
-        x="1194"
-        y="154"
+        x="1302"
+        y="163"
         width="133"
         height="61"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_e6829ffb-8193-4a0c-93ee-e73eb8408b6f.xml#e6829ffb-8193-4a0c-93ee-e73eb8408b6f"/>
   </children>
+  <properties
+      key="difi:current_language"
+      value="no"/>
 </archimate:ArchimateDiagramModel>

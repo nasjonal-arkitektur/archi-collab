@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Oversikt over sensitive data [ns:e-kladd]"
+    name="Oversikt over sensitive data"
     id="041d921a-57da-4e60-bac4-e0c9f426350f">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Oversikt over sensitive data [ns:e-kladd]"/>
   <properties
-      key="difi:name_en"
-      value="Oversikt over sensitive data [ns:e-kladd] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

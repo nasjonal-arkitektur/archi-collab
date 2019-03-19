@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Oversikt over innhentet informasjon [ns:RR]"
+    name="Oversikt over innhentet informasjon"
     id="00a04a89-2c30-4130-9a26-3bcaeae7ebf7">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Oversikt over innhentet informasjon [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Oversikt over innhentet informasjon [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tilby data til eksterne brukere [ns:henrik]"
+    name="Tilby data til eksterne brukere"
     id="ae4955e7-5e5a-4e78-9b18-0c816a0d3b0c">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Tilby data til eksterne brukere [ns:henrik]"/>
   <properties
-      key="difi:name_en"
-      value="Tilby data til eksterne brukere [ns:henrik] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

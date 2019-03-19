@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Registrering [ns:e-kladd]"
+    name="Registrering"
     id="95b0a996-3d0c-4272-8098-09c39ef3fb7f">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Registrering [ns:e-kladd]"/>
   <properties
-      key="difi:name_en"
-      value="Registrering [ns:e-kladd] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

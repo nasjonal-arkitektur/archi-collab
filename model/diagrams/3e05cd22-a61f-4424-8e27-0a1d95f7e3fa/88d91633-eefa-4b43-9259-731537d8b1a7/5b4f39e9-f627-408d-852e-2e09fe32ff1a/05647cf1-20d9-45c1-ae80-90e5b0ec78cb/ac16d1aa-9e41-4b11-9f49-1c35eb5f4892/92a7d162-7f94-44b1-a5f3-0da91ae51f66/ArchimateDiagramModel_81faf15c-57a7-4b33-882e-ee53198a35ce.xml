@@ -38,4 +38,7 @@
         xsi:type="archimate:Goal"
         href="Goal_11333465-602a-4569-a449-d56c3abff52d.xml#11333465-602a-4569-a449-d56c3abff52d"/>
   </children>
+  <properties
+      key="difi:current_language"
+      value="no"/>
 </archimate:ArchimateDiagramModel>

@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Pilot for frivillig mobilitet i statlig sektor"/>
   <properties
-      key="difi:name_en"
-      value="Pilot for frivillig mobilitet i statlig sektor (no)"/>
-  <properties
       key="difi:description_no"
       value="Difi skal utvikle og igangsette en pilot for frivillig mobilitet i statlig&#xD;&#xA;sektor med formål om å styrke virksomhetenes kompetanse,&#xD;&#xA;endringserfaring og samhandling.&#xD;&#xA;"/>
   <properties
-      key="difi:description_en"
-      value="Difi skal utvikle og igangsette en pilot for frivillig mobilitet i statlig&#xD;&#xA;sektor med formål om å styrke virksomhetenes kompetanse,&#xD;&#xA;endringserfaring og samhandling.&#xD;&#xA; (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Deliverable>

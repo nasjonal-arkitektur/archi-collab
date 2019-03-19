@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Loggtjeneste"/>
   <properties
-      key="difi:name_en"
-      value="Loggtjeneste (no)"/>
-  <properties
       key="difi:description_no"
       value="EIRA: &#xD;&#xA;A Logging Service traces all events and user actions impacting a data entity throughout its lifecycle (from its creation to its disposal). It can be used to reproduce a certain state of a data entity at a certain moment in time. Logging = To record details of information or events in an organized record-keeping system, usually sequenced in the order in which they occurred."/>
   <properties
-      key="difi:description_en"
-      value="EIRA: &#xD;&#xA;A Logging Service traces all events and user actions impacting a data entity throughout its lifecycle (from its creation to its disposal). It can be used to reproduce a certain state of a data entity at a certain moment in time. Logging = To record details of information or events in an organized record-keeping system, usually sequenced in the order in which they occurred. (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessService>

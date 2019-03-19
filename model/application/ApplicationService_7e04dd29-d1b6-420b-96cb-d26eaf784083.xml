@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Selvbetjeningstjeneste for administrasjon av integrasjoner og APIer"/>
   <properties
-      key="difi:name_en"
-      value="Selvbetjeningstjeneste for administrasjon av integrasjoner og APIer (no)"/>
-  <properties
       key="difi:description_no"
       value="&quot;administrasjonssentre&quot; vil ha rettigheter til å registrere på vegne av andre f.eks. API-katalogen"/>
   <properties
-      key="difi:description_en"
-      value="&quot;administrasjonssentre&quot; vil ha rettigheter til å registrere på vegne av andre f.eks. API-katalogen (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ApplicationService>

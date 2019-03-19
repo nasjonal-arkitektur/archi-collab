@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Kodelistebeskrivelse (DCAT-AP-NO)"/>
   <properties
-      key="difi:name_en"
-      value="Kodelistebeskrivelse (DCAT-AP-NO) (no)"/>
-  <properties
       key="difi:description_no"
       value="Kodelister betraktes som datasett. Kodelistebeskrivelser betraktes som datasettbeskrivelser, og DCAT-AP-NO gjelder også for kodelistebeskrivelser. &#xD;&#xA;&#xD;&#xA;DCAT-AP-NO: Anbefalt forvaltningsstandard i Referansekatalogen. https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/referansekatalogen/beskrivelse-av-datasett-og-datakataloger"/>
   <properties
-      key="difi:description_en"
-      value="Kodelister betraktes som datasett. Kodelistebeskrivelser betraktes som datasettbeskrivelser, og DCAT-AP-NO gjelder også for kodelistebeskrivelser. &#xD;&#xA;&#xD;&#xA;DCAT-AP-NO: Anbefalt forvaltningsstandard i Referansekatalogen. https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/referansekatalogen/beskrivelse-av-datasett-og-datakataloger (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessObject>

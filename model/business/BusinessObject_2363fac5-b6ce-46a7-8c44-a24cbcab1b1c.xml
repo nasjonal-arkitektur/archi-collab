@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Termlosen"/>
   <properties
-      key="difi:name_en"
-      value="Termlosen (no)"/>
-  <properties
       key="difi:description_no"
       value="Anbefalt forvaltningsstandard i Referansekatalogen. https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/standarder/termlosen"/>
   <properties
-      key="difi:description_en"
-      value="Anbefalt forvaltningsstandard i Referansekatalogen. https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/standarder/termlosen (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessObject>

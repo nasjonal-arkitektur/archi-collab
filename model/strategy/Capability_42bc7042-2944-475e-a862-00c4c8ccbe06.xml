@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Datamodellering [ns:RR]"
+    name="Datamodellering"
     id="42bc7042-2944-475e-a862-00c4c8ccbe06">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Datamodellering [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Datamodellering [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

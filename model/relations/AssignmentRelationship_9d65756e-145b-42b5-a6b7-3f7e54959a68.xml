@@ -10,13 +10,11 @@
       key="difi:name_no"
       value="representerer"/>
   <properties
-      key="difi:name_en"
-      value="representerer (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
   <source
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_aba8024b-cc50-42f4-9253-7f007d38dfb5.xml#aba8024b-cc50-42f4-9253-7f007d38dfb5"/>

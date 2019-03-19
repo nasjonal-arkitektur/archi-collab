@@ -1,21 +1,19 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Avsender "
+    name="Avsender  [ns:na1]"
     id="c40d7c46-b184-4d13-b162-3a5d4493e8e5"
     documentation="den som sender et brev, en pakke, en e-post, en elektronisk melding, en SMS eller lignende">
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="na1"/>
   <properties
       key="difi:name_no"
       value="Avsender "/>
   <properties
-      key="difi:name_en"
-      value="Avsender  (no)"/>
-  <properties
       key="difi:description_no"
       value="den som sender et brev, en pakke, en e-post, en elektronisk melding, en SMS eller lignende"/>
   <properties
-      key="difi:description_en"
-      value="den som sender et brev, en pakke, en e-post, en elektronisk melding, en SMS eller lignende (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessRole>

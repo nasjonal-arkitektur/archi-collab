@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Forvaltningsstandard for begrepsbeskrivelser"/>
   <properties
-      key="difi:name_en"
-      value="Forvaltningsstandard for begrepsbeskrivelser (no)"/>
-  <properties
       key="difi:description_no"
       value="Anbefalt forvaltningsstandard i Referansekatalogen. https://doc.difi.no/data/forvaltningsstandard-begrepsbeskrivelser/"/>
   <properties
-      key="difi:description_en"
-      value="Anbefalt forvaltningsstandard i Referansekatalogen. https://doc.difi.no/data/forvaltningsstandard-begrepsbeskrivelser/ (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessObject>

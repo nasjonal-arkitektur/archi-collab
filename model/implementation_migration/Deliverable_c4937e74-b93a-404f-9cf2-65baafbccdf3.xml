@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Utviklingstrekk for statlig tilsyn med kommunesektoren"/>
   <properties
-      key="difi:name_en"
-      value="Utviklingstrekk for statlig tilsyn med kommunesektoren (no)"/>
-  <properties
       key="difi:description_no"
       value="Difi skal utarbeide en rapport som kan danne grunnlag for en vurdering av mål og tiltak om statlig tilsyn som er beskrevet i Prop. 128 S (2016-2017) Kommuneproposisjonen 2018 punkt 6.2. Rapporten skal gi kunnskap om utviklingstrekk for statlig tilsyn med kommunesektoren, herunder omfang. KMD tar sikte på å orientere Stortinget om utviklingstrekk for statlig tilsyn med kommunesektoren hvert fjerde år. Difis arbeid med kunnskapsgrunnlag skal innrettes slik at det kan gisammenliknbar informasjon over tid.  Difi bes utarbeide et forslag til en helhetlig prosjektplan innen 1. mars 2019.&#xD;&#xA;"/>
   <properties
-      key="difi:description_en"
-      value="Difi skal utarbeide en rapport som kan danne grunnlag for en vurdering av mål og tiltak om statlig tilsyn som er beskrevet i Prop. 128 S (2016-2017) Kommuneproposisjonen 2018 punkt 6.2. Rapporten skal gi kunnskap om utviklingstrekk for statlig tilsyn med kommunesektoren, herunder omfang. KMD tar sikte på å orientere Stortinget om utviklingstrekk for statlig tilsyn med kommunesektoren hvert fjerde år. Difis arbeid med kunnskapsgrunnlag skal innrettes slik at det kan gisammenliknbar informasjon over tid.  Difi bes utarbeide et forslag til en helhetlig prosjektplan innen 1. mars 2019.&#xD;&#xA; (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Deliverable>

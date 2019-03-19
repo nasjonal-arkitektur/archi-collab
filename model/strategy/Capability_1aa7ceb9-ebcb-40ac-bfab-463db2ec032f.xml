@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kassasjon [ns:e-kladd]"
+    name="Kassasjon"
     id="1aa7ceb9-ebcb-40ac-bfab-463db2ec032f">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Kassasjon [ns:e-kladd]"/>
   <properties
-      key="difi:name_en"
-      value="Kassasjon [ns:e-kladd] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

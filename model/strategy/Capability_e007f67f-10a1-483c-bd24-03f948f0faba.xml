@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Etablere sikkert API [ns:jim]"
+    name="Etablere sikkert API"
     id="e007f67f-10a1-483c-bd24-03f948f0faba"
     documentation="Jf. Henrik">
   <properties
@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Etablere sikkert API [ns:jim]"/>
   <properties
-      key="difi:name_en"
-      value="Etablere sikkert API [ns:jim] (no)"/>
-  <properties
       key="difi:description_no"
       value="Jf. Henrik"/>
   <properties
-      key="difi:description_en"
-      value="Jf. Henrik (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

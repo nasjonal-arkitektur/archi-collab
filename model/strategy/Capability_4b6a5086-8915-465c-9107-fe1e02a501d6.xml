@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Identitets- og rolleforvaltning [ns:RR]"
+    name="Identitets- og rolleforvaltning"
     id="4b6a5086-8915-465c-9107-fe1e02a501d6">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Identitets- og rolleforvaltning [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Identitets- og rolleforvaltning [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

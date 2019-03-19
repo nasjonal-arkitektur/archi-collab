@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Forberede markedsplass for skytjenester"/>
   <properties
-      key="difi:name_en"
-      value="Forberede markedsplass for skytjenester (no)"/>
-  <properties
       key="difi:description_no"
       value="forberede etablering av en innkjøpsordning/markedsplass for skytjenester"/>
   <properties
-      key="difi:description_en"
-      value="forberede etablering av en innkjøpsordning/markedsplass for skytjenester (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:WorkPackage>

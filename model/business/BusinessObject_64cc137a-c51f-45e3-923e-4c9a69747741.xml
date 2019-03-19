@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="ELI (European Legislation Identifier ontology)"/>
   <properties
-      key="difi:name_en"
-      value="ELI (European Legislation Identifier ontology) (no)"/>
-  <properties
       key="difi:description_no"
       value="https://publications.europa.eu/en/web/eu-vocabularies/model/-/resource/dataset/eli"/>
   <properties
-      key="difi:description_en"
-      value="https://publications.europa.eu/en/web/eu-vocabularies/model/-/resource/dataset/eli (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessObject>

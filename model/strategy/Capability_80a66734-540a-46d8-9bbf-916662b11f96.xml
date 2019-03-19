@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Livssyklusadministrasjon og sporing [ns:e-kladd]"
+    name="Livssyklusadministrasjon og sporing"
     id="80a66734-540a-46d8-9bbf-916662b11f96"
     documentation="Inkl. master data management, endringshåndtering, konfigurasjonsstyring">
   <properties
@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Livssyklusadministrasjon og sporing [ns:e-kladd]"/>
   <properties
-      key="difi:name_en"
-      value="Livssyklusadministrasjon og sporing [ns:e-kladd] (no)"/>
-  <properties
       key="difi:description_no"
       value="Inkl. master data management, endringshåndtering, konfigurasjonsstyring"/>
   <properties
-      key="difi:description_en"
-      value="Inkl. master data management, endringshåndtering, konfigurasjonsstyring (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

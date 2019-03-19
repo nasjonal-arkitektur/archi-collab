@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Overføring av eksterne data [ns:e-kladd]"
+    name="Overføring av eksterne data"
     id="f00894c8-82d9-458b-89be-ea692dc203d8"
     documentation="kan være skybasert">
   <properties
@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Overføring av eksterne data [ns:e-kladd]"/>
   <properties
-      key="difi:name_en"
-      value="Overføring av eksterne data [ns:e-kladd] (no)"/>
-  <properties
       key="difi:description_no"
       value="kan være skybasert"/>
   <properties
-      key="difi:description_en"
-      value="kan være skybasert (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

@@ -10,12 +10,10 @@
       key="difi:name_no"
       value=" Ta ut potensialet i digitalisering"/>
   <properties
-      key="difi:name_en"
-      value=" Ta ut potensialet i digitalisering (no)"/>
-  <properties
       key="difi:description_no"
       value="Offentlig sektor tar ut potensialet i digitalisering"/>
   <properties
-      key="difi:description_en"
-      value="Offentlig sektor tar ut potensialet i digitalisering (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Goal>

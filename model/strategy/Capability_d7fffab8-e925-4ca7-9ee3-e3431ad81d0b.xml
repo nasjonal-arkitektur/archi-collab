@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Strukturert innholds-produksjon [ns:RR]"
+    name="Strukturert innholds-produksjon"
     id="d7fffab8-e925-4ca7-9ee3-e3431ad81d0b">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Strukturert innholds-produksjon [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Strukturert innholds-produksjon [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Arbeidsflytstøtte [ns:RR]"
+    name="Arbeidsflytstøtte"
     id="768c1674-ef09-4d11-b619-4e4c3e3ed2e7">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Arbeidsflytstøtte [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Arbeidsflytstøtte [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

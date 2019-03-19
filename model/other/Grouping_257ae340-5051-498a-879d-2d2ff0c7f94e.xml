@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Forvaltningsstandarder for begrepsanalyse og definisjonsarbeid"/>
   <properties
-      key="difi:name_en"
-      value="Forvaltningsstandarder for begrepsanalyse og definisjonsarbeid (no)"/>
-  <properties
       key="difi:description_no"
       value="Bruksområde Begrepsanalyse og definisjonsarbeid i Referansekatalogen. https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/referansekatalogen"/>
   <properties
-      key="difi:description_en"
-      value="Bruksområde Begrepsanalyse og definisjonsarbeid i Referansekatalogen. https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/referansekatalogen (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Grouping>

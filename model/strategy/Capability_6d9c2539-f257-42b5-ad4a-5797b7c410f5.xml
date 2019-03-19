@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Oversikt over interne datakilder [ns:e-kladd]"
+    name="Oversikt over interne datakilder"
     id="6d9c2539-f257-42b5-ad4a-5797b7c410f5">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Oversikt over interne datakilder [ns:e-kladd]"/>
   <properties
-      key="difi:name_en"
-      value="Oversikt over interne datakilder [ns:e-kladd] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Arkivavgrensing [ns:e-kladd]"
+    name="Arkivavgrensing"
     id="f5ba6220-d064-41ff-ace9-96779477fdac">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Arkivavgrensing [ns:e-kladd]"/>
   <properties
-      key="difi:name_en"
-      value="Arkivavgrensing [ns:e-kladd] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

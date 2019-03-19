@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Skallsikring [ns:e-kladd]"
+    name="Skallsikring"
     id="bef83f08-bb96-44f2-9280-9b0cf33ec71a">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Skallsikring [ns:e-kladd]"/>
   <properties
-      key="difi:name_en"
-      value="Skallsikring [ns:e-kladd] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

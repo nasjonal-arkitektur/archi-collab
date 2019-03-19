@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Anonymisering [ns:e-kladd]"
+    name="Anonymisering"
     id="f26a1843-0347-4629-8cc7-86f4a60cea27">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Anonymisering [ns:e-kladd]"/>
   <properties
-      key="difi:name_en"
-      value="Anonymisering [ns:e-kladd] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

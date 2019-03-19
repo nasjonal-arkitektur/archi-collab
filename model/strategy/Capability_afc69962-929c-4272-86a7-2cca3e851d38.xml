@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Konfigurasjons-styring [ns:RR]"
+    name="Konfigurasjons-styring"
     id="afc69962-929c-4272-86a7-2cca3e851d38"
     documentation="inkl. logging">
   <properties
@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Konfigurasjons-styring [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Konfigurasjons-styring [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"
       value="inkl. logging"/>
   <properties
-      key="difi:description_en"
-      value="inkl. logging (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

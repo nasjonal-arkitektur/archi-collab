@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Visualisering av store datamengder"/>
   <properties
-      key="difi:name_en"
-      value="Visualisering av store datamengder (no)"/>
-  <properties
       key="difi:description_no"
       value="Store datamengder danner grunnlag for nye måter å fremstille&#xD;&#xA;data visuelt, eller som fysiske modeller og ferdige produkter:"/>
   <properties
-      key="difi:description_en"
-      value="Store datamengder danner grunnlag for nye måter å fremstille&#xD;&#xA;data visuelt, eller som fysiske modeller og ferdige produkter: (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Resource>

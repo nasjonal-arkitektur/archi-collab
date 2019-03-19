@@ -861,4 +861,7 @@
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_603d076e-dcb9-4e1e-a88f-927bd78327ed.xml#603d076e-dcb9-4e1e-a88f-927bd78327ed"/>
   </children>
+  <properties
+      key="difi:current_language"
+      value="no"/>
 </archimate:ArchimateDiagramModel>

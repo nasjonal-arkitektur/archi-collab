@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Bruksvilkår"/>
   <properties
-      key="difi:name_en"
-      value="Bruksvilkår (no)"/>
-  <properties
       key="difi:description_no"
       value="Tekniske og merkantile vilkår&#xD;&#xA;"/>
   <properties
-      key="difi:description_en"
-      value="Tekniske og merkantile vilkår&#xD;&#xA; (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessObject>

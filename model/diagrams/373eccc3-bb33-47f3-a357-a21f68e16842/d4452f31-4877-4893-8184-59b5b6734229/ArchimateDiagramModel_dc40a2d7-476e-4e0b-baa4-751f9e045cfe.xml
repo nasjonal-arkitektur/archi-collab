@@ -648,4 +648,7 @@
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_84fe3ce9-1dbe-425b-90f0-caa6166016a6.xml#84fe3ce9-1dbe-425b-90f0-caa6166016a6"/>
   </children>
+  <properties
+      key="difi:current_language"
+      value="no"/>
 </archimate:ArchimateDiagramModel>

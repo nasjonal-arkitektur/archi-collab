@@ -1,19 +1,17 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Automatisere prosesser"
+    name="Automatisere prosesser [ns:eirabased]"
     id="d0bf539e-2c42-4320-9909-4ec9c39d49a0">
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="eirabased"/>
   <properties
       key="difi:name_no"
       value="Automatisere prosesser"/>
   <properties
-      key="difi:name_en"
-      value="Automatisere prosesser (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

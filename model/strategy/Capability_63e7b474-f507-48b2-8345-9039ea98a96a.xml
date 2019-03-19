@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Særskilt infofangst [ns:RR]"
+    name="Særskilt infofangst"
     id="63e7b474-f507-48b2-8345-9039ea98a96a"
     documentation="Typisk første gang&#xA;">
   <properties
@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Særskilt infofangst [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Særskilt infofangst [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"
       value="Typisk første gang&#xA;"/>
   <properties
-      key="difi:description_en"
-      value="Typisk første gang&#xA; (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

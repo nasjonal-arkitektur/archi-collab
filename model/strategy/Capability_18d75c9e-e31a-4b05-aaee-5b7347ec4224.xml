@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Versjonssikker lagring [ns:RR]"
+    name="Versjonssikker lagring"
     id="18d75c9e-e31a-4b05-aaee-5b7347ec4224">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Versjonssikker lagring [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Versjonssikker lagring [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

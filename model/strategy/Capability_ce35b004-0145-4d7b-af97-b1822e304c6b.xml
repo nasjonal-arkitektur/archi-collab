@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kanaltilpasset publisering [ns:e-kladd]"
+    name="Kanaltilpasset publisering"
     id="ce35b004-0145-4d7b-af97-b1822e304c6b">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Kanaltilpasset publisering [ns:e-kladd]"/>
   <properties
-      key="difi:name_en"
-      value="Kanaltilpasset publisering [ns:e-kladd] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

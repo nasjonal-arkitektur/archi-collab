@@ -323,15 +323,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="9b3b8e13-9546-42e4-88dd-63f24dda1a23">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="a3d6dd5b-92cd-4a7c-87a5-9aac65f82214"
-        source="9b3b8e13-9546-42e4-88dd-63f24dda1a23"
-        target="be0c83e1-a33c-48e5-ae49-5821b2abde28">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_246bfeb3-4934-46b9-91ee-34d8f6d1a368.xml#246bfeb3-4934-46b9-91ee-34d8f6d1a368"/>
-    </sourceConnections>
     <bounds
         x="60"
         y="192"
@@ -344,7 +335,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="be0c83e1-a33c-48e5-ae49-5821b2abde28"
-      targetConnections="a3d6dd5b-92cd-4a7c-87a5-9aac65f82214 00d0087b-0500-4d26-9e18-4d822f00704c">
+      targetConnections="00d0087b-0500-4d26-9e18-4d822f00704c">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="7318a0e3-9aa1-4311-812c-cabc2b338989"
@@ -632,4 +623,7 @@
         xsi:type="archimate:Constraint"
         href="Constraint_0ce1a3db-ff46-4f1b-8cbf-fa68b7da6bbc.xml#0ce1a3db-ff46-4f1b-8cbf-fa68b7da6bbc"/>
   </children>
+  <properties
+      key="difi:current_language"
+      value="no"/>
 </archimate:ArchimateDiagramModel>

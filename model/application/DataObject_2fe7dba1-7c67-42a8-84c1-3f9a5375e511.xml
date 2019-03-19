@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Begrepsbeskrivelse"/>
   <properties
-      key="difi:name_en"
-      value="Begrepsbeskrivelse (no)"/>
-  <properties
       key="difi:description_no"
       value="Beskrivelse av begreper som en spesialisering av Descriptive Metadata"/>
   <properties
-      key="difi:description_en"
-      value="Beskrivelse av begreper som en spesialisering av Descriptive Metadata (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:DataObject>

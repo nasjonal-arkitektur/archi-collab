@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Oppbevaring av bevis [ns:RR]"
+    name="Oppbevaring av bevis"
     id="43242dcc-56a9-404e-85be-1eeb38d1e0bf">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Oppbevaring av bevis [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Oppbevaring av bevis [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

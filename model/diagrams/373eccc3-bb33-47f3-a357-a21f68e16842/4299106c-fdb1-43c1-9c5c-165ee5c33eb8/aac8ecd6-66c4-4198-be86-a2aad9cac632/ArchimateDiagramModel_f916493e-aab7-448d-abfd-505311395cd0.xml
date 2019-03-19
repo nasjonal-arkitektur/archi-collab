@@ -223,4 +223,7 @@
           href="BusinessRole_62b566bd-4b7c-4948-9859-1c5f58fe661c.xml#62b566bd-4b7c-4948-9859-1c5f58fe661c"/>
     </children>
   </children>
+  <properties
+      key="difi:current_language"
+      value="no"/>
 </archimate:ArchimateDiagramModel>

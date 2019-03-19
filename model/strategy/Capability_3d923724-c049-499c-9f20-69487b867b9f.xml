@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Definert produktansvar [ns:RR]"
+    name="Definert produktansvar"
     id="3d923724-c049-499c-9f20-69487b867b9f">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Definert produktansvar [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Definert produktansvar [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

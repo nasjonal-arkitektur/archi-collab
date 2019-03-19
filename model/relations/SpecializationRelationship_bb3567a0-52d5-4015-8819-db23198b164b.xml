@@ -4,17 +4,15 @@
     id="bb3567a0-52d5-4015-8819-db23198b164b">
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="erik"/>
   <properties
       key="difi:name_no"/>
   <properties
-      key="difi:name_en"
-      value=" (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_a73e932a-8212-4c8b-b5d7-40b020e10377.xml#a73e932a-8212-4c8b-b5d7-40b020e10377"/>

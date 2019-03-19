@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Automatisert strukturering [ns:RR]"
+    name="Automatisert strukturering"
     id="276ee750-4495-4fd7-a2d2-1669de8961c7">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Automatisert strukturering [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Automatisert strukturering [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

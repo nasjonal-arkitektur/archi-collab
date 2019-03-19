@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Definert eierskap til informasjon [ns:RR]"
+    name="Definert eierskap til informasjon"
     id="fb684529-0e18-448b-9632-fffdbccf11db">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Definert eierskap til informasjon [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Definert eierskap til informasjon [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

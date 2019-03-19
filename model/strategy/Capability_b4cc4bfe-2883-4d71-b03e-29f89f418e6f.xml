@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sektorkompetanse [ns:RR]"
+    name="Sektorkompetanse"
     id="b4cc4bfe-2883-4d71-b03e-29f89f418e6f">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Sektorkompetanse [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Sektorkompetanse [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

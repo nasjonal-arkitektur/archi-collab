@@ -1,19 +1,17 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Skytjeneste-leverandør"
+    name="Skytjeneste-leverandør [ns:jørgen]"
     id="e4598b6b-24c2-4965-8e4a-c76dbbfd5e77">
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="jørgen"/>
   <properties
       key="difi:name_no"
       value="Skytjeneste-leverandør"/>
   <properties
-      key="difi:name_en"
-      value="Skytjeneste-leverandør (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessRole>

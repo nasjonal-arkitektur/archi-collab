@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Adresse"/>
   <properties
-      key="difi:name_en"
-      value="Adresse (no)"/>
-  <properties
       key="difi:description_no"
       value="https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/nasjonal-arkitektur/informasjonsforvaltning/adresse-felles-informasjonsmodell"/>
   <properties
-      key="difi:description_en"
-      value="https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/nasjonal-arkitektur/informasjonsforvaltning/adresse-felles-informasjonsmodell (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessObject>

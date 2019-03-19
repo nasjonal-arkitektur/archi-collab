@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Adgang og tilgang til informasjon [ns:RR]"
+    name="Adgang og tilgang til informasjon"
     id="b9cbbf59-5d3a-4e33-940f-027e18824d4c">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Adgang og tilgang til informasjon [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Adgang og tilgang til informasjon [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

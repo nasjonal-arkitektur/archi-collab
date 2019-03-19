@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="URI-standard"/>
   <properties
-      key="difi:name_en"
-      value="URI-standard (no)"/>
-  <properties
       key="difi:description_no"
       value="Anbefalt forvaltningsstandard i Referansekatalogen. https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/referansekatalogen/pekere-til-offentlige-ressurser-pa-nett"/>
   <properties
-      key="difi:description_en"
-      value="Anbefalt forvaltningsstandard i Referansekatalogen. https://www.difi.no/fagomrader-og-tjenester/digitalisering-og-samordning/standarder/referansekatalogen/pekere-til-offentlige-ressurser-pa-nett (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessObject>

@@ -15,4 +15,7 @@
         xsi:type="archimate:Assessment"
         href="Assessment_9d67f7e8-a17d-4bef-b957-72ec797231e2.xml#9d67f7e8-a17d-4bef-b957-72ec797231e2"/>
   </children>
+  <properties
+      key="difi:current_language"
+      value="no"/>
 </archimate:ArchimateDiagramModel>

@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Fødselsnummer"/>
   <properties
-      key="difi:name_en"
-      value="Fødselsnummer (no)"/>
-  <properties
       key="difi:description_no"
       value="Et norsk fødselsnummer er et unikt identitetsnummer som følger deg hele livet. &#xD;&#xA;&#xD;&#xA;https://www.skatteetaten.no/person/utenlandsk/norsk-identitetsnummer/fodselsnummer/"/>
   <properties
-      key="difi:description_en"
-      value="Et norsk fødselsnummer er et unikt identitetsnummer som følger deg hele livet. &#xD;&#xA;&#xD;&#xA;https://www.skatteetaten.no/person/utenlandsk/norsk-identitetsnummer/fodselsnummer/ (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessObject>

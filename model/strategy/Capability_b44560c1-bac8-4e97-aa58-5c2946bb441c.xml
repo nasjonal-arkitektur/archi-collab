@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Anonymisering [ns:RR]"
+    name="Anonymisering"
     id="b44560c1-bac8-4e97-aa58-5c2946bb441c">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Anonymisering [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Anonymisering [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

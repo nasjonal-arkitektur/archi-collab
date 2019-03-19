@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Deponering til riksarkivet [ns:RR]"
+    name="Deponering til riksarkivet"
     id="56e67b15-b54a-4fbe-aa4e-8f57bbc8eb8d">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Deponering til riksarkivet [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Deponering til riksarkivet [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

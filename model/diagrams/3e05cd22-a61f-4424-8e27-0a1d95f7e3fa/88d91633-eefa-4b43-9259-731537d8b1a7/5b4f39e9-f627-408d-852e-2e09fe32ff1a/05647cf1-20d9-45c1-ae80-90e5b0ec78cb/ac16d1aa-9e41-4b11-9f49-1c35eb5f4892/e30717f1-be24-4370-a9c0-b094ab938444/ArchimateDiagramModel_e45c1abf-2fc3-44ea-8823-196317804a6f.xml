@@ -234,4 +234,7 @@
         xsi:type="archimate:Deliverable"
         href="Deliverable_1c78dd14-45fa-44c5-bbc3-32f501e638d9.xml#1c78dd14-45fa-44c5-bbc3-32f501e638d9"/>
   </children>
+  <properties
+      key="difi:current_language"
+      value="no"/>
 </archimate:ArchimateDiagramModel>

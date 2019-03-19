@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Lovpålagt sletting av sensitive data [ns:RR]"
+    name="Lovpålagt sletting av sensitive data"
     id="2428a8aa-9527-48fb-9a99-79729a2a8060">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Lovpålagt sletting av sensitive data [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Lovpålagt sletting av sensitive data [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

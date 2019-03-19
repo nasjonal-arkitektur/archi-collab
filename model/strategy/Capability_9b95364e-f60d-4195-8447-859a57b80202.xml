@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bestille &quot;noe&quot; [ns:erik]"
+    name="Bestille &quot;noe&quot;"
     id="9b95364e-f60d-4195-8447-859a57b80202">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Bestille &quot;noe&quot; [ns:erik]"/>
   <properties
-      key="difi:name_en"
-      value="Bestille &quot;noe&quot; [ns:erik] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Bistand til oppfølging av nytt EU-direktiv om universell utforming"/>
   <properties
-      key="difi:name_en"
-      value="Bistand til oppfølging av nytt EU-direktiv om universell utforming (no)"/>
-  <properties
       key="difi:description_no"
       value="Difi bistår KMD i oppfølgingen av nytt EU-direktiv om universell&#xD;&#xA;utforming av tjenester og produkter.&#xD;&#xA;"/>
   <properties
-      key="difi:description_en"
-      value="Difi bistår KMD i oppfølgingen av nytt EU-direktiv om universell&#xD;&#xA;utforming av tjenester og produkter.&#xD;&#xA; (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Deliverable>

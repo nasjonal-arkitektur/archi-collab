@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Behov: Alignment med prinsipper i EIF, EIRA, NIF"/>
   <properties
-      key="difi:name_en"
-      value="Behov: Alignment med prinsipper i EIF, EIRA, NIF (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Requirement>

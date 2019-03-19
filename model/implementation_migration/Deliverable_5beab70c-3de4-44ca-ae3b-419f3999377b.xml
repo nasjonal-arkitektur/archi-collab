@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Utredning om HTTPS som obligatorisk IT-standard "/>
   <properties
-      key="difi:name_en"
-      value="Utredning om HTTPS som obligatorisk IT-standard  (no)"/>
-  <properties
       key="difi:description_no"
       value="Difi skal utrede HTTPS som obligatorisk IT-standard i&#xD;&#xA;forvaltningen.&#xD;&#xA;"/>
   <properties
-      key="difi:description_en"
-      value="Difi skal utrede HTTPS som obligatorisk IT-standard i&#xD;&#xA;forvaltningen.&#xD;&#xA; (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Deliverable>

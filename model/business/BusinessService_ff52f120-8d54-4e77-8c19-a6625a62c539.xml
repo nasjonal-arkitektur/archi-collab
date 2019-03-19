@@ -1,19 +1,17 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="API-katalogen [ns:API-katalogen]"
+    name="API-katalogen"
     id="ff52f120-8d54-4e77-8c19-a6625a62c539">
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="brreg"/>
   <properties
       key="difi:name_no"
       value="API-katalogen [ns:API-katalogen]"/>
   <properties
-      key="difi:name_en"
-      value="API-katalogen [ns:API-katalogen] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessService>

@@ -1,19 +1,17 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kunde [ns:Erik]"
+    name="Bruker [ns:erik]"
     id="5a886121-d599-4431-8173-e87b7299c312">
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="erik"/>
   <properties
       key="difi:name_no"
       value="Kunde [ns:Erik]"/>
   <properties
-      key="difi:name_en"
-      value="Kunde [ns:Erik] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessRole>

@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Plan for utvikling av strategisk digital lederkompetanse"/>
   <properties
-      key="difi:name_en"
-      value="Plan for utvikling av strategisk digital lederkompetanse (no)"/>
-  <properties
       key="difi:description_no"
       value="Difi skal lage en plan for utvikling av strategisk digital kompetanse&#xD;&#xA;hos statlige ledere.&#xD;&#xA;Difi skal sammenfatte et kunnskapsgrunnlag om status når det&#xD;&#xA;gjelder behov for, og tilgang på kompetanse i statlig forvaltning:&#xD;&#xA;digital kompetanse&#xD;&#xA;omstillingskompetanse&#xD;&#xA;Innretningen i arbeidet avklares nærmere mellom KMD og Difi.&#xD;&#xA;"/>
   <properties
-      key="difi:description_en"
-      value="Difi skal lage en plan for utvikling av strategisk digital kompetanse&#xD;&#xA;hos statlige ledere.&#xD;&#xA;Difi skal sammenfatte et kunnskapsgrunnlag om status når det&#xD;&#xA;gjelder behov for, og tilgang på kompetanse i statlig forvaltning:&#xD;&#xA;digital kompetanse&#xD;&#xA;omstillingskompetanse&#xD;&#xA;Innretningen i arbeidet avklares nærmere mellom KMD og Difi.&#xD;&#xA; (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ImplementationEvent>

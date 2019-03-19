@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Rådgivning om arbeidsrettslige omstillinger"/>
   <properties
-      key="difi:name_en"
-      value="Rådgivning om arbeidsrettslige omstillinger (no)"/>
-  <properties
       key="difi:description_no"
       value="Arbeidsgiverstøtten skal videreutvikles, basert på behov og tilbakemeldinger fra virksomhetene. Rådgivning om arbeidsrettslige omstillinger er særskilt etterspurt"/>
   <properties
-      key="difi:description_en"
-      value="Arbeidsgiverstøtten skal videreutvikles, basert på behov og tilbakemeldinger fra virksomhetene. Rådgivning om arbeidsrettslige omstillinger er særskilt etterspurt (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Deliverable>

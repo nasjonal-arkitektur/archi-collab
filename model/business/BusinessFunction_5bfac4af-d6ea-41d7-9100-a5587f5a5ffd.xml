@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Sentral kilde til kunnskap om offentlig sektor"/>
   <properties
-      key="difi:name_en"
-      value="Sentral kilde til kunnskap om offentlig sektor (no)"/>
-  <properties
       key="difi:description_no"
       value="Difi skal være den sentrale kilden til kunnskap om tilstand, utvikling og endringsbehov i forvaltningen på sine virkeområder. Difi skal også være orientert om den internasjonale utviklingen på disse områdene, og legge internasjonalt samarbeid til grunn for tiltak der dette er aktuelt."/>
   <properties
-      key="difi:description_en"
-      value="Difi skal være den sentrale kilden til kunnskap om tilstand, utvikling og endringsbehov i forvaltningen på sine virkeområder. Difi skal også være orientert om den internasjonale utviklingen på disse områdene, og legge internasjonalt samarbeid til grunn for tiltak der dette er aktuelt. (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessFunction>

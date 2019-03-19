@@ -1,19 +1,17 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data exchange"
+    name="Data exchange [ns:eirabased]"
     id="eb66f807-01cb-49ac-81dd-54319da4f97d">
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="eirabased"/>
   <properties
       key="difi:name_no"
       value="Data exchange"/>
   <properties
-      key="difi:name_en"
-      value="Data exchange (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

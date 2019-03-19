@@ -59,4 +59,7 @@
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_ec2477b0-2afe-4a97-bb7b-29ec81aea8d4.xml#ec2477b0-2afe-4a97-bb7b-29ec81aea8d4"/>
   </children>
+  <properties
+      key="difi:current_language"
+      value="no"/>
 </archimate:ArchimateDiagramModel>

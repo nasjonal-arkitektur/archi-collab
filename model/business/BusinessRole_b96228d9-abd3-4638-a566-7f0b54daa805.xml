@@ -1,21 +1,19 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Mottaker"
+    name="Mottaker [ns:na1]"
     id="b96228d9-abd3-4638-a566-7f0b54daa805"
     documentation="Aktør som mottar melding">
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="na1"/>
   <properties
       key="difi:name_no"
       value="Mottaker"/>
   <properties
-      key="difi:name_en"
-      value="Mottaker (no)"/>
-  <properties
       key="difi:description_no"
       value="Aktør som mottar melding"/>
   <properties
-      key="difi:description_en"
-      value="Aktør som mottar melding (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessRole>

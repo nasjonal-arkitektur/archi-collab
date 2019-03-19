@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Etterlevelse av digitalt førstevalg"/>
   <properties
-      key="difi:name_en"
-      value="Etterlevelse av digitalt førstevalg (no)"/>
-  <properties
       key="difi:description_no"
       value="Difi skal bistå KMD og underliggende virksomheter i å sørge for etterlevelse av krav knyttet til gjennomføring av digitalt førstevalg, jfr. digitaliseringsrundskrivet."/>
   <properties
-      key="difi:description_en"
-      value="Difi skal bistå KMD og underliggende virksomheter i å sørge for etterlevelse av krav knyttet til gjennomføring av digitalt førstevalg, jfr. digitaliseringsrundskrivet. (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

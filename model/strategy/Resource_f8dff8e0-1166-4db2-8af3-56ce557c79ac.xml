@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="Autonome gjenstander"/>
   <properties
-      key="difi:name_en"
-      value="Autonome gjenstander (no)"/>
-  <properties
       key="difi:description_no"
       value="Autonome gjenstander: Førerløse maskiner, biler,&#xD;&#xA;roboter og droner som ved hjelp av sensorer og kunstig&#xD;&#xA;intelligens klarer å forholde seg til omgivelsene uten&#xD;&#xA;menneskelig innblanding. Autonome gjenstander kan&#xD;&#xA;operere på land, i luften eller til sjøs og muliggjør helt&#xD;&#xA;nye tjenester. Førerløse biler vil påvirke alle de som&#xD;&#xA;arbeider som sjåfører, og dermed få betydning for NAV.&#xD;&#xA;Samtidig gir det nye muligheter for mobilitet til eldre&#xD;&#xA;personer og andre som i dag får hjelp med&#xD;&#xA;spesialtilpasning av kjøretøy."/>
   <properties
-      key="difi:description_en"
-      value="Autonome gjenstander: Førerløse maskiner, biler,&#xD;&#xA;roboter og droner som ved hjelp av sensorer og kunstig&#xD;&#xA;intelligens klarer å forholde seg til omgivelsene uten&#xD;&#xA;menneskelig innblanding. Autonome gjenstander kan&#xD;&#xA;operere på land, i luften eller til sjøs og muliggjør helt&#xD;&#xA;nye tjenester. Førerløse biler vil påvirke alle de som&#xD;&#xA;arbeider som sjåfører, og dermed få betydning for NAV.&#xD;&#xA;Samtidig gir det nye muligheter for mobilitet til eldre&#xD;&#xA;personer og andre som i dag får hjelp med&#xD;&#xA;spesialtilpasning av kjøretøy. (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Resource>

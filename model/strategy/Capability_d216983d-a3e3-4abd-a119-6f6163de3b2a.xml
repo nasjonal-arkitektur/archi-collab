@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Retningslinjer og definerte prosesser [ns:RR]"
+    name="Retningslinjer og definerte prosesser"
     id="d216983d-a3e3-4abd-a119-6f6163de3b2a">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Retningslinjer og definerte prosesser [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Retningslinjer og definerte prosesser [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Mottak av tips [ns:RR]"
+    name="Mottak av tips"
     id="9067d12f-4e49-41bc-a02b-a092289982ca">
   <properties
       key="difi:namespace"
@@ -9,11 +9,9 @@
       key="difi:name_no"
       value="Mottak av tips [ns:RR]"/>
   <properties
-      key="difi:name_en"
-      value="Mottak av tips [ns:RR] (no)"/>
-  <properties
       key="difi:description_no"/>
   <properties
-      key="difi:description_en"
-      value=" (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:Capability>

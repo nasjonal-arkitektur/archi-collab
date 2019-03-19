@@ -10,12 +10,10 @@
       key="difi:name_no"
       value="SKOS-AP-NO-Begrep"/>
   <properties
-      key="difi:name_en"
-      value="SKOS-AP-NO-Begrep (no)"/>
-  <properties
       key="difi:description_no"
       value="https://doc.difi.no/data/begrep-skos-ap-no/"/>
   <properties
-      key="difi:description_en"
-      value="https://doc.difi.no/data/begrep-skos-ap-no/ (no)"/>
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:BusinessObject>

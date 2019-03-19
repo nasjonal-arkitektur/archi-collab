@@ -172,4 +172,7 @@
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_c40d7c46-b184-4d13-b162-3a5d4493e8e5.xml#c40d7c46-b184-4d13-b162-3a5d4493e8e5"/>
   </children>
+  <properties
+      key="difi:current_language"
+      value="no"/>
 </archimate:ArchimateDiagramModel>
