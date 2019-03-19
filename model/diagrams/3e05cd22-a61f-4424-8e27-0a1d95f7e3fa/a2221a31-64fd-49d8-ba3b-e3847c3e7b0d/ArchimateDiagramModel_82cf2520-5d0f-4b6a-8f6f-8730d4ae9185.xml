@@ -497,18 +497,6 @@
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_fa5bfd9e-94a5-4036-924e-393762b90878.xml#fa5bfd9e-94a5-4036-924e-393762b90878"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="97ec205b-aa9c-49e0-8438-f55a027eae65">
-    <bounds
-        x="842"
-        y="357"
-        width="133"
-        height="67"/>
-    <archimateElement
-        xsi:type="archimate:Capability"
-        href="Capability_f6666694-7817-4f0e-b7f0-2993a36f8d7f.xml#f6666694-7817-4f0e-b7f0-2993a36f8d7f"/>
-  </children>
   <properties
       key="difi:current_language"
       value="no"/>
