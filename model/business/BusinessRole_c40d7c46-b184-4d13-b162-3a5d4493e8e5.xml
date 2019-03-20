@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Avsender  [ns:na1]"
+    name="Avsender "
     id="c40d7c46-b184-4d13-b162-3a5d4493e8e5"
     documentation="den som sender et brev, en pakke, en e-post, en elektronisk melding, en SMS eller lignende">
   <properties

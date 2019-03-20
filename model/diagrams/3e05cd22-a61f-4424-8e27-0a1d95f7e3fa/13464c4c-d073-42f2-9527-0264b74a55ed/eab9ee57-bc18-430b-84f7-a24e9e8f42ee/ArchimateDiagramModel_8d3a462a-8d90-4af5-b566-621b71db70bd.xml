@@ -1,0 +1,54 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kababilitetsområde, tillitstjenester"
+    id="8d3a462a-8d90-4af5-b566-621b71db70bd">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="97bb4f0f-acb3-471f-88ad-cc11ca6136ed"
+      fillColor="#ffffd7">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="fb3a926a-fd2e-4ffa-b500-c1b692ac2058"
+        source="97bb4f0f-acb3-471f-88ad-cc11ca6136ed"
+        target="ad7433c6-21d5-4eca-a771-da9de07bf941">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_5a99e58d-fe40-43dc-9ca1-b46802f8e14c.xml#5a99e58d-fe40-43dc-9ca1-b46802f8e14c"/>
+    </sourceConnections>
+    <bounds
+        x="60"
+        y="72"
+        width="181"
+        height="349"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="ad7433c6-21d5-4eca-a771-da9de07bf941"
+        targetConnections="fb3a926a-fd2e-4ffa-b500-c1b692ac2058"
+        fillColor="#ffff80">
+      <bounds
+          x="24"
+          y="48"
+          width="133"
+          height="67"/>
+      <archimateElement
+          xsi:type="archimate:Grouping"
+          href="Grouping_b79570f2-fa7b-4d6a-bedf-5b38001b0001.xml#b79570f2-fa7b-4d6a-bedf-5b38001b0001"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="e2d59ac0-a975-4a9d-b86e-41f3b613c3aa"
+        fontColor="#ff0000"
+        textAlignment="1"
+        content="Her kommer det mer;)">
+      <bounds
+          x="36"
+          y="144"
+          width="109"
+          height="49"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_f91f4613-6603-4b70-bc12-e4aa8f0b2cdc.xml#f91f4613-6603-4b70-bc12-e4aa8f0b2cdc"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,17 @@
+<archimate:ApplicationInteraction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eOppslag (copy)"
+    id="087ebf55-8c20-4d01-af8c-90cf7a206d64">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="eOppslag"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:ApplicationInteraction>

@@ -1,0 +1,17 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dataforvalter (copy)"
+    id="91427699-0956-46d2-90a7-46e2a0a97569">
+  <properties
+      key="difi:namespace"
+      value="erik"/>
+  <properties
+      key="difi:name_no"
+      value="Produsent [ns:erik]"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:BusinessRole>

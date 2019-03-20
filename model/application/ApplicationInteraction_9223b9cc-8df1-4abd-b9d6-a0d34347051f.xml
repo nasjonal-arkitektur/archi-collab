@@ -1,6 +1,6 @@
 <archimate:ApplicationInteraction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="eNotifikasjon"
+    name="Notifikasjon  til kjent part"
     id="9223b9cc-8df1-4abd-b9d6-a0d34347051f">
   <properties
       key="difi:namespace"

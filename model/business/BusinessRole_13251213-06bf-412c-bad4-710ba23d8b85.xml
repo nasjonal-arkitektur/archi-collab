@@ -1,0 +1,17 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datatilbyder (copy)"
+    id="13251213-06bf-412c-bad4-710ba23d8b85">
+  <properties
+      key="difi:namespace"
+      value="erik"/>
+  <properties
+      key="difi:name_no"
+      value="Datatilbyder [ns:Erik]"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:BusinessRole>

@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Behandlings-ansvarlig [ns:gdpr]"
+    name="Behandlings-ansvarlig"
     id="1a4bafcf-0821-448d-9d16-79928f4b12b5">
   <properties
       key="difi:namespace"

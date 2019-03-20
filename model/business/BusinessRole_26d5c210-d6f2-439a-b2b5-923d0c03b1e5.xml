@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Virksomhet [ns:erik]"
+    name="Virksomhet"
     id="26d5c210-d6f2-439a-b2b5-923d0c03b1e5">
   <properties
       key="difi:namespace"

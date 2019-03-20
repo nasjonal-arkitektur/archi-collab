@@ -6,7 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="638c28de-d2a9-4c21-bb73-cebe51700b70"
-      fillColor="#ffff80">
+      fillColor="#ffffdd">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="b514249c-bf08-4acc-bdfe-6bafb444695d"
@@ -35,18 +35,18 @@
           href="AggregationRelationship_b83391f9-8672-4561-8ce5-f9a41dda45fb.xml#b83391f9-8672-4561-8ce5-f9a41dda45fb"/>
     </sourceConnections>
     <bounds
-        x="48"
-        y="48"
-        width="493"
-        height="133"/>
+        x="60"
+        y="72"
+        width="517"
+        height="205"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="50fde257-8b5a-42f6-9e60-8cd9192d7d32"
         targetConnections="2ea1d5c6-b38f-446c-9915-330fae472f6e"
-        fillColor="#80ff80">
+        fillColor="#ffff80">
       <bounds
           x="24"
-          y="48"
+          y="36"
           width="133"
           height="67"/>
       <archimateElement
@@ -56,10 +56,11 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="ad7a417a-53ca-40b8-80a7-279cc0ec3482"
-        targetConnections="2a25488e-3737-4aac-a858-2653e7be1b62">
+        targetConnections="2a25488e-3737-4aac-a858-2653e7be1b62"
+        fillColor="#e9e9e9">
       <bounds
-          x="336"
-          y="48"
+          x="360"
+          y="36"
           width="133"
           height="67"/>
       <archimateElement
@@ -69,15 +70,28 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="e413375f-8edc-474f-a9d2-028466023307"
-        targetConnections="b514249c-bf08-4acc-bdfe-6bafb444695d">
+        targetConnections="b514249c-bf08-4acc-bdfe-6bafb444695d"
+        fillColor="#80ff80">
       <bounds
-          x="180"
-          y="48"
+          x="192"
+          y="36"
           width="133"
           height="67"/>
       <archimateElement
           xsi:type="archimate:Grouping"
           href="Grouping_05301c2e-c86d-48a3-b3eb-e7e3e6eec00c.xml#05301c2e-c86d-48a3-b3eb-e7e3e6eec00c"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="13d5a2c8-0f7f-4e9d-bbd5-edbae1bb72e2"
+        fontColor="#808080"
+        textAlignment="1"
+        content="Her kommer det mer;)">
+      <bounds
+          x="24"
+          y="120"
+          width="133"
+          height="61"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
