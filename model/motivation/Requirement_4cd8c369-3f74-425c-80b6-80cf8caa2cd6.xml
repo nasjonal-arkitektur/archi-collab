@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Semantical Interoperability Requirement"
+    id="4cd8c369-3f74-425c-80b6-80cf8caa2cd6">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+</archimate:Requirement>

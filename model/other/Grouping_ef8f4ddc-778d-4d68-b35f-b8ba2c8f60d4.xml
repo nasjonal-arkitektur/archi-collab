@@ -1,4 +1,17 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Datautveksling"
-    id="ef8f4ddc-778d-4d68-b35f-b8ba2c8f60d4"/>
+    id="ef8f4ddc-778d-4d68-b35f-b8ba2c8f60d4">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Datautveksling"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Grouping>

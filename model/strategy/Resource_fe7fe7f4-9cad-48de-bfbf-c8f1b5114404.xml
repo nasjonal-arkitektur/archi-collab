@@ -1,4 +1,17 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Saksbehandling (adaptiv) referansearkitektur"
-    id="fe7fe7f4-9cad-48de-bfbf-c8f1b5114404"/>
+    id="fe7fe7f4-9cad-48de-bfbf-c8f1b5114404">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Saksbehandling (adaptiv) referansearkitektur"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Resource>

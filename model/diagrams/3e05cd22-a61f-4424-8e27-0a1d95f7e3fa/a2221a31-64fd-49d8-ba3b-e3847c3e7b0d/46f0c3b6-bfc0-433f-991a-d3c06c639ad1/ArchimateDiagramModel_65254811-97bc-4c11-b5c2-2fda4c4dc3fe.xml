@@ -93,4 +93,7 @@
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_b2b54fca-8be5-4203-9cfd-6ac4938824ac.xml#b2b54fca-8be5-4203-9cfd-6ac4938824ac"/>
   </children>
+  <properties
+      key="difi:current_language"
+      value="no"/>
 </archimate:ArchimateDiagramModel>

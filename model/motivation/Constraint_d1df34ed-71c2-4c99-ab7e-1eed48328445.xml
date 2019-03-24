@@ -1,4 +1,17 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Umiddelbar respons"
-    id="d1df34ed-71c2-4c99-ab7e-1eed48328445"/>
+    id="d1df34ed-71c2-4c99-ab7e-1eed48328445">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Umiddelbar respons"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Constraint>

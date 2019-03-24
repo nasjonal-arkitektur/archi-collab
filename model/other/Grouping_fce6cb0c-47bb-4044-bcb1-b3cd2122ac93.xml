@@ -1,4 +1,17 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Deling av data på forespørsel"
-    id="fce6cb0c-47bb-4044-bcb1-b3cd2122ac93"/>
+    id="fce6cb0c-47bb-4044-bcb1-b3cd2122ac93">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Deling av data på forespørsel"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Grouping>

@@ -1,4 +1,17 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Datasjø referansearkitektur"
-    id="461a4890-dc69-483f-9059-1b5dbeb20151"/>
+    id="461a4890-dc69-483f-9059-1b5dbeb20151">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Datasjø referansearkitektur"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Resource>
