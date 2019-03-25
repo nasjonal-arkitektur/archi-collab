@@ -1,4 +1,17 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kvalitetskrav, hendelsesdeling"
-    id="79e38ce9-23d7-4a05-a2f0-81f567f960b7"/>
+    id="79e38ce9-23d7-4a05-a2f0-81f567f960b7">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Kvalitetskrav, hendelsesdeling"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Grouping>

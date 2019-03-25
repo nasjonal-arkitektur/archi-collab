@@ -1,4 +1,17 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kompleksitet"
-    id="3dbd147e-c98a-4e0b-bb67-97178d5a647e"/>
+    id="3dbd147e-c98a-4e0b-bb67-97178d5a647e">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Kompleksitet"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Constraint>

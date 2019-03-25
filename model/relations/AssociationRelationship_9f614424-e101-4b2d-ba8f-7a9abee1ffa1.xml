@@ -2,10 +2,21 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="9f614424-e101-4b2d-ba8f-7a9abee1ffa1">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
   <source
       xsi:type="archimate:Grouping"
       href="Grouping_042d6d82-83ec-4ac5-a1e8-f71ca62a2411.xml#042d6d82-83ec-4ac5-a1e8-f71ca62a2411"/>
   <target
-      xsi:type="archimate:BusinessCollaboration"
-      href="BusinessCollaboration_fdc8248f-2043-4ee7-92ef-1a0e343ac7f2.xml#fdc8248f-2043-4ee7-92ef-1a0e343ac7f2"/>
+      xsi:type="archimate:BusinessInteraction"
+      href="BusinessInteraction_9f1a8d83-950b-4c73-86d5-f349f79d9752.xml#9f1a8d83-950b-4c73-86d5-f349f79d9752"/>
 </archimate:AssociationRelationship>

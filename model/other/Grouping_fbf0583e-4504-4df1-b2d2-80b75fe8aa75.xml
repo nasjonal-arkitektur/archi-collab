@@ -1,4 +1,17 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Dataanalyse"
-    id="fbf0583e-4504-4df1-b2d2-80b75fe8aa75"/>
+    id="fbf0583e-4504-4df1-b2d2-80b75fe8aa75">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Dataanalyse"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Grouping>

@@ -1,4 +1,17 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Leveringsgaranti"
-    id="6c391223-79df-4da0-ae88-1827674da7cc"/>
+    id="6c391223-79df-4da0-ae88-1827674da7cc">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Leveringsgaranti"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Constraint>

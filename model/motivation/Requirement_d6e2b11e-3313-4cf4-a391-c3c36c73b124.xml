@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technical Interoperability Requirement"
+    id="d6e2b11e-3313-4cf4-a391-c3c36c73b124">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+</archimate:Requirement>

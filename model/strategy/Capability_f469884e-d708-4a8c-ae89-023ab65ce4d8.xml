@@ -10,7 +10,8 @@
       key="difi:name_no"
       value="Avgi forespurte data"/>
   <properties
-      key="difi:description_no"/>
+      key="difi:description_no"
+      value="Del av &quot;tilgjengeliggjøreing av data&quot;. Evene til å avgi data på forespørsel gjennom et egnet API. Kan omfatte tilgangsstyring."/>
   <properties
       key="difi:name_en"/>
   <properties

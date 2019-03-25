@@ -17,6 +17,6 @@
       xsi:type="archimate:Grouping"
       href="Grouping_f7289b7c-b93f-4266-9f90-ebd51ec48bfe.xml#f7289b7c-b93f-4266-9f90-ebd51ec48bfe"/>
   <target
-      xsi:type="archimate:BusinessCollaboration"
-      href="BusinessCollaboration_fdc8248f-2043-4ee7-92ef-1a0e343ac7f2.xml#fdc8248f-2043-4ee7-92ef-1a0e343ac7f2"/>
+      xsi:type="archimate:BusinessInteraction"
+      href="BusinessInteraction_9f1a8d83-950b-4c73-86d5-f349f79d9752.xml#9f1a8d83-950b-4c73-86d5-f349f79d9752"/>
 </archimate:AggregationRelationship>

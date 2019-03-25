@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisational Interoperability Requirement"
+    id="0e97ca05-13ce-4e6a-9960-94b606b74625">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+</archimate:Requirement>

@@ -1,4 +1,17 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Privacy"
-    id="5258eaf6-ac9d-40f1-918c-113c68109670"/>
+    id="5258eaf6-ac9d-40f1-918c-113c68109670">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Privacy"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Grouping>

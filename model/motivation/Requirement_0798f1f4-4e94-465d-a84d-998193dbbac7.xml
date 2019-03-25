@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interoperability Requirement"
+    id="0798f1f4-4e94-465d-a84d-998193dbbac7"
+    documentation="In EIRA, the requirement of concern is the interoperability requirement. An interoperability requirement is defined as a statement of an interoperable need that must be realized by a system. In EIRA, this statement is a High-level description of a to-be implemented interoperability aspect. An interoperability requirement adds granularity to an interoperability aspect">
+  <properties
+      key="difi:namespace"
+      value="eira"/>
+</archimate:Requirement>

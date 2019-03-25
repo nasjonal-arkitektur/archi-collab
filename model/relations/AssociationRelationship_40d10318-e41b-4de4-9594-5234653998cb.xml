@@ -2,6 +2,17 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="40d10318-e41b-4de4-9594-5234653998cb">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
   <source
       xsi:type="archimate:Constraint"
       href="Constraint_a9a5f106-9114-4a50-bb07-48514205c9c6.xml#a9a5f106-9114-4a50-bb07-48514205c9c6"/>

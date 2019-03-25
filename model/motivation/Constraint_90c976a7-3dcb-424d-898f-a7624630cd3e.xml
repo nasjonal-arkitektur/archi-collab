@@ -1,4 +1,17 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kvalitetsegenskaper"
-    id="90c976a7-3dcb-424d-898f-a7624630cd3e"/>
+    id="90c976a7-3dcb-424d-898f-a7624630cd3e">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Kvalitetsegenskaper"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Constraint>

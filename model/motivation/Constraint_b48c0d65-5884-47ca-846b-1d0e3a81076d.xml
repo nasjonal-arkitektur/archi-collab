@@ -1,4 +1,17 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kjent mottaker"
-    id="b48c0d65-5884-47ca-846b-1d0e3a81076d"/>
+    name="En kjent part"
+    id="b48c0d65-5884-47ca-846b-1d0e3a81076d">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="En kjent part"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Constraint>
