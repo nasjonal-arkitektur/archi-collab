@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anbefalt løsningsmønster"
+    id="a3660f7c-65e3-4b68-af6b-cf053115cb90">
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_7024aa8a-1a19-4dc5-b018-84c822bc92b3.xml#7024aa8a-1a19-4dc5-b018-84c822bc92b3"/>
+  <target
+      xsi:type="archimate:ApplicationInteraction"
+      href="ApplicationInteraction_693f5f7c-e03c-4c74-a286-750faa75ec4b.xml#693f5f7c-e03c-4c74-a286-750faa75ec4b"/>
+</archimate:AssociationRelationship>

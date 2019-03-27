@@ -1,17 +1,17 @@
-<archimate:ApplicationInteraction
+<archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Publisering til abonnenter"
-    id="935407ed-01ca-4a39-8176-826a034a5081">
+    name="Slå opp data gjennom synkront API-kall (copy)"
+    id="d575bbd3-584f-47cc-acb6-d774a1626728">
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="na1"/>
   <properties
       key="difi:name_no"
-      value="eMelding"/>
+      value="Slå opp data gjennom et API"/>
   <properties
       key="difi:description_no"/>
   <properties
       key="difi:name_en"/>
   <properties
       key="difi:description_en"/>
-</archimate:ApplicationInteraction>
+</archimate:Capability>

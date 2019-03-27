@@ -1,17 +1,17 @@
-<archimate:ApplicationInteraction
+<archimate:BusinessInteraction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Åpen publisering"
-    id="3a752dfe-7a87-475c-a69a-4486253087a7">
+    name="6a. Notifikasjon til mange ukjente parter"
+    id="f7e34799-2999-4803-b9b5-05eb8b50dc31">
   <properties
       key="difi:namespace"
       value="-"/>
   <properties
       key="difi:name_no"
-      value="eMelding"/>
+      value="6. Notifikasjon til mange "/>
   <properties
       key="difi:description_no"/>
   <properties
       key="difi:name_en"/>
   <properties
       key="difi:description_en"/>
-</archimate:ApplicationInteraction>
+</archimate:BusinessInteraction>

@@ -1,17 +1,17 @@
-<archimate:Grouping
+<archimate:ApplicationInteraction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Avgi data"
-    id="c888638e-c9e8-4b75-9c61-b9104c7bef55">
+    name="Asynkron melding mellom to parter"
+    id="693f5f7c-e03c-4c74-a286-750faa75ec4b">
   <properties
       key="difi:namespace"
       value="-"/>
   <properties
       key="difi:name_no"
-      value="Avgi forespurte data"/>
+      value="eOppslag"/>
   <properties
       key="difi:description_no"/>
   <properties
       key="difi:name_en"/>
   <properties
       key="difi:description_en"/>
-</archimate:Grouping>
+</archimate:ApplicationInteraction>

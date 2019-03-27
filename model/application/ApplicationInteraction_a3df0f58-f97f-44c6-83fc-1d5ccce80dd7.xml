@@ -1,17 +1,17 @@
 <archimate:ApplicationInteraction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Synkront API-kall"
-    id="babbe25b-04b8-4cd9-a0dd-ae70f0677275">
+    name="Asynkront API-kall"
+    id="a3df0f58-f97f-44c6-83fc-1d5ccce80dd7">
   <properties
       key="difi:namespace"
       value="-"/>
   <properties
       key="difi:name_no"
-      value="Synkront API-kall"/>
-  <properties
-      key="difi:name_en"/>
+      value="eOppslag"/>
   <properties
       key="difi:description_no"/>
+  <properties
+      key="difi:name_en"/>
   <properties
       key="difi:description_en"/>
 </archimate:ApplicationInteraction>
