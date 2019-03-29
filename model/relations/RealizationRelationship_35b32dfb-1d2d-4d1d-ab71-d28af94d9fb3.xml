@@ -13,6 +13,9 @@
       key="difi:name_en"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="realization-relationship"/>
   <source
       xsi:type="archimate:WorkPackage"
       href="WorkPackage_9f4596c0-66c9-4ed3-9030-940730eb7de4.xml#9f4596c0-66c9-4ed3-9030-940730eb7de4"/>

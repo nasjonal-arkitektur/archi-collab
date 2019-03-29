@@ -393,4 +393,7 @@
         xsi:type="archimate:BusinessInteraction"
         href="BusinessInteraction_26bc875e-1e61-40be-9557-331172e55273.xml#26bc875e-1e61-40be-9557-331172e55273"/>
   </children>
+  <properties
+      key="difi:current_language"
+      value="no"/>
 </archimate:ArchimateDiagramModel>

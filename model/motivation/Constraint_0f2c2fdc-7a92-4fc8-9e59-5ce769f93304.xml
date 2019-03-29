@@ -16,4 +16,7 @@
       value="F.eks. krav til infrastruktur, teknologiplattform, teknologivalg."/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="constraint"/>
 </archimate:Constraint>

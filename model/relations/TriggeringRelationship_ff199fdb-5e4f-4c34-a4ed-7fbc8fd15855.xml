@@ -13,6 +13,9 @@
       key="difi:name_en"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="triggering-relationship"/>
   <source
       xsi:type="archimate:Junction"
       href="Junction_2a6893de-d675-4026-aaeb-e2104e931c79.xml#2a6893de-d675-4026-aaeb-e2104e931c79"/>

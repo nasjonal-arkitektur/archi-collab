@@ -13,6 +13,9 @@
       key="difi:name_en"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="specialization-relationship"/>
   <source
       xsi:type="archimate:Capability"
       href="Capability_75907321-192e-4ce8-bae6-618949eec4e1.xml#75907321-192e-4ce8-bae6-618949eec4e1"/>

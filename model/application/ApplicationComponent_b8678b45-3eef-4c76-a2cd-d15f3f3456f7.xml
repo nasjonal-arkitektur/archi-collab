@@ -1,0 +1,20 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nasjonlt arkitekturbibliotek på Github (Archi) (copy)"
+    id="b8678b45-3eef-4c76-a2cd-d15f3f3456f7">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Nasjonlt arkitekturbibliotek på Github (Archi) (copy)"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="application-component"/>
+</archimate:ApplicationComponent>

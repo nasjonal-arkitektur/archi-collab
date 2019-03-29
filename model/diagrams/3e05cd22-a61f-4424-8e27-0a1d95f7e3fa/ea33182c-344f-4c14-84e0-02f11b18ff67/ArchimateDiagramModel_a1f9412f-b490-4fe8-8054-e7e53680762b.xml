@@ -561,4 +561,7 @@
         xsi:type="archimate:ApplicationInteraction"
         href="ApplicationInteraction_6428084f-02cf-4dc2-b7e8-ba4a5fe9b9a2.xml#6428084f-02cf-4dc2-b7e8-ba4a5fe9b9a2"/>
   </children>
+  <properties
+      key="difi:current_language"
+      value="no"/>
 </archimate:ArchimateDiagramModel>

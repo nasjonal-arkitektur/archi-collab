@@ -15,6 +15,9 @@
       key="difi:name_en"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="realization-relationship"/>
   <source
       xsi:type="archimate:Artifact"
       href="Artifact_15997d07-6bda-40c8-aeac-62c57bb3f6d7.xml#15997d07-6bda-40c8-aeac-62c57bb3f6d7"/>

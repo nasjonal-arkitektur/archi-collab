@@ -1,0 +1,20 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="www for publisering fra Github og Archi (doc.difi.no/nasjonal-arkitektur)"
+    id="7d9b86b0-d37f-4d98-8dd0-a95cf1559022">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="www for publisering fra Github og Archi (doc.difi.no/nasjonal-arkitektur)"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="application-interface"/>
+</archimate:ApplicationInterface>

@@ -13,6 +13,9 @@
       key="difi:name_en"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="realization-relationship"/>
   <source
       xsi:type="archimate:TechnologyService"
       href="TechnologyService_4257d422-476a-43a7-a8cc-d38c477964bc.xml#4257d422-476a-43a7-a8cc-d38c477964bc"/>

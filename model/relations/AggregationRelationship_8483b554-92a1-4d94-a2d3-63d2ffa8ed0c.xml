@@ -13,6 +13,9 @@
       key="difi:name_en"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="aggregation-relationship"/>
   <source
       xsi:type="archimate:Capability"
       href="Capability_31832bd6-c735-439d-b710-855afaf3a0a0.xml#31832bd6-c735-439d-b710-855afaf3a0a0"/>

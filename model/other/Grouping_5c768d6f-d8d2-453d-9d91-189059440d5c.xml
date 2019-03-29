@@ -19,4 +19,7 @@
   <properties
       key="difi:description_en"
       value="Subject area or segment"/>
+  <properties
+      key="dct:type"
+      value="grouping"/>
 </archimate:Grouping>

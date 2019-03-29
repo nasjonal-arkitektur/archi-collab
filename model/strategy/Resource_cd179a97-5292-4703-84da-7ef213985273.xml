@@ -1,0 +1,20 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&quot;Data med persondata om den registrerte&quot;"
+    id="cd179a97-5292-4703-84da-7ef213985273">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="&quot;Data med persondata om den registrerte&quot;"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="resource"/>
+</archimate:Resource>

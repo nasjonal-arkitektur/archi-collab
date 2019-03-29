@@ -13,6 +13,9 @@
       key="difi:description_no"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="aggregation-relationship"/>
   <source
       xsi:type="archimate:Grouping"
       href="Grouping_2b6d9ca5-9730-41e9-8448-44e3268515b1.xml#2b6d9ca5-9730-41e9-8448-44e3268515b1"/>

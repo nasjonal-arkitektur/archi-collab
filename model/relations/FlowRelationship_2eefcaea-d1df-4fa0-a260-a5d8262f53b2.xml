@@ -13,6 +13,9 @@
       key="difi:name_en"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="flow-relationship"/>
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_304505a0-9fb7-421a-9958-30ed2dc40289.xml#304505a0-9fb7-421a-9958-30ed2dc40289"/>

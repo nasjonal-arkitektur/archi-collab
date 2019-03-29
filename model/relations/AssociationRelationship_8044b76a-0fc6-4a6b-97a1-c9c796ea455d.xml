@@ -15,6 +15,9 @@
       key="difi:name_en"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="association-relationship"/>
   <source
       xsi:type="archimate:Value"
       href="Value_7ac4417a-5039-406d-bc84-1e25bc6821e6.xml#7ac4417a-5039-406d-bc84-1e25bc6821e6"/>

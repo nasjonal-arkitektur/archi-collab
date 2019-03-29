@@ -2,6 +2,20 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="f9e58c26-3bb7-4b2c-967c-6cfc39bfe4c3">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="specialization-relationship"/>
   <source
       xsi:type="archimate:BusinessInteraction"
       href="BusinessInteraction_26bc875e-1e61-40be-9557-331172e55273.xml#26bc875e-1e61-40be-9557-331172e55273"/>

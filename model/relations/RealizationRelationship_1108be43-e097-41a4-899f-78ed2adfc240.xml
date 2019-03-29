@@ -13,6 +13,9 @@
       key="difi:name_en"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="realization-relationship"/>
   <source
       xsi:type="archimate:Deliverable"
       href="Deliverable_44bdf1f2-a7ff-4d51-8574-bc3b3ab11399.xml#44bdf1f2-a7ff-4d51-8574-bc3b3ab11399"/>

@@ -13,6 +13,9 @@
       key="difi:name_en"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="realization-relationship"/>
   <source
       xsi:type="archimate:DataObject"
       href="DataObject_1a68eee6-e290-4466-bc15-2121ca7922a4.xml#1a68eee6-e290-4466-bc15-2121ca7922a4"/>

@@ -51,4 +51,7 @@
         xsi:type="archimate:Grouping"
         href="Grouping_d8719a9c-4ef2-46ac-945c-26a6220c8d16.xml#d8719a9c-4ef2-46ac-945c-26a6220c8d16"/>
   </children>
+  <properties
+      key="difi:current_language"
+      value="no"/>
 </archimate:ArchimateDiagramModel>

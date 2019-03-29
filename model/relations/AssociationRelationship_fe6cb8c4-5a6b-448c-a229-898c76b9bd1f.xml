@@ -13,6 +13,9 @@
       key="difi:description_no"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="association-relationship"/>
   <source
       xsi:type="archimate:Constraint"
       href="Constraint_d1df34ed-71c2-4c99-ab7e-1eed48328445.xml#d1df34ed-71c2-4c99-ab7e-1eed48328445"/>

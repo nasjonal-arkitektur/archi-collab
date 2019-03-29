@@ -13,6 +13,9 @@
       key="difi:name_en"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="specialization-relationship"/>
   <source
       xsi:type="archimate:DataObject"
       href="DataObject_dd8b5ccd-a095-46fd-8087-263881ac7c1d.xml#dd8b5ccd-a095-46fd-8087-263881ac7c1d"/>
