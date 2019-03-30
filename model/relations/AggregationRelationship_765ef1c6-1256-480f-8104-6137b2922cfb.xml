@@ -1,6 +1,7 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="inneholder"
     id="765ef1c6-1256-480f-8104-6137b2922cfb">
   <properties
       key="difi:namespace"

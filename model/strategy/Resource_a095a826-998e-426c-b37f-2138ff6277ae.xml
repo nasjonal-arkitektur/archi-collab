@@ -1,13 +1,13 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Saksbehandling referansearkitektur"
-    id="fe7fe7f4-9cad-48de-bfbf-c8f1b5114404">
+    name="Identitetsforvaltning og tilgangsstyring referansearkitektur"
+    id="a095a826-998e-426c-b37f-2138ff6277ae">
   <properties
       key="difi:namespace"
       value="-"/>
   <properties
       key="difi:name_no"
-      value="Saksbehandling (adaptiv) referansearkitektur"/>
+      value="Brukerstyring (identitetsforvaltning) referansearkitektur"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -16,5 +16,5 @@
       key="difi:description_en"/>
   <properties
       key="dct:type"
-      value="resource"/>
+      value="difi:reference-arhitecture"/>
 </archimate:Resource>

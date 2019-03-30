@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="New ArchiMate View"
+    name="Torget løsningsarkitektur"
     id="dc47810b-ffd0-47b8-85bb-76388b4d7abf">
   <children
       xsi:type="archimate:DiagramModelNote"
