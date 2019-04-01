@@ -13,6 +13,9 @@
       key="difi:name_en"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="assignment-relationship"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_b96228d9-abd3-4638-a566-7f0b54daa805.xml#b96228d9-abd3-4638-a566-7f0b54daa805"/>

@@ -5,6 +5,17 @@
   <properties
       key="difi:namespace"
       value="eira"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="specialization-relationship"/>
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_75a2d3c8-1a1d-4fef-b904-f2f350ed4ba0.xml#75a2d3c8-1a1d-4fef-b904-f2f350ed4ba0"/>

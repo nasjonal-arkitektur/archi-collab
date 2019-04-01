@@ -5,6 +5,17 @@
   <properties
       key="difi:namespace"
       value="eira"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="specialization-relationship"/>
   <source
       xsi:type="archimate:Requirement"
       href="Requirement_d6e2b11e-3313-4cf4-a391-c3c36c73b124.xml#d6e2b11e-3313-4cf4-a391-c3c36c73b124"/>

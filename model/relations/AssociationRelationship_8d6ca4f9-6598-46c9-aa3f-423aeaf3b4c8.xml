@@ -13,6 +13,9 @@
       key="difi:name_en"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="association-relationship"/>
   <source
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_ec56d49f-af97-4229-a0b7-6089864482af.xml#ec56d49f-af97-4229-a0b7-6089864482af"/>

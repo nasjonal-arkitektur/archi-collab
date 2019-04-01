@@ -417,21 +417,21 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="c57e2c37-3041-43d7-8c5a-0ef7cb7116ed"
-        source="d916275c-fc32-4a90-bbe3-b91c81f7337f"
-        target="0f4bc781-1648-40a8-9e22-a9a541b34cbf">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_40f0d455-31bc-43ba-b018-a504e2eb1da3.xml#40f0d455-31bc-43ba-b018-a504e2eb1da3"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="44f64194-b307-4918-b85e-3e17057822bc"
         source="d916275c-fc32-4a90-bbe3-b91c81f7337f"
         target="5404e01f-92f0-4e66-9f6a-7cb8ee479454">
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_0a5c5441-f9c3-47e2-bb0a-90102d7d015f.xml#0a5c5441-f9c3-47e2-bb0a-90102d7d015f"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="c4292e5f-037e-477b-b688-189c15d8e3b5"
+        source="d916275c-fc32-4a90-bbe3-b91c81f7337f"
+        target="089e85f8-bd4e-4014-99cb-b8a6d83a4b5e">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_1dd8080c-881d-46a9-80ed-e611cd06dde6.xml#1dd8080c-881d-46a9-80ed-e611cd06dde6"/>
     </sourceConnections>
     <bounds
         x="72"
@@ -470,8 +470,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="0f4bc781-1648-40a8-9e22-a9a541b34cbf"
-        targetConnections="c57e2c37-3041-43d7-8c5a-0ef7cb7116ed"
+        id="089e85f8-bd4e-4014-99cb-b8a6d83a4b5e"
+        targetConnections="c4292e5f-037e-477b-b688-189c15d8e3b5"
         textPosition="1"
         type="1">
       <bounds
@@ -481,7 +481,7 @@
           height="61"/>
       <archimateElement
           xsi:type="archimate:Constraint"
-          href="Constraint_03d9b9bb-d298-44bd-8a97-cb23cd1e4e23.xml#03d9b9bb-d298-44bd-8a97-cb23cd1e4e23"/>
+          href="Constraint_99cbc218-8c12-48b1-9a78-35b42c5200a4.xml#99cbc218-8c12-48b1-9a78-35b42c5200a4"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"

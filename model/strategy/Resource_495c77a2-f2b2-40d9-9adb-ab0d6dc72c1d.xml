@@ -1,0 +1,20 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eBevis referansearkitektur"
+    id="495c77a2-f2b2-40d9-9adb-ab0d6dc72c1d">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="eBevis"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="resource"/>
+</archimate:Resource>

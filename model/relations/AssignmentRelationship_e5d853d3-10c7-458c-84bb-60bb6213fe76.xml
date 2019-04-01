@@ -13,6 +13,9 @@
       key="difi:description_no"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="assignment-relationship"/>
   <source
       xsi:type="archimate:BusinessCollaboration"
       href="BusinessCollaboration_2346484f-ea14-4383-8167-c179954cc08c.xml#2346484f-ea14-4383-8167-c179954cc08c"/>

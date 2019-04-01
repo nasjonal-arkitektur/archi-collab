@@ -18,4 +18,7 @@
       key="difi:name_en"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="capability"/>
 </archimate:Capability>

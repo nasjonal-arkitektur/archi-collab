@@ -1,6 +1,6 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kapabilitetsområde"
+    name="Temaområde"
     id="5c768d6f-d8d2-453d-9d91-189059440d5c">
   <properties
       key="difi:namespace"
@@ -19,4 +19,7 @@
   <properties
       key="difi:description_en"
       value="Subject area or segment"/>
+  <properties
+      key="dct:type"
+      value="grouping"/>
 </archimate:Grouping>

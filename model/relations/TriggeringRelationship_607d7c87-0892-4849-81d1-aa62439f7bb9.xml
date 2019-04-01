@@ -13,6 +13,9 @@
       key="difi:name_en"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="triggering-relationship"/>
   <source
       xsi:type="archimate:Capability"
       href="Capability_ef748a28-6203-41cb-80cd-79d35a237a95.xml#ef748a28-6203-41cb-80cd-79d35a237a95"/>

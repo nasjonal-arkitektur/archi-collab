@@ -1,0 +1,25 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="f4e0c6e0-6b5b-4722-8f98-6fa96d6c02d6">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="specialization-relationship"/>
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_ae341b64-4173-46e9-8af4-c8068228200a.xml#ae341b64-4173-46e9-8af4-c8068228200a"/>
+  <target
+      xsi:type="archimate:Resource"
+      href="Resource_853f28a9-3b4d-4e35-9d57-728ef44f1178.xml#853f28a9-3b4d-4e35-9d57-728ef44f1178"/>
+</archimate:SpecializationRelationship>

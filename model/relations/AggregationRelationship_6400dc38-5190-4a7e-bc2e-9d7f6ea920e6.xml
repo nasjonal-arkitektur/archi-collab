@@ -13,6 +13,9 @@
       key="difi:name_en"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="aggregation-relationship"/>
   <source
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_2b551b72-cad4-4928-a7bb-f55c94168434.xml#2b551b72-cad4-4928-a7bb-f55c94168434"/>

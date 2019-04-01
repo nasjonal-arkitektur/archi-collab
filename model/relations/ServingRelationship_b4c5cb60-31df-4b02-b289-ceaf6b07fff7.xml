@@ -15,6 +15,9 @@
       key="difi:name_en"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="serving-relationship"/>
   <source
       xsi:type="archimate:Grouping"
       href="Grouping_9a50a7f9-369e-41bf-8cec-bd102c2f8b46.xml#9a50a7f9-369e-41bf-8cec-bd102c2f8b46"/>

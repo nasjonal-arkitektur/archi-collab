@@ -13,6 +13,9 @@
       key="difi:name_en"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="composition-relationship"/>
   <source
       xsi:type="archimate:BusinessFunction"
       href="BusinessFunction_5474c8ee-634c-4778-8031-8aae556bd523.xml#5474c8ee-634c-4778-8031-8aae556bd523"/>

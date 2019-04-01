@@ -15,6 +15,9 @@
       key="difi:name_en"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="flow-relationship"/>
   <source
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_f10644cb-29da-490b-9b9a-8a8a80920f65.xml#f10644cb-29da-490b-9b9a-8a8a80920f65"/>

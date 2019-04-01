@@ -13,6 +13,9 @@
       key="difi:name_en"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="triggering-relationship"/>
   <source
       xsi:type="archimate:BusinessEvent"
       href="BusinessEvent_158ec0ed-8d1d-40a3-a05b-4e0f7b838f42.xml#158ec0ed-8d1d-40a3-a05b-4e0f7b838f42"/>

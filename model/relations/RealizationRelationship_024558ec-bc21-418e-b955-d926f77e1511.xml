@@ -13,6 +13,9 @@
       key="difi:name_en"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="realization-relationship"/>
   <source
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_d7639ba3-4179-49c3-a67e-a6a9c3989a58.xml#d7639ba3-4179-49c3-a67e-a6a9c3989a58"/>

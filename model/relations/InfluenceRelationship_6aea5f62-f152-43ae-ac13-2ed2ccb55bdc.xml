@@ -13,6 +13,9 @@
       key="difi:name_en"/>
   <properties
       key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="influence-relationship"/>
   <source
       xsi:type="archimate:Requirement"
       href="Requirement_f39f7f06-328f-419d-8671-8de0945462af.xml#f39f7f06-328f-419d-8671-8de0945462af"/>
