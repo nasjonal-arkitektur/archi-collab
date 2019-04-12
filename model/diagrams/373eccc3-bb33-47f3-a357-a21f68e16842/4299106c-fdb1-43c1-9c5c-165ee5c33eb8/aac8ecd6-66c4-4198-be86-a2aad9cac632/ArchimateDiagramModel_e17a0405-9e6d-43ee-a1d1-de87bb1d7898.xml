@@ -6,7 +6,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="f1bca603-cf6a-4ac6-938f-a648e4600e1d"
-      name="Henrik">
+      name="Henrik"
+      textAlignment="1">
     <bounds
         x="252"
         width="181"
@@ -92,7 +93,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="5a288b83-c415-405d-a648-b9ff5c9749d7"
-      name="Api-katalogen">
+      name="Api-katalogen"
+      textAlignment="1">
     <bounds
         x="516"
         y="-5"
@@ -227,7 +229,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="4ec61017-4dde-47eb-8d31-1cf67a0ece99"
-      name="Erik + GDPR + ...">
+      name="Erik + GDPR + ..."
+      textAlignment="1">
     <bounds
         x="12"
         width="169"

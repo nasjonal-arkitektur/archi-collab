@@ -8,6 +8,7 @@
       xsi:type="archimate:DiagramModelGroup"
       id="18674668-9151-4769-9f2d-398261c0bc0c"
       name="Hendelsesdrevet deling av data"
+      textAlignment="1"
       documentation="Deling av data initiert av en tilstandsendring i dataene som deles. Databruker leser eller abonnerer på hendelseslister og dette trigger eventuell videre oppfølging. Databruker må vurderer om endringen skal følges opp og lese data på forespørsel.">
     <bounds
         x="408"
@@ -54,6 +55,7 @@
       xsi:type="archimate:DiagramModelGroup"
       id="5805b6bf-9867-4c4e-9126-86ba27c54232"
       name="Oppdatere data"
+      textAlignment="1"
       documentation="Deling av data med formål om å oppdatere autoritativ datakilde fra en aktør som ikke er eier eller forvalter av dataene. Oppdatere data kan være å opprette (legge til nye data), endre eksisterende data, eller å slette data.">
     <bounds
         x="408"
@@ -179,6 +181,7 @@
       xsi:type="archimate:DiagramModelGroup"
       id="8ceb35a4-1317-417a-9fd8-73ef9e619d27"
       name="Deling av data med melding"
+      textAlignment="1"
       documentation="Deling av data initiert av avsender. Det vil normalt være behov og/eller forventning om oppfølging fra avsender. Avsender må ha visshet om at mottaker kan motta og behandle meldingen/informasjonen som sendes.">
     <bounds
         x="410"
@@ -225,6 +228,7 @@
       xsi:type="archimate:DiagramModelGroup"
       id="6e6ee236-bdb3-4042-946a-9472d994a110"
       name="Deling av data på forespørsel"
+      textAlignment="1"
       documentation="Deling av data initiert av databruker. Dette kan være å lese åpne publiserte data eller spørre om data gjennom en tjeneste/API. ">
     <bounds
         x="408"
@@ -472,7 +476,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="d541fec5-eec3-4414-9d79-0aa8c4896855"
-      name="Funksjoner tilknyttet tillit">
+      name="Funksjoner tilknyttet tillit"
+      textAlignment="1">
     <bounds
         x="1020"
         y="36"

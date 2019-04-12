@@ -7,7 +7,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="8fce5e95-7468-4024-8e0f-5fbd67ce1d1c"
       name="Tverrgående funksjoner og tjenester"
-      targetConnections="0c95371a-fc38-4d92-bd91-47ca16403ca9">
+      targetConnections="0c95371a-fc38-4d92-bd91-47ca16403ca9"
+      textAlignment="1">
     <bounds
         x="48"
         y="108"

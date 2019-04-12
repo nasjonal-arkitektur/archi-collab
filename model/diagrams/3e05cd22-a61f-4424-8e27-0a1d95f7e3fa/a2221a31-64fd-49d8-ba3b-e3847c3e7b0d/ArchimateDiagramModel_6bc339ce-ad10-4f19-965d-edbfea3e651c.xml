@@ -8,6 +8,7 @@
       xsi:type="archimate:DiagramModelGroup"
       id="f884097d-0f17-4de9-aec7-37c2402a7768"
       name="Tilbakemelding på data"
+      textAlignment="1"
       fillColor="#e9e9e9"
       documentation="Deling av data med formål om å gi tilbakemelding på f.eks. kvalitet. Tilbakemeldinger vil være metadata relatert til bruk og ikke endringer i selve datasettet.">
     <bounds
@@ -46,6 +47,7 @@
       xsi:type="archimate:DiagramModelGroup"
       id="57756239-62e6-4564-a042-5bf2de75f0ce"
       name="Hendelsesdrevet deling av data"
+      textAlignment="1"
       fillColor="#e9e9e9"
       documentation="Deling av data initiert av en tilstandsendring i dataene som deles. Databruker leser eller abonnerer på hendelseslister og dette trigger eventuell videre oppfølging. Databruker må vurderer om endringen skal følges opp og lese data på forespørsel.">
     <bounds
@@ -84,6 +86,7 @@
       xsi:type="archimate:DiagramModelGroup"
       id="28d40f62-1a60-4d0e-8085-7f7f208f4bee"
       name="Oppdatere data"
+      textAlignment="1"
       fillColor="#e9e9e9"
       documentation="Deling av data med formål om å oppdatere autoritativ datakilde fra en aktør som ikke er eier eller forvalter av dataene. Oppdatere data kan være å opprette (legge til nye data), endre eksisterende data, eller å slette data.">
     <bounds
@@ -122,6 +125,7 @@
       xsi:type="archimate:DiagramModelGroup"
       id="50b72528-2d0e-4352-ad5b-c927b02bda39"
       name="Deling av data ved forsendelse"
+      textAlignment="1"
       fillColor="#e9e9e9"
       documentation="Deling av data initiert av avsender. Det vil normalt være behov og/eller forventning om oppfølging fra avsender. Avsender må ha visshet om at mottaker kan motta og behandle meldingen/informasjonen som sendes.">
     <bounds
@@ -160,6 +164,7 @@
       xsi:type="archimate:DiagramModelGroup"
       id="37813de3-9b70-4be7-b060-335cc4224940"
       name="Deling av data på forespørsel"
+      textAlignment="1"
       fillColor="#e9e9e9"
       documentation="Deling av data initiert av databruker. Dette kan være å lese åpne publiserte data eller spørre om data gjennom en tjeneste/API. ">
     <bounds

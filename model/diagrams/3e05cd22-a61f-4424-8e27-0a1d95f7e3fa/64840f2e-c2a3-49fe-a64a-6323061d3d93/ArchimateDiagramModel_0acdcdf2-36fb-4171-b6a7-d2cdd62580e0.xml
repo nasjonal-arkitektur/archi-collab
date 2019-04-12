@@ -6,7 +6,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="7cc6dd88-bdd3-49f1-aeb3-80dcc3f03d25"
-      name="GDPR-begreper">
+      name="GDPR-begreper"
+      textAlignment="1">
     <bounds
         x="72"
         y="36"

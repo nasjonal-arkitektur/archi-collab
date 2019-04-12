@@ -6,7 +6,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="87d3b5ae-cf63-4306-a08f-61e598b8daf9"
-      name="Jørgen">
+      name="Jørgen"
+      textAlignment="1">
     <bounds
         x="1312"
         y="571"
@@ -17,7 +18,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="09dc16c0-4b70-45aa-b257-7b9a358ce65e"
       name="Tverrgående funksjoner og tjenester"
-      targetConnections="0d0d2082-4e89-464a-b1d4-374f4f2d4e11">
+      targetConnections="0d0d2082-4e89-464a-b1d4-374f4f2d4e11"
+      textAlignment="1">
     <bounds
         x="438"
         y="226"

@@ -27,7 +27,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="f10f1ce7-2a3c-48b3-a967-18143f544021"
-      targetConnections="c72a56fc-ede2-4fbe-81f8-4710b580a146">
+      targetConnections="c72a56fc-ede2-4fbe-81f8-4710b580a146"
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="9c840d2d-47f2-47b9-9b33-6976b95258de"
