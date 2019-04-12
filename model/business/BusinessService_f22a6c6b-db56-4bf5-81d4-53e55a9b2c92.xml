@@ -1,6 +1,6 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Policy-tjeneste"
+    name="Intern tilgangs-kontroll"
     id="f22a6c6b-db56-4bf5-81d4-53e55a9b2c92">
   <properties
       key="difi:namespace"
