@@ -6,7 +6,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="84bad94c-9718-431a-93aa-87426b9dbce7"
-      name="Forslag fra Jørgen">
+      name="Forslag fra Jørgen"
+      textAlignment="1">
     <bounds
         x="108"
         y="144"
@@ -75,7 +76,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="511a8e92-2e51-44ea-8ca6-54e52642cfcf"
-      name="Roller eller aktører?">
+      name="Roller eller aktører?"
+      textAlignment="1">
     <bounds
         x="552"
         y="120"

@@ -8,6 +8,7 @@
       xsi:type="archimate:DiagramModelGroup"
       id="72433d78-493c-445e-82ee-60fc4ea27e5a"
       name="Gi tilbakemelding på data"
+      textAlignment="1"
       documentation="Deling av data med formål om å gi tilbakemelding på f.eks. kvalitet. Tilbakemeldinger vil være metadata relatert til bruk og ikke endringer i selve datasettet.">
     <bounds
         x="984"
@@ -89,6 +90,7 @@
       xsi:type="archimate:DiagramModelGroup"
       id="01a76479-0eab-4419-b22b-b514719639de"
       name="Hendelsesdrevet deling av data"
+      textAlignment="1"
       documentation="Deling av data initiert av en tilstandsendring i dataene som deles. Databruker leser eller abonnerer på hendelseslister og dette trigger eventuell videre oppfølging. Databruker må vurderer om endringen skal følges opp og lese data på forespørsel.">
     <bounds
         x="264"
@@ -267,6 +269,7 @@
       xsi:type="archimate:DiagramModelGroup"
       id="53964dc6-6281-4c8d-a6e2-5b45fe954b19"
       name="Oppdatere data"
+      textAlignment="1"
       documentation="Deling av data med formål om å oppdatere autoritativ datakilde fra en aktør som ikke er eier eller forvalter av dataene. Oppdatere data kan være å opprette (legge til nye data), endre eksisterende data, eller å slette data.">
     <bounds
         x="984"
@@ -348,6 +351,7 @@
       xsi:type="archimate:DiagramModelGroup"
       id="fdcfcd6c-f91a-4b0e-801b-1f1185c62875"
       name="Deling av data ved forsendelse"
+      textAlignment="1"
       documentation="Deling av data initiert av avsender. Det vil normalt være behov og/eller forventning om oppfølging fra avsender. Avsender må ha visshet om at mottaker kan motta og behandle meldingen/informasjonen som sendes.">
     <bounds
         x="264"
@@ -443,6 +447,7 @@
       xsi:type="archimate:DiagramModelGroup"
       id="c6b9c530-2580-4b4f-be29-bf1bd9425486"
       name="Deling av data på forespørsel"
+      textAlignment="1"
       documentation="Deling av data initiert av databruker. Dette kan være å lese åpne publiserte data eller spørre om data gjennom en tjeneste/API. ">
     <bounds
         x="264"

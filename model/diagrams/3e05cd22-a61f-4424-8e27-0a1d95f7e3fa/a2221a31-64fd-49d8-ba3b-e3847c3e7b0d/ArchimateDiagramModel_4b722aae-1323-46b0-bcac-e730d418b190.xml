@@ -49,6 +49,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="e00be07a-e031-4466-adfa-bbc9c06eb916"
+      textAlignment="1"
       fillColor="#e9e9e9">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
