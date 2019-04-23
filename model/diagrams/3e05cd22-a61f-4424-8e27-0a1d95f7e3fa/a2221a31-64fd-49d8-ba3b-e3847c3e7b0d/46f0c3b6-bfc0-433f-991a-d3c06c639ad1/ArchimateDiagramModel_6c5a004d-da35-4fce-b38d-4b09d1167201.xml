@@ -152,7 +152,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="6d04206f-4dc4-4a68-936b-7e959d38cd9c"
-      targetConnections="d6c52125-db48-4f42-8b07-becf5cf1cb0b 499a63c9-dc7d-4baf-9992-c0d05a674532">
+      targetConnections="d6c52125-db48-4f42-8b07-becf5cf1cb0b 499a63c9-dc7d-4baf-9992-c0d05a674532 2e9a85f3-6eb4-4894-a8e7-9c4330184c63">
     <bounds
         x="155"
         y="600"
@@ -224,6 +224,21 @@
         y="408"
         width="185"
         height="127"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="9b33ac19-bed1-46b6-809b-de26f46c966c"
+      textAlignment="1"
+      content="Har tatt ut &quot;inngå bruksavtale ed leverandør av tokentjeneste&quot;">
+    <sourceConnections
+        id="2e9a85f3-6eb4-4894-a8e7-9c4330184c63"
+        source="9b33ac19-bed1-46b6-809b-de26f46c966c"
+        target="6d04206f-4dc4-4a68-936b-7e959d38cd9c"/>
+    <bounds
+        x="816"
+        y="636"
+        width="185"
+        height="80"/>
   </children>
   <properties
       key="difi:current_language"
