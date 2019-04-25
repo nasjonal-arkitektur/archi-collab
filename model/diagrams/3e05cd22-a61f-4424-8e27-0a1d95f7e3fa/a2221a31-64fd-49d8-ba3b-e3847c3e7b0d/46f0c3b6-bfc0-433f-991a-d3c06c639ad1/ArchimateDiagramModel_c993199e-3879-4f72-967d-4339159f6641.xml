@@ -46,9 +46,9 @@
           href="ServingRelationship_02fdbadb-08aa-4207-a3d7-510bac8bfed9.xml#02fdbadb-08aa-4207-a3d7-510bac8bfed9"/>
     </sourceConnections>
     <bounds
-        x="487"
+        x="478"
         y="432"
-        width="120"
+        width="138"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"

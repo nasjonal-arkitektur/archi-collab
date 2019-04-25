@@ -181,10 +181,10 @@
           href="ServingRelationship_22098c8f-b065-420d-b0c5-42db58b02039.xml#22098c8f-b065-420d-b0c5-42db58b02039"/>
     </sourceConnections>
     <bounds
-        x="516"
+        x="480"
         y="384"
-        width="120"
-        height="55"/>
+        width="156"
+        height="61"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
         href="BusinessService_4f1904d5-7a6b-4f57-9f76-63e820775242.xml#4f1904d5-7a6b-4f57-9f76-63e820775242"/>

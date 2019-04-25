@@ -1,6 +1,6 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Representasjons-tjeneste"
+    name="Tjeneste for informasjon om representasjonsforhold"
     id="4f1904d5-7a6b-4f57-9f76-63e820775242">
   <properties
       key="difi:namespace"
