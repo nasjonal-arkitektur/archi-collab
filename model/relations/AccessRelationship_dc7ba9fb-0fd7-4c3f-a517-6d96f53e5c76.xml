@@ -1,7 +1,8 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="dc7ba9fb-0fd7-4c3f-a517-6d96f53e5c76">
+    id="dc7ba9fb-0fd7-4c3f-a517-6d96f53e5c76"
+    accessType="1">
   <properties
       key="difi:namespace"
       value="-"/>

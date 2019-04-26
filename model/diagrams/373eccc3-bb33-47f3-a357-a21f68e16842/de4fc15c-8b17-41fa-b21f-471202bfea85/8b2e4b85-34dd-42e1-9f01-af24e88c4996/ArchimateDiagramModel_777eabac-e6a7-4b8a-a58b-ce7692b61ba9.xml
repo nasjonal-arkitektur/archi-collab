@@ -8,6 +8,7 @@
       xsi:type="archimate:DiagramModelGroup"
       id="c132decb-7e5e-4693-a00d-2426f036bbfd"
       name="Gi tilbakemelding på data"
+      textAlignment="1"
       documentation="Deling av data med formål om å gi tilbakemelding på f.eks. kvalitet. Tilbakemeldinger vil være metadata relatert til bruk og ikke endringer i selve datasettet.">
     <bounds
         x="409"
@@ -54,6 +55,7 @@
       xsi:type="archimate:DiagramModelGroup"
       id="8b371156-58a9-4b13-ad1a-64128e4bacb2"
       name="Hendelsesdrevet deling av data"
+      textAlignment="1"
       documentation="Deling av data initiert av en tilstandsendring i dataene som deles. Databruker leser eller abonnerer på hendelseslister og dette trigger eventuell videre oppfølging. Databruker må vurderer om endringen skal følges opp og lese data på forespørsel.">
     <bounds
         x="408"
@@ -100,6 +102,7 @@
       xsi:type="archimate:DiagramModelGroup"
       id="87fd2ead-c2c3-4cc6-a7b3-a5ee0590de6c"
       name="Oppdatere data"
+      textAlignment="1"
       documentation="Deling av data med formål om å oppdatere autoritativ datakilde fra en aktør som ikke er eier eller forvalter av dataene. Oppdatere data kan være å opprette (legge til nye data), endre eksisterende data, eller å slette data.">
     <bounds
         x="408"
@@ -190,6 +193,7 @@
       xsi:type="archimate:DiagramModelGroup"
       id="e6863627-1df1-4464-8e67-aa4a4e0d904e"
       name="Deling av data med melding"
+      textAlignment="1"
       documentation="Deling av data initiert av avsender. Det vil normalt være behov og/eller forventning om oppfølging fra avsender. Avsender må ha visshet om at mottaker kan motta og behandle meldingen/informasjonen som sendes.">
     <bounds
         x="410"
@@ -236,6 +240,7 @@
       xsi:type="archimate:DiagramModelGroup"
       id="e762783e-c477-42b4-81fd-b182fb0faa3d"
       name="Deling av data på forespørsel"
+      textAlignment="1"
       documentation="Deling av data initiert av databruker. Dette kan være å lese åpne publiserte data eller spørre om data gjennom en tjeneste/API. ">
     <bounds
         x="408"
@@ -484,7 +489,8 @@
       xsi:type="archimate:DiagramModelGroup"
       id="dedd7174-74c4-4e27-bc3c-21b0a202e30b"
       name="Funksjoner tilknyttet tillit"
-      targetConnections="31608c48-e540-42ad-8a8a-dd71bbaa76be">
+      targetConnections="31608c48-e540-42ad-8a8a-dd71bbaa76be"
+      textAlignment="1">
     <bounds
         x="1020"
         y="36"

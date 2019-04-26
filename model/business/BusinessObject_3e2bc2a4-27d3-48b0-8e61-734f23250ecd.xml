@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="orgnr. databruker"
+    name="Tilgangsspesifikasjoner konsument"
     id="3e2bc2a4-27d3-48b0-8e61-734f23250ecd">
   <properties
       key="difi:namespace"

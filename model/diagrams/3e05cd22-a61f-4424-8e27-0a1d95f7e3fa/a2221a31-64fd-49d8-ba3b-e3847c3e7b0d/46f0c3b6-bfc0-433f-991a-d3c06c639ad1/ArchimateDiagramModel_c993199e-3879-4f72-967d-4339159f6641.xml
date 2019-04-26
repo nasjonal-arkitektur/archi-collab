@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tilby data som en tjeneste"
+    name="Avgi forespurte data"
     id="c993199e-3879-4f72-967d-4339159f6641">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -25,7 +25,7 @@
           href="AssociationRelationship_b2cf4599-631a-4ea2-b105-40eddb92140b.xml#b2cf4599-631a-4ea2-b105-40eddb92140b"/>
     </sourceConnections>
     <bounds
-        x="648"
+        x="487"
         y="168"
         width="120"
         height="55"/>
@@ -46,9 +46,9 @@
           href="ServingRelationship_02fdbadb-08aa-4207-a3d7-510bac8bfed9.xml#02fdbadb-08aa-4207-a3d7-510bac8bfed9"/>
     </sourceConnections>
     <bounds
-        x="487"
+        x="478"
         y="432"
-        width="120"
+        width="138"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -68,7 +68,7 @@
           href="ServingRelationship_17df711c-0eae-4677-a9e3-d31a1a86c036.xml#17df711c-0eae-4677-a9e3-d31a1a86c036"/>
     </sourceConnections>
     <bounds
-        x="468"
+        x="648"
         y="168"
         width="120"
         height="55"/>
