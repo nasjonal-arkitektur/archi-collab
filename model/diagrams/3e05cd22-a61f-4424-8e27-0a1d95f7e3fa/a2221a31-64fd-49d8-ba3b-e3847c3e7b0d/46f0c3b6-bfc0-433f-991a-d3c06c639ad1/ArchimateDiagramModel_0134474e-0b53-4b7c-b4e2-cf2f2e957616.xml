@@ -264,28 +264,6 @@
         xsi:type="archimate:Capability"
         href="Capability_b2629945-0e02-4008-8db4-d6cc7f8d34a3.xml#b2629945-0e02-4008-8db4-d6cc7f8d34a3"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="f33551b9-048b-41bd-b361-5b92aa197bd4"
-      textAlignment="1"
-      content="Har tatt bort prosessen &quot;opprette tilbyder hos leverandør av tokentjeneste&quot;&#xD;&#xA;">
-    <bounds
-        x="864"
-        y="216"
-        width="185"
-        height="80"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="065e8389-5961-4535-952b-cabb8e77af57"
-      textAlignment="1"
-      content="Legge inngå avtale inn i kapabiliteten">
-    <bounds
-        x="1092"
-        y="216"
-        width="185"
-        height="80"/>
-  </children>
   <properties
       key="difi:current_language"
       value="no"/>
