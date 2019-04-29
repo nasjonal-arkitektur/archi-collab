@@ -144,7 +144,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="75046221-7cbf-4e6c-a83f-f888033092e0"
-        targetConnections="32a92bb1-ae86-426a-8f47-ede72b03baba 41c7bdbb-dcaa-4cf6-8443-9b1b27c81425 55ab1609-7323-42ea-935d-25be8792cc26">
+        targetConnections="32a92bb1-ae86-426a-8f47-ede72b03baba 55ab1609-7323-42ea-935d-25be8792cc26">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="5df9c69e-70b9-4de8-a457-54991824b44e"
@@ -219,21 +219,6 @@
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_fa1cd10f-51f3-464d-a145-3680ea912fec.xml#fa1cd10f-51f3-464d-a145-3680ea912fec"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="2ca504ad-1c4e-4be5-bd9c-0c4dbde169cd"
-      textAlignment="1"
-      content="Burde vi heller kalt denne bare &quot;registrere klient&quot;?&#xD;&#xA;Eventuelt &quot;registrere klient hos tillitsforvalter&quot;&#xD;&#xA;">
-    <sourceConnections
-        id="41c7bdbb-dcaa-4cf6-8443-9b1b27c81425"
-        source="2ca504ad-1c4e-4be5-bd9c-0c4dbde169cd"
-        target="75046221-7cbf-4e6c-a83f-f888033092e0"/>
-    <bounds
-        x="732"
-        y="528"
-        width="185"
-        height="80"/>
   </children>
   <properties
       key="difi:current_language"

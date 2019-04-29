@@ -155,7 +155,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="8bad9f44-283f-41cf-958e-26922ce4fe2a"
-      targetConnections="6d85b283-6302-43bb-b839-f9b7df25d786 f55957b9-ccdf-49eb-91b8-52ff4890d8f0 c5acd601-7754-4c3d-8cfa-1723702937a8 65743fa8-2ea1-4cab-8e08-0fadf537ce3f">
+      targetConnections="6d85b283-6302-43bb-b839-f9b7df25d786 f55957b9-ccdf-49eb-91b8-52ff4890d8f0 c5acd601-7754-4c3d-8cfa-1723702937a8">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="dbf3b413-1803-4818-8ebc-ab88aac6f69f"
@@ -208,7 +208,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="308f68b2-a13e-4272-9c56-b7de9b4a6a68"
-      targetConnections="77260a1a-5e95-4782-b971-a0e5c1a024a3 53c965ca-d13e-42f6-9929-68c077e8d086">
+      targetConnections="77260a1a-5e95-4782-b971-a0e5c1a024a3">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="562e9174-f5fa-4f8d-8804-63bd937c0ff4"
@@ -468,36 +468,6 @@
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_90106e3a-d9f4-4817-ab38-473efc7f1aac.xml#90106e3a-d9f4-4817-ab38-473efc7f1aac"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="9f8ca9a8-81e0-4f54-903e-6986e7540b47"
-      textAlignment="1"
-      content="Se om vi kan legge inn forretningsobjektene og koble dem til dataobjektene">
-    <bounds
-        x="1008"
-        y="261"
-        width="185"
-        height="80"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="4fa58c97-c12c-43b2-b70c-3d609635cc3a"
-      textAlignment="1"
-      content="se på navngivning, se også &quot;få tilgang til API&quot;&#xD;&#xA;Snakke med Jørgen&#xD;&#xA;">
-    <sourceConnections
-        id="53c965ca-d13e-42f6-9929-68c077e8d086"
-        source="4fa58c97-c12c-43b2-b70c-3d609635cc3a"
-        target="308f68b2-a13e-4272-9c56-b7de9b4a6a68"/>
-    <sourceConnections
-        id="65743fa8-2ea1-4cab-8e08-0fadf537ce3f"
-        source="4fa58c97-c12c-43b2-b70c-3d609635cc3a"
-        target="8bad9f44-283f-41cf-958e-26922ce4fe2a"/>
-    <bounds
-        x="540"
-        y="720"
-        width="185"
-        height="80"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
