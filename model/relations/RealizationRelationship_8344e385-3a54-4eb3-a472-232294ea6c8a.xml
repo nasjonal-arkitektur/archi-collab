@@ -1,6 +1,7 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realiserer"
     id="8344e385-3a54-4eb3-a472-232294ea6c8a">
   <source
       xsi:type="archimate:ApplicationComponent"

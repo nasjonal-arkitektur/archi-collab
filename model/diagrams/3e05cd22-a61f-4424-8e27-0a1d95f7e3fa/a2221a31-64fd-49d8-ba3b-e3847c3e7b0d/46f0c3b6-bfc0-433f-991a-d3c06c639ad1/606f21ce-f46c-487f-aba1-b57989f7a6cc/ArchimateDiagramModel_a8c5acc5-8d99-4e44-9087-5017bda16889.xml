@@ -82,7 +82,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b8dc82b0-11c9-49f2-aa75-6c28afffcbfc"
-      targetConnections="4e9b8722-695d-464b-8c0d-02b4d3dbd43c 79c30d35-199a-4d92-831b-619a9f6ad039">
+      targetConnections="4e9b8722-695d-464b-8c0d-02b4d3dbd43c">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="60503a2d-5c2d-460f-b6b9-54498dfa7c91"
@@ -338,24 +338,9 @@
         href="ApplicationService_12ccf292-4222-4651-b89a-50e581a50822.xml#12ccf292-4222-4651-b89a-50e581a50822"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="ddc7d2e3-75ff-4b2d-9b67-0b35e8331243"
-      textAlignment="1"
-      content="Blir det riktig å ha med denne, eller er det mer lesbart uten og dermed bare applikasjonstjenester? &#xD;&#xA;&#xD;&#xA;Den er med i ABB-laget&#xD;&#xA;">
-    <sourceConnections
-        id="931b2696-57a4-4d8d-a161-ee361d9ae2ee"
-        source="ddc7d2e3-75ff-4b2d-9b67-0b35e8331243"
-        target="4c2eabf9-8ffb-4dea-913f-685bc690962d"/>
-    <bounds
-        x="792"
-        y="444"
-        width="205"
-        height="97"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="4c2eabf9-8ffb-4dea-913f-685bc690962d"
-      targetConnections="8060e2ba-9101-44cf-b469-9d52b0fd9adb 931b2696-57a4-4d8d-a161-ee361d9ae2ee">
+      targetConnections="8060e2ba-9101-44cf-b469-9d52b0fd9adb">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="fdbb0f84-7930-46de-8156-6109f74c4dfc"
@@ -373,32 +358,6 @@
     <archimateElement
         xsi:type="archimate:BusinessService"
         href="BusinessService_4f1904d5-7a6b-4f57-9f76-63e820775242.xml#4f1904d5-7a6b-4f57-9f76-63e820775242"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="bdf41b8e-723f-4435-a23a-15384b4918eb"
-      textAlignment="1"
-      content="Innspill fra sist møte på å få denne figuren mer forstålig. Usikker på om jeg har lykkes med det.&#xD;&#xA;&#xD;&#xA;Endringene er at applikasjonstjenestene &quot;virksomhetsautentisering&quot; og &quot; grov tilgangsstyring&quot; er slått sammen til OAUTH Token-tjeneste.">
-    <bounds
-        x="780"
-        y="96"
-        width="185"
-        height="199"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="a929f8ed-9976-4fac-a3e5-9ae3fbb3bbc5"
-      textAlignment="1"
-      content="Er det riktig at API-katalogen leverer denne tjenesten? Er det noen som gjør det i så fall?&#xD;&#xA;">
-    <sourceConnections
-        id="79c30d35-199a-4d92-831b-619a9f6ad039"
-        source="a929f8ed-9976-4fac-a3e5-9ae3fbb3bbc5"
-        target="b8dc82b0-11c9-49f2-aa75-6c28afffcbfc"/>
-    <bounds
-        x="-72"
-        y="473"
-        width="185"
-        height="80"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
