@@ -1,12 +1,11 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="tjener"
-    id="d894dfb0-6ecd-4a55-9289-041b46e15afa">
+    id="6993e1b2-c976-4a25-bf32-64d4c9d4677e">
   <source
       xsi:type="archimate:ApplicationService"
-      href="ApplicationService_d6c7667f-18b9-463e-adfb-2baf9b5cb94b.xml#d6c7667f-18b9-463e-adfb-2baf9b5cb94b"/>
+      href="ApplicationService_ea39c4eb-b939-4075-bbe4-c525d4b54d61.xml#ea39c4eb-b939-4075-bbe4-c525d4b54d61"/>
   <target
       xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_e13e1fcc-f913-4614-afe7-97e9f1c0d8da.xml#e13e1fcc-f913-4614-afe7-97e9f1c0d8da"/>
+      href="BusinessProcess_0530089e-834b-4d95-9ec5-9cd4babb43fb.xml#0530089e-834b-4d95-9ec5-9cd4babb43fb"/>
 </archimate:ServingRelationship>
