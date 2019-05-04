@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="forvalter"
+    id="56175fff-d6bd-4ab9-95ff-34d084c4de2c">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_00b4aac5-5a4c-4b85-8b60-31558c66bce1.xml#00b4aac5-5a4c-4b85-8b60-31558c66bce1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_3ff4ba14-412e-4ed7-ae21-9ddac955b49f.xml#3ff4ba14-412e-4ed7-ae21-9ddac955b49f"/>
+</archimate:AssociationRelationship>
