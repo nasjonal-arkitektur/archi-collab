@@ -1,7 +1,7 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="inneholder"
+    name="kan inneholde"
     id="d9542c0b-bc64-47a4-85d9-59cf8ecd93bb">
   <properties
       key="difi:namespace"

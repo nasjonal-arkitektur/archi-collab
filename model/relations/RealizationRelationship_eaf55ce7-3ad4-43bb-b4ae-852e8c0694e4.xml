@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="drifter og forvalter"
+    id="eaf55ce7-3ad4-43bb-b4ae-852e8c0694e4">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_c41fdf00-e8dd-48ca-ab02-13e849fd5e67.xml#c41fdf00-e8dd-48ca-ab02-13e849fd5e67"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_a4daa9b5-1a20-40b9-be9e-41e835e4edcc.xml#a4daa9b5-1a20-40b9-be9e-41e835e4edcc"/>
+</archimate:RealizationRelationship>

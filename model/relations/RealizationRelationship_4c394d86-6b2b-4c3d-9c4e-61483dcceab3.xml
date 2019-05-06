@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="leverer"
+    id="4c394d86-6b2b-4c3d-9c4e-61483dcceab3">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_c012f55c-39e2-4082-a6ab-7c25aca9a396.xml#c012f55c-39e2-4082-a6ab-7c25aca9a396"/>
+  <target
+      xsi:type="archimate:Resource"
+      href="Resource_db58c753-0513-487d-920b-ec62dc4f9a24.xml#db58c753-0513-487d-920b-ec62dc4f9a24"/>
+</archimate:RealizationRelationship>

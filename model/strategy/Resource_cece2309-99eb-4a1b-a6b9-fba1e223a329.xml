@@ -1,0 +1,20 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eOppslag referansearkitektur"
+    id="cece2309-99eb-4a1b-a6b9-fba1e223a329">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="eOppslag referansearkitektur"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+</archimate:Resource>

@@ -1,0 +1,20 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eNotifikasjon referansearkitektur"
+    id="3732d5ca-862d-4692-9c0c-13c6bad8efb3">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="eNotifikasjon referansearkitektur"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+</archimate:Resource>

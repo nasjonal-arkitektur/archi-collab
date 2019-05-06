@@ -1,0 +1,20 @@
+<archimate:Resource
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identitetsforvaltning og tilgangsstyring referansearkitektur"
+    id="78f6f255-3f37-44e5-89c8-73bebf7dd14f">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"
+      value="Brukerstyring (identitetsforvaltning) referansearkitektur"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="archi:resource"/>
+</archimate:Resource>

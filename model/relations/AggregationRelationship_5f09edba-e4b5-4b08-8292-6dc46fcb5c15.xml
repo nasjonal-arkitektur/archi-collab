@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="omfatter"
+    id="5f09edba-e4b5-4b08-8292-6dc46fcb5c15">
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_db58c753-0513-487d-920b-ec62dc4f9a24.xml#db58c753-0513-487d-920b-ec62dc4f9a24"/>
+  <target
+      xsi:type="archimate:Resource"
+      href="Resource_0c00a91c-63be-4d56-9707-5a54992a3141.xml#0c00a91c-63be-4d56-9707-5a54992a3141"/>
+</archimate:AggregationRelationship>

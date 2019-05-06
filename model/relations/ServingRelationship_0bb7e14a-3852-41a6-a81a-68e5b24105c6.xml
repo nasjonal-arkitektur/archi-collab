@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="kjører"
+    id="0bb7e14a-3852-41a6-a81a-68e5b24105c6">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_18bfb8ce-d560-4272-83ed-8b6c72e4952f.xml#18bfb8ce-d560-4272-83ed-8b6c72e4952f"/>
+  <target
+      xsi:type="archimate:TechnologyProcess"
+      href="TechnologyProcess_6c1ff82b-2dbe-442e-a2ca-0131833c06d2.xml#6c1ff82b-2dbe-442e-a2ca-0131833c06d2"/>
+</archimate:ServingRelationship>

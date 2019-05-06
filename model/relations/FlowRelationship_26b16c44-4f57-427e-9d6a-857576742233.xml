@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="går (delvis) over i"
+    id="26b16c44-4f57-427e-9d6a-857576742233">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_0cf95484-1201-4b87-8f66-a7f8df82e685.xml#0cf95484-1201-4b87-8f66-a7f8df82e685"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_c03cf1ae-8960-4f53-b75d-7c2c39bbb0fc.xml#c03cf1ae-8960-4f53-b75d-7c2c39bbb0fc"/>
+</archimate:FlowRelationship>
