@@ -287,7 +287,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="4f748852-451e-403d-9f3a-abab6483dc47"
       targetConnections="8d6bf136-59c8-4b67-8d6e-ed251a2059ee"
-      textPosition="1">
+      textPosition="1"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="29d7fb0a-a4d8-4091-b1d3-72498cd93d07"

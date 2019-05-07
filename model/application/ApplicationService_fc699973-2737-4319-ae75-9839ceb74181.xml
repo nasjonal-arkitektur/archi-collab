@@ -1,6 +1,6 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Registrere Open API specification¨"
+    name="Registrere API i API-katalogen"
     id="fc699973-2737-4319-ae75-9839ceb74181">
   <properties
       key="difi:namespace"
