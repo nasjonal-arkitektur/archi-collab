@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Etablere API i maskinporten"
+    name="Tilgjengeliggjøre API"
     id="0134474e-0b53-4b7c-b4e2-cf2f2e957616">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -43,7 +43,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="09980918-bfd2-4bf3-a1ca-affef610ebd9"
-      targetConnections="fad7de53-3ae4-48c6-8043-b2f4cf15ec2c cb8d9f71-9914-4f97-aa8e-9f6c45fe2a29"
+      targetConnections="cb8d9f71-9914-4f97-aa8e-9f6c45fe2a29"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -210,15 +210,6 @@
         id="7189513f-1e4e-4521-820c-3ce8b6a9d2fc"
         targetConnections="318be75e-8eb8-445f-bdaa-86beef341d92"
         textPosition="1">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="fad7de53-3ae4-48c6-8043-b2f4cf15ec2c"
-          source="7189513f-1e4e-4521-820c-3ce8b6a9d2fc"
-          target="09980918-bfd2-4bf3-a1ca-affef610ebd9">
-        <archimateRelationship
-            xsi:type="archimate:AccessRelationship"
-            href="AccessRelationship_f55c901d-4dd5-4f30-b086-812ac2def3e4.xml#f55c901d-4dd5-4f30-b086-812ac2def3e4"/>
-      </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="7cc24902-aed1-4301-9c01-77e60d8cfc32"

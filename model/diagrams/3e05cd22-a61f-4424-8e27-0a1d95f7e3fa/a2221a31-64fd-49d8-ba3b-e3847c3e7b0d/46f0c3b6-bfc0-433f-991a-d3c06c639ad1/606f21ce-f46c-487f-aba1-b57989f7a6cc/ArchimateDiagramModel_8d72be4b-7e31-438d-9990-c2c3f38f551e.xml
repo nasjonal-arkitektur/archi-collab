@@ -342,18 +342,6 @@
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_143eec21-4a9f-48d9-ae4b-5f6d74e151f0.xml#143eec21-4a9f-48d9-ae4b-5f6d74e151f0"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="f8f43fe3-2853-4787-9a02-813b2ac161a9">
-    <bounds
-        x="828"
-        y="552"
-        width="133"
-        height="70"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_143eec21-4a9f-48d9-ae4b-5f6d74e151f0.xml#143eec21-4a9f-48d9-ae4b-5f6d74e151f0"/>
-  </children>
   <properties
       key="difi:current_language"
       value="no"/>
