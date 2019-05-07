@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Felles API-katalog"
-    id="143eec21-4a9f-48d9-ae4b-5f6d74e151f0">
+    id="143eec21-4a9f-48d9-ae4b-5f6d74e151f0"
+    documentation="Del av Felles datakatalog som gir mulighet for å søke etter API-er og lese API-spesifikasjoner https://fellesdatakatalog.brreg.no/apis">
   <properties
       key="difi:namespace"
       value="-"/>

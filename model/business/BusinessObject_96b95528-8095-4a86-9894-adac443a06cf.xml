@@ -1,7 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Egenskaper ved sikkerhetsbillett for tilgang til API"
-    id="96b95528-8095-4a86-9894-adac443a06cf">
+    id="96b95528-8095-4a86-9894-adac443a06cf"
+    documentation="Egenskaper ved sikkerhetsbillett, f.eks. granulariteten på tilganger.">
   <properties
       key="difi:namespace"
       value="-"/>

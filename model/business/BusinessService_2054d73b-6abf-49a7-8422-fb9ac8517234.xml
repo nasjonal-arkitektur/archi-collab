@@ -1,7 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Utstedelse av sikkerhetsbillett"
-    id="2054d73b-6abf-49a7-8422-fb9ac8517234">
+    id="2054d73b-6abf-49a7-8422-fb9ac8517234"
+    documentation="Tjeneste som utsteder sikkerhetsbilletter. Sikkerhetsbillett utstedes basert på tildelte rettigheter og eventuelle representasjonsforhold.">
   <properties
       key="difi:namespace"
       value="-"/>

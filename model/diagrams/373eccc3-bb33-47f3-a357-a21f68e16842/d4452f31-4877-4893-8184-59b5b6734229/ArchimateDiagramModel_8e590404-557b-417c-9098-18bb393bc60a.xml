@@ -6,7 +6,8 @@
     documentation="Oversikt over (virksomhetsinterne og felles) kataloger, og kopling til kapabiliteter (for å ha oversikter)">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="5bbcffe1-1390-4c9d-a5b5-f2bba4185bd3">
+      id="5bbcffe1-1390-4c9d-a5b5-f2bba4185bd3"
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="31ea6646-8eda-489c-99f9-5b5e8afeff42"
@@ -359,7 +360,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="936803c9-4105-421d-adf1-567bc03f0577">
+      id="936803c9-4105-421d-adf1-567bc03f0577"
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="6453f2e5-1355-4ac8-815c-3c3f92e69b3a"
@@ -670,7 +672,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="60312d1d-b1d3-4a15-a877-e17753ec4b2e">
+      id="60312d1d-b1d3-4a15-a877-e17753ec4b2e"
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="4483ea2e-1ecb-411b-839e-16ce066f4aa9"

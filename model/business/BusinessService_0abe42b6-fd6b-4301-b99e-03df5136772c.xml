@@ -1,7 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Adresse-tjeneste"
-    id="0abe42b6-fd6b-4301-b99e-03df5136772c">
+    name="Adressetjeneste"
+    id="0abe42b6-fd6b-4301-b99e-03df5136772c"
+    documentation="Tjeneste som gir mulighet til å slå opp teknisk endepunkt">
   <properties
       key="difi:namespace"
       value="-"/>

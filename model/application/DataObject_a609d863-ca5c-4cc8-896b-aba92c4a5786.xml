@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Token-egenskaper"
-    id="a609d863-ca5c-4cc8-896b-aba92c4a5786"/>
+    id="a609d863-ca5c-4cc8-896b-aba92c4a5786"
+    documentation="Egenskaper som f.eks. gyldighetstid ved tilgangstoken som er Maskinportens variant av sikkerhetsbillett."/>

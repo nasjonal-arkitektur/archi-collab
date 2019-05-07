@@ -1,7 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Validering av sikkerhetsbillett"
-    id="e192d6a2-e2d9-4d82-a305-6241ee241518">
+    id="e192d6a2-e2d9-4d82-a305-6241ee241518"
+    documentation="Tjeneste for å validere gyldigheten av sikkerhetsbilletten. Med en gyldig sikkerhetsbillett skal det ikke være nødvendig å validere grunnlaget eller innholdet i sikkerhetsbilletten.">
   <properties
       key="difi:namespace"
       value="-"/>

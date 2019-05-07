@@ -1,7 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Hent teknisk adresse"
-    id="0530089e-834b-4d95-9ec5-9cd4babb43fb">
+    id="0530089e-834b-4d95-9ec5-9cd4babb43fb"
+    documentation="Prosessen å slå opp den tekniske adressen til et API før spørring mot API-et. Gjøres kun dersom det er nødvendig.">
   <properties
       key="difi:namespace"
       value="-"/>

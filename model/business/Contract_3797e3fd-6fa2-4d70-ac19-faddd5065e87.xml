@@ -1,7 +1,8 @@
 <archimate:Contract
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bruksavtale"
-    id="3797e3fd-6fa2-4d70-ac19-faddd5065e87">
+    id="3797e3fd-6fa2-4d70-ac19-faddd5065e87"
+    documentation="Avtale om tilgang til og bruk av data. Dette kan for eksempel være en bilateralt utformet avtale, aksept av generelle bruksvilkår, eller lisens for bruk av åpne data.">
   <properties
       key="difi:namespace"
       value="-"/>

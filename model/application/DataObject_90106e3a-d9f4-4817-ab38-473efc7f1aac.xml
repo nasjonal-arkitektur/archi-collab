@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Open API Specification"
-    id="90106e3a-d9f4-4817-ab38-473efc7f1aac"/>
+    id="90106e3a-d9f4-4817-ab38-473efc7f1aac"
+    documentation="Maskinlesbar beskrivelse av REST API-er. Dette er formatet som benyttes for å registrere et API i felles API-katalog"/>

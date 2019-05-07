@@ -1,7 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Få tilgang til API"
-    id="fa1cd10f-51f3-464d-a145-3680ea912fec">
+    id="fa1cd10f-51f3-464d-a145-3680ea912fec"
+    documentation="Evnen til å skaffe seg tilgang til tilbudte data fra annen aktør. Kan omfatte å finne API-er, inngå nødvendige avtaler og få tilganger">
   <properties
       key="difi:namespace"
       value="na1"/>

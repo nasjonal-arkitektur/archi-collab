@@ -1,7 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="API-registrering"
-    id="9bb3888c-8cb8-4edc-bba7-18ac9e157d7f">
+    id="9bb3888c-8cb8-4edc-bba7-18ac9e157d7f"
+    documentation="Tjeneste for å registerer de API-ene man ønsker å tilby til konsumenter og egenskaper ved disse.">
   <properties
       key="difi:namespace"
       value="-"/>

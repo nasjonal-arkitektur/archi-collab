@@ -1,7 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Registrering av representasjonsforhold"
-    id="74e28024-323d-480f-bf9f-cef034c00896">
+    id="74e28024-323d-480f-bf9f-cef034c00896"
+    documentation="Tjeneste for å registerer representasjonsforhold. I dette tilfellet delegering av rettigheter til å benytte et API på vegne av konsument.">
   <properties
       key="difi:namespace"
       value="-"/>

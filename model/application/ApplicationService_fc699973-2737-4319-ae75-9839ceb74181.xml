@@ -1,7 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Registrere API i API-katalogen"
-    id="fc699973-2737-4319-ae75-9839ceb74181">
+    id="fc699973-2737-4319-ae75-9839ceb74181"
+    documentation="Tjeneste i Felles API-katalogen for å registrere API. Bruk av tjenesten forutsetter at rettigheter til å gjøre dette på vegne av tilbyders virksomhet.">
   <properties
       key="difi:namespace"
       value="-"/>

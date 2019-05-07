@@ -1,7 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="API-søk"
-    id="2a2f2857-487a-4a90-84cd-0e5a1763701f">
+    id="2a2f2857-487a-4a90-84cd-0e5a1763701f"
+    documentation="Tjeneste for å søke etter og finne tilgjengelige API-e">
   <properties
       key="difi:namespace"
       value="-"/>
