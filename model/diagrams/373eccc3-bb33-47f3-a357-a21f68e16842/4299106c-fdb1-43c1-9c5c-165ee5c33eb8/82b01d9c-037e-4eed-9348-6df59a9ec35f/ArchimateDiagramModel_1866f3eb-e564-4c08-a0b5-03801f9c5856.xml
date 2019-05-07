@@ -103,8 +103,8 @@
         id="64276763-92be-428c-82f2-80982ea60b0c"
         targetConnections="151380cc-85f0-4129-a9eb-393dc07f3606 1d9735d7-0adc-45fe-bb5e-f576eebb8894">
       <bounds
-          x="48"
-          y="131"
+          x="60"
+          y="156"
           width="130"
           height="60"/>
       <archimateElement
@@ -126,7 +126,7 @@
       </sourceConnections>
       <bounds
           x="48"
-          y="214"
+          y="239"
           width="130"
           height="60"/>
       <archimateElement
