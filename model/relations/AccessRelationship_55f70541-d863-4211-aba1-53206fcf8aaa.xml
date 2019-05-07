@@ -1,9 +1,9 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="input (leser)"
+    name="leser/skriver"
     id="55f70541-d863-4211-aba1-53206fcf8aaa"
-    accessType="1">
+    accessType="3">
   <properties
       key="difi:namespace"
       value="-"/>
