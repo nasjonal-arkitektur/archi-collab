@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Rolle som er tilknyttet kapabilitet"
+    name="Rolle som skal inneha kapabilitet"
     id="49b0b5a9-4f7d-4325-92e9-6eddf285ae09">
   <properties
       key="difi:namespace"

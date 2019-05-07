@@ -26,8 +26,8 @@
           href="AssociationRelationship_b2cf4599-631a-4ea2-b105-40eddb92140b.xml#b2cf4599-631a-4ea2-b105-40eddb92140b"/>
     </sourceConnections>
     <bounds
-        x="487"
-        y="168"
+        x="247"
+        y="48"
         width="133"
         height="70"/>
     <archimateElement
@@ -37,7 +37,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="76324acf-d9ee-4f3c-b6c8-cce5f9f90670"
-      textPosition="1">
+      textPosition="1"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="fe5197e3-5bee-49c9-920f-7579f8de93fe"
@@ -48,8 +49,8 @@
           href="ServingRelationship_02fdbadb-08aa-4207-a3d7-510bac8bfed9.xml#02fdbadb-08aa-4207-a3d7-510bac8bfed9"/>
     </sourceConnections>
     <bounds
-        x="478"
-        y="432"
+        x="238"
+        y="312"
         width="133"
         height="70"/>
     <archimateElement
@@ -60,7 +61,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="67492d93-3623-4294-af28-f4ae4e802e5b"
       targetConnections="452bed85-ba30-4d4d-a6c6-69090ea92335"
-      textPosition="1">
+      textPosition="1"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="f409a109-2b16-4d41-b9a6-ec72a9e3de1b"
@@ -71,8 +73,8 @@
           href="ServingRelationship_17df711c-0eae-4677-a9e3-d31a1a86c036.xml#17df711c-0eae-4677-a9e3-d31a1a86c036"/>
     </sourceConnections>
     <bounds
-        x="648"
-        y="168"
+        x="420"
+        y="48"
         width="133"
         height="70"/>
     <archimateElement
@@ -84,8 +86,8 @@
       id="9a7221aa-0726-4982-8b50-9b3c620af1fc"
       targetConnections="037a3fe9-23a7-4032-b72e-9d47c5fc3b18 89df82cf-2e2d-4b12-81a0-5eb6cdaccd8b 826ce25c-6644-4f37-9e61-14540d12271f 9de75ef0-a91f-4e69-9615-af87a365f1e9">
     <bounds
-        x="288"
-        y="264"
+        x="48"
+        y="144"
         width="529"
         height="133"/>
     <children
@@ -183,8 +185,8 @@
           href="AggregationRelationship_b7ef5c12-f6a4-429d-beae-0b6925b43c8e.xml#b7ef5c12-f6a4-429d-beae-0b6925b43c8e"/>
     </sourceConnections>
     <bounds
-        x="288"
-        y="168"
+        x="48"
+        y="48"
         width="133"
         height="70"/>
     <archimateElement

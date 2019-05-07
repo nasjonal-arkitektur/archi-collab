@@ -1,6 +1,6 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Selvbetjeningstjeneste for administrasjon av integrasjoner og APIer"
+    name="Selvbetjeningstjeneste for administrasjon av integrasjoner og API-er"
     id="7e04dd29-d1b6-420b-96cb-d26eaf784083"
     documentation="&quot;administrasjonssentre&quot; vil ha rettigheter til å registrere på vegne av andre f.eks. API-katalogen">
   <properties

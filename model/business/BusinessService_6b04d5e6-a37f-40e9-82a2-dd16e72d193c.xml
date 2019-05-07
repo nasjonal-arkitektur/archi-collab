@@ -1,20 +1,20 @@
-<archimate:ApplicationComponent
+<archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="API-katalogen"
-    id="38606b9d-5fdf-4dff-9839-5e1d03107b99">
+    name="Tjeneste som støtter prosess  (copy)"
+    id="6b04d5e6-a37f-40e9-82a2-dd16e72d193c">
   <properties
       key="difi:namespace"
       value="-"/>
   <properties
       key="difi:name_no"
-      value="API-katalogen"/>
-  <properties
-      key="difi:description_no"/>
+      value="Tjeneste som støtter prosess "/>
   <properties
       key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
   <properties
       key="difi:description_en"/>
   <properties
       key="dct:type"
-      value="application-component"/>
-</archimate:ApplicationComponent>
+      value="business-service"/>
+</archimate:BusinessService>

@@ -1,6 +1,6 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Tokenvaliderings-tjeneste"
+    name="Tokenvalideringstjeneste"
     id="6d908f89-0a8f-4ba1-aeb4-b3e9f27e75e6">
   <properties
       key="difi:namespace"
@@ -17,4 +17,7 @@
   <properties
       key="dct:type"
       value="application-service"/>
+  <properties
+      key="label"
+      value="Tokenvaliderings-tjeneste"/>
 </archimate:ApplicationService>

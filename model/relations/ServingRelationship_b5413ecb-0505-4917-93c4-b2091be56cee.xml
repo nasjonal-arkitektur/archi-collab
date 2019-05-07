@@ -1,0 +1,26 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="tjener"
+    id="b5413ecb-0505-4917-93c4-b2091be56cee">
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:name_no"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="dct:type"
+      value="serving-relationship"/>
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_6b04d5e6-a37f-40e9-82a2-dd16e72d193c.xml#6b04d5e6-a37f-40e9-82a2-dd16e72d193c"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_c6c435d3-30b3-4f32-bed6-c63ab148d04a.xml#c6c435d3-30b3-4f32-bed6-c63ab148d04a"/>
+</archimate:ServingRelationship>

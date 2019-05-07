@@ -100,27 +100,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="a0a81cae-00e3-473c-9e26-dce6e1057d9b">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="f5b436bc-e769-436c-a4bb-c7cb59834e42"
-        source="a0a81cae-00e3-473c-9e26-dce6e1057d9b"
-        target="38df0ebe-e513-498b-8076-6be7f7e60f63">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_ffc4926b-4829-4d3b-bb24-6a5ade509536.xml#ffc4926b-4829-4d3b-bb24-6a5ade509536"/>
-    </sourceConnections>
-    <bounds
-        x="101"
-        y="549"
-        width="133"
-        height="61"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_38606b9d-5fdf-4dff-9839-5e1d03107b99.xml#38606b9d-5fdf-4dff-9839-5e1d03107b99"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="59016c65-acc8-4ca6-9415-b72279cc58fd"
       targetConnections="a309946d-82cf-42b7-9007-00d3bbcb8fa0">
     <sourceConnections
@@ -283,8 +262,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="38df0ebe-e513-498b-8076-6be7f7e60f63"
-      targetConnections="f5b436bc-e769-436c-a4bb-c7cb59834e42">
+      id="38df0ebe-e513-498b-8076-6be7f7e60f63">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="e1fd8dc6-5d32-4497-943f-36f1e0157814"
@@ -302,6 +280,18 @@
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_e5f1a013-b7de-4d9d-8d6d-108bd6323663.xml#e5f1a013-b7de-4d9d-8d6d-108bd6323663"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="2512b026-883f-44d8-861b-cbb7f881697e">
+    <bounds
+        x="101"
+        y="549"
+        width="133"
+        height="61"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_143eec21-4a9f-48d9-ae4b-5f6d74e151f0.xml#143eec21-4a9f-48d9-ae4b-5f6d74e151f0"/>
   </children>
   <properties
       key="difi:current_language"

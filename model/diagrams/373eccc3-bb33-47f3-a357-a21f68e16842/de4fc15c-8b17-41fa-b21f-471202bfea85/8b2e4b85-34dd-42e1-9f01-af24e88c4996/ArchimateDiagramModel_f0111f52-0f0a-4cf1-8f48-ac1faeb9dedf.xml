@@ -320,18 +320,6 @@
         href="ApplicationComponent_f62ede33-8269-4ea4-ad18-813afceec80d.xml#f62ede33-8269-4ea4-ad18-813afceec80d"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="b609e65e-8cec-4e70-86ac-4623d35a0b09">
-    <bounds
-        x="-24"
-        y="372"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_38606b9d-5fdf-4dff-9839-5e1d03107b99.xml#38606b9d-5fdf-4dff-9839-5e1d03107b99"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelNote"
       id="7d970f47-840e-4380-bac4-424028644b90"
       textAlignment="1"
@@ -484,6 +472,18 @@
         y="559"
         width="185"
         height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="ad566c60-d2cb-4908-970d-8789c9e5d080">
+    <bounds
+        x="-24"
+        y="372"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_143eec21-4a9f-48d9-ae4b-5f6d74e151f0.xml#143eec21-4a9f-48d9-ae4b-5f6d74e151f0"/>
   </children>
   <properties
       key="difi:current_language"
