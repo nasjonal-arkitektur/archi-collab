@@ -60,7 +60,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="7c789334-00ea-4023-bc57-153efde1c302"
       targetConnections="5733b786-9214-4bc8-85c4-4a5910cf0323"
-      textPosition="1">
+      textPosition="1"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="22f037e2-0c0f-449e-a4de-38f0baafdab6"

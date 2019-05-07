@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Slå opp data app_lag SBB"
+    name="Slå opp data gjennom et API SBB"
     id="8d72be4b-7e31-438d-9990-c2c3f38f551e">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -287,7 +287,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="4f748852-451e-403d-9f3a-abab6483dc47"
       targetConnections="8d6bf136-59c8-4b67-8d6e-ed251a2059ee"
-      textPosition="1">
+      textPosition="1"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="29d7fb0a-a4d8-4091-b1d3-72498cd93d07"
