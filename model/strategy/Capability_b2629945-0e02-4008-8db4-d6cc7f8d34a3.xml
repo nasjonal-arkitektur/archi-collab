@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tilgjengeliggjøre data"
     id="b2629945-0e02-4008-8db4-d6cc7f8d34a3"
-    documentation="Evnen til å gjøre data tilgjengelig for aktører utenfor egen virksomhet.">
+    documentation="Evnen til å gjøre data tilgjengelig for konsumenter.">
   <properties
       key="difi:namespace"
       value="na1"/>

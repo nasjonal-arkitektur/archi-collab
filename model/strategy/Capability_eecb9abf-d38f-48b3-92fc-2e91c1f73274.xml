@@ -1,7 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tilgjengeliggjøre API"
-    id="eecb9abf-d38f-48b3-92fc-2e91c1f73274">
+    id="eecb9abf-d38f-48b3-92fc-2e91c1f73274"
+    documentation="Publisere informasjon om API i kataloger eller søkeløsninger, slik at det blir enkelt å finne fram til for aktuelle konsumenter. Videre inngå bruksavtaler og sette opp tilganger.">
   <properties
       key="difi:namespace"
       value="na1"/>

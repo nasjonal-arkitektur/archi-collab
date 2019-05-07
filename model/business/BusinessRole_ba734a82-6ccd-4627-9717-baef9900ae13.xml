@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Konsument (databruker)"
     id="ba734a82-6ccd-4627-9717-baef9900ae13"
-    documentation="Aktør som bruker data fra andre.">
+    documentation="Part som bruker informasjon fra en annen part.">
   <properties
       key="difi:namespace"
       value="henrik"/>
