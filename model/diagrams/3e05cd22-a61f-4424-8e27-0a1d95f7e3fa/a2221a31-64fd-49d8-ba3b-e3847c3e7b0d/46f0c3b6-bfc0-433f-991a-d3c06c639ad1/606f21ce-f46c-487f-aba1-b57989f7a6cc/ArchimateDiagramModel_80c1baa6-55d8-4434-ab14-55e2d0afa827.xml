@@ -287,7 +287,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="204c7f98-c950-4ad8-b709-ef3b62188fd3"
-        targetConnections="1bfd259b-2b70-43a9-a82b-713fa35e82ca 11d69b68-bb50-4049-ad1b-49662e09fad4"
+        targetConnections="1bfd259b-2b70-43a9-a82b-713fa35e82ca"
         textPosition="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -428,29 +428,6 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_d242a840-0fa2-4f8d-997c-2298194f1c4a.xml#d242a840-0fa2-4f8d-997c-2298194f1c4a"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="116646da-014d-4fc4-814f-dfc335ce3a0e"
-      fontColor="#ff0000"
-      textAlignment="1"
-      content="Erik: &quot;Inngå avtale om tilgang til data må endres sådeyt blir to ulike objekter for hhv. tilbyder og konsument!&#xD;&#xA;&#xD;&#xA;">
-    <sourceConnections
-        id="11d69b68-bb50-4049-ad1b-49662e09fad4"
-        source="116646da-014d-4fc4-814f-dfc335ce3a0e"
-        target="204c7f98-c950-4ad8-b709-ef3b62188fd3"
-        type="4">
-      <bendpoints
-          startX="-5"
-          startY="164"
-          endX="-90"
-          endY="-119"/>
-    </sourceConnections>
-    <bounds
-        x="309"
-        y="24"
-        width="185"
-        height="80"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

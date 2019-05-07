@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Forklaring av modelller"
+    name="Forklaring av modelller ABB"
     id="65254811-97bc-4c11-b5c2-2fda4c4dc3fe">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -65,7 +65,7 @@
           href="AccessRelationship_55f70541-d863-4211-aba1-53206fcf8aaa.xml#55f70541-d863-4211-aba1-53206fcf8aaa"/>
     </sourceConnections>
     <bounds
-        x="240"
+        x="264"
         y="324"
         width="133"
         height="70"/>
@@ -79,7 +79,7 @@
       targetConnections="3c0c1356-2127-4c40-abf1-53621ed60118"
       textPosition="1">
     <bounds
-        x="72"
+        x="36"
         y="324"
         width="133"
         height="70"/>

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Delegere tilgang til leverandør"
+    name="Delegere rettigheter til databehandler (leverandør) ABB"
     id="7ad70658-c174-4da3-95e1-b0628688bcc1">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
