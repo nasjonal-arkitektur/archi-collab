@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tokenutstedelse fra Maskinporten"
-    id="e50e426a-607a-404e-a575-4963f10d7254"/>
+    id="e50e426a-607a-404e-a575-4963f10d7254"
+    documentation="Tjeneste som utsteder et OAUTH2-token basert på autentisering med virksomhetssertifikat og tildelte rettigheter."/>

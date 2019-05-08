@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kontroller tilgang"
     id="6b298315-cf49-4dea-b154-79ae4a79fd7e"
-    documentation="Prosessen med å kontrollere om konsumenten har rettigheter til å få de forespurte data.">
+    documentation="Prosessen med å kontrollere om konsumenten har rettigheter til å få forespurte data.">
   <properties
       key="difi:namespace"
       value="-"/>

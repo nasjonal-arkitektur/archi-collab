@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tilganger konsument"
     id="fe0abe56-0a07-400f-86de-ea57a0f8079b"
-    documentation="Beskrivelse av de tilgangene, dvs. hvilke scopes en gitt konsument skal ha til et API."/>
+    documentation="Oversikt over hvilke API og OAUTH-scopes en virksomhet (representert ved organisasjonsnummer) skal ha tilgang til (utstedt token for)."/>

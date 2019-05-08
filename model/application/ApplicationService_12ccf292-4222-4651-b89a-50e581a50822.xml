@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Oppslag representasjons-forhold"
-    id="12ccf292-4222-4651-b89a-50e581a50822"/>
+    id="12ccf292-4222-4651-b89a-50e581a50822"
+    documentation="Tjeneste som benyttes av tokentjenesten for å kontrollere om det foreligger et delegert representasjonsforhold fra konsument til leverendør i autorisasjonstjenesten til Altinn."/>

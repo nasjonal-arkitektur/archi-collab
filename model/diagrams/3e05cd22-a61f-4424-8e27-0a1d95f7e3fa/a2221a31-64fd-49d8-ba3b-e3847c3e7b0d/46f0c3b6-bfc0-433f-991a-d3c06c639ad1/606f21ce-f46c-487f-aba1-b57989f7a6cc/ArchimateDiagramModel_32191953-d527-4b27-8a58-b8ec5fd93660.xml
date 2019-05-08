@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Få tilgang til API SBB"
-    id="32191953-d527-4b27-8a58-b8ec5fd93660">
+    id="32191953-d527-4b27-8a58-b8ec5fd93660"
+    documentation="Tjeneste for å registrere og vedlikeholde API-definisjoner og scopes i Maskinporten.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b7df69aa-3ca2-402e-850b-6a03cd337857"
