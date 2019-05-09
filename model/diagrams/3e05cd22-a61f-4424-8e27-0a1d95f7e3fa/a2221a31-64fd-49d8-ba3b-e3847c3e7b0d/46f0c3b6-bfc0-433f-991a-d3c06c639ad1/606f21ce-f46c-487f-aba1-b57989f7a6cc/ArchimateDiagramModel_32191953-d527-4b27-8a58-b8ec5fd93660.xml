@@ -18,27 +18,13 @@
           href="AssociationRelationship_ab360343-69c4-4003-a6e4-1e76182018da.xml#ab360343-69c4-4003-a6e4-1e76182018da"/>
     </sourceConnections>
     <bounds
-        x="132"
-        y="242"
+        x="84"
+        y="98"
         width="133"
         height="70"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_ba734a82-6ccd-4627-9717-baef9900ae13.xml#ba734a82-6ccd-4627-9717-baef9900ae13"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="673b622d-6bd1-474a-85c5-9063a436c583"
-      targetConnections="d3cc953f-e223-476d-9bb3-132b13aba47f 6bf1aaf9-0c9b-4131-9f61-d7053120440e"
-      textPosition="1">
-    <bounds
-        x="516"
-        y="372"
-        width="133"
-        height="70"/>
-    <archimateElement
-        xsi:type="archimate:Contract"
-        href="Contract_3797e3fd-6fa2-4d70-ac19-faddd5065e87.xml#3797e3fd-6fa2-4d70-ac19-faddd5065e87"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -54,8 +40,8 @@
           href="RealizationRelationship_b1d273cf-2eb4-4a25-b5fb-13fc48a0a83a.xml#b1d273cf-2eb4-4a25-b5fb-13fc48a0a83a"/>
     </sourceConnections>
     <bounds
-        x="684"
-        y="468"
+        x="648"
+        y="324"
         width="133"
         height="70"/>
     <archimateElement
@@ -78,8 +64,8 @@
           href="ServingRelationship_4ccf1511-3c19-4c82-abb5-61bc667da976.xml#4ccf1511-3c19-4c82-abb5-61bc667da976"/>
     </sourceConnections>
     <bounds
-        x="684"
-        y="372"
+        x="648"
+        y="228"
         width="133"
         height="70"/>
     <archimateElement
@@ -91,8 +77,8 @@
       id="661e30ed-c4ec-4f1e-a758-f69384585f7d"
       targetConnections="552ab3ce-7ab6-44b6-914a-e75ac3d3c207">
     <bounds
-        x="300"
-        y="216"
+        x="252"
+        y="72"
         width="553"
         height="121"/>
     <children
@@ -100,15 +86,6 @@
         id="95308157-96b9-4d67-b2b2-dff0928ebc35"
         targetConnections="5a4609ba-8120-4515-81f5-55c5a62d3b02 589089bb-1fa2-4303-81bd-616f9c03d65d"
         textPosition="1">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="d3cc953f-e223-476d-9bb3-132b13aba47f"
-          source="95308157-96b9-4d67-b2b2-dff0928ebc35"
-          target="673b622d-6bd1-474a-85c5-9063a436c583">
-        <archimateRelationship
-            xsi:type="archimate:AccessRelationship"
-            href="AccessRelationship_937b9bbf-22a1-4eda-9004-2419acb53f79.xml#937b9bbf-22a1-4eda-9004-2419acb53f79"/>
-      </sourceConnections>
       <bounds
           x="396"
           y="36"
@@ -155,15 +132,6 @@
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_957d4b48-4135-484e-aef3-c0e26150b85f.xml#957d4b48-4135-484e-aef3-c0e26150b85f"/>
       </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="6bf1aaf9-0c9b-4131-9f61-d7053120440e"
-          source="346cbc69-a01d-4c90-9c28-621c0a6579ca"
-          target="673b622d-6bd1-474a-85c5-9063a436c583">
-        <archimateRelationship
-            xsi:type="archimate:AccessRelationship"
-            href="AccessRelationship_f55c901d-4dd5-4f30-b086-812ac2def3e4.xml#f55c901d-4dd5-4f30-b086-812ac2def3e4"/>
-      </sourceConnections>
       <bounds
           x="216"
           y="36"
@@ -193,8 +161,8 @@
           href="ServingRelationship_c507b78d-ba94-4842-8e11-53a4fc8c5189.xml#c507b78d-ba94-4842-8e11-53a4fc8c5189"/>
     </sourceConnections>
     <bounds
-        x="324"
-        y="372"
+        x="276"
+        y="228"
         width="133"
         height="70"/>
     <archimateElement
@@ -215,8 +183,8 @@
           href="RealizationRelationship_b2014379-69f9-42f3-8eed-bd4f5810af5a.xml#b2014379-69f9-42f3-8eed-bd4f5810af5a"/>
     </sourceConnections>
     <bounds
-        x="324"
-        y="468"
+        x="276"
+        y="324"
         width="133"
         height="70"/>
     <archimateElement

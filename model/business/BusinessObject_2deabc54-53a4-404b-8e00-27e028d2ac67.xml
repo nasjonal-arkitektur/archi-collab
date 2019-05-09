@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Svar på forespørsel"
+    id="2deabc54-53a4-404b-8e00-27e028d2ac67"
+    documentation="Informasjonen som avgis til konsument som svar på en forespørsel."/>
