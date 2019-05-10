@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Forklaring av modeller SBB"
+    name="Forklaring av modeller, eOppslag løsningsmønstre"
     id="6a46c6d0-64eb-43d4-97f3-2a94516c2211">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -17,8 +17,8 @@
           href="AssociationRelationship_074b3f21-3642-4a66-84c5-690cb2fd2d32.xml#074b3f21-3642-4a66-84c5-690cb2fd2d32"/>
     </sourceConnections>
     <bounds
-        x="108"
-        y="218"
+        x="36"
+        y="62"
         width="133"
         height="70"/>
     <archimateElement
@@ -50,8 +50,8 @@
           href="AccessRelationship_24db9b00-ff3f-4774-9032-b56111a2056b.xml#24db9b00-ff3f-4774-9032-b56111a2056b"/>
     </sourceConnections>
     <bounds
-        x="396"
-        y="468"
+        x="324"
+        y="312"
         width="133"
         height="70"/>
     <archimateElement
@@ -85,8 +85,8 @@
           href="ServingRelationship_9c9e8ba9-9a59-4600-b91e-11fd13d6e8f7.xml#9c9e8ba9-9a59-4600-b91e-11fd13d6e8f7"/>
     </sourceConnections>
     <bounds
-        x="396"
-        y="347"
+        x="324"
+        y="191"
         width="133"
         height="70"/>
     <archimateElement
@@ -99,8 +99,8 @@
       targetConnections="27869ae3-7525-4329-baa4-cb3759480e1b cc74719b-18e5-4be5-a71e-4130b12c0ccc"
       textPosition="1">
     <bounds
-        x="168"
-        y="347"
+        x="96"
+        y="191"
         width="133"
         height="70"/>
     <archimateElement
@@ -112,8 +112,8 @@
       id="56c37b7f-a38d-4b47-b408-0c2c6de19123"
       targetConnections="7ed92fe5-015d-4658-8980-e899fb176c4d 16cd6bd0-1b30-41e1-9d38-ac0749b94c3b">
     <bounds
-        x="312"
-        y="192"
+        x="240"
+        y="36"
         width="289"
         height="121"/>
     <children

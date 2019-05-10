@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Avgi forespurte data SBB"
+    name="Avgi forespurte data gjennom API - løsningsmønster"
     id="5a43e372-cf45-491f-a5e9-514d83e1e259"
     documentation="Tjeneste som benyttes av tilbyder for å validere og kontrollere autentisiteten til et OAUTH2 token fra Maskinporten.">
   <children

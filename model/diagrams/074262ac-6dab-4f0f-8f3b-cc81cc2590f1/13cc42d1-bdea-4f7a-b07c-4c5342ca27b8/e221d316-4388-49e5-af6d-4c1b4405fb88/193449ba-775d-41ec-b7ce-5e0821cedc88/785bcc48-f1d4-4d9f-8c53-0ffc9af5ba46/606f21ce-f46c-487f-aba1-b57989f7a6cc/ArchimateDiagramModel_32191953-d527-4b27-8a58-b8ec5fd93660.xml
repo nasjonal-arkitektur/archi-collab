@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Få tilgang til API SBB"
+    name="Få tilgang til API - løsningsmønster"
     id="32191953-d527-4b27-8a58-b8ec5fd93660"
     documentation="Tjeneste for å registrere og vedlikeholde API-definisjoner og scopes i Maskinporten.">
   <children

@@ -37,7 +37,7 @@
     </sourceConnections>
     <bounds
         x="72"
-        y="34"
+        y="120"
         width="469"
         height="121"/>
     <children
@@ -103,7 +103,7 @@
     </sourceConnections>
     <bounds
         x="564"
-        y="34"
+        y="120"
         width="181"
         height="121"/>
     <children
@@ -132,7 +132,7 @@
       fillColor="#eeeeee">
     <bounds
         x="480"
-        y="192"
+        y="278"
         width="181"
         height="121"/>
     <archimateElement
@@ -146,7 +146,7 @@
       fillColor="#eeeeee">
     <bounds
         x="72"
-        y="192"
+        y="278"
         width="181"
         height="121"/>
     <archimateElement
@@ -160,7 +160,7 @@
       fillColor="#eeeeee">
     <bounds
         x="276"
-        y="192"
+        y="278"
         width="181"
         height="121"/>
     <archimateElement
@@ -183,7 +183,7 @@
     </sourceConnections>
     <bounds
         x="768"
-        y="34"
+        y="120"
         width="181"
         height="121"/>
     <children
@@ -204,6 +204,17 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_fd79c1c1-879a-46bc-9b16-6b74fbf5c0f7.xml#fd79c1c1-879a-46bc-9b16-6b74fbf5c0f7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="2536ecca-9976-4225-8eac-ba7d1daf906d"
+      textAlignment="1"
+      content="Det ">
+    <bounds
+        x="70"
+        y="24"
+        width="185"
+        height="80"/>
   </children>
   <properties
       key="difi:current_language"

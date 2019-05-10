@@ -19,4 +19,7 @@
   <properties
       key="dct:type"
       value="capability"/>
+  <properties
+      key="drill down"
+      value="c993199e-3879-4f72-967d-4339159f6641"/>
 </archimate:Capability>

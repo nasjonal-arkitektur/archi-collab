@@ -1,14 +1,13 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Slå opp data gjennom et API"
-    id="cad8530f-3ec1-403f-ba65-0d0dc808c123"
-    documentation="Evnen til å slå opp og hente data gjennom et API.">
+    name="Innhente data (copy)"
+    id="9f4a60da-a279-44b5-8577-bc765c74c1ac">
   <properties
       key="difi:namespace"
       value="na1"/>
   <properties
       key="difi:name_no"
-      value="Slå opp data gjennom et API"/>
+      value="Innhenting av data"/>
   <properties
       key="difi:description_no"/>
   <properties
@@ -17,8 +16,5 @@
       key="difi:description_en"/>
   <properties
       key="dct:type"
-      value="capability"/>
-  <properties
-      key="drill down"
-      value="4742dd13-f1fe-4e78-80a8-80929a62efb9"/>
+      value="archi:capability"/>
 </archimate:Capability>
