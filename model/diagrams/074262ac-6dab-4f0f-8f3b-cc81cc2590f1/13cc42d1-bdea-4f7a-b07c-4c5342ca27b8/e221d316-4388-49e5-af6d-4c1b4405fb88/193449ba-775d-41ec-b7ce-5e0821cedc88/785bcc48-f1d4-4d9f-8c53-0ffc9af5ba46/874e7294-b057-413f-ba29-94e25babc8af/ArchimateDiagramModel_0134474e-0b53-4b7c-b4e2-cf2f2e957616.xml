@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tilgjengeliggjøre API - arkitekturmønster"
-    id="0134474e-0b53-4b7c-b4e2-cf2f2e957616">
+    id="0134474e-0b53-4b7c-b4e2-cf2f2e957616"
+    documentation="* sad&#xD;&#xA;* asdsadsasadsad">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="63dd1b2d-c2e2-4ba0-83f7-3c986e513bae"
@@ -227,17 +228,17 @@
       id="fd9c1a09-0ade-4114-8c48-79f48c4eece6"
       textAlignment="1">
     <bounds
-        x="492"
-        y="444"
-        width="229"
-        height="140"/>
+        x="48"
+        y="456"
+        width="181"
+        height="109"/>
     <children
         xsi:type="archimate:DiagramModelReference"
         id="18bbe300-cff7-473b-8678-5b1c637321f1"
         textPosition="1">
       <bounds
-          x="24"
-          y="48"
+          x="12"
+          y="24"
           width="133"
           height="70"/>
       <referencedModel

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="støtter"
+    id="ed7cb106-1b2d-4f06-a1a6-94d828ad9014">
+  <source
+      xsi:type="archimate:Resource"
+      href="Resource_5fae669b-1790-4315-b5f6-66564e53c084.xml#5fae669b-1790-4315-b5f6-66564e53c084"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_0cf95484-1201-4b87-8f66-a7f8df82e685.xml#0cf95484-1201-4b87-8f66-a7f8df82e685"/>
+</archimate:ServingRelationship>

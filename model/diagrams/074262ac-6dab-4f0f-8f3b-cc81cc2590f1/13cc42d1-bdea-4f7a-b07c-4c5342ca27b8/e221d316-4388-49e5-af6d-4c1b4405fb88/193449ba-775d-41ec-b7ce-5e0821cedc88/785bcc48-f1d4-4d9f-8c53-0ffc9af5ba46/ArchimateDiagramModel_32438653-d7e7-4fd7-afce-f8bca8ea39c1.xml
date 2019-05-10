@@ -1,12 +1,16 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Inngangsport eOppslag"
+    name="Inngangsport - eOppslag"
     id="32438653-d7e7-4fd7-afce-f8bca8ea39c1">
   <children
       xsi:type="archimate:DiagramModelReference"
       id="119c5dd5-cf39-46b8-921a-db3fda4ab421"
       textPosition="1">
+    <sourceConnections
+        id="a442093f-bde1-4a10-a282-d2249b8bf0aa"
+        source="119c5dd5-cf39-46b8-921a-db3fda4ab421"
+        target="190bfde7-d77a-417e-ba8f-23ac66dee01c"/>
     <bounds
         x="828"
         y="156"
@@ -20,6 +24,10 @@
       xsi:type="archimate:DiagramModelReference"
       id="3bc45532-53b1-4d2d-8edf-da98ab1dd319"
       textPosition="1">
+    <sourceConnections
+        id="b1fe1b19-7456-467d-b229-ade23a33a7a0"
+        source="3bc45532-53b1-4d2d-8edf-da98ab1dd319"
+        target="29a339d4-9172-4b31-a731-072b98c1a574"/>
     <bounds
         x="828"
         y="300"
@@ -32,6 +40,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="190bfde7-d77a-417e-ba8f-23ac66dee01c"
+      targetConnections="a442093f-bde1-4a10-a282-d2249b8bf0aa"
       textAlignment="1">
     <bounds
         x="36"
@@ -110,6 +119,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="29a339d4-9172-4b31-a731-072b98c1a574"
+      targetConnections="b1fe1b19-7456-467d-b229-ade23a33a7a0"
       textAlignment="1">
     <bounds
         x="36"
