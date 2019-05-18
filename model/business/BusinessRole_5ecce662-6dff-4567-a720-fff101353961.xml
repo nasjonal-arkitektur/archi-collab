@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technical Data Steward"
+    id="5ecce662-6dff-4567-a720-fff101353961"
+    documentation="Technical Data Stewards are IT professionals operating within one of the Knowledge Areas, such as Data Integration Specialists, Database Administrators, Business Intelligence Specialists, Data Quality Analysts or Metadata Administrators.">
+  <properties
+      key="difi:namespace"
+      value="dama"/>
+</archimate:BusinessRole>

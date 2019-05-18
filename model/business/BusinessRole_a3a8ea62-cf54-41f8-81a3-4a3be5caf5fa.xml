@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Executive Data Steward"
+    id="a3a8ea62-cf54-41f8-81a3-4a3be5caf5fa"
+    documentation="Executive Data Stewards are senior managers who serve on a Data Governance Council.">
+  <properties
+      key="difi:namespace"
+      value="dama"/>
+</archimate:BusinessRole>

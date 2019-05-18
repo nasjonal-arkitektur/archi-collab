@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consent Collection"
+    id="eab9c44a-a261-41ef-8f3f-ebff2d3f0ef8">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:Capability>

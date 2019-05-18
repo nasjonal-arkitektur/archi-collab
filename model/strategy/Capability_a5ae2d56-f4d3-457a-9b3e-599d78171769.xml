@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evidence Extraction"
+    id="a5ae2d56-f4d3-457a-9b3e-599d78171769">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:Capability>

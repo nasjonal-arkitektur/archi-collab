@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Chief Data Steward"
+    id="0276b4e0-03f4-4d1d-ab49-cdbd62631cd3"
+    documentation="Chief Data Stewards may chair data governance bodies in lieu of the CDO or may act as a CDO in a virtual (committee-based) or distributed data governance organization. They may also be Executive Sponsors.">
+  <properties
+      key="difi:namespace"
+      value="dama"/>
+</archimate:BusinessRole>

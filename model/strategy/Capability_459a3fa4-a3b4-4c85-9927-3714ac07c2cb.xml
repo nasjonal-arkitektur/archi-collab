@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evidence Transmission"
+    id="459a3fa4-a3b4-4c85-9927-3714ac07c2cb">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:Capability>

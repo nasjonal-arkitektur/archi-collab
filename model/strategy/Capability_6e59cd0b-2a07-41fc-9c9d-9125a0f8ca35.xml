@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evidence Interpretation"
+    id="6e59cd0b-2a07-41fc-9c9d-9125a0f8ca35">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:Capability>

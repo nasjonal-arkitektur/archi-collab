@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="User Authorization"
+    id="6c604d7f-d1fe-4df8-98c6-a8cd683f3b6e">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:Capability>

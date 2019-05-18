@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Offering Publication"
+    id="3fe6d3c2-200b-405a-a448-77f3efd60da8">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:Capability>

@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Data Steward"
+    id="6ddeecf3-c8a3-4012-b0ce-216b61e2f26e"
+    documentation="Enterprise Data Stewards have oversight of a data domain across business functions.">
+  <properties
+      key="difi:namespace"
+      value="dama"/>
+</archimate:BusinessRole>

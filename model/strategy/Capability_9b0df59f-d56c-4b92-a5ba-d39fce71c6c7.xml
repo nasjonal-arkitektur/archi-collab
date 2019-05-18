@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evidence Identification"
+    id="9b0df59f-d56c-4b92-a5ba-d39fce71c6c7">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:Capability>

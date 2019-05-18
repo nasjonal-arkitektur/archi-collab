@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legal Control"
+    id="1faadec0-1e96-4a0a-b206-0a87cc6fa5e0">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:Capability>

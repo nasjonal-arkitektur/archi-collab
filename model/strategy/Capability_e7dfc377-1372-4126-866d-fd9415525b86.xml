@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evidence Provider Discovery"
+    id="e7dfc377-1372-4126-866d-fd9415525b86">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:Capability>

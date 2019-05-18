@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="User Approval "
+    id="a0026a12-17ba-45b4-9742-cd28c5505d55">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:Capability>

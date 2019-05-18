@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="User"
+    id="99594cc0-63e4-4d21-a184-e1ffbebab36f">
+  <properties
+      key="difi:namespace"
+      value="dama"/>
+</archimate:BusinessRole>

@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="User Management"
+    id="11431a82-e023-4fb3-ba79-4b92639d9b56">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:Capability>

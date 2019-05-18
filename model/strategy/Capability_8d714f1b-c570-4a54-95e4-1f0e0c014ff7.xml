@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Competent Authority Lookup"
+    id="8d714f1b-c570-4a54-95e4-1f0e0c014ff7">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:Capability>

@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Coordinating Data Steward"
+    id="8dcf9cef-af9c-4723-93c5-1ba02538158e"
+    documentation="Coordinating Data Stewards lead and represent teams of business and technical Data Stewards in discussions across teams and with executive Data Stewards. Coordinating Data Stewards are particularly important in large organizations.">
+  <properties
+      key="difi:namespace"
+      value="dama"/>
+</archimate:BusinessRole>

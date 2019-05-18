@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evidence Processing"
+    id="27e2e5df-7416-488d-8553-d0c859ff3b8d">
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+</archimate:Capability>

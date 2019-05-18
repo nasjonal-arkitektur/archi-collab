@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Implementer"
+    id="455797d6-cbad-48e0-a187-2c69d05a2d8a">
+  <properties
+      key="difi:namespace"
+      value="dama"/>
+</archimate:BusinessRole>
