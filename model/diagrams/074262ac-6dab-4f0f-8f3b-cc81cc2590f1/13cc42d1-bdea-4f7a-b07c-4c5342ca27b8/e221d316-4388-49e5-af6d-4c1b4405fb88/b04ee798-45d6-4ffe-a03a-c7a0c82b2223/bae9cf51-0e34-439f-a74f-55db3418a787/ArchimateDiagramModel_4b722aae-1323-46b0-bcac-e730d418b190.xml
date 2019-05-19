@@ -231,6 +231,16 @@
         href="Grouping_38647f0b-e29a-47cd-8f64-8d5d1ac9af7d.xml#38647f0b-e29a-47cd-8f64-8d5d1ac9af7d"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Kapabiliteter, datautveksling, forespørsel, detaljert"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Aktør som sender en melding"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

@@ -17,4 +17,10 @@
   <properties
       key="dct:type"
       value="archi:outcome"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
 </archimate:Outcome>

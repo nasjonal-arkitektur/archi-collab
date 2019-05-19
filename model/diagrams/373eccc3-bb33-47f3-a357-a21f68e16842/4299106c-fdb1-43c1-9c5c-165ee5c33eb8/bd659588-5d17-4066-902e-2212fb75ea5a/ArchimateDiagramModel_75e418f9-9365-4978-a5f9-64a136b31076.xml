@@ -1741,6 +1741,15 @@
         href="Capability_ad111325-001c-4782-934d-84606a5b5110.xml#ad111325-001c-4782-934d-84606a5b5110"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Eriks nye IF-kapabiliteter"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

@@ -18,6 +18,12 @@
   <properties
       key="dct:type"
       value="serving-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
   <source
       xsi:type="archimate:TechnologyService"
       href="TechnologyService_20549275-41a5-4c6d-bd90-a7ae26f19061.xml#20549275-41a5-4c6d-bd90-a7ae26f19061"/>

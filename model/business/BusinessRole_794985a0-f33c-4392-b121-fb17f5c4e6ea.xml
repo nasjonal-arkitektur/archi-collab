@@ -1,6 +1,6 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bruker"
+    name="User"
     id="794985a0-f33c-4392-b121-fb17f5c4e6ea">
   <properties
       key="difi:namespace"
@@ -20,7 +20,7 @@
       key="difi:description_en"/>
   <properties
       key="difi:language"
-      value="no"/>
+      value="en"/>
   <properties
       key="label"
       value="${name} [ns:${property:difi:namespace}] [lang:${property:difi:language}]"/>

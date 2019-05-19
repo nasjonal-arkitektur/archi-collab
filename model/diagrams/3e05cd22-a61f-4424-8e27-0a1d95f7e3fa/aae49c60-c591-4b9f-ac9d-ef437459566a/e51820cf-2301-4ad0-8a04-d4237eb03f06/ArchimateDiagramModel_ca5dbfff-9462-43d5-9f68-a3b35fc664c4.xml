@@ -398,6 +398,15 @@
         href="Grouping_f1637ed2-8d5a-44f2-b71a-2228f90f56d7.xml#f1637ed2-8d5a-44f2-b71a-2228f90f56d7"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Kvalitetsegenskaper - forenklet"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

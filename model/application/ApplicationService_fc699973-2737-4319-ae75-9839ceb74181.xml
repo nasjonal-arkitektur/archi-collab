@@ -1,6 +1,6 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Registrere API i API-katalogen"
+    name="Registrere Open API specification¨"
     id="fc699973-2737-4319-ae75-9839ceb74181"
     documentation="Tjeneste i Felles API-katalogen for å registrere API. Bruk av tjenesten forutsetter at rettigheter til å gjøre dette på vegne av tilbyders virksomhet.">
   <properties
@@ -10,12 +10,19 @@
       key="difi:name_no"
       value="Registrere Open API specification¨"/>
   <properties
-      key="difi:description_no"/>
+      key="difi:description_no"
+      value="Tjeneste i Felles API-katalogen for å registrere API. Bruk av tjenesten forutsetter at rettigheter til å gjøre dette på vegne av tilbyders virksomhet."/>
   <properties
       key="difi:name_en"/>
   <properties
       key="difi:description_en"/>
   <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
       key="dct:type"
-      value="application-service"/>
+      value="archi:application-service"/>
 </archimate:ApplicationService>

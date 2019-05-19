@@ -18,6 +18,12 @@
   <properties
       key="dct:type"
       value="archi:association-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
   <source
       xsi:type="archimate:Value"
       href="Value_3275b6ce-7f16-4287-9af1-2b687874b4b5.xml#3275b6ce-7f16-4287-9af1-2b687874b4b5"/>

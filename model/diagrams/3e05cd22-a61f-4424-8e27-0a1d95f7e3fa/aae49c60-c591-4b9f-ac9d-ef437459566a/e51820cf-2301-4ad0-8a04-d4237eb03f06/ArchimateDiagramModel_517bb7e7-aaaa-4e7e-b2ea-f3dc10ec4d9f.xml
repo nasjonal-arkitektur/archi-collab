@@ -785,6 +785,15 @@
         href="Constraint_90c976a7-3dcb-424d-898f-a7624630cd3e.xml#90c976a7-3dcb-424d-898f-a7624630cd3e"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Kvalitetsegenskaper - komplett"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

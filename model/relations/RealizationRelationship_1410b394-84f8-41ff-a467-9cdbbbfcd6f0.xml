@@ -18,6 +18,12 @@
   <properties
       key="dct:type"
       value="archi:realization-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
   <source
       xsi:type="archimate:Capability"
       href="Capability_de18d41c-54ce-4159-a820-be625189044f.xml#de18d41c-54ce-4159-a820-be625189044f"/>

@@ -212,6 +212,16 @@
         href="Grouping_a1033a4a-04df-49e5-9ad1-bf7d7248e62c.xml#a1033a4a-04df-49e5-9ad1-bf7d7248e62c"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Referansearkitektuer oppdatering"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Aktør som sender en melding"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

@@ -235,6 +235,15 @@
         href="Deliverable_1c78dd14-45fa-44c5-bbc3-32f501e638d9.xml#1c78dd14-45fa-44c5-bbc3-32f501e638d9"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="3.2 Mål og realisering"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

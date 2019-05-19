@@ -206,6 +206,15 @@
         href="BusinessActor_186d4e20-e21a-405e-ac95-40fd71dde86f.xml#186d4e20-e21a-405e-ac95-40fd71dde86f"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Eriks poenger"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

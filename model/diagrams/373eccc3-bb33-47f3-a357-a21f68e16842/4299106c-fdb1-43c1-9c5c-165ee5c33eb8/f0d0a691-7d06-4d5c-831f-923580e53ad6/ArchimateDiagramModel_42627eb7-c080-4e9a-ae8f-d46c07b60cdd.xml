@@ -163,8 +163,8 @@
           href="RealizationRelationship_a59c9509-5a9f-4551-94fb-3bc4e14bb0af.xml#a59c9509-5a9f-4551-94fb-3bc4e14bb0af"/>
     </sourceConnections>
     <bounds
-        x="245"
-        y="79"
+        x="379"
+        y="73"
         width="139"
         height="72"/>
     <archimateElement
@@ -540,8 +540,8 @@
       id="78ac3c7c-6c96-411a-820c-33183a0e9e53"
       targetConnections="d3ed4621-428b-4a59-9f15-3ae21c0c39f9">
     <bounds
-        x="601"
-        y="156"
+        x="605"
+        y="108"
         width="130"
         height="60"/>
     <archimateElement
@@ -729,6 +729,15 @@
         href="Capability_03177331-5c11-41f6-9be1-8490c620df06.xml#03177331-5c11-41f6-9be1-8490c620df06"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="EIRA 3.0 capabilities i arbeid (Erik) (copy)"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

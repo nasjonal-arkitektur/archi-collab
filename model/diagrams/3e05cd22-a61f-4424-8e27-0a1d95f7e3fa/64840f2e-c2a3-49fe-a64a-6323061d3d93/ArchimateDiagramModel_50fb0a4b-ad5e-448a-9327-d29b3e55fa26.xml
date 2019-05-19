@@ -235,4 +235,16 @@
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_a3a8ea62-cf54-41f8-81a3-4a3be5caf5fa.xml#a3a8ea62-cf54-41f8-81a3-4a3be5caf5fa"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Rollebegreper Data Management ref. DAMA"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

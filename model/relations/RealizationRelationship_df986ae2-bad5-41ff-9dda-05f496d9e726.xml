@@ -21,6 +21,9 @@
   <properties
       key="label"
       value="realiserer"/>
+  <properties
+      key="difi:language"
+      value="no"/>
   <source
       xsi:type="archimate:Grouping"
       href="Grouping_6f408638-df68-4c35-8f93-cdc78e617324.xml#6f408638-df68-4c35-8f93-cdc78e617324"/>

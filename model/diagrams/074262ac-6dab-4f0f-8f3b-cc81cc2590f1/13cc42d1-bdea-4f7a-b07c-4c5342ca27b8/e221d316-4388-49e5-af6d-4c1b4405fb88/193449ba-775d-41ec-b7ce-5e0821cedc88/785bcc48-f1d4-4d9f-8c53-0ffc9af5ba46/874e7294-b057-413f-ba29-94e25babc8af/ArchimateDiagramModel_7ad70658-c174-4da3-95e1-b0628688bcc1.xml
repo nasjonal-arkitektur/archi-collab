@@ -10,6 +10,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="687bfd41-f24a-4aad-bf27-f5928220ab7c"
+        textPosition="0"
         source="b109947a-2ec8-4fda-8b55-22022aeefc28"
         target="a57c8f07-c928-401b-a992-5e72c3c2b96b">
       <archimateRelationship
@@ -47,6 +48,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="c5030a4c-8790-4dbf-9d42-bd53806e28a9"
+        textPosition="0"
         source="b4b70180-42a0-4137-8dc6-40c243515b50"
         target="35eb8182-3371-4a28-8820-4a76f184662f">
       <archimateRelationship
@@ -78,6 +80,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="3731f924-3fe7-45f3-af41-622ac84ecdbc"
+          textPosition="0"
           source="efea3760-8b1e-4f6c-b15e-12a53690975a"
           target="35eb8182-3371-4a28-8820-4a76f184662f">
         <archimateRelationship
@@ -87,6 +90,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="52a4cabb-e8ae-47d4-8373-1c333f2c2ad2"
+          textPosition="0"
           source="efea3760-8b1e-4f6c-b15e-12a53690975a"
           target="1c46d8e4-7aac-48e1-a9d2-81bd4013de12">
         <archimateRelationship
@@ -121,6 +125,15 @@
         href="Capability_7348153c-efca-49c8-9618-d294acc73880.xml#7348153c-efca-49c8-9618-d294acc73880"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Delegere rettigheter til databehandler - arkitekturmønster"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

@@ -261,6 +261,15 @@
         href="BusinessRole_7e229487-8965-4525-b52b-1a8a06e502a2.xml#7e229487-8965-4525-b52b-1a8a06e502a2"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Rollebegreper, diverse input"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

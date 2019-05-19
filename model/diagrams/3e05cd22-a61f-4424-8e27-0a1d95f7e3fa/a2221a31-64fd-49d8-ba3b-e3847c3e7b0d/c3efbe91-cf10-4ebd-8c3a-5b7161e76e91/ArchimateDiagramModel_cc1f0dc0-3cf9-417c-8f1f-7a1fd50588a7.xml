@@ -56,6 +56,15 @@
         href="Grouping_d8719a9c-4ef2-46ac-945c-26a6220c8d16.xml#d8719a9c-4ef2-46ac-945c-26a6220c8d16"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="ABB-er i eMelding"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

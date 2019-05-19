@@ -1,6 +1,6 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Registrering av API-brukere"
+    name="Regisstrering av API-brukere"
     id="c43f2df1-ab1e-4b8a-8230-f96fe1375cfc">
   <properties
       key="difi:namespace"
@@ -15,6 +15,12 @@
   <properties
       key="difi:description_en"/>
   <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
       key="dct:type"
-      value="application-service"/>
+      value="archi:application-service"/>
 </archimate:ApplicationService>

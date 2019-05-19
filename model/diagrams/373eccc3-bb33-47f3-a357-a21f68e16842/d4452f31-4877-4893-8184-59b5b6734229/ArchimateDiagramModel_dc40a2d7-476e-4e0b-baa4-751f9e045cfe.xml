@@ -649,6 +649,16 @@
         href="BusinessObject_84fe3ce9-1dbe-425b-90f0-caa6166016a6.xml#84fe3ce9-1dbe-425b-90f0-caa6166016a6"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Standarder og spesifikasjoner for semantisk interoperabilitet - felles oversikter"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Standarder og spesifikasjoner som finnes eller som ikke ennå finnes men som trengs, for å kunne oppnå semantisk interoperabitet"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

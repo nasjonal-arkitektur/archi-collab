@@ -10,12 +10,19 @@
       key="difi:name_no"
       value="Kontroller tilgang"/>
   <properties
-      key="difi:description_no"/>
+      key="difi:description_no"
+      value="Kontroll og håndheving av konsumentens rettigheter til å få forespurte data.  I tillegg til &quot;validering av sikkerhetsbillet&quot;, kan det være behov for kontroll mot virksomhetsinterne policies."/>
   <properties
       key="difi:name_en"/>
   <properties
       key="difi:description_en"/>
   <properties
       key="dct:type"
-      value="business-process"/>
+      value="archi:business-process"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
 </archimate:BusinessProcess>

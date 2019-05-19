@@ -93,4 +93,16 @@
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_2b27bf2f-bce5-47a8-8e80-bdef43f9e734.xml#2b27bf2f-bce5-47a8-8e80-bdef43f9e734"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="0. Navigering, overordnet rammeverk"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

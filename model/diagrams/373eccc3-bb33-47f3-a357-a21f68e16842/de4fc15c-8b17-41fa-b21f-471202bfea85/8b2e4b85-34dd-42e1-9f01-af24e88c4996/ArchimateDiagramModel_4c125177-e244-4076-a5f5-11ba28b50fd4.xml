@@ -88,6 +88,15 @@
         href="Capability_ae4955e7-5e5a-4e78-9b18-0c816a0d3b0c.xml#ae4955e7-5e5a-4e78-9b18-0c816a0d3b0c"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Kapabiliteter"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

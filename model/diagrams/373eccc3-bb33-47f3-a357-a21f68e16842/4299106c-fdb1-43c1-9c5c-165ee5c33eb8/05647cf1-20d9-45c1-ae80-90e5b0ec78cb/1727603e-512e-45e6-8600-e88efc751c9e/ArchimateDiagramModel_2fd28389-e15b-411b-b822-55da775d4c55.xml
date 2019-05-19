@@ -349,6 +349,15 @@
         href="Grouping_05673041-1cfb-4ef9-b70a-e7dfa992ece8.xml#05673041-1cfb-4ef9-b70a-e7dfa992ece8"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Prioriterte aktiviteter for Difi i 2019"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

@@ -140,6 +140,15 @@
         href="Capability_e1b6a8cb-a1ff-4af8-9fab-772532d34dfc.xml#e1b6a8cb-a1ff-4af8-9fab-772532d34dfc"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Evner, offentlig sektor generelt"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

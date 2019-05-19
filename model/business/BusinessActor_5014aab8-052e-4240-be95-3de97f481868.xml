@@ -18,5 +18,11 @@
       key="difi:description_en"/>
   <properties
       key="dct:type"
-      value="business-actor"/>
+      value="archi:business-actor"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
 </archimate:BusinessActor>

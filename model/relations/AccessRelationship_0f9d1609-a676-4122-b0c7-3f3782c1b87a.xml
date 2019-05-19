@@ -1,13 +1,15 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="access"
     id="0f9d1609-a676-4122-b0c7-3f3782c1b87a"
     accessType="1">
   <properties
       key="difi:namespace"
       value="-"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="access"/>
   <properties
       key="difi:description_no"/>
   <properties
@@ -15,8 +17,14 @@
   <properties
       key="difi:description_en"/>
   <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value=" "/>
+  <properties
       key="dct:type"
-      value="access-relationship"/>
+      value="archi:access-relationship"/>
   <source
       xsi:type="archimate:BusinessService"
       href="BusinessService_60e55433-7801-4cb9-9409-e69ba0af5e01.xml#60e55433-7801-4cb9-9409-e69ba0af5e01"/>

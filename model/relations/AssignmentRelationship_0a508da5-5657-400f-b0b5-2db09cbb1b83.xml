@@ -18,6 +18,12 @@
   <properties
       key="dct:type"
       value="archi:assignment-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
   <source
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_90419aa5-8713-466d-a862-1725a7c6276a.xml#90419aa5-8713-466d-a862-1725a7c6276a"/>

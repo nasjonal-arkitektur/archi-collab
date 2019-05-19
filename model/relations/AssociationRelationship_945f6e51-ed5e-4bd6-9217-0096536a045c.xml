@@ -18,6 +18,12 @@
   <properties
       key="dct:type"
       value="archi:association-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
   <source
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_9efb9481-a4e1-40d6-919b-5ff8538efaad.xml#9efb9481-a4e1-40d6-919b-5ff8538efaad"/>

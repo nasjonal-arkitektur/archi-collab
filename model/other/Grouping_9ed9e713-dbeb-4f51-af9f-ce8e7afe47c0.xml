@@ -17,4 +17,10 @@
   <properties
       key="dct:type"
       value="archi:grouping"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]"/>
 </archimate:Grouping>

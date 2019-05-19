@@ -20,4 +20,7 @@
   <properties
       key="label"
       value="Føringer \nog premisser"/>
+  <properties
+      key="difi:language"
+      value="no"/>
 </archimate:Constraint>

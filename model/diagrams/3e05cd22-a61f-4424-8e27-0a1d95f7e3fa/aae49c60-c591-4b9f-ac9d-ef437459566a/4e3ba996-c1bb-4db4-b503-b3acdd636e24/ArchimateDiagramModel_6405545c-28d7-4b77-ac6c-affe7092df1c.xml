@@ -394,6 +394,15 @@
         href="BusinessInteraction_26bc875e-1e61-40be-9557-331172e55273.xml#26bc875e-1e61-40be-9557-331172e55273"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="samhandlingsmønstre-hierarki"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

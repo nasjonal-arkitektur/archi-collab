@@ -7,7 +7,8 @@
       key="difi:namespace"
       value="-"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="tjener"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -15,8 +16,14 @@
   <properties
       key="difi:description_en"/>
   <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
       key="dct:type"
-      value="serving-relationship"/>
+      value="archi:serving-relationship"/>
   <source
       xsi:type="archimate:BusinessService"
       href="BusinessService_29c6dc08-6347-45c8-b61c-0b38230f807a.xml#29c6dc08-6347-45c8-b61c-0b38230f807a"/>

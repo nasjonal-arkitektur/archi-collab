@@ -147,6 +147,15 @@
         href="Capability_92449ebe-4867-4263-b39f-b961b9a8447f.xml#92449ebe-4867-4263-b39f-b961b9a8447f"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Evner, Difi"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

@@ -16,6 +16,15 @@
         href="Assessment_9d67f7e8-a17d-4bef-b957-72ec797231e2.xml#9d67f7e8-a17d-4bef-b957-72ec797231e2"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="3.2 Foreløpige notater, Erik"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

@@ -18,6 +18,12 @@
   <properties
       key="dct:type"
       value="association-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
   <source
       xsi:type="archimate:DataObject"
       href="DataObject_2fe7dba1-7c67-42a8-84c1-3f9a5375e511.xml#2fe7dba1-7c67-42a8-84c1-3f9a5375e511"/>

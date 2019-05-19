@@ -315,9 +315,9 @@
         target="91600130-6ade-4ef6-b0c6-0da024a2ce4b">
       <bendpoints
           startX="-30"
-          startY="111"
+          startY="99"
           endX="-36"
-          endY="-93"/>
+          endY="-105"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_67fcc71e-c19a-4caf-a07c-ceafed7a02c3.xml#67fcc71e-c19a-4caf-a07c-ceafed7a02c3"/>
@@ -664,6 +664,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="4a328f6b-ddc9-4ea7-936e-9e6af4f3c1a8"
+        textPosition="0"
         source="07931ea1-5da4-4ea0-a15a-f8836abac387"
         target="068a4469-a363-4bb5-8f92-4fadfc5746db">
       <archimateRelationship
@@ -671,7 +672,7 @@
           href="AssociationRelationship_e3142e17-85a2-4721-86e8-bc6a3779f777.xml#e3142e17-85a2-4721-86e8-bc6a3779f777"/>
     </sourceConnections>
     <bounds
-        x="-24"
+        x="-48"
         y="552"
         width="133"
         height="70"/>
@@ -838,4 +839,16 @@
         xsi:type="archimate:Resource"
         href="Resource_5fae669b-1790-4315-b5f6-66564e53c084.xml#5fae669b-1790-4315-b5f6-66564e53c084"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Overordnet konsept"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

@@ -10,12 +10,19 @@
       key="difi:name_no"
       value="Finne/få kjennskap til API"/>
   <properties
-      key="difi:description_no"/>
+      key="difi:description_no"
+      value="Prosessen med å finne eller få kjennskap til tilgjengelige API-er gjennom relevante kataloger og søkeløsninger."/>
   <properties
       key="difi:name_en"/>
   <properties
       key="difi:description_en"/>
   <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
       key="dct:type"
-      value="business-process"/>
+      value="archi:business-process"/>
 </archimate:BusinessProcess>

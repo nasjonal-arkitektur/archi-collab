@@ -129,6 +129,15 @@
         href="BusinessFunction_5bfac4af-d6ea-41d7-9100-a5587f5a5ffd.xml#5bfac4af-d6ea-41d7-9100-a5587f5a5ffd"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Difis funksjoner/roller"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

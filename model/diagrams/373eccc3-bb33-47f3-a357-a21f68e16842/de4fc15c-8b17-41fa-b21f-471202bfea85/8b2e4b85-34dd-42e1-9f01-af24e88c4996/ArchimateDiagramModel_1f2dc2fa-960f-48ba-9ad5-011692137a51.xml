@@ -647,6 +647,16 @@
         href="BusinessRole_ba734a82-6ccd-4627-9717-baef9900ae13.xml#ba734a82-6ccd-4627-9717-baef9900ae13"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Referansearkitekturer 4 områder"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Aktør som sender en melding"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

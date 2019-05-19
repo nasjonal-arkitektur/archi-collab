@@ -7,14 +7,21 @@
       value="eirabased"/>
   <properties
       key="difi:name_no"
-      value="Data exchange"/>
+      value="Datautveksling"/>
   <properties
       key="difi:description_no"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Data exchange"/>
   <properties
       key="difi:description_en"/>
   <properties
       key="dct:type"
       value="capability"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
 </archimate:Capability>

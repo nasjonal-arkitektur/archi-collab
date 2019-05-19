@@ -18,6 +18,12 @@
   <properties
       key="dct:type"
       value="archi:realization-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_e4e65698-990f-4ea1-9492-d98477594031.xml#e4e65698-990f-4ea1-9492-d98477594031"/>

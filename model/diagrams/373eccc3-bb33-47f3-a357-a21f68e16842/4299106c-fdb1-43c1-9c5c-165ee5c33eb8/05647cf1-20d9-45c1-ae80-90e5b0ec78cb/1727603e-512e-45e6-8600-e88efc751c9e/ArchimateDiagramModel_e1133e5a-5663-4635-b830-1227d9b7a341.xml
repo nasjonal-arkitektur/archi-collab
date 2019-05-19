@@ -394,6 +394,15 @@
         href="BusinessService_f0c6902e-3ceb-415e-b2a3-9ba1a6a7af7e.xml#f0c6902e-3ceb-415e-b2a3-9ba1a6a7af7e"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Tjenester fra Difi til virksomheter (i offentlig sektor)"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

@@ -562,6 +562,15 @@
         href="ApplicationInteraction_6428084f-02cf-4dc2-b7e8-ba4a5fe9b9a2.xml#6428084f-02cf-4dc2-b7e8-ba4a5fe9b9a2"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="samhandlingsmønstre-hierarki-og-sammenheng-med-referansearkitekturer"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

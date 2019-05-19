@@ -18,6 +18,12 @@
   <properties
       key="dct:type"
       value="aggregation-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
   <source
       xsi:type="archimate:Resource"
       href="Resource_ae341b64-4173-46e9-8af4-c8068228200a.xml#ae341b64-4173-46e9-8af4-c8068228200a"/>

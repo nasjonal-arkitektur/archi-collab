@@ -39,6 +39,15 @@
         href="Goal_11333465-602a-4569-a449-d56c3abff52d.xml#11333465-602a-4569-a449-d56c3abff52d"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="3.3 Oppdrag"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

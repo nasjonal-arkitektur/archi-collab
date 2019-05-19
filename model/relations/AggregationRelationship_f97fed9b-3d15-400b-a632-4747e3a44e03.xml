@@ -1,12 +1,14 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="aggregation"
     id="f97fed9b-3d15-400b-a632-4747e3a44e03">
   <properties
       key="difi:namespace"
       value="-"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="aggregation"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -15,7 +17,13 @@
       key="difi:description_en"/>
   <properties
       key="dct:type"
-      value="aggregation-relationship"/>
+      value="archi:aggregation-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
   <source
       xsi:type="archimate:Grouping"
       href="Grouping_5c768d6f-d8d2-453d-9d91-189059440d5c.xml#5c768d6f-d8d2-453d-9d91-189059440d5c"/>

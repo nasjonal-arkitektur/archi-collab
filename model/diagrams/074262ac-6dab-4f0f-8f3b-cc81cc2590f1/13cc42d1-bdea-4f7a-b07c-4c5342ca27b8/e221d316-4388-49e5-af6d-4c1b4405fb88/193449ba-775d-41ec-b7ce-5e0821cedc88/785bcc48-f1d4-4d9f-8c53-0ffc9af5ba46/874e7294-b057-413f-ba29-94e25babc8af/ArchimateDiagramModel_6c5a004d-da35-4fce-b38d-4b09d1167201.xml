@@ -10,6 +10,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="d6c52125-db48-4f42-8b07-becf5cf1cb0b"
+        textPosition="0"
         source="712a2868-3170-4fab-b511-e362c2ec6ab6"
         target="6d04206f-4dc4-4a68-936b-7e959d38cd9c">
       <archimateRelationship
@@ -47,6 +48,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="e170e91d-5c6b-482d-ab39-42d81ce06f77"
+        textPosition="0"
         source="b86f5252-52d1-4ae1-835f-3bd293bcdfe5"
         target="9c7d0fff-6f5a-4eeb-a75b-539a42161b78">
       <archimateRelationship
@@ -70,6 +72,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="32a92bb1-ae86-426a-8f47-ede72b03baba"
+        textPosition="0"
         source="eece35e4-ba60-493a-b894-797d2ca68269"
         target="75046221-7cbf-4e6c-a83f-f888033092e0">
       <archimateRelationship
@@ -102,6 +105,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="5df9c69e-70b9-4de8-a457-54991824b44e"
+          textPosition="0"
           source="75046221-7cbf-4e6c-a83f-f888033092e0"
           target="e2e0452d-ab80-44a3-9d73-6cd80a2ee8eb">
         <archimateRelationship
@@ -125,6 +129,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="1692e032-3f3a-443c-aa58-1c8aaae7aaf1"
+          textPosition="0"
           source="9c7d0fff-6f5a-4eeb-a75b-539a42161b78"
           target="24b697af-82a7-4d3e-a6e5-927f9f1d8d6c">
         <archimateRelationship
@@ -148,6 +153,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="55ab1609-7323-42ea-935d-25be8792cc26"
+          textPosition="0"
           source="24b697af-82a7-4d3e-a6e5-927f9f1d8d6c"
           target="75046221-7cbf-4e6c-a83f-f888033092e0">
         <archimateRelationship
@@ -157,6 +163,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="6f8ca6ee-8872-4bbf-978d-75ce4099d19c"
+          textPosition="0"
           source="24b697af-82a7-4d3e-a6e5-927f9f1d8d6c"
           target="e2e0452d-ab80-44a3-9d73-6cd80a2ee8eb">
         <archimateRelationship
@@ -186,6 +193,15 @@
         href="Capability_fa1cd10f-51f3-464d-a145-3680ea912fec.xml#fa1cd10f-51f3-464d-a145-3680ea912fec"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Få tilgang til API - arkitekturmønster"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

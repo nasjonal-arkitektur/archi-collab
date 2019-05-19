@@ -19,4 +19,10 @@
   <properties
       key="dct:type"
       value="archi:business-role"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]"/>
 </archimate:BusinessRole>

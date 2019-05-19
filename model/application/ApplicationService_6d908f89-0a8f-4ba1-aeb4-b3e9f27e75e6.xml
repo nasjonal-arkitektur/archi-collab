@@ -20,4 +20,7 @@
   <properties
       key="label"
       value="Tokenvaliderings-tjeneste"/>
+  <properties
+      key="difi:language"
+      value="no"/>
 </archimate:ApplicationService>

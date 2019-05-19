@@ -28,6 +28,15 @@
         href="Deliverable_0e81e1ee-3243-4233-a7a0-b502e709c206.xml#0e81e1ee-3243-4233-a7a0-b502e709c206"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="3.4 Oppdrag"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

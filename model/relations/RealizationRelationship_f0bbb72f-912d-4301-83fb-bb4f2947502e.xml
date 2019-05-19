@@ -1,12 +1,14 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="realization"
     id="f0bbb72f-912d-4301-83fb-bb4f2947502e">
   <properties
       key="difi:namespace"
       value="-"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="realization"/>
   <properties
       key="difi:description_no"/>
   <properties
@@ -14,8 +16,14 @@
   <properties
       key="difi:description_en"/>
   <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
       key="dct:type"
-      value="realization-relationship"/>
+      value="archi:realization-relationship"/>
   <source
       xsi:type="archimate:DataObject"
       href="DataObject_c2386ba0-c50d-46c7-8d34-9d9f9a395de7.xml#c2386ba0-c50d-46c7-8d34-9d9f9a395de7"/>

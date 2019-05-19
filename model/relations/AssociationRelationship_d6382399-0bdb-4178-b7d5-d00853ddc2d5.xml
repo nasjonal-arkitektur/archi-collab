@@ -1,12 +1,14 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="association"
     id="d6382399-0bdb-4178-b7d5-d00853ddc2d5">
   <properties
       key="difi:namespace"
       value="-"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="association"/>
   <properties
       key="difi:description_no"/>
   <properties
@@ -15,7 +17,13 @@
       key="difi:description_en"/>
   <properties
       key="dct:type"
-      value="association-relationship"/>
+      value="archi:association-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value=" "/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_9fa622a6-945e-4e85-815f-d38a47a3459d.xml#9fa622a6-945e-4e85-815f-d38a47a3459d"/>

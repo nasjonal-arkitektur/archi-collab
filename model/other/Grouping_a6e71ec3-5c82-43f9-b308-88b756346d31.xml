@@ -20,4 +20,7 @@
   <properties
       key="label"
       value="IT-arkitektur infrastruktur"/>
+  <properties
+      key="difi:language"
+      value="no"/>
 </archimate:Grouping>

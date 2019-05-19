@@ -18,6 +18,12 @@
   <properties
       key="dct:type"
       value="serving-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
   <source
       xsi:type="archimate:Grouping"
       href="Grouping_4905c3f9-c24d-4a73-a7cb-b391cfc91cc1.xml#4905c3f9-c24d-4a73-a7cb-b391cfc91cc1"/>

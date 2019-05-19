@@ -18,6 +18,12 @@
   <properties
       key="dct:type"
       value="assignment-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
   <source
       xsi:type="archimate:ApplicationInterface"
       href="ApplicationInterface_8ad0aa4c-1591-4f3f-b1eb-93a425a3b569.xml#8ad0aa4c-1591-4f3f-b1eb-93a425a3b569"/>

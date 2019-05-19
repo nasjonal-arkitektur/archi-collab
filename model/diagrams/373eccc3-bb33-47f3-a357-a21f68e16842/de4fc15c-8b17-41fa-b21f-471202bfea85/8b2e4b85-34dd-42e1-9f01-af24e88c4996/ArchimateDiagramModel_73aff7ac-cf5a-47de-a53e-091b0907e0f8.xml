@@ -390,6 +390,15 @@
         href="BusinessService_9607b20a-5c14-4b00-8120-9ce1ce37b62c.xml#9607b20a-5c14-4b00-8120-9ce1ce37b62c"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Fellesfunksjoner"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

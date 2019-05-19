@@ -104,6 +104,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="e94d7678-d169-47c5-b458-6a4bec7d2e9b"
+        textPosition="0"
         source="cf853750-33fb-45b6-92f4-ab4652764b5c"
         target="2c50540b-0a0f-403e-8c90-69d93c4b4c42">
       <archimateRelationship
@@ -120,6 +121,15 @@
         href="BusinessRole_49b0b5a9-4f7d-4325-92e9-6eddf285ae09.xml#49b0b5a9-4f7d-4325-92e9-6eddf285ae09"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Mal for modelller, eOppslag arkitekturmønstre"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

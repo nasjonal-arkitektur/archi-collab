@@ -18,6 +18,12 @@
   <properties
       key="dct:type"
       value="archi:realization-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
   <source
       xsi:type="archimate:Grouping"
       href="Grouping_9ed9e713-dbeb-4f51-af9f-ce8e7afe47c0.xml#9ed9e713-dbeb-4f51-af9f-ce8e7afe47c0"/>

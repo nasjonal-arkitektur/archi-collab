@@ -124,6 +124,15 @@
         href="BusinessObject_093af846-a099-4a8f-8462-8982623f3f52.xml#093af846-a099-4a8f-8462-8982623f3f52"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="WS1"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

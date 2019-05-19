@@ -343,6 +343,16 @@
         href="Resource_3004af5f-94d4-453d-af14-667cbfeeaf5c.xml#3004af5f-94d4-453d-af14-667cbfeeaf5c"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Teknologier ref. NAVs omverdensanalyse 2019"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="https://www.nav.no/no/NAV+og+samfunn/Kunnskap/Analyser+fra+NAV/Analyser/navs-omverdensanalyse-2019"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

@@ -17,4 +17,10 @@
   <properties
       key="dct:type"
       value="archi:business-object"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
 </archimate:BusinessObject>

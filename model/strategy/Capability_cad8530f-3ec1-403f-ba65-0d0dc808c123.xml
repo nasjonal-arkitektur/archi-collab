@@ -10,15 +10,22 @@
       key="difi:name_no"
       value="Slå opp data gjennom et API"/>
   <properties
-      key="difi:description_no"/>
+      key="difi:description_no"
+      value="Evnen til å slå opp og hente data gjennom et API."/>
   <properties
       key="difi:name_en"/>
   <properties
       key="difi:description_en"/>
   <properties
-      key="dct:type"
-      value="capability"/>
-  <properties
       key="drill down"
       value="4742dd13-f1fe-4e78-80a8-80929a62efb9"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
 </archimate:Capability>

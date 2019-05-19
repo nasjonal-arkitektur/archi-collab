@@ -18,6 +18,12 @@
   <properties
       key="dct:type"
       value="serving-relationship"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_ac1d9919-ebe0-4946-b7cd-36c410ad77c2.xml#ac1d9919-ebe0-4946-b7cd-36c410ad77c2"/>

@@ -10,6 +10,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="037a3fe9-23a7-4032-b72e-9d47c5fc3b18"
+        textPosition="0"
         source="d95df781-dc24-4033-97b1-305a710f3b28"
         target="9a7221aa-0726-4982-8b50-9b3c620af1fc">
       <archimateRelationship
@@ -33,6 +34,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="fe5197e3-5bee-49c9-920f-7579f8de93fe"
+        textPosition="0"
         source="76324acf-d9ee-4f3c-b6c8-cce5f9f90670"
         target="5cca6ac2-5fd2-42ed-a31d-78666684f2b9">
       <archimateRelationship
@@ -51,7 +53,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="9a7221aa-0726-4982-8b50-9b3c620af1fc"
-      targetConnections="037a3fe9-23a7-4032-b72e-9d47c5fc3b18 826ce25c-6644-4f37-9e61-14540d12271f 9de75ef0-a91f-4e69-9615-af87a365f1e9">
+      targetConnections="037a3fe9-23a7-4032-b72e-9d47c5fc3b18 826ce25c-6644-4f37-9e61-14540d12271f 9de75ef0-a91f-4e69-9615-af87a365f1e9 0729b642-d68d-44b3-8f3c-284af760f038">
     <bounds
         x="240"
         y="96"
@@ -74,6 +76,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="24d978b9-9956-4859-87c4-811f355826a4"
+          textPosition="0"
           source="ce47ca36-d14d-4487-940a-bf1768c4d70e"
           target="cd8bc675-8a0c-4cc9-a47f-8cc27fe2ea25">
         <archimateRelationship
@@ -97,6 +100,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="70be4418-1091-470d-9333-45606a128a83"
+          textPosition="0"
           source="5cca6ac2-5fd2-42ed-a31d-78666684f2b9"
           target="ce47ca36-d14d-4487-940a-bf1768c4d70e">
         <archimateRelationship
@@ -128,11 +132,21 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="da6997a2-9ebb-4364-8e4b-e95af2157088"
+          textPosition="0"
           source="f63edcbc-a54d-476b-83d7-08e1c000b756"
           target="5cca6ac2-5fd2-42ed-a31d-78666684f2b9">
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_ebf8d316-ae76-4f48-9978-cc101633c8d9.xml#ebf8d316-ae76-4f48-9978-cc101633c8d9"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="0729b642-d68d-44b3-8f3c-284af760f038"
+          source="f63edcbc-a54d-476b-83d7-08e1c000b756"
+          target="9a7221aa-0726-4982-8b50-9b3c620af1fc">
+        <archimateRelationship
+            xsi:type="archimate:RealizationRelationship"
+            href="RealizationRelationship_98e41f7f-5e71-4339-ad33-bf8f334a825f.xml#98e41f7f-5e71-4339-ad33-bf8f334a825f"/>
       </sourceConnections>
       <bounds
           x="24"
@@ -162,6 +176,15 @@
         href="BusinessObject_2deabc54-53a4-404b-8e00-27e028d2ac67.xml#2deabc54-53a4-404b-8e00-27e028d2ac67"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Avgi forespurte data gjennom API - arkitekturmønster"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

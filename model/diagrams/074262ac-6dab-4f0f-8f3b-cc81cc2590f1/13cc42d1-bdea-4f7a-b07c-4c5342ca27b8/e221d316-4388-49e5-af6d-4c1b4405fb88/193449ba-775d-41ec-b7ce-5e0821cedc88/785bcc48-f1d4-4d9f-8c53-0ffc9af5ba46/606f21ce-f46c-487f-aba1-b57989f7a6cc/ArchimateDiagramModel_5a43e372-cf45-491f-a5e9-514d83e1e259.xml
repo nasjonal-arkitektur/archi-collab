@@ -11,6 +11,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="4c97e2c4-847d-4be1-b053-e19e669045fd"
+        textPosition="0"
         source="8f8d9e74-8929-47e3-a4b9-6a38af2280cc"
         target="477eae1d-1c6c-46b2-9d70-a1641acf1b55">
       <archimateRelationship
@@ -19,7 +20,7 @@
     </sourceConnections>
     <bounds
         x="96"
-        y="170"
+        y="180"
         width="133"
         height="70"/>
     <archimateElement
@@ -33,6 +34,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="5733b786-9214-4bc8-85c4-4a5910cf0323"
+        textPosition="0"
         source="f0963c9d-b3cf-4566-8ef3-1afe57537bb0"
         target="7c789334-00ea-4023-bc57-153efde1c302">
       <archimateRelationship
@@ -57,6 +59,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="22f037e2-0c0f-449e-a4de-38f0baafdab6"
+        textPosition="0"
         source="7c789334-00ea-4023-bc57-153efde1c302"
         target="a1652dad-293a-4e00-9b18-e1a2f84c8b5d">
       <archimateRelationship
@@ -121,6 +124,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="182fd354-a480-49f7-887e-2a28a0e08373"
+          textPosition="0"
           source="a1652dad-293a-4e00-9b18-e1a2f84c8b5d"
           target="2aa46921-f7a6-41da-bb85-936e2d9118f7">
         <archimateRelationship
@@ -152,6 +156,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="65b77e96-c9c1-4b56-b85a-424da580280f"
+          textPosition="0"
           source="725d4d15-2c35-470b-b6c1-802d2066fc96"
           target="a1652dad-293a-4e00-9b18-e1a2f84c8b5d">
         <archimateRelationship
@@ -172,6 +177,16 @@
         href="Capability_f469884e-d708-4a8c-ae89-023ab65ce4d8.xml#f469884e-d708-4a8c-ae89-023ab65ce4d8"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Avgi forespurte data gjennom API - løsningsmønster"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Tjeneste som benyttes av tilbyder for å validere og kontrollere autentisiteten til et OAUTH2 token fra Maskinporten."/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

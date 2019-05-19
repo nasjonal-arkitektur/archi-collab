@@ -99,6 +99,16 @@
         href="BusinessRole_eecd578b-211a-4ca1-b5c0-18365e6ba2c1.xml#eecd578b-211a-4ca1-b5c0-18365e6ba2c1"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Roller fra BR, API-katalog"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Erik: Dette er vel ikke en rolle? Det er en ABB!"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>

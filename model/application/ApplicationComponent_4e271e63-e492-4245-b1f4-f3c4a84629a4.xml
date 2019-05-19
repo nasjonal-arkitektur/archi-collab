@@ -16,5 +16,11 @@
       key="difi:description_en"/>
   <properties
       key="dct:type"
-      value="application-component"/>
+      value="archi:application-component"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="label"
+      value="${name}"/>
 </archimate:ApplicationComponent>

@@ -134,6 +134,15 @@
         href="Capability_5ce68350-effd-455a-a5fe-ed0ae83d0a03.xml#5ce68350-effd-455a-a5fe-ed0ae83d0a03"/>
   </children>
   <properties
-      key="difi:current_language"
+      key="difi:language"
       value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Forklaring av modelller ABB (copy)"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
 </archimate:ArchimateDiagramModel>
