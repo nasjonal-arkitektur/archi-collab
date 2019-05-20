@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Innhente data"
+    name="Innhenting av data"
     id="7ce4c7ef-5baf-4026-a343-6b79729a6306"
     documentation="Evnen til å hente tilbudte data fra annen aktør.">
   <properties
@@ -10,7 +10,8 @@
       key="difi:name_no"
       value="Innhenting av data"/>
   <properties
-      key="difi:description_no"/>
+      key="difi:description_no"
+      value="Evnen til å hente tilbudte data fra annen aktør."/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -20,7 +21,7 @@
       value="no"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}]"/>
+      value="${name}"/>
   <properties
       key="dct:type"
       value="archi:capability"/>

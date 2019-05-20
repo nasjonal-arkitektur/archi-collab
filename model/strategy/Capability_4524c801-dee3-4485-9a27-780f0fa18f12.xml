@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Autentiserring"
+    name="Autentisere"
     id="4524c801-dee3-4485-9a27-780f0fa18f12">
   <properties
       key="difi:namespace"
@@ -15,12 +15,12 @@
   <properties
       key="difi:description_en"/>
   <properties
-      key="dct:type"
-      value="capability"/>
-  <properties
       key="difi:language"
       value="no"/>
   <properties
       key="label"
-      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
 </archimate:Capability>
