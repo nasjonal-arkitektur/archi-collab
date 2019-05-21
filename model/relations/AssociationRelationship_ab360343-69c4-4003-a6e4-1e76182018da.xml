@@ -19,11 +19,11 @@
       key="difi:language"
       value="no"/>
   <properties
-      key="dct:type"
-      value="archi:association-relationship"/>
-  <properties
       key="label"
       value=" "/>
+  <properties
+      key="dct:type"
+      value="archi:association-relationship"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_ba734a82-6ccd-4627-9717-baef9900ae13.xml#ba734a82-6ccd-4627-9717-baef9900ae13"/>

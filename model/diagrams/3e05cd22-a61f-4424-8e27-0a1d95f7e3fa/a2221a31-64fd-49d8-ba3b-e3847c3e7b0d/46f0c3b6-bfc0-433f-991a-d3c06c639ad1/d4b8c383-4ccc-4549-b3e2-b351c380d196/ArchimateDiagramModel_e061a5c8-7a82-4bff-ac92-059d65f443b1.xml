@@ -239,7 +239,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="33f889e8-bee6-4562-95b3-db9d4dc1a632"
-      targetConnections="885e7ab7-4fc6-4be5-a341-2241eb267373 b231721d-5af1-42c7-945d-80d09dc1038f">
+      targetConnections="b231721d-5af1-42c7-945d-80d09dc1038f">
     <bounds
         x="192"
         y="240"
@@ -314,27 +314,6 @@
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_eecb9abf-d38f-48b3-92fc-2e91c1f73274.xml#eecb9abf-d38f-48b3-92fc-2e91c1f73274"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="79cfc13a-0f1b-4e66-846a-2f52a2ca557c">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="885e7ab7-4fc6-4be5-a341-2241eb267373"
-        source="79cfc13a-0f1b-4e66-846a-2f52a2ca557c"
-        target="33f889e8-bee6-4562-95b3-db9d4dc1a632">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_810fa757-d331-4f6f-8ef5-d201f98d4936.xml#810fa757-d331-4f6f-8ef5-d201f98d4936"/>
-    </sourceConnections>
-    <bounds
-        x="240"
-        y="96"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Capability"
-        href="Capability_b2629945-0e02-4008-8db4-d6cc7f8d34a3.xml#b2629945-0e02-4008-8db4-d6cc7f8d34a3"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -486,6 +465,18 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_143eec21-4a9f-48d9-ae4b-5f6d74e151f0.xml#143eec21-4a9f-48d9-ae4b-5f6d74e151f0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="2adb5a3c-d38d-4126-b600-8c722c888f94">
+    <bounds
+        x="240"
+        y="96"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_2af682a3-bead-4c64-abf8-c2f42acdd63b.xml#2af682a3-bead-4c64-abf8-c2f42acdd63b"/>
   </children>
   <properties
       key="difi:language"

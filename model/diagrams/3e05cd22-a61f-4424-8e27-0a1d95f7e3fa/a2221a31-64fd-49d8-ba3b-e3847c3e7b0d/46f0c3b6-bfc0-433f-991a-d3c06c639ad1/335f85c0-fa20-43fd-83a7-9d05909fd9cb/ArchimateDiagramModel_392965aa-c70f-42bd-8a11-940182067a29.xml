@@ -73,7 +73,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b681a733-ad64-4f90-9b1a-ee48e0735518"
-      targetConnections="b113d612-250b-4c06-94e8-5b7689ecb9ae d6f61df5-32df-439c-a148-27daf29cf636 8a8e95c7-a273-4b6a-bc8d-b109821ccb1b">
+      targetConnections="b113d612-250b-4c06-94e8-5b7689ecb9ae d6f61df5-32df-439c-a148-27daf29cf636">
     <bounds
         x="132"
         y="192"
@@ -154,28 +154,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="92520d60-e428-4782-ae56-6e5b333ec1b8"
-      textPosition="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="8a8e95c7-a273-4b6a-bc8d-b109821ccb1b"
-        source="92520d60-e428-4782-ae56-6e5b333ec1b8"
-        target="b681a733-ad64-4f90-9b1a-ee48e0735518">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_07f45ed8-bc65-445d-a692-a706922235a3.xml#07f45ed8-bc65-445d-a692-a706922235a3"/>
-    </sourceConnections>
-    <bounds
-        x="196"
-        y="84"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Capability"
-        href="Capability_7ce4c7ef-5baf-4026-a343-6b79729a6306.xml#7ce4c7ef-5baf-4026-a343-6b79729a6306"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="4ae9ebd9-f7ef-4369-bcb5-cbc4e6c393bb"
       textPosition="1">
     <sourceConnections
@@ -195,6 +173,18 @@
     <archimateElement
         xsi:type="archimate:BusinessService"
         href="BusinessService_4f1904d5-7a6b-4f57-9f76-63e820775242.xml#4f1904d5-7a6b-4f57-9f76-63e820775242"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="354502c5-394d-4d04-b4be-565355492c7f">
+    <bounds
+        x="196"
+        y="84"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_aa30d232-3bcf-4969-a022-c66e93a80ec5.xml#aa30d232-3bcf-4969-a022-c66e93a80ec5"/>
   </children>
   <properties
       key="difi:language"

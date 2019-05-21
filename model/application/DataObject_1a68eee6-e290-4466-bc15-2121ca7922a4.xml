@@ -7,9 +7,6 @@
       key="ID"
       value="ABB23"/>
   <properties
-      key="dct:type"
-      value="eira:DataSet"/>
-  <properties
       key="dct:publisher"/>
   <properties
       key="dct:modified"/>
@@ -37,5 +34,8 @@
       value="no"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}]&#xA;&lt;&lt;${property:dct:type}>>"/>
+      value="${name} [ns:${property:difi:namespace}]"/>
+  <properties
+      key="dct:type"
+      value="archi:data-object"/>
 </archimate:DataObject>

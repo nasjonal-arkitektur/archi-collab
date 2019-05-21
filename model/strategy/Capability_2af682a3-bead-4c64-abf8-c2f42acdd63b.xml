@@ -8,7 +8,7 @@
       value="na1"/>
   <properties
       key="difi:name_no"
-      value="Tilgjengelig-gjøring av data"/>
+      value="Tilgjengeliggjøre data"/>
   <properties
       key="difi:description_no"
       value="Evnen til å gjøre data tilgjengelig for aktører utenfor egen virksomhet."/>
@@ -17,12 +17,12 @@
   <properties
       key="difi:description_en"/>
   <properties
-      key="dct:type"
-      value="archi:capability"/>
-  <properties
       key="difi:language"
       value="no"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}]"/>
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:capability"/>
 </archimate:Capability>

@@ -7,7 +7,8 @@
       key="difi:namespace"
       value="-"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="aggregation"/>
   <properties
       key="difi:description_no"/>
   <properties
@@ -15,14 +16,14 @@
   <properties
       key="difi:description_en"/>
   <properties
-      key="dct:type"
-      value="aggregation-relationship"/>
-  <properties
       key="difi:language"
       value="no"/>
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]&#xA;&lt;&lt;${property:dct:type}>>"/>
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:aggregation-relationship"/>
   <source
       xsi:type="archimate:DataObject"
       href="DataObject_077cabf1-0f4f-42b0-bb40-24c2e70cbc2d.xml#077cabf1-0f4f-42b0-bb40-24c2e70cbc2d"/>

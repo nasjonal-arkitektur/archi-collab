@@ -4,9 +4,6 @@
     name="aggregation"
     id="a9fdd80a-e688-4dff-b9c5-cdd7464cdb65">
   <properties
-      key="dct:type"
-      value="archi:aggregation-relationship"/>
-  <properties
       key="difi:namespace"
       value="-"/>
   <properties
@@ -23,7 +20,10 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name}"/>
+      value=" "/>
+  <properties
+      key="dct:type"
+      value="archi:aggregation-relationship"/>
   <source
       xsi:type="archimate:Grouping"
       href="Grouping_cd4e885b-ef01-48d2-8bf2-ec15871f7dd5.xml#cd4e885b-ef01-48d2-8bf2-ec15871f7dd5"/>

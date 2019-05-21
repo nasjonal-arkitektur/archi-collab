@@ -7,9 +7,6 @@
       key="ID"
       value="ABB204"/>
   <properties
-      key="dct:type"
-      value="eira:IdentityManagementService"/>
-  <properties
       key="dct:publisher"/>
   <properties
       key="dct:modified"/>
@@ -40,5 +37,8 @@
       value="no"/>
   <properties
       key="label"
-      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:application-service"/>
 </archimate:ApplicationService>

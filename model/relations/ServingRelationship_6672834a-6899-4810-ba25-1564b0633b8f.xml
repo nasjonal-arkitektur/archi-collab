@@ -15,14 +15,14 @@
   <properties
       key="difi:description_en"/>
   <properties
-      key="dct:type"
-      value="serving-relationship"/>
-  <properties
       key="difi:language"
       value="no"/>
   <properties
       key="label"
-      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:serving-relationship"/>
   <source
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_09c08f99-0c2e-4a1b-9c59-6e26217771c6.xml#09c08f99-0c2e-4a1b-9c59-6e26217771c6"/>

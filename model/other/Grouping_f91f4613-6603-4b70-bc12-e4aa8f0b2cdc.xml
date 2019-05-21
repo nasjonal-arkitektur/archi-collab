@@ -1,6 +1,6 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Informasjonssikkerhet"
+    name="Tillitstjenester"
     id="f91f4613-6603-4b70-bc12-e4aa8f0b2cdc">
   <properties
       key="difi:namespace"
@@ -15,12 +15,12 @@
   <properties
       key="difi:description_en"/>
   <properties
-      key="dct:type"
-      value="archi:grouping"/>
-  <properties
       key="difi:language"
       value="no"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}]"/>
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
 </archimate:Grouping>

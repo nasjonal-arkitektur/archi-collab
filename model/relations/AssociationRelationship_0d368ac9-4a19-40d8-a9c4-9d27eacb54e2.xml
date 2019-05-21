@@ -4,9 +4,6 @@
     name="association"
     id="0d368ac9-4a19-40d8-a9c4-9d27eacb54e2">
   <properties
-      key="dct:type"
-      value="archi:association-relationship"/>
-  <properties
       key="difi:namespace"
       value="-"/>
   <properties
@@ -23,7 +20,10 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name}"/>
+      value=" "/>
+  <properties
+      key="dct:type"
+      value="archi:association-relationship"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_ba734a82-6ccd-4627-9717-baef9900ae13.xml#ba734a82-6ccd-4627-9717-baef9900ae13"/>

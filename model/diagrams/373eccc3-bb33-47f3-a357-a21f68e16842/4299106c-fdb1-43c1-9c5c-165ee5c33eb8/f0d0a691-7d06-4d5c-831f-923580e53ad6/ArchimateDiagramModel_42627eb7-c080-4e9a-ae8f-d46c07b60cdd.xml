@@ -189,7 +189,7 @@
       id="362dd219-2dac-4fb6-ac30-3fe78245ad70"
       targetConnections="a3e03aae-9e92-4f84-b464-074244406a0b 27f25ef8-11fa-4ea7-9e24-eb178305f807 82114966-1224-402c-85f6-923cb2a830d6">
     <bounds
-        x="60"
+        x="12"
         y="192"
         width="130"
         height="60"/>
@@ -699,8 +699,8 @@
       id="acd19792-6d52-4df0-a071-ef19060ae168"
       fontColor="#ff0000">
     <bounds
-        x="308"
-        y="757"
+        x="375"
+        y="732"
         width="130"
         height="60"/>
     <archimateElement
