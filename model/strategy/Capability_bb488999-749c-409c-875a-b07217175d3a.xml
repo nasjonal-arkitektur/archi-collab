@@ -4,7 +4,7 @@
     id="bb488999-749c-409c-875a-b07217175d3a">
   <properties
       key="difi:namespace"
-      value="-"/>
+      value="jim"/>
   <properties
       key="difi:name_no"
       value="&quot;Orden i eget hus&quot;"/>
@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}]"/>
+      value="${name}"/>
   <properties
       key="dct:type"
       value="archi:capability"/>

@@ -16,14 +16,14 @@
   <properties
       key="difi:description_en"/>
   <properties
-      key="dct:type"
-      value="aggregation-relationship"/>
-  <properties
       key="difi:language"
       value="no"/>
   <properties
       key="label"
-      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:aggregation-relationship"/>
   <source
       xsi:type="archimate:Capability"
       href="Capability_3d3cfc56-6998-447a-b330-5d2c8369959b.xml#3d3cfc56-6998-447a-b330-5d2c8369959b"/>

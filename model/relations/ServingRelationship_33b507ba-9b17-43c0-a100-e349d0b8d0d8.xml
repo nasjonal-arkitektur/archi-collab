@@ -1,11 +1,8 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="serves"
+    name="støtter"
     id="33b507ba-9b17-43c0-a100-e349d0b8d0d8">
-  <properties
-      key="dct:type"
-      value="archi:serving-relationship"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -21,10 +18,13 @@
       key="difi:description_en"/>
   <properties
       key="difi:language"
-      value="en"/>
+      value="no"/>
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]"/>
+      value=" "/>
+  <properties
+      key="dct:type"
+      value="archi:serving-relationship"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_fe2f18ef-eb3b-46ef-a872-87777e041152.xml#fe2f18ef-eb3b-46ef-a872-87777e041152"/>

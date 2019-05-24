@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kodeliste-oversikt"
+    name="Kodelisteoversikt"
     id="6a4779a1-c546-4f49-9bee-319a1cdbb0b0">
   <properties
       key="difi:namespace"
@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}]"/>
+      value="${name}"/>
   <properties
       key="dct:type"
       value="archi:capability"/>

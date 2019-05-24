@@ -15,14 +15,14 @@
   <properties
       key="difi:description_en"/>
   <properties
-      key="dct:type"
-      value="realization-relationship"/>
-  <properties
       key="difi:language"
       value="no"/>
   <properties
       key="label"
-      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:realization-relationship"/>
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_02122e30-2fd5-4364-b62f-d354bb912428.xml#02122e30-2fd5-4364-b62f-d354bb912428"/>

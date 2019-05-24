@@ -20,7 +20,7 @@
       value="no"/>
   <properties
       key="label"
-      value="${name}"/>
+      value=" "/>
   <properties
       key="dct:type"
       value="archi:association-relationship"/>

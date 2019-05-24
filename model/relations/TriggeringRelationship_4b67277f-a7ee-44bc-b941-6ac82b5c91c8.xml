@@ -15,14 +15,14 @@
   <properties
       key="difi:description_en"/>
   <properties
-      key="dct:type"
-      value="triggering-relationship"/>
-  <properties
       key="difi:language"
       value="no"/>
   <properties
       key="label"
-      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+      value="${name}"/>
+  <properties
+      key="dct:type"
+      value="archi:triggering-relationship"/>
   <source
       xsi:type="archimate:Capability"
       href="Capability_dc3b4a6c-2600-4fee-b46e-bfe85f08dba6.xml#dc3b4a6c-2600-4fee-b46e-bfe85f08dba6"/>
