@@ -1,0 +1,20 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kapabilitetsområder, tillitstjenester"
+    id="9c6962f3-cdda-4e04-b57e-4ddcefc05cda">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="be4639df-e795-4d49-a8bb-c8c50617f610"
+      textAlignment="1"
+      fillColor="#fee7a0">
+    <bounds
+        x="60"
+        y="48"
+        width="589"
+        height="325"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_f91f4613-6603-4b70-bc12-e4aa8f0b2cdc.xml#f91f4613-6603-4b70-bc12-e4aa8f0b2cdc"/>
+  </children>
+</archimate:ArchimateDiagramModel>
