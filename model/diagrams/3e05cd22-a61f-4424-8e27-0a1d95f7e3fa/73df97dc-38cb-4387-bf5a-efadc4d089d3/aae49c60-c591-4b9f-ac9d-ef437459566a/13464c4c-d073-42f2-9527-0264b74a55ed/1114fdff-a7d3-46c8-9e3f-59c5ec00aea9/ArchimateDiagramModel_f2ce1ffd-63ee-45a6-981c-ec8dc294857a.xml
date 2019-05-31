@@ -256,10 +256,10 @@
       textAlignment="1"
       content="Mulige områder:&#xD;&#xA;- Data governance&#xD;&#xA;">
     <bounds
-        x="720"
-        y="120"
-        width="185"
-        height="80"/>
+        x="696"
+        y="348"
+        width="133"
+        height="56"/>
   </children>
   <properties
       key="difi:language"
