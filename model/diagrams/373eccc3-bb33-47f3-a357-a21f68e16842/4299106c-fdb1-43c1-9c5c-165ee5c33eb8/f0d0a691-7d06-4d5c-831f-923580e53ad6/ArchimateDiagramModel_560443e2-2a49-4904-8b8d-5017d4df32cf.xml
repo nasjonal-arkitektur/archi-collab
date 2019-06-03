@@ -22,7 +22,7 @@
       id="455a9a8e-3249-4cff-a0c0-63e8ab5f63f5"
       textPosition="1">
     <bounds
-        x="276"
+        x="312"
         y="240"
         width="133"
         height="67"/>
@@ -35,7 +35,7 @@
       id="e6ae98b8-8d8f-4406-9de4-36a5339c51c1"
       textPosition="1">
     <bounds
-        x="276"
+        x="312"
         y="324"
         width="133"
         height="67"/>
@@ -61,8 +61,8 @@
       id="d418abf2-261e-4a49-a291-2ab4c96c3e90"
       textPosition="1">
     <bounds
-        x="48"
-        y="252"
+        x="84"
+        y="240"
         width="133"
         height="67"/>
     <archimateElement
@@ -95,7 +95,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="2308cb44-a5e0-4ae9-98d9-4d9e2b5e53d8">
     <bounds
-        x="276"
+        x="312"
         y="408"
         width="133"
         height="67"/>
