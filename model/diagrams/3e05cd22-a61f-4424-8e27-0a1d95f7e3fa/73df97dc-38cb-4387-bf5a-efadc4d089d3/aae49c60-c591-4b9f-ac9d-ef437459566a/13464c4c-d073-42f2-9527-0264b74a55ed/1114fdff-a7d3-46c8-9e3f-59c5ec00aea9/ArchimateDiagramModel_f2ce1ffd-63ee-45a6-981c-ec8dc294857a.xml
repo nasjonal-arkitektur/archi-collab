@@ -246,20 +246,20 @@
           xsi:type="archimate:Grouping"
           href="Grouping_e6ec8fcc-f08c-4a5c-a94e-4d3c355ab6ac.xml#e6ec8fcc-f08c-4a5c-a94e-4d3c355ab6ac"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="24ecce0e-d2b0-4d8d-92c4-a84bf9fc244e"
+        textAlignment="1"
+        content="Mulige områder:&#xD;&#xA;- Data governance&#xD;&#xA;">
+      <bounds
+          x="420"
+          y="432"
+          width="133"
+          height="56"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_ee401016-40ac-44f5-98b6-5a15c9f8f981.xml#ee401016-40ac-44f5-98b6-5a15c9f8f981"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="24ecce0e-d2b0-4d8d-92c4-a84bf9fc244e"
-      textAlignment="1"
-      content="Mulige områder:&#xD;&#xA;- Data governance&#xD;&#xA;">
-    <bounds
-        x="696"
-        y="348"
-        width="133"
-        height="56"/>
   </children>
   <properties
       key="difi:language"
