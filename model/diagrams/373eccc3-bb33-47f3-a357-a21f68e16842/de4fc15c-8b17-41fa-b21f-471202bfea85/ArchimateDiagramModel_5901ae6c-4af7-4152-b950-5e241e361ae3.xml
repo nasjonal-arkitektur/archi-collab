@@ -181,6 +181,17 @@
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_c40d7c46-b184-4d13-b162-3a5d4493e8e5.xml#c40d7c46-b184-4d13-b162-3a5d4493e8e5"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="61c14e84-c900-4c5e-bb4f-88fc06699fb5"
+      textAlignment="1"
+      content="testing123&#xD;&#xA;">
+    <bounds
+        x="759"
+        y="237"
+        width="185"
+        height="80"/>
+  </children>
   <properties
       key="difi:language"
       value="no"/>
