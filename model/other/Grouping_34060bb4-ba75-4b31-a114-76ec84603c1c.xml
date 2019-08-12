@@ -1,0 +1,28 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Team Backlog"
+    id="34060bb4-ba75-4b31-a114-76ec84603c1c"
+    documentation="The Team Backlog contains user and enabler Stories that originate from the Program Backlog, as well as stories that arise locally from the team’s local context. It may include other work items as well, representing all the things a team needs to do to advance their portion of the system.">
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:namespace"
+      value="safe"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Epic"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Epics are the containers that capture and manage the most significant initiatives that occur within a portfolio. Epics and the Value Streams they affect are the primary concern of the Portfolio level. Business epics directly deliver business value, while enabler epics are used to advance the Architectural Runway to support upcoming business epics."/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Grouping>

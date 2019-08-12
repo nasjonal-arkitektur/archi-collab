@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Epic"
+    id="920fe5cf-8187-46b4-854d-0ef676c15341"
+    documentation="Epics are the containers that capture and manage the most significant initiatives that occur within a portfolio. Epics and the Value Streams they affect are the primary concern of the Portfolio level. Business epics directly deliver business value, while enabler epics are used to advance the Architectural Runway to support upcoming business epics.&#xD;&#xA;&#xD;&#xA;"/>

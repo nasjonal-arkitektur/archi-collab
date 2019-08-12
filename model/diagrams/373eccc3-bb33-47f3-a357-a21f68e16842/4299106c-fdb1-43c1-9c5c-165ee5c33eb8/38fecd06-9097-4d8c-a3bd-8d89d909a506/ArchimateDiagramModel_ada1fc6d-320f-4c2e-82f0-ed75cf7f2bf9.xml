@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Architecture Concepts"
+    id="ada1fc6d-320f-4c2e-82f0-ed75cf7f2bf9">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="998ccdb8-0571-42a3-962c-e228b28dd70a">
+    <bounds
+        x="60"
+        y="60"
+        width="133"
+        height="67"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_e8956975-c25b-491e-8d06-fdaebccfb741.xml#e8956975-c25b-491e-8d06-fdaebccfb741"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="4df25b4e-89f9-4457-87da-f9aeeb37a1fb">
+    <bounds
+        x="240"
+        y="60"
+        width="133"
+        height="67"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_e8ce5372-1f70-4bb0-8db2-67ffbc95d8ed.xml#e8ce5372-1f70-4bb0-8db2-67ffbc95d8ed"/>
+  </children>
+</archimate:ArchimateDiagramModel>

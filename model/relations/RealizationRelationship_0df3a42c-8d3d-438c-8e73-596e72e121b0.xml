@@ -16,7 +16,7 @@
       key="difi:description_en"/>
   <properties
       key="dct:type"
-      value="realization-relationship"/>
+      value="archi:realization-relationship"/>
   <properties
       key="difi:language"
       value="no"/>

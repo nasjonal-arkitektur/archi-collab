@@ -1,0 +1,8 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Requirement"
+    id="73d5f57a-ee92-4d83-a4ae-2ba95d3f073b">
+  <properties
+      key="difi:namespace"
+      value="safe"/>
+</archimate:Requirement>

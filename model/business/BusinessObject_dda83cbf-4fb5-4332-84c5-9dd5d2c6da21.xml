@@ -1,0 +1,16 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Databehandleravtale "
+    id="dda83cbf-4fb5-4332-84c5-9dd5d2c6da21">
+  <properties
+      key="difi:name_no"
+      value="Databehandleravtale "/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="dct:type"
+      value="archi:business-object"/>
+  <properties
+      key="label"
+      value="${name}"/>
+</archimate:BusinessObject>

@@ -1,0 +1,28 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nonfunctional Requirements (NFRs)"
+    id="bcd77e4d-7223-440f-8491-da421706eb1f"
+    documentation="https://www.scaledagileframework.com/nonfunctional-requirements/&#xD;&#xA;&#xD;&#xA;Nonfunctional Requirements (NFRs) define system attributes such as security, reliability, performance, maintainability, scalability, and usability. They serve as constraints or restrictions on the design of the system across the different backlogs.&#xD;&#xA;&#xD;&#xA;NFRs are persistent qualities and constraints that, unlike functional requirements, are typically revisited as part of the Definition of Done (DoD) for each Iteration, Program Increment (PI), or release. NFRs exist in all backlogs: Team, Program, Solution, and Portfolio.">
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:namespace"
+      value="safe"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Epic"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Epics are the containers that capture and manage the most significant initiatives that occur within a portfolio. Epics and the Value Streams they affect are the primary concern of the Portfolio level. Business epics directly deliver business value, while enabler epics are used to advance the Architectural Runway to support upcoming business epics."/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Grouping>

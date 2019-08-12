@@ -1,0 +1,28 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Story"
+    id="7dff0b51-cecc-4eaa-8a5e-79dba6285916"
+    documentation="Stories are short descriptions of a small piece of desired functionality, written in the user’s language. Agile Teams implement small, vertical slices of system functionality and are sized so they can be completed in a single Iteration. Stories are the primary artifact used to define system behavior in Agile. They’re not requirements. Instead, they’re short, simple descriptions of functionality usually told from the user’s perspective and written in their language. Each one is intended to enable the implementation of a small, vertical slice of system behavior that supports incremental development. Stories provide just enough information for both business and technical people to understand the intent. Details are deferred until the story is ready to be implemented. Through acceptance criteria and acceptance tests, stories get more specific, helping to ensure system quality. User stories deliver functionality directly to the end user. Enabler stories bring visibility to the work items needed to support exploration, architecture, infrastructure, and compliance.">
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:namespace"
+      value="safe"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Epic"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Epics are the containers that capture and manage the most significant initiatives that occur within a portfolio. Epics and the Value Streams they affect are the primary concern of the Portfolio level. Business epics directly deliver business value, while enabler epics are used to advance the Architectural Runway to support upcoming business epics."/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Grouping>

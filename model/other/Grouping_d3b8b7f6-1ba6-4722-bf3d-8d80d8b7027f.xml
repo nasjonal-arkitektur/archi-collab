@@ -1,0 +1,28 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enabler"
+    id="d3b8b7f6-1ba6-4722-bf3d-8d80d8b7027f"
+    documentation="Enablers support the activities needed to extend the Architectural Runway to provide future business functionality. These include exploration, infrastructure, compliance, and architecture development. They are captured in the various backlogs and occur at all levels of the Framework.&#xD;&#xA;&#xD;&#xA;Enabler Capabilities and Features – Occur at the Large Solution and Program levels to capture work of that type. Since these enablers are a type of Feature or Capability, they share the same attributes, including a phrase, benefit hypothesis and acceptance criteria. They also must be structured to fit within a single PI.&#xD;&#xA;&#xD;&#xA;Source: https://www.scaledagileframework.com/enablers/">
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:namespace"
+      value="safe"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Epic"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Epics are the containers that capture and manage the most significant initiatives that occur within a portfolio. Epics and the Value Streams they affect are the primary concern of the Portfolio level. Business epics directly deliver business value, while enabler epics are used to advance the Architectural Runway to support upcoming business epics."/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Grouping>

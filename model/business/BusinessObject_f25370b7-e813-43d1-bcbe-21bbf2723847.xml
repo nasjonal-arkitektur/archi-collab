@@ -5,7 +5,7 @@
     documentation="What is an electronic signature? https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/Introduction+to+e-signature&#xD;&#xA;">
   <properties
       key="dct:type"
-      value="business-object"/>
+      value="difi:term"/>
   <properties
       key="difi:namespace"
       value="-"/>

@@ -5,7 +5,7 @@
     documentation="While different levels of electronic signatures may be appropriate in different contexts, only qualified electronic signatures are explicitly recognized to have the equivalent legal effect of hand-written signatures all over the EU.">
   <properties
       key="dct:type"
-      value="business-object"/>
+      value="difi:term"/>
   <properties
       key="difi:namespace"
       value="-"/>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="serrves"
+    id="7d8e80be-e671-43ba-9a7f-a23a0c679a27">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_e9fb67ba-ab8b-4ff8-ad44-be149120f3ba.xml#e9fb67ba-ab8b-4ff8-ad44-be149120f3ba"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_08fe01e4-b324-4b14-91ae-fb6a05c09826.xml#08fe01e4-b324-4b14-91ae-fb6a05c09826"/>
+</archimate:ServingRelationship>

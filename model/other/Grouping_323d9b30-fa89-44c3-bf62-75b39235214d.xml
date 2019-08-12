@@ -1,0 +1,28 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Program Backlog"
+    id="323d9b30-fa89-44c3-bf62-75b39235214d"
+    documentation="The Program Backlog is the holding area for upcoming Features, which are intended to address user needs and deliver business benefits for a single Agile Release Train (ART). It also contains the enabler features necessary to build the Architectural Runway.">
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:namespace"
+      value="safe"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Epic"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Epics are the containers that capture and manage the most significant initiatives that occur within a portfolio. Epics and the Value Streams they affect are the primary concern of the Portfolio level. Business epics directly deliver business value, while enabler epics are used to advance the Architectural Runway to support upcoming business epics."/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Grouping>

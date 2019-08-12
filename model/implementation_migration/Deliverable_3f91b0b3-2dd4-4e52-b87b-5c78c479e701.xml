@@ -18,7 +18,7 @@
       key="difi:description_en"/>
   <properties
       key="dct:type"
-      value="deliverable"/>
+      value="archi:deliverable"/>
   <properties
       key="difi:language"
       value="no"/>

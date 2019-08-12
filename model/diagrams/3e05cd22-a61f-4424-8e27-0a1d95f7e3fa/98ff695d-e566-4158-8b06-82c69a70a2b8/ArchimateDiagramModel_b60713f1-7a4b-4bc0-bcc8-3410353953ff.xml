@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Internasojnale aktiviteter"
+    id="b60713f1-7a4b-4bc0-bcc8-3410353953ff">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="e537c174-0ba4-4064-a1e2-f96107cbe634">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="b06598bf-2f31-4289-a726-90247e32cb31"
+        source="e537c174-0ba4-4064-a1e2-f96107cbe634"
+        target="20b802a8-f06a-48aa-b098-71f541ac3e14">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_76ea3a67-fd77-43ce-b89b-b0f75ff9c31a.xml#76ea3a67-fd77-43ce-b89b-b0f75ff9c31a"/>
+    </sourceConnections>
+    <bounds
+        x="209"
+        y="149"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_dc82c251-e424-4a81-bc63-e0791554da66.xml#dc82c251-e424-4a81-bc63-e0791554da66"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="20b802a8-f06a-48aa-b098-71f541ac3e14"
+      targetConnections="b06598bf-2f31-4289-a726-90247e32cb31">
+    <bounds
+        x="408"
+        y="149"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:Deliverable"
+        href="Deliverable_325ecd78-852e-45cd-8354-c8b094bcd0e4.xml#325ecd78-852e-45cd-8354-c8b094bcd0e4"/>
+  </children>
+</archimate:ArchimateDiagramModel>

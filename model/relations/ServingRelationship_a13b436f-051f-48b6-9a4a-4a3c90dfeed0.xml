@@ -7,7 +7,8 @@
       key="difi:namespace"
       value="erik"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="serving"/>
   <properties
       key="difi:description_no"/>
   <properties
@@ -16,13 +17,13 @@
       key="difi:description_en"/>
   <properties
       key="dct:type"
-      value="serving-relationship"/>
+      value="archi:serving-relationship"/>
   <properties
       key="difi:language"
       value="no"/>
   <properties
       key="label"
-      value="${name} [lang:${property:difi:language}]&#xA;&lt;&lt;${property:dct:type}>>"/>
+      value="${name}"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_9692a02f-1935-4517-8c6b-d3344ba8b721.xml#9692a02f-1935-4517-8c6b-d3344ba8b721"/>

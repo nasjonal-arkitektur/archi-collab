@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="adresserer"
+    id="a6b5876b-e3ba-4f0b-a021-5541bd3854e2">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_30641eeb-2645-4b16-aaeb-d1483d285ac4.xml#30641eeb-2645-4b16-aaeb-d1483d285ac4"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_5c768d6f-d8d2-453d-9d91-189059440d5c.xml#5c768d6f-d8d2-453d-9d91-189059440d5c"/>
+</archimate:RealizationRelationship>

@@ -25,5 +25,5 @@
       value="resource"/>
   <properties
       key="label"
-      value="${name}&#xA;&lt;&lt;${property:dct:type}>>"/>
+      value="${name}&#xD;&#xA;"/>
 </archimate:Resource>

@@ -19,7 +19,7 @@
           href="SpecializationRelationship_f77faaca-3bab-4838-9390-ae38e1689d15.xml#f77faaca-3bab-4838-9390-ae38e1689d15"/>
     </sourceConnections>
     <bounds
-        x="1104"
+        x="1044"
         y="408"
         width="133"
         height="71"/>
@@ -86,7 +86,7 @@
           href="AssignmentRelationship_1f3c145e-9341-4f75-9db8-517e66b24ff3.xml#1f3c145e-9341-4f75-9db8-517e66b24ff3"/>
     </sourceConnections>
     <bounds
-        x="1032"
+        x="972"
         y="288"
         width="133"
         height="71"/>
@@ -119,7 +119,7 @@
           href="AssignmentRelationship_140de568-c79f-4602-a2d0-04befadd3939.xml#140de568-c79f-4602-a2d0-04befadd3939"/>
     </sourceConnections>
     <bounds
-        x="1188"
+        x="1128"
         y="288"
         width="133"
         height="71"/>
@@ -133,7 +133,7 @@
       targetConnections="e4281a26-f355-407a-9c0b-8fd2f4eaf67c 7c638c82-e33a-451c-82e2-1d075dafea77 a778f23d-09fe-469e-bf56-da79a999b8bb"
       textPosition="1">
     <bounds
-        x="1104"
+        x="1044"
         y="504"
         width="133"
         height="71"/>
@@ -389,7 +389,7 @@
           href="RealizationRelationship_0c37e722-1ef8-4281-835d-14f6eadc6e47.xml#0c37e722-1ef8-4281-835d-14f6eadc6e47"/>
     </sourceConnections>
     <bounds
-        x="1104"
+        x="1044"
         y="610"
         width="157"
         height="205"/>
@@ -441,7 +441,7 @@
           href="RealizationRelationship_7c9ba04b-a943-4c91-a704-32e4e107ecc6.xml#7c9ba04b-a943-4c91-a704-32e4e107ecc6"/>
     </sourceConnections>
     <bounds
-        x="1092"
+        x="1032"
         y="158"
         width="133"
         height="71"/>

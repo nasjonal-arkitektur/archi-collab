@@ -1,0 +1,9 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAFe - Scaled Agile Framework for Enterprises"
+    id="28f88a1f-e750-466e-bb24-e62b03af24b2"
+    documentation="SAFe describes a four-tier hierarchy of artifacts that outline functional system behavior: Epic, Capability, Feature, and story. Along with Nonfunctional Requirements (NFRs), these Agile backlog items define the system and Solution Intent, model system behavior, and build up the Architectural Runway.">
+  <properties
+      key="difi:namespace"
+      value="safe"/>
+</archimate:Grouping>

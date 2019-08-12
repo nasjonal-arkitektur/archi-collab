@@ -1,0 +1,28 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Value Stream"
+    id="925fe42b-323e-48c7-94a1-eb58f871ea54"
+    documentation="Value Streams represent the series of steps that an organization uses to build Solutions that provide a continuous flow of value to a customer. A SAFe portfolio consists of a set of development value streams, each of which builds and supports one or more solutions. The primary role of a SAFe portfolio is to fund and nurture a set of development value streams. These value streams either deliver end-user value directly or support internal business processes. Organizing around value streams offers substantial benefits to the organization, including faster learning, shorter time-to-market, higher quality, higher productivity, and leaner budgeting mechanisms. In SAFe, organizing around value is accomplished by first understanding value streams and then launching Agile Release Trains or Solution Trains to fulfill them. Realizing value streams via trains is the ‘art’ and science of SAFe.">
+  <properties
+      key="dct:type"
+      value="archi:grouping"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:namespace"
+      value="safe"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Epic"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Epics are the containers that capture and manage the most significant initiatives that occur within a portfolio. Epics and the Value Streams they affect are the primary concern of the Portfolio level. Business epics directly deliver business value, while enabler epics are used to advance the Architectural Runway to support upcoming business epics."/>
+  <properties
+      key="difi:description_en"/>
+</archimate:Grouping>

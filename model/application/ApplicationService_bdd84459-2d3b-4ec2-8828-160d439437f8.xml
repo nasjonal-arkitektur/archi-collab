@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Service"
+    id="bdd84459-2d3b-4ec2-8828-160d439437f8">
+  <properties
+      key="difi:namespace"
+      value="safe"/>
+</archimate:ApplicationService>
